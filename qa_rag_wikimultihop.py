@@ -15,7 +15,7 @@ from utils.merge_return_doc import merge_return_doc_idx
 def parse_args():
     parser = argparse.ArgumentParser(description="Evaluate QA model performance.")
     # parser.add_argument("--data", type=str, required=True, help="Path to the QA dataset (JSON or CSV).")
-    parser.add_argument("--model", type=str, default="gpt-4o-mini", choices=["gpt-4o-mini",  "gpt-4o", "llama-70B-Instruct", "llama-70B-Instruct-Turbo", "qwen-7B-Instruct-Turbo", "qwen-7B-Instruct"], help="Select llm to get answer.")
+    parser.add_argument("--model", type=str, default="gpt-4o-mini", choices=["gpt-4o-mini",  "llama-70B-Instruct", "qwen-7B-Instruct"], help="Select llm to get answer.")
     parser.add_argument("--k", type=int, default=2, help="Number of retrieved documents for each iteration.")
     parser.add_argument("--topk", type=int, default=5, help="Number of retrieved documents for all iterations.")
     parser.add_argument("--save", type=str, default="false", choices=["true", "false"], help="Evaluation metric: one score or multiple scores.")
