@@ -17,38 +17,7 @@ def llm_answer(model_type, query, return_docs):
     If you find the output include two or more answers, e.g., Who is the performer of the song "Dip". You need to output Tyga and Nicki Minaj. If related information of both cannot be available, you need to ouput either one whose information is available. \
     The retrieved documents are:\n'
 
-    # set up the LLM
-    if model_type == 'llama-70B-Instruct-Turbo':
-        os.environ["TOGETHER_API_KEY"] = ""  # or set it externally
-        client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
-        completion = client.chat.completions.create(
-            model="meta-llama/Llama-3.3-70B-Instruct-Turbo", 
-            messages=[
-                {"role": "system", "content": instruction + return_docs},
-                {"role": "user", "content": 'Query: ' + query + '\nAnswer:'}
-            ],
-            temperature=0
-        )
-        res = completion.choices[0].message.content  
-        return res
-
-
-    elif model_type == 'qwen-7B-Instruct-Turbo':
-        os.environ["TOGETHER_API_KEY"] = ""  # or set it externally
-        client = Together(api_key=os.getenv("TOGETHER_API_KEY"))
-        completion = client.chat.completions.create(
-            model="Qwen/Qwen2.5-7B-Instruct-Turbo", 
-            messages=[
-                {"role": "system", "content": instruction + return_docs},
-                {"role": "user", "content": 'Query: ' + query + '\nAnswer:'}
-            ],
-            temperature=0
-        )
-        res = completion.choices[0].message.content  
-        return res
-    
-    
-    elif model_type == 'gpt-4o-mini':
+    if model_type == 'gpt-4o-mini':
         from openai import OpenAI
         client = OpenAI()
         completion = client.chat.completions.create(
@@ -64,3 +33,72 @@ def llm_answer(model_type, query, return_docs):
         )
         res = completion.choices[0].message.content
         return res
+
+    elif model_type == 'llama-70B-Instruct':
+        model_name = "meta-llama/Llama-3.3-70B-Instruct"
+        # Load the tokenizer and model
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        model = AutoModelForCausalLM.from_pretrained(
+            model_name,
+            torch_dtype=torch.bfloat16,
+            device_map="auto"
+        )
+
+        # Prepare the chat messages in the format expected by the model
+        messages = [
+            {"role": "system", "content": instruction + return_docs},
+            {"role": "user", "content": 'Query: ' + query + '\nAnswer:'}
+        ]
+
+        # Apply the chat template and tokenize the messages
+        text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+        input_ids = tokenizer([text], return_tensors="pt").to(model.device)
+
+        # Generate the response
+        generation_config = GenerationConfig.from_pretrained(model_name)
+        generated_ids = model.generate(
+            input_ids.input_ids,
+            generation_config=generation_config,
+            temperature=0.1
+        )
+
+        # Decode the generated tokens
+        res = tokenizer.batch_decode(generated_ids[:, input_ids.input_ids.shape[1]:], skip_special_tokens=True)[0]
+        
+        return res
+
+
+    elif model_type == 'qwen-7B-Instruct':
+        model_name = "Qwen/Qwen2.5-7B-Instruct"
+        # Load the tokenizer and model
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        model = AutoModelForCausalLM.from_pretrained(
+            model_name,
+            torch_dtype=torch.bfloat16,
+            device_map="auto"
+        )
+
+        # Prepare the chat messages in the format expected by the model
+        messages = [
+            {"role": "system", "content": instruction + return_docs},
+            {"role": "user", "content": 'Query: ' + query + '\nAnswer:'}
+        ]
+
+        # Apply the chat template and tokenize the messages
+        text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+        input_ids = tokenizer([text], return_tensors="pt").to(model.device)
+
+        # Generate the response
+        generation_config = GenerationConfig.from_pretrained(model_name)
+        generated_ids = model.generate(
+            input_ids.input_ids,
+            generation_config=generation_config,
+            temperature=0.1
+        )
+
+        # Decode the generated tokens
+        res = tokenizer.batch_decode(generated_ids[:, input_ids.input_ids.shape[1]:], skip_special_tokens=True)[0]
+        
+        return res
+    
+    
