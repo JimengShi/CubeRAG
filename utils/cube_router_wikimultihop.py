@@ -1,0 +1,47 @@
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from langchain_openai import ChatOpenAI
+from hypercube.wikimultihop.hypercube_cultural_product import retriever_hypercube_cultural_product
+from hypercube.wikimultihop.hypercube_person import retriever_hypercube_person
+from hypercube.wikimultihop.hypercube_location import retriever_hypercube_location
+
+
+# Set up your API key and LLM
+import os
+os.environ["OPENAI_API_KEY"] = "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"
+
+
+# Be sure to have your OPENAI_API_KEY set as an environment variable
+llm = ChatOpenAI(model="gpt-5-2025-08-07", temperature=0)  # gpt-4o-mini-2024-07-18, gpt-5-mini-2025-08-07, gpt-5-nano-2025-08-07, gpt-5-2025-08-07
+
+
+def route_query_to_retrieve_docs(query, corpus, k):
+    router_prompt = """
+    Analyze the following query. 
+    If the query is centered with cultural product (film, movie, song, magnize, band), e.g., who directed The Heart Of Doreon or who is the performer of the song "Changed It" or who is the director of Dark River (2017)? You need to return 'CULTURAL_PRODUCT' since the key information is related to the film The Heart Of Doreon or the song Changed It or the film Dark River (2017).
+    If the query is centered with person, e.g., when was Nicki Minaj born or how old is the performer or director, you need to return 'PERSON', since the key information is related to the person Nicki Minaj, performer or director.
+    If the query is centered with location (asking specific places or geographic information), e.g., where was Marufabad and Nasamkhrali, you need to return 'LOCATION' since the key information is related to the location Marufabad and Nasamkhrali.
+
+    Query: {query}
+
+    Only output "CULTURAL_PRODUCT" or "PERSON" or "LOCATION".
+    """
+    return_docs, return_doc_ids = '', ''
+
+    # Use the LLM to make the decision
+    cube_decision = llm.invoke(router_prompt.format(query=query)).content.strip()
+    print(f"Assigned cube: {cube_decision}")
+
+    if cube_decision == "CULTURAL_PRODUCT":
+        return_docs, return_doc_ids = retriever_hypercube_cultural_product(query, corpus, k)
+
+    # elif cube_decision == "PERSON":
+    #     return_docs, return_doc_ids = retriever_hypercube_person(query, corpus, k)
+
+    elif cube_decision == "LOCATION":
+        return_docs, return_doc_ids = retriever_hypercube_location(query, corpus, k)
+
+    return return_docs, return_doc_ids
+
