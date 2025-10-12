@@ -1,0 +1,6119 @@
+{}
+{}
+{}
+{"book": 10}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 5, "music": 1}
+{"film": 2}
+{"film": 1}
+{"film": 3}
+{"film": 2}
+{"film": 1, "documentary": 1, "album": 1}
+{"movie": 1, "film": 3, "music": 1}
+{"film": 3}
+{"film": 4}
+{"film": 1, "song": 1}
+{"song": 2, "album": 1}
+{"song": 3}
+{"song": 1, "album": 1}
+{"film": 3, "song": 7, "album": 5}
+{"song": 1}
+{"song": 1}
+{"song": 1}
+{"album": 8}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4}
+{"film": 2}
+{}
+{"film": 1}
+{"film": 5, "movies": 1}
+{"film": 1}
+{"film": 4, "musical": 2, "song": 1}
+{"film": 8, "movie": 2, "musical": 3, "comedy": 2}
+{"movie": 1}
+{"film": 1}
+{"film": 1}
+{"film": 4}
+{}
+{"film": 6, "movie": 2}
+{"movie": 125, "film": 1}
+{}
+{"film": 2, "play": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1, "film": 1}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 6, "films": 5}
+{"film": 2}
+{"film": 1}
+{"film": 6}
+{"movie": 2}
+{"film": 1, "films": 1, "book": 1}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{"film": 4}
+{}
+{"film": 2}
+{"film": 3, "movie": 1}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{"film": 2, "movie": 1}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 6, "movie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1, "magzine": 1}
+{"song": 1, "album": 1}
+{"song": 2, "album": 8}
+{"album": 16, "song": 1, "book": 2}
+{"song": 4}
+{"song": 7, "album": 4, "festival": 3}
+{"song": 1, "album": 1}
+{"song": 8, "film": 1, "musical": 1}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 3}
+{}
+{"film": 3}
+{"film": 4, "documentary": 2}
+{"film": 3}
+{"film": 4, "2017 Film": 1}
+{"film": 3}
+{"film": 1, "films": 1}
+{"film": 2}
+{"film": 3}
+{"film": 4}
+{"film": 3}
+{"film": 4}
+{"film": 1}
+{"film": 4}
+{"film": 2}
+{"movie": 2, "film": 3}
+{"film": 1}
+{"film": 2}
+{"film": 3}
+{"film": 1}
+{"film": 1, "documentary": 1}
+{"book": 1}
+{"film": 1, "song": 1}
+{"film": 3}
+{"film": 2}
+{"film": 3, "films": 2}
+{"film": 2}
+{"magzine": 1}
+{"film": 4}
+{"film": 1}
+{}
+{"song": 1}
+{"song": 2}
+{"song": 1}
+{}
+{"film": 4, "television film": 1, "documentary": 2, "theatrical animated feature": 1}
+{"song": 2}
+{"song": 1}
+{}
+{}
+{}
+{}
+{"magzine": 1}
+{}
+{"film": 3}
+{"film": 3, "soap opera": 2, "television series": 1}
+{"magzine": 1}
+{}
+{}
+{}
+{"film": 4, "musical": 2}
+{"movie": 1, "film": 1, "magzine": 1}
+{"film": 2, "musical": 1}
+{"film": 4, "musical": 1}
+{"film": 1, "song": 1}
+{"musical": 2}
+{"film": 1}
+{"song": 1}
+{}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 2}
+{}
+{"film": 3, "book": 1}
+{"film": 2}
+{"film": 2, "soundtrack": 1}
+{}
+{"film": 5}
+{"film": 1}
+{"film": 4, "movie": 1, "album": 1, "song": 1}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "films": 1}
+{}
+{}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magzine": 1}
+{}
+{"film": 3, "song": 1}
+{"movie": 6, "film": 6, "documentary": 1}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 1, "movie": 1}
+{"film": 2}
+{"film": 2}
+{}
+{"song": 20, "film": 1, "magazine": 1}
+{"song": 3, "album": 1}
+{"song": 3, "album": 1}
+{"magzine": 1}
+{"film": 1}
+{"song": 1}
+{}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 3, "movie": 1}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 2, "movie": 1}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 3, "films": 2}
+{}
+{"film": 1}
+{"song": 2}
+{"song": 3}
+{"film": 1}
+{"song": 1, "album": 1}
+{"song": 12, "film": 6, "magzine": 1}
+{"song": 1}
+{"song": 1}
+{"song": 4}
+{}
+{}
+{"film": 1}
+{"movie": 3, "film": 3}
+{"film": 3}
+{"film": 1, "movie": 1}
+{}
+{}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 4, "song": 2, "album": 2}
+{"film": 5}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 1}
+{"movie": 1, "film": 1}
+{"film": 1, "movie": 1}
+{}
+{}
+{"film": 5, "movie": 2}
+{}
+{"movie": 1, "film": 1, "song": 1}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magazine": 1}
+{}
+{"film": 5}
+{"film": 1}
+{"movie": 2, "film": 1}
+{"film": 1}
+{"film": 1, "films": 58}
+{"movie": 1, "film": 1}
+{"film": 1, "movie": 3}
+{"film": 2}
+{}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 1}
+{}
+{}
+{}
+{"film": 4}
+{"film": 4}
+{}
+{"film": 2}
+{"film": 4, "movie": 1}
+{"song": 5, "album": 5, "documentary": 1}
+{"song": 2}
+{"song": 2}
+{"film": 1}
+{"film": 5, "movie": 4, "song": 1}
+{"film": 1}
+{"film": 3}
+{"film": 2, "television": 1, "drama": 1, "comedy": 1, "series": 1}
+{"film": 3}
+{"film": 6, "films": 6, "movie": 0, "magzine": 0, "song": 0}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 5}
+{"film": 1}
+{"movie": 2}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"film": 2}
+{"film": 6}
+{"film": 1}
+{"film": 5, "book": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 2, "biopic": 1, "video": 1}
+{"film": 2}
+{"film": 1}
+{}
+{"film": 3, "TV show": 1, "comedy": 1}
+{}
+{"film": 2}
+{}
+{"film": 4}
+{"film": 2}
+{}
+{"film": 4}
+{}
+{"film": 5}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{"magzine": 1}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{"film": 5, "movie": 2, "sitcom": 1}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 4}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 8}
+{"film": 4, "filmmaker": 1}
+{"film": 6}
+{"film": 3}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1, "movie": 0, "song": 0, "magzine": 0}
+{"film": 2, "movie": 1}
+{"film": 3}
+{"film": 3}
+{"film": 3}
+{"film": 2}
+{"film": 1}
+{"film": 3}
+{"film": 1, "movie": 1}
+{"film": 1}
+{"film": 2}
+{"film": 4}
+{"film": 1}
+{"film": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "documentary": 1, "musical": 1}
+{"film": 5, "documentary": 2}
+{"film": 5}
+{}
+{"film": 2, "films": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 6, "movie": 2, "book": 2}
+{"movie": 2, "film": 1}
+{"film": 1}
+{"film": 2, "singer": 1}
+{}
+{"movie": 1}
+{"film": 3}
+{"movie": 1}
+{}
+{"film": 1}
+{"film": 3}
+{}
+{"film": 1, "novel": 1}
+{"film": 2}
+{}
+{"film": 2, "novel": 1, "play": 1}
+{"film": 2}
+{"movie": 2, "film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 2}
+{"film": 3}
+{"film": 2}
+{"film": 3}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 4}
+{"film": 1, "movie": 2}
+{"film": 2, "movie": 1}
+{"film": 2}
+{"film": 2}
+{"film": 1}
+{"film": 3}
+{"film": 4}
+{}
+{"song": 4}
+{"movie": 1}
+{}
+{"movie": 1, "film": 2}
+{}
+{}
+{"film": 70}
+{}
+{}
+{}
+{"film": 4}
+{"film": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{"album": 2, "song": 1}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "music": 1}
+{"album": 1, "song": 1}
+{"song": 1}
+{}
+{"song": 8, "magzine": 2, "film": 1}
+{"song": 1}
+{"opera": 1}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{}
+{"film": 4}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "documentary": 1}
+{"film": 1}
+{"film": 2}
+{"film": 1, "song": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "movie": 1}
+{}
+{}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 1, "films": 3}
+{"movie": 1, "film": 1}
+{"film": 3}
+{"film": 2, "movie": 2}
+{}
+{"magzine": 1, "film": 2, "song": 2}
+{"movie": 2, "film": 0, "song": 0, "magzine": 0}
+{"film": 2, "films": 1}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{"song": 3, "album": 1}
+{"song": 3, "magzine": 1}
+{}
+{"film": 2}
+{"film": 1}
+{}
+{"film": 1}
+{}
+{"film": 4}
+{}
+{}
+{"film": 2}
+{"magzine": 1, "novel": 5, "film": 4}
+{"film": 4, "movie": 2}
+{"film": 2, "movie": 2}
+{"film": 1}
+{"film": 1}
+{"film": 4}
+{"film": 3, "music": 1}
+{"film": 5, "movie": 0, "song": 0, "magzine": 0}
+{"film": 2}
+{"film": 4}
+{}
+{"film": 2}
+{"film": 1, "films": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 5}
+{"song": 1}
+{"film": 2}
+{"film": 6, "movie": 5}
+{"film": 3, "documentary": 1}
+{"film": 1}
+{"film": 3}
+{"film": 3}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1, "films": 1, "song": 1}
+{"film": 4}
+{"film": 2}
+{}
+{}
+{"movie": 2, "song": 1}
+{"film": 1, "motion picture": 1}
+{"movie": 1, "television series": 1, "song": 1}
+{"film": 2}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"magzine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 5}
+{}
+{}
+{}
+{"magzine": 1}
+{"film": 1}
+{}
+{"magzine": 1}
+{"magzine": 4}
+{}
+{"magzine": 1}
+{"magzine": 2, "book": 2}
+{"magzine": 1}
+{"film": 5, "movie": 2, "documentary": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 2}
+{"magzine": 1}
+{"song": 1, "album": 5}
+{}
+{"song": 2}
+{}
+{"song": 3}
+{}
+{"magzine": 1, "poem": 1, "song": 1}
+{"film": 1}
+{"film": 3}
+{"film": 1}
+{"film": 1, "films": 3, "pictures": 3}
+{"film": 3}
+{"film": 1}
+{"film": 3}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"film": 3, "movie": 2}
+{"film": 4}
+{"film": 3}
+{"song": 1}
+{"movie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{}
+{"film": 2}
+{"movie": 1, "film": 1, "documentary": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{"film": 2}
+{"movie": 2, "film": 1, "television": 3}
+{"film": 4}
+{"film": 3}
+{"film": 5}
+{"film": 2}
+{"film": 1}
+{}
+{"movie": 3}
+{"film": 12, "movie": 0}
+{}
+{}
+{"magazine": 1}
+{"magazine": 1}
+{"magazine": 1}
+{}
+{"magazine": 1}
+{"magazine": 1}
+{"magazine": 1}
+{"song": 1}
+{"film": 3}
+{"movie": 2, "film": 1}
+{"film": 1}
+{"film": 1, "movie": 2}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"magazine": 1}
+{"film": 2}
+{}
+{}
+{"song": 4, "album": 1, "show": 1}
+{"song": 1}
+{"song": 6, "magazine": 2}
+{"film": 5, "films": 4}
+{"film": 2}
+{"film": 2}
+{"film": 3}
+{"film": 1}
+{"film": 4}
+{"film": 1}
+{"film": 1}
+{"film": 6}
+{"film": 1}
+{"film": 1, "movie": 1}
+{"film": 4}
+{"film": 6, "movie": 2, "films": 5}
+{}
+{}
+{}
+{}
+{}
+{"magzine": 3}
+{"film": 3}
+{"film": 2}
+{"film": 4}
+{"film": 4, "song": 2}
+{"film": 1}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{"film": 1}
+{}
+{"film": 4}
+{"film": 3}
+{}
+{"film": 4}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"novel": 1}
+{}
+{}
+{}
+{"film": 2, "movie": 2, "magzine": 1}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 3, "album": 2}
+{"song": 1, "film": 1}
+{"movie": 1, "film": 1, "song": 1}
+{"film": 2}
+{"movie": 1, "magzine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{"film": 1}
+{"film": 3, "song": 1}
+{"film": 1}
+{"film": 1}
+{"film": 7, "movie": 0}
+{"film": 3}
+{"film": 3}
+{"film": 1}
+{"movie": 2, "film": 3, "song": 1, "films": 1}
+{"film": 4}
+{"film": 1}
+{"film": 2}
+{"film": 3}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{"film": 2}
+{}
+{}
+{"film": 5}
+{"film": 4}
+{"movie": 2, "film": 2}
+{"film": 4}
+{"film": 3, "movie": 3}
+{"film": 2, "movie": 1}
+{"movie": 6, "film": 5}
+{"film": 10}
+{"film": 5, "movie": 4, "magzine": 1}
+{"film": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "films": 2}
+{"film": 3, "movie": 2}
+{"film": 1}
+{"film": 1}
+{"film": 3, "movie": 1, "series": 2}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{"magzine": 2}
+{"magzine": 1}
+{"magzine": 1}
+{"magzine": 1, "film": 1}
+{"magzine": 1}
+{"magzine": 1}
+{"magzine": 1}
+{"magzine": 1}
+{"magzine": 3}
+{"magzine": 3, "song": 2}
+{"song": 1}
+{}
+{"film": 12}
+{"film": 3, "movie": 0, "song": 0, "magzine": 1}
+{}
+{"movie": 5, "film": 3}
+{"film": 5}
+{"film": 5, "films": 4}
+{"film": 2}
+{"magzine": 0, "film": 0, "movie": 0, "song": 0}
+{"film": 2}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{"film": 3}
+{"film": 1, "documentary": 1}
+{"novel": 3, "short story": 2, "app": 1, "literary": 1, "magazine": 2}
+{"movie": 0, "film": 0, "song": 1, "magzine": 0, "musical": 1}
+{}
+{"film": 5}
+{}
+{}
+{"film": 2}
+{}
+{"magzine": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{}
+{"film": 2, "singer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"movie": 2}
+{}
+{}
+{"song": 5, "album": 2, "soundtrack": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"film": 5}
+{"film": 3}
+{"film": 4}
+{"film": 1, "films": 2}
+{"film": 1, "miniseries": 1}
+{"film": 4}
+{"film": 5}
+{"film": 1}
+{"film": 5}
+{}
+{}
+{}
+{}
+{"book": 2}
+{}
+{"musical": 1, "song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"album": 2, "song": 3}
+{}
+{"film": 1, "album": 1}
+{"song": 6, "magzine": 1}
+{"movie": 1, "film": 1, "album": 1}
+{"song": 5, "album": 1, "tour": 2}
+{"song": 1, "album": 1}
+{"film": 3}
+{}
+{"film": 5, "movie": 0}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 2, "films": 3}
+{"film": 1}
+{"film": 4}
+{"film": 3}
+{}
+{"movie": 2, "film": 3}
+{"film": 1}
+{"film": 4}
+{"film": 3}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{}
+{"film": 3}
+{"film": 2}
+{"film": 4, "films": 1}
+{"film": 3, "song": 2, "movie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4, "movie": 1}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 1, "films": 3}
+{"film": 1}
+{}
+{}
+{"film": 1, "films": 2}
+{}
+{"film": 1}
+{}
+{"film": 3, "movie": 1}
+{}
+{"film": 1, "television series": 2}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{"song": 3, "album": 1}
+{"song": 1}
+{}
+{"film": 1}
+{}
+{"film": 4}
+{}
+{"film": 5}
+{"film": 3, "films": 50}
+{}
+{"movie": 3, "film": 3, "song": 1, "motion picture": 1}
+{"film": 1}
+{}
+{"song": 1, "record": 2}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "movie": 2}
+{"film": 4}
+{}
+{"film": 5}
+{"film": 4}
+{"film": 5, "films": 6}
+{"film": 1}
+{"film": 4, "movie": 1}
+{"film": 3}
+{"movie": 1, "film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"album": 1}
+{"album": 1, "song": 2}
+{}
+{"album": 1}
+{"album": 1, "song": 1}
+{"album": 1}
+{}
+{"album": 1}
+{"album": 1, "single": 2, "magzine": 1}
+{"album": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"film": 6, "short": 1, "novel": 3, "biography": 2}
+{"film": 4, "movie": 2, "song": 1}
+{"film": 5}
+{"film": 5}
+{"film": 4}
+{"film": 5}
+{"film": 5}
+{"film": 6, "films": 7}
+{"film": 2}
+{}
+{"film": 4, "movie": 2}
+{"movie": 1, "film": 1}
+{"movie": 3, "film": 2}
+{"movie": 1, "film": 1}
+{"film": 2}
+{"movie": 2}
+{"movie": 3, "film": 2}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"film": 1, "films": 1}
+{"film": 4}
+{}
+{"film": 2}
+{"film": 1}
+{"film": 2}
+{"film": 3, "films": 5}
+{"film": 2}
+{"film": 4, "movie": 2}
+{"film": 7}
+{"film": 8}
+{"film": 4}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 6}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"movie": 1}
+{"film": 1}
+{"film": 1, "symphony": 1}
+{"film": 1}
+{}
+{"film": 1, "song": 1}
+{"film": 1}
+{"song": 1, "movie": 2, "film": 0, "magzine": 0}
+{"film": 1}
+{"film": 4, "movie": 2, "song": 3}
+{"song": 5}
+{"film": 2, "album": 1, "song": 2, "magzine": 2}
+{"film": 1}
+{}
+{"film": 2}
+{"film": 1}
+{}
+{}
+{"film": 1}
+{"film": 4}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "song": 2, "movie": 1}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magzine": 1}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{"film": 2}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"film": 1}
+{"movie": 5, "film": 2}
+{"movie": 2}
+{"film": 5, "song": 1, "movie": 1, "documentary": 1}
+{"film": 1, "films": 4}
+{"film": 3}
+{"film": 2}
+{}
+{}
+{}
+{"film": 2}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{"film": 2, "musical": 1}
+{"film": 3}
+{"movie": 1, "film": 1}
+{"film": 1}
+{"film": 6, "films": 5}
+{"film": 4, "movie": 2}
+{"movie": 1, "film": 1}
+{"film": 4}
+{"film": 1}
+{"film": 3, "documentary": 2, "song": 1}
+{"film": 4, "opera": 1}
+{"song": 1, "musical": 1, "film": 2, "theatre play": 4}
+{"film": 4, "musical": 1, "opera": 1}
+{"film": 1, "documentary": 2}
+{"film": 4}
+{"film": 2}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4}
+{"film": 1}
+{"film": 2}
+{}
+{"film": 1}
+{"film": 2, "movie": 0}
+{}
+{"film": 5, "movie": 0}
+{"film": 5, "movie": 2, "magzine": 1}
+{"movie": 8, "film": 1}
+{"film": 2}
+{"film": 4}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"movie": 1, "film": 1, "song": 1, "magzine": 0}
+{"film": 3}
+{"film": 1, "novel": 1}
+{"film": 3}
+{"film": 1, "novel": 1}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{"film": 5}
+{}
+{}
+{"book": 2}
+{}
+{}
+{"book": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{"movie": 0, "film": 2, "song": 0, "magzine": 0, "documentary": 1}
+{"film": 5, "magacine": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1, "novel": 1}
+{"film": 2, "singer": 1, "actress": 2}
+{"film": 1, "song": 1}
+{"magzine": 1}
+{}
+{}
+{"song": 8}
+{}
+{}
+{"magzine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 3, "novel": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 5, "documentary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{"film": 2}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 3}
+{"film": 1}
+{"film": 1}
+{"film": 1, "movie": 0, "song": 0, "magzine": 0, "films": 3}
+{}
+{"film": 3}
+{"film": 2}
+{"film": 3}
+{"film": 2}
+{"film": 6, "television": 5}
+{"film": 1}
+{"film": 1, "films": 3}
+{"film": 6, "films": 6}
+{"film": 3}
+{"song": 4, "album": 2, "single": 3}
+{"film": 1}
+{"film": 2}
+{"film": 1, "films": 2}
+{"film": 3, "films": 2}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 6}
+{"film": 3, "movie": 1}
+{"film": 4}
+{"film": 1}
+{"film": 1}
+{"film": 4}
+{"film": 3}
+{}
+{}
+{}
+{"film": 2, "movie": 2}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"play": 5}
+{"film": 3, "movie": 2, "novel": 1}
+{"film": 2}
+{"film": 4}
+{"film": 2}
+{"film": 1}
+{}
+{}
+{}
+{"song": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1, "magzine": 1}
+{}
+{"film": 2}
+{"movie": 1, "film": 3}
+{}
+{"film": 1, "films": 9}
+{"film": 2, "book": 1}
+{"film": 2}
+{}
+{}
+{}
+{"film": 1, "films": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 4}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"movie": 1, "film": 3, "musical": 1}
+{"film": 1}
+{"film": 2}
+{"film": 1, "DVD": 1}
+{"film": 2}
+{"film": 1}
+{"movie": 1}
+{"film": 5, "movie": 0}
+{"film": 5}
+{"song": 5}
+{"song": 1}
+{}
+{"film": 1, "movie": 1}
+{"film": 3, "movie": 3}
+{}
+{"film": 1}
+{}
+{"magzine": 1}
+{}
+{}
+{"song": 1, "album": 1}
+{"song": 5}
+{}
+{"song": 4}
+{"song": 2, "album": 1}
+{"song": 1}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 2}
+{}
+{}
+{}
+{"film": 1}
+{"film": 3}
+{"film": 2, "movie": 0}
+{"film": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magzine": 1}
+{}
+{}
+{"film": 2, "movie": 3}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 1, "movie": 1}
+{"film": 3}
+{"film": 4}
+{}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 1, "films": 1}
+{"film": 4}
+{"film": 3, "song": 1}
+{"film": 1}
+{"film": 1}
+{"song": 4, "magazine": 1}
+{"song": 1}
+{}
+{}
+{"film": 2, "opera": 1, "radio play": 1}
+{"film": 6, "movie": 3}
+{"film": 2, "novel": 1}
+{"film": 1}
+{"film": 1, "song": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 3}
+{"film": 2, "movie": 3}
+{"film": 1, "movie": 1}
+{}
+{}
+{}
+{}
+{"mini series": 1}
+{"film": 3}
+{"film": 1}
+{}
+{}
+{}
+{"album": 1}
+{"film": 1, "documentary": 1}
+{"film": 2}
+{"film": 2, "movie": 1}
+{"film": 3}
+{"film": 2}
+{"film": 4, "novel": 1}
+{"film": 1, "music video": 1, "songwriter": 1}
+{"film": 3}
+{"film": 5, "films": 3}
+{"film": 5}
+{"film": 1}
+{"film": 5}
+{"film": 2, "movie": 1, "radio show": 1}
+{"film": 1, "films": 1}
+{"film": 1, "films": 1}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{"film": 4}
+{"film": 2, "movie": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{"song": 3}
+{"song": 5, "album": 2, "show": 1}
+{"film": 2}
+{"film": 1}
+{"film": 3}
+{}
+{}
+{}
+{"film": 1, "movie": 1, "documentary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4, "films": 2}
+{}
+{"film": 2, "movie": 1}
+{"film": 2}
+{"film": 5, "movie": 0}
+{"movie": 1}
+{}
+{"song": 4}
+{}
+{"film": 6}
+{"film": 1}
+{"film": 1}
+{"film": 3, "novel": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"movie": 2, "film": 2}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{"film": 4, "movie": 0}
+{}
+{"film": 2}
+{}
+{"song": 1}
+{}
+{}
+{}
+{"film": 2}
+{"film": 3}
+{"film": 3}
+{"film": 1}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"film": 3}
+{"film": 3}
+{"film": 6, "movie": 3, "soundtrack": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 6}
+{}
+{"film": 2}
+{"film": 3}
+{"song": 5}
+{}
+{"film": 1}
+{"film": 2}
+{"film": 7}
+{"film": 5, "movie": 1}
+{}
+{}
+{"film": 1}
+{"film": 6}
+{}
+{"film": 1, "films": 2}
+{"film": 1}
+{}
+{}
+{"film": 1}
+{}
+{"film": 2}
+{"film": 3}
+{}
+{"movie": 2, "film": 1}
+{}
+{"film": 1}
+{}
+{}
+{"film": 3}
+{"film": 1}
+{"film": 2}
+{"film": 3}
+{"film": 1, "films": 1}
+{"film": 2}
+{"film": 1, "films": 1}
+{"film": 1, "movie": 1}
+{"film": 1, "films": 1}
+{"film": 4}
+{"film": 2}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"movie": 1, "film": 1}
+{}
+{"movie": 2, "film": 2}
+{"film": 1, "song": 3, "sarsuela": 3}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"film": 1}
+{"film": 5}
+{"film": 1}
+{"film": 3, "movie": 2}
+{"film": 1}
+{"song": 1}
+{}
+{}
+{}
+{"film": 5}
+{}
+{"film": 2, "movie": 0, "song": 0, "magzine": 0}
+{"film": 3}
+{"film": 3, "documentary": 2, "musical": 1, "song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 20}
+{"film": 2}
+{"film": 3}
+{"film": 1, "musical": 1, "drama": 1}
+{"film": 2, "films": 3}
+{"film": 1, "movie": 2}
+{"film": 4}
+{"film": 3}
+{}
+{"film": 2}
+{"film": 1}
+{"film": 3}
+{"film": 3}
+{"film": 3, "films": 2, "television series": 2}
+{"film": 1, "films": 1}
+{"film": 5}
+{"film": 3, "musical": 1}
+{"film": 4, "song": 3}
+{"film": 1}
+{"film": 4}
+{"film": 4}
+{"film": 3}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 3}
+{"film": 1}
+{"film": 2, "television": 2}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 4, "magzine": 1}
+{"song": 1, "album": 1}
+{"song": 4}
+{"song": 10, "album": 7, "film": 5}
+{"song": 2, "album": 1}
+{"song": 2, "album": 2}
+{"movie": 1}
+{}
+{}
+{}
+{"film": 4}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 3}
+{"film": 4}
+{}
+{}
+{"film": 1, "song": 1}
+{}
+{"film": 1}
+{"film": 1, "films": 1}
+{"film": 1}
+{"film": 5, "movie": 3}
+{"film": 2}
+{"film": 2}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4}
+{"movie": 1, "film": 1}
+{"film": 4}
+{"film": 1}
+{"film": 2, "movie": 1}
+{"film": 2}
+{}
+{}
+{"film": 3}
+{"magazine": 3}
+{"magazine": 2}
+{"magazine": 1}
+{"magazine": 1}
+{}
+{"magazine": 4}
+{}
+{"magazine": 5}
+{"magazine": 2}
+{"song": 5}
+{"song": 1, "album": 2}
+{"film": 3}
+{"film": 5}
+{}
+{"magazine": 1}
+{}
+{"film": 4, "films": 2}
+{"film": 1}
+{"film": 1, "films": 5}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"film": 3}
+{}
+{"film": 2}
+{"film": 2, "movie": 1}
+{"film": 2}
+{"film": 4}
+{}
+{"film": 2}
+{"film": 3}
+{}
+{}
+{"film": 2}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{"film": 3}
+{"film": 2, "documentary": 1}
+{"film": 2}
+{"song": 1, "magzine": 1}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{"film": 3}
+{"film": 1}
+{"film": 1, "films": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 3}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"film": 1}
+{"film": 3}
+{"film": 3}
+{"film": 2}
+{"film": 1, "documentary": 1}
+{}
+{"film": 5}
+{"film": 1, "song": 5}
+{}
+{"film": 3}
+{"song": 1}
+{}
+{"film": 5, "films": 4}
+{}
+{"film": 1}
+{"movie": 1, "film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 3, "films": 1}
+{"film": 2, "documentary": 1}
+{"movie": 3, "film": 1}
+{"film": 3, "movie": 1}
+{"film": 4}
+{"film": 3, "rockumentaries": 1}
+{"film": 1}
+{"film": 6, "movie": 2, "novel": 1, "magazine": 1}
+{"film": 1, "book": 1}
+{"film": 2}
+{"film": 2}
+{"film": 2}
+{}
+{}
+{"film": 1}
+{}
+{}
+{"film": 1, "novel": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 5, "music": 1}
+{"film": 3}
+{"film": 3}
+{"book": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"movie": 1, "film": 5}
+{"film": 4}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{"film": 1, "musical": 1}
+{"movie": 1}
+{"film": 2, "television series": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 5}
+{"film": 1, "song": 1}
+{"film": 3, "ballet": 2, "concerto": 3, "symphony": 3, "suite": 1, "anthem": 1}
+{"film": 3}
+{"film": 3}
+{"film": 5}
+{"film": 3}
+{"film": 6}
+{"film": 1, "movie": 1}
+{"film": 5, "movie": 2, "song": 1}
+{"film": 2}
+{"movie": 2, "film": 1}
+{}
+{}
+{"song": 5, "music": 5}
+{"album": 2}
+{"album": 1, "song": 3}
+{"song": 1}
+{}
+{"album": 1}
+{"song": 1}
+{"album": 1, "song": 10}
+{"album": 1}
+{"film": 2, "song": 1}
+{"film": 2}
+{"film": 5, "songs": 2}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{"song": 5}
+{"film": 1}
+{"song": 1}
+{}
+{}
+{}
+{}
+{"film": 4}
+{"film": 2}
+{"film": 2, "films": 3}
+{"film": 1, "films": 1, "movie": 0, "song": 0, "magzine": 0}
+{"film": 5}
+{"film": 2}
+{"film": 5, "movie": 0, "song": 0, "magzine": 0}
+{"film": 3, "movie": 0}
+{"film": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"album": 1}
+{}
+{}
+{}
+{"magzine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{"song": 4, "album": 2, "film": 1, "magazine": 1}
+{}
+{}
+{}
+{"song": 1}
+{}
+{"song": 2}
+{}
+{}
+{}
+{}
+{"film": 4}
+{"film": 4}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"song": 4, "album": 2, "music video": 1}
+{"film": 1}
+{"film": 5}
+{}
+{"film": 5, "documentary": 3}
+{}
+{"film": 1, "documentary": 1}
+{"film": 6, "movie": 2, "song": 4, "magzine": 1}
+{"song": 1}
+{"film": 5}
+{"movie": 2, "film": 2, "song": 2}
+{"film": 1}
+{}
+{"song": 1}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{"film": 5}
+{"film": 1}
+{"film": 1, "films": 1}
+{"song": 2}
+{"film": 5, "films": 3, "documentary": 1}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{"film": 1, "TV shows": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"film": 1}
+{"film": 1, "song": 1}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 2}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{"song": 1, "movie": 1}
+{"song": 1}
+{"song": 2}
+{"song": 3}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 9, "television": 3, "novel": 2, "book": 2, "series": 2}
+{"movie": 2, "film": 1, "podcast": 1}
+{"song": 1}
+{"song": 2, "film": 2, "album": 2}
+{"song": 5, "film": 2, "opera": 2}
+{"song": 1, "film": 1}
+{"song": 1, "album": 2, "magzine": 1}
+{"song": 6}
+{"song": 1}
+{"song": 2, "album": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4}
+{"film": 3}
+{"film": 4}
+{"film": 1, "song": 1}
+{"film": 1, "movie": 7}
+{}
+{"film": 4}
+{}
+{"film": 1}
+{"song": 2, "album": 1}
+{}
+{"film": 1}
+{"song": 1, "album": 1}
+{"film": 4}
+{"song": 1}
+{}
+{}
+{}
+{}
+{"song": 2}
+{"film": 1}
+{"film": 2, "animated series": 3}
+{"film": 5, "movie": 2}
+{"film": 2, "films": 1}
+{"movie": 5, "film": 8}
+{}
+{}
+{}
+{}
+{"album": 1, "song": 2}
+{"album": 3}
+{"album": 1}
+{"album": 1}
+{"album": 1}
+{"album": 1}
+{"album": 1}
+{"album": 2}
+{}
+{"film": 4}
+{"film": 2}
+{"film": 1, "films": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"film": 2}
+{"film": 1, "novel": 1}
+{"film": 4, "cinema": 4, "films": 3}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 4}
+{"movie": 3, "film": 6}
+{"film": 1}
+{}
+{"film": 1, "films": 3}
+{"film": 4, "movie": 0, "song": 0, "magzine": 0}
+{}
+{}
+{"film": 5, "movie": 1}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{}
+{"play": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"film": 4}
+{"film": 2}
+{"movie": 1, "documentary": 1}
+{"film": 1}
+{"film": 1}
+{"film": 10}
+{"film": 4, "magazine": 1}
+{"film": 5, "movie": 3}
+{"film": 2, "song": 1}
+{"movie": 1}
+{"film": 5, "films": 3}
+{"film": 2}
+{"film": 4, "movie": 1, "documentary": 1}
+{"film": 1}
+{"film": 2, "song": 1}
+{"film": 3, "movie": 0, "song": 0, "magzine": 0}
+{"film": 1}
+{"film": 1}
+{"film": 1, "films": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"movie": 1, "book": 2}
+{}
+{}
+{"film": 3}
+{"film": 2}
+{"film": 4, "movie": 2}
+{"film": 1}
+{}
+{"film": 1, "films": 3}
+{"film": 6, "movie": 0}
+{"film": 1}
+{"film": 1}
+{"movie": 2}
+{"film": 1, "movie": 2}
+{"film": 1}
+{"film": 5}
+{"film": 1}
+{"film": 3}
+{}
+{"song": 25}
+{}
+{"album": 1}
+{"film": 4, "movie": 6, "short film": 1, "comedy": 1, "documentaries": 1, "television": 1, "song": 1}
+{"film": 5, "films": 4}
+{}
+{"film": 2}
+{"film": 1}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{}
+{}
+{}
+{"song": 1, "magzine": 2}
+{"film": 1}
+{"album": 2, "single": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 5}
+{"film": 1, "movie": 6}
+{}
+{}
+{"film": 1}
+{}
+{"film": 1}
+{"movie": 1, "film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "documentary": 1}
+{}
+{}
+{"film": 2}
+{"film": 5, "movie": 2}
+{"film": 1, "films": 2}
+{"film": 2}
+{"film": 2}
+{}
+{"film": 2}
+{"film": 2}
+{"film": 1, "films": 5}
+{"film": 1, "musical": 1}
+{"film": 1}
+{"film": 1}
+{"film": 3, "films": 2}
+{"film": 2}
+{"film": 2}
+{"film": 3, "movie": 0, "song": 0, "magzine": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magzine": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 6}
+{"film": 4}
+{"film": 1, "movie": 1}
+{"film": 5}
+{}
+{"film": 1}
+{"film": 2, "music": 1}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 2}
+{}
+{"film": 3}
+{"film": 4}
+{"film": 2}
+{"movie": 1, "film": 3, "song": 1}
+{"film": 6, "movie": 0, "song": 0, "magzine": 0}
+{"movie": 5, "film": 4}
+{"film": 8, "movie": 0}
+{"film": 4}
+{"film": 6}
+{"film": 3}
+{"film": 6, "song": 4, "musical": 1}
+{"film": 5, "films": 3, "movie": 1}
+{"film": 4}
+{"film": 2, "movie": 2}
+{"film": 1, "movie": 3}
+{"film": 4}
+{"film": 3}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"film": 5}
+{}
+{"film": 2}
+{}
+{}
+{}
+{"film": 2}
+{}
+{}
+{}
+{"movie": 2, "film": 2}
+{"film": 5, "song": 1}
+{"film": 1, "movie": 150}
+{"film": 2}
+{"film": 4}
+{}
+{}
+{}
+{}
+{}
+{"film": 6}
+{"film": 1}
+{"film": 2}
+{"film": 1, "song": 1}
+{"film": 1, "movie": 2}
+{}
+{}
+{"film": 1, "movie": 1}
+{}
+{}
+{"film": 1}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"film": 3, "movie": 1}
+{}
+{}
+{}
+{"film": 6}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 3}
+{"film": 3}
+{"film": 4}
+{"film": 4, "movie": 0}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"song": 1, "TV show": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"series": 2}
+{"film": 1}
+{}
+{}
+{}
+{"magzine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magzine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4, "movie": 2}
+{"film": 2}
+{"film": 2}
+{"film": 3}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{"film": 2}
+{"film": 1}
+{}
+{"film": 2}
+{}
+{}
+{}
+{"magzine": 3}
+{"novel": 1}
+{}
+{}
+{"song": 1}
+{}
+{}
+{"film": 2}
+{"film": 3}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 4}
+{"film": 2}
+{"film": 2}
+{"magzine": 1}
+{"movie": 1, "film": 1}
+{"film": 1}
+{"movie": 1}
+{"film": 5}
+{}
+{"film": 2, "song": 1}
+{}
+{"film": 6, "television": 6, "series": 5, "soap opera": 1}
+{}
+{"film": 1}
+{"film": 5}
+{"film": 3, "films": 5}
+{"film": 4, "movie": 2}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"film": 5, "movie": 2}
+{"film": 5}
+{"song": 1}
+{"novel": 1}
+{}
+{}
+{"film": 1}
+{}
+{"film": 2}
+{"film": 2}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"film": 2, "music": 3}
+{"film": 1}
+{"film": 4, "movie": 1}
+{"song": 1, "film": 1, "reality series": 1, "television series": 1}
+{"film": 1, "comics": 1}
+{"film": 3}
+{"song": 1}
+{"song": 1}
+{"film": 5, "movie": 3}
+{"film": 2}
+{"film": 3}
+{"film": 2}
+{"film": 2}
+{"film": 4}
+{"film": 2}
+{"film": 1, "films": 1}
+{"film": 3, "films": 4}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "movie": 1}
+{"movie": 1}
+{"movie": 2, "film": 4}
+{"film": 1}
+{"film": 1}
+{"film": 5}
+{"film": 5}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{"film": 1}
+{"film": 1, "operetta": 2}
+{"film": 2}
+{"film": 2}
+{"film": 1}
+{}
+{}
+{"film": 5, "music video": 1, "movie": 2}
+{"film": 4}
+{"film": 6, "movie": 0, "magzine": 1}
+{}
+{}
+{}
+{"film": 1, "musician": 1}
+{"film": 1}
+{"film": 4}
+{"movie": 1, "film": 1}
+{"film": 1}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{"song": 1}
+{"film": 1, "song": 2}
+{}
+{"album": 1}
+{"album": 2}
+{}
+{"film": 1, "movie": 1}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 1}
+{"song": 1}
+{}
+{"magzine": 1}
+{}
+{}
+{"film": 5, "magzine": 1}
+{"film": 1}
+{"film": 1, "films": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1, "movie": 28}
+{"film": 2}
+{"film": 1}
+{"film": 6, "feature film": 1, "movie": 1}
+{"film": 1}
+{}
+{"magzine": 1}
+{}
+{"film": 1, "movie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 5, "documentary": 3, "short": 1, "thriller": 1}
+{"film": 3}
+{"film": 2}
+{"film": 4, "movie": 3}
+{"film": 1, "films": 3}
+{"film": 2}
+{"film": 4}
+{"film": 1, "films": 1}
+{"film": 2}
+{"film": 2}
+{}
+{"film": 2}
+{"film": 4}
+{}
+{"film": 5}
+{"film": 3}
+{"film": 5}
+{}
+{}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magzine": 1}
+{"film": 2}
+{}
+{}
+{"film": 2}
+{"film": 1}
+{"film": 2}
+{"film": 5, "song": 2}
+{"film": 1}
+{"film": 2}
+{"film": 1, "song": 2}
+{"song": 2}
+{"film": 1}
+{"film": 1}
+{"film": 1, "movie": 1}
+{"film": 2}
+{"film": 3}
+{"film": 1}
+{"film": 3}
+{"film": 6, "movie": 0, "song": 0, "magzine": 0, "novel": 1}
+{"film": 2}
+{"film": 1, "novel": 1}
+{"song": 2}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"movie": 2, "film": 1}
+{}
+{}
+{}
+{"magzine": 2, "book": 1}
+{"film": 2, "motion pictures": 1, "theatre": 1, "television": 2}
+{"film": 1}
+{"film": 1, "films": 1}
+{"film": 1, "movie": 2}
+{}
+{}
+{"film": 1}
+{"song": 1}
+{"film": 3}
+{"film": 1}
+{"film": 5}
+{"film": 1}
+{"film": 4}
+{"film": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "films": 3}
+{"film": 1}
+{"film": 2}
+{"film": 3}
+{}
+{"film": 5}
+{"film": 2, "movie": 1}
+{}
+{"magzine": 1, "book": 1}
+{"film": 1, "movie": 1}
+{"film": 2}
+{"album": 1, "song": 1}
+{}
+{"film": 3}
+{}
+{}
+{"film": 3}
+{}
+{}
+{}
+{}
+{"film": 6, "films": 10}
+{"film": 1, "movie": 1}
+{"film": 1, "movie": 2}
+{"film": 2}
+{"film": 3}
+{"film": 1, "movie": 1}
+{"film": 6}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"film": 1}
+{}
+{"film": 4}
+{"film": 1}
+{"film": 2}
+{"film": 2, "song": 1}
+{"film": 4}
+{"film": 2}
+{"film": 3, "films": 1}
+{"film": 4}
+{}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 4, "films": 3}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4}
+{"film": 3}
+{"film": 4}
+{"film": 1}
+{"movie": 6, "film": 5, "documentary": 1, "video": 1}
+{"film": 5, "movie": 0}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"album": 2}
+{"album": 1}
+{"song": 1, "book": 1}
+{"album": 1, "song": 2}
+{"song": 3, "album": 1}
+{"song": 2}
+{"album": 1, "song": 1}
+{}
+{}
+{}
+{"song": 1}
+{}
+{"magzine": 1, "song": 1}
+{}
+{}
+{}
+{"film": 2, "television": 1, "documentary": 1}
+{"magzine": 1}
+{"film": 1, "documentary": 1}
+{"film": 3}
+{}
+{"magzine": 3}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{"film": 5, "movie": 3, "films": 5}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 2}
+{"film": 3}
+{"film": 2}
+{"film": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 3, "album": 1, "magzine": 0, "movie": 0, "film": 0}
+{"song": 2, "album": 1}
+{"song": 2, "film": 1}
+{"song": 1}
+{"song": 5, "album": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"film": 1}
+{"film": 1, "music": 1}
+{}
+{}
+{"film": 1, "films": 10}
+{"film": 2}
+{"film": 1}
+{}
+{"film": 3}
+{"magzine": 2}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "novel": 1}
+{}
+{"film": 5, "films": 3, "movie": 0}
+{"film": 2, "song": 1}
+{}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{"film": 1, "films": 84}
+{"film": 2}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 6}
+{"song": 1}
+{"movie": 2, "film": 0, "song": 0, "magzine": 0}
+{"film": 1}
+{"film": 5}
+{}
+{"film": 12, "movie": 2}
+{"film": 1}
+{"film": 4}
+{}
+{"film": 5, "movie": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "films": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4}
+{}
+{}
+{"film": 1, "movie": 2}
+{}
+{"film": 1}
+{"film": 4, "movie": 2}
+{"song": 1, "album": 1}
+{"film": 1}
+{"film": 4}
+{}
+{}
+{}
+{"song": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magzine": 1}
+{"film": 3, "musical": 1}
+{"movie": 2, "film": 2}
+{"film": 8, "magzine": 1}
+{"movie": 1, "play": 2}
+{"film": 2}
+{"film": 3, "movie": 2}
+{"magzine": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magzine": 2}
+{}
+{}
+{}
+{}
+{}
+{"song": 3}
+{}
+{"song": 3, "album": 1}
+{"song": 4, "album": 2, "DVD": 1}
+{"song": 10, "magzine": 1, "film": 2}
+{}
+{}
+{"album": 1}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1, "magzine": 1}
+{"movie": 2}
+{"song": 1}
+{"film": 4}
+{"movie": 3, "film": 1}
+{"film": 1}
+{"album": 3}
+{"movie": 2, "film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "films": 5}
+{"film": 6}
+{"film": 4, "movie": 2}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1, "films": 1}
+{"film": 5}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "album": 1}
+{"film": 2, "movie": 1}
+{"film": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "films": 2, "movie": 0}
+{"film": 4, "movie": 2, "song": 1}
+{"film": 1, "movie": 1}
+{"movie": 2, "film": 3, "song": 1}
+{"film": 3, "movie": 2}
+{"movie": 1, "song": 1}
+{"film": 1}
+{"song": 1, "film": 1}
+{"film": 2}
+{}
+{}
+{}
+{"film": 3}
+{"film": 5, "movie": 1}
+{"film": 3, "movie": 1}
+{"film": 2}
+{"film": 3, "movie": 0, "song": 0, "magzine": 0}
+{"film": 1}
+{"film": 6}
+{"film": 3}
+{"movie": 3, "film": 0, "song": 0, "magzine": 0}
+{"film": 3}
+{"film": 5}
+{"film": 5, "films": 5}
+{"film": 1, "films": 5}
+{"film": 3, "magazine": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 5}
+{"film": 3}
+{"film": 4, "movie": 2}
+{"movie": 1, "film": 5}
+{"film": 5}
+{"film": 3}
+{"magzine": 1}
+{"magzine": 2}
+{"film": 3}
+{"film": 3}
+{"film": 1, "mini-series": 1, "novel": 1}
+{"magzine": 1}
+{"film": 1}
+{"film": 4}
+{"magzine": 1}
+{}
+{}
+{}
+{}
+{"song": 3}
+{}
+{}
+{"song": 1}
+{}
+{"film": 1, "song": 1}
+{"film": 5, "movie": 0}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{"film": 4, "cinema": 1}
+{"film": 4}
+{"film": 1, "movie": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 3}
+{"film": 2}
+{"movie": 2, "film": 0, "song": 0, "magzine": 0, "novel": 1, "manga": 1}
+{"film": 1, "movie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 8, "movie": 1}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{}
+{}
+{"film": 2}
+{}
+{"film": 1, "short": 1}
+{}
+{"film": 5, "movie": 0, "magzine": 0, "song": 0}
+{"film": 5}
+{"film": 1, "movie": 2}
+{"film": 4}
+{"film": 1, "movie": 3}
+{"film": 2, "movie": 1}
+{"film": 3, "song": 1}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{"film": 3}
+{"film": 1}
+{"film": 3}
+{"film": 1}
+{"film": 5}
+{"film": 1, "documentary": 1}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{}
+{"film": 2, "song": 1}
+{"film": 4}
+{}
+{"film": 5}
+{"film": 1}
+{"movie": 2, "film": 1, "television": 3}
+{"film": 1, "films": 3}
+{"film": 4}
+{"film": 4, "movie": 0, "song": 0, "magzine": 0}
+{"film": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 8}
+{"film": 1}
+{}
+{"film": 1}
+{}
+{"film": 1, "documentary": 4}
+{"book": 2, "magzine": 2}
+{"film": 1}
+{}
+{"film": 4}
+{"film": 2, "documentary": 2}
+{"magzine": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "series": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "novel": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1, "films": 3}
+{"film": 3}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 6, "films": 6}
+{"film": 1, "films": 1}
+{"film": 5}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "novel": 5}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"film": 2}
+{"film": 3}
+{"film": 1, "films": 4, "music": 1, "memoir": 1}
+{"film": 2, "novel": 1, "autobiographies": 3}
+{"film": 7, "movies": 2}
+{}
+{"magzine": 1}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 4}
+{"film": 1}
+{"film": 4}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"movie": 6, "film": 6}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 90, "song": 1, "music video": 1}
+{"song": 12, "album": 8, "film": 3}
+{"song": 1, "album": 2, "magzine": 3}
+{}
+{}
+{"film": 2, "movie": 1}
+{}
+{"film": 2}
+{}
+{"song": 1}
+{"film": 2}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{"film": 4, "movie": 2}
+{"movie": 12, "film": 2}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{"mixtape": 1}
+{"song": 5}
+{}
+{}
+{"magzine": 1}
+{"song": 1}
+{}
+{"magzine": 1}
+{}
+{"film": 4}
+{}
+{"film": 2}
+{}
+{"song": 2, "album": 1}
+{"song": 1}
+{"song": 2}
+{"song": 5}
+{"song": 1}
+{"song": 1, "album": 1}
+{"song": 1, "album": 1}
+{"song": 1}
+{"song": 3, "album": 3}
+{}
+{}
+{}
+{"song": 1}
+{"song": 3}
+{"film": 4, "song": 1}
+{"film": 1}
+{"movie": 7, "film": 2}
+{"film": 1}
+{"movie": 1, "film": 0, "song": 0, "magazine": 0}
+{"film": 2}
+{"book": 3}
+{"film": 3}
+{"film": 1}
+{"film": 2}
+{"film": 3}
+{"film": 2}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{"magazine": 1}
+{"film": 2}
+{"song": 2, "film": 1}
+{"comic book": 1}
+{"cabaret": 3, "revue": 8, "music": 1, "film": 1}
+{"magazine": 1}
+{}
+{}
+{"magazine": 5}
+{}
+{}
+{"film": 2, "movie": 1}
+{"magazine": 1}
+{"film": 4}
+{"film": 2, "documentary": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{"song": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"movie": 3, "film": 1, "song": 1}
+{"film": 1}
+{"film": 5, "movie": 0, "song": 0, "magzine": 0}
+{"film": 4}
+{"film": 3}
+{"film": 3}
+{"film": 4}
+{"song": 2, "music": 3}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{"film": 1, "documentary": 1}
+{}
+{}
+{}
+{"film": 4}
+{}
+{"film": 1}
+{}
+{}
+{}
+{"magzine": 1, "music": 1}
+{}
+{"film": 6, "TV series": 3}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magzine": 2}
+{}
+{}
+{"magzine": 1}
+{"film": 2}
+{"film": 3, "magazine": 1}
+{"book": 1}
+{}
+{}
+{}
+{}
+{"film": 10, "theatricals": 1, "Broadway": 1}
+{"film": 1}
+{}
+{}
+{"film": 1, "films": 3}
+{"film": 1}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{"film": 1, "book": 1}
+{}
+{"film": 3}
+{}
+{"film": 1, "films": 3}
+{"film": 1}
+{"film": 1}
+{"film": 3, "films": 2, "song": 1}
+{"film": 4}
+{"film": 1}
+{}
+{}
+{"magzine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "movie": 1}
+{}
+{"film": 1, "documentary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{}
+{}
+{}
+{"film": 1, "movie": 1}
+{"film": 1, "films": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 12, "magzine": 1}
+{"song": 1}
+{"song": 1, "album": 1}
+{"song": 1}
+{}
+{}
+{"film": 1}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "song": 8}
+{"film": 1}
+{"film": 1, "movie": 1}
+{"film": 5, "films": 2}
+{"film": 1}
+{}
+{"film": 3}
+{}
+{}
+{"film": 1}
+{}
+{"film": 1}
+{}
+{"film": 3}
+{}
+{}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{"film": 5, "book": 1}
+{"film": 2}
+{"film": 2}
+{}
+{}
+{"film": 5}
+{}
+{}
+{}
+{"film": 3}
+{"song": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 4, "musical": 1}
+{"film": 1, "movie": 1}
+{"film": 1}
+{"film": 5}
+{"film": 4}
+{}
+{}
+{}
+{}
+{"film": 5}
+{"song": 2, "album": 1}
+{}
+{"song": 2, "film": 1}
+{"album": 1, "single": 4}
+{"song": 3}
+{}
+{"song": 1}
+{"song": 2, "album": 1, "music video": 1}
+{"song": 2}
+{}
+{"song": 1, "album": 2}
+{}
+{"film": 1}
+{"film": 5}
+{"film": 3, "movie": 2}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 2}
+{"novel": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "commercial": 1, "video": 1, "song": 1}
+{"film": 2}
+{"film": 3}
+{"film": 2, "movie": 1}
+{"film": 1}
+{"film": 2, "movie": 1}
+{"film": 3, "movie": 2}
+{"film": 5}
+{"film": 3, "movie": 1}
+{"film": 1}
+{"movie": 2, "film": 5, "book": 3, "cinema": 3}
+{"film": 1}
+{"film": 2}
+{"film": 1, "films": 1}
+{"movie": 2, "film": 1}
+{"movie": 2, "film": 1}
+{"film": 5, "movie": 4}
+{"movie": 1}
+{"film": 1}
+{"film": 3}
+{"film": 5}
+{"film": 6}
+{"musical": 2}
+{"film": 2}
+{"film": 5}
+{"film": 1, "documentary": 1}
+{"film": 1}
+{"film": 1}
+{}
+{"novel": 1}
+{"film": 1}
+{"movie": 2, "film": 1}
+{"book": 1}
+{"film": 1}
+{"film": 5, "movie": 4}
+{"film": 2, "movie": 1}
+{"film": 2}
+{}
+{"film": 4}
+{}
+{"film": 4, "documentary": 1}
+{"film": 5}
+{"film": 2}
+{"film": 5}
+{"novel": 1}
+{}
+{}
+{"play": 2}
+{}
+{"film": 5, "movie": 1}
+{}
+{"film": 1, "films": 125}
+{}
+{"film": 5}
+{"magzine": 2}
+{}
+{"film": 5}
+{"novel": 3}
+{"film": 1}
+{"film": 3}
+{"film": 2}
+{"film": 5}
+{"film": 1, "musical": 1}
+{"movie": 4, "film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{"movie": 1, "film": 1}
+{"film": 4, "movie": 2}
+{"film": 5}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 1}
+{"film": 3}
+{}
+{"film": 1}
+{"film": 1, "films": 2}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{"album": 2, "song": 5, "book": 1}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1, "films": 3}
+{"film": 2}
+{}
+{"film": 1}
+{"movie": 1, "film": 1}
+{"movie": 0, "film": 0, "song": 0, "magzine": 0, "television show": 2}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"magzine": 1}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "documentary": 8}
+{}
+{"film": 2}
+{"film": 5, "sitcom": 2}
+{"movie": 2, "film": 3}
+{"film": 1}
+{"movie": 1, "song": 1, "film": 1}
+{"film": 1, "films": 2}
+{"film": 3}
+{"magzine": 2}
+{"magzine": 2}
+{"magzine": 1}
+{"magzine": 2}
+{"magzine": 3}
+{"magzine": 6}
+{"magzine": 3}
+{"magzine": 1}
+{"magzine": 2}
+{"magzine": 2}
+{"song": 10, "film": 5, "album": 6}
+{"film": 2}
+{"film": 1, "play": 1}
+{"film": 2}
+{"film": 4}
+{"film": 4, "song": 2}
+{"film": 1, "television series": 1}
+{}
+{"song": 3}
+{}
+{}
+{"magzine": 4, "film": 1}
+{}
+{}
+{"magzine": 3}
+{"song": 5}
+{"song": 1}
+{"song": 3, "album": 5, "magazine": 1}
+{"magzine": 1}
+{"album": 1}
+{"album": 2, "song": 2}
+{}
+{"movie": 1, "film": 1}
+{"magzine": 1, "motion picture": 3, "film": 2, "music": 1}
+{"song": 5}
+{"film": 3}
+{"film": 2}
+{"film": 3, "films": 23}
+{}
+{"film": 2, "movie": 0, "song": 0, "magzine": 0}
+{"film": 2, "movie": 0, "song": 1, "magzine": 0}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"film": 4}
+{}
+{}
+{"song": 2, "album": 3, "reality show": 1}
+{"album": 3}
+{"album": 1, "song": 1}
+{"album": 1, "song": 2}
+{"album": 2, "song": 3}
+{"album": 1}
+{"album": 1, "music video": 1}
+{"album": 1, "song": 1}
+{"album": 1, "song": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 5}
+{"film": 1}
+{"film": 2, "video game": 1}
+{"movie": 1, "film": 1}
+{"film": 1}
+{"film": 6, "magazine": 1}
+{"movie": 1}
+{"film": 1}
+{"film": 2}
+{"novel": 3}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 3, "films": 2}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"movie": 2, "film": 2}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 6}
+{"film": 2}
+{"film": 3}
+{"film": 2, "movie": 1}
+{"film": 2, "movie": 1}
+{"film": 4, "movie": 0}
+{"film": 3}
+{"film": 6}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 5, "musical": 2, "music": 2}
+{"film": 5}
+{"movie": 1, "film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 12, "movie": 0}
+{"film": 1}
+{"movie": 1, "film": 5}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 2}
+{"film": 1}
+{"magzine": 6, "book": 4, "poetry": 5, "theatre": 1}
+{"magzine": 1, "poem": 5, "play": 1, "book": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1, "audio": 1, "video": 1}
+{"album": 1}
+{"album": 1}
+{"album": 2}
+{"album": 1}
+{"song": 1, "film": 1}
+{"film": 1}
+{"film": 1, "magzine": 1}
+{"film": 3}
+{"film": 2, "song": 1}
+{"opera": 6, "ballet": 5, "symphony": 3, "piano concerto": 5, "violin concerto": 2, "cello concerto": 1, "symphony-concerto": 1, "piano sonata": 9}
+{}
+{"film": 1}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4, "movie": 2, "magzine": 1}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{"album": 1}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "musical": 1}
+{"film": 1, "movie": 1}
+{"film": 1, "movie": 2}
+{"film": 3}
+{}
+{"film": 3}
+{"film": 5}
+{}
+{"film": 4}
+{"film": 4, "movie": 0}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1, "poetry": 1, "novel": 1, "poem": 2, "magzine": 1}
+{}
+{"book": 6, "magazine": 3}
+{}
+{"magzine": 1}
+{}
+{}
+{"song": 3, "album": 1}
+{"film": 2}
+{"film": 1, "novel": 1}
+{}
+{"film": 4}
+{}
+{"film": 3, "song": 3}
+{"film": 2, "Short Film": 1, "films": 3}
+{"film": 3, "movie": 7, "serial": 5}
+{"film": 4}
+{}
+{}
+{}
+{}
+{"film": 4}
+{"film": 1}
+{"film": 2}
+{"film": 2, "films": 2}
+{}
+{}
+{}
+{"song": 1, "album": 1}
+{}
+{"film": 3}
+{"film": 2}
+{"film": 1}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 6, "movie": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 4}
+{"film": 1}
+{"film": 3}
+{"film": 4, "movie": 0, "song": 0, "magzine": 0, "novel": 1}
+{"film": 1}
+{"film": 4, "book": 1}
+{"film": 1}
+{"film": 5}
+{"film": 3}
+{"film": 2}
+{"film": 1, "movie": 1}
+{"magzine": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 5, "poem": 2, "play": 4, "film": 0, "movie": 0, "song": 0, "magzine": 0}
+{"movie": 2, "film": 0, "song": 0, "magzine": 0}
+{"film": 2}
+{}
+{"film": 3}
+{}
+{"film": 2}
+{"film": 1}
+{"film": 3}
+{"film": 1}
+{"film": 1}
+{"film": 2, "book": 1}
+{"film": 6}
+{"film": 1}
+{"film": 2}
+{"magzine": 1}
+{"film": 2}
+{"film": 1, "films": 1}
+{}
+{"film": 3}
+{"film": 2}
+{"film": 2, "opera": 1, "music": 1, "motion picture": 1}
+{"film": 3}
+{"film": 4}
+{}
+{"film": 1}
+{"film": 2}
+{"film": 4}
+{}
+{"play": 2}
+{"film": 6, "movie": 1, "documentary": 1}
+{}
+{"film": 2}
+{}
+{"movie": 2, "film": 1}
+{"film": 1, "drama": 1, "soap opera": 1, "comedy": 1}
+{"film": 4}
+{"film": 4, "movie": 1}
+{"song": 3, "film": 2}
+{"film": 2}
+{"film": 1}
+{"film": 1, "novel": 1}
+{"film": 1, "novel": 1}
+{"film": 10}
+{"film": 1}
+{"film": 4, "song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "films": 2}
+{"film": 1}
+{"film": 1, "films": 3}
+{"film": 2, "music": 1}
+{"film": 1}
+{"film": 4}
+{}
+{}
+{"movie": 77, "film": 1}
+{"film": 3}
+{"song": 1, "film": 12, "magzine": 2}
+{"song": 5}
+{"song": 2, "film": 1}
+{"song": 2}
+{}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 2, "series": 1}
+{"film": 4}
+{"film": 1, "documentary": 2}
+{"film": 1, "documentary": 1}
+{"film": 2}
+{"song": 1}
+{"song": 2}
+{"film": 1}
+{"film": 1}
+{"film": 4}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{"movie": 1}
+{"film": 1}
+{}
+{"film": 1, "book": 1}
+{"film": 2, "movie": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "movie": 3}
+{"film": 3}
+{"film": 2, "song": 1}
+{"film": 1}
+{"film": 4, "movie": 2}
+{"film": 4}
+{"movie": 2, "film": 2}
+{"film": 5}
+{"film": 5}
+{"film": 2, "movie": 1}
+{"film": 5, "movie": 2}
+{"film": 5}
+{"film": 3, "movie": 2}
+{"film": 5}
+{"film": 2}
+{"film": 5}
+{}
+{"book": 1}
+{}
+{}
+{"film": 1}
+{"film": 6, "movie": 3, "documentary": 4, "song": 1}
+{"film": 1}
+{"film": 1, "musical": 1, "song": 1}
+{"film": 1}
+{"film": 4, "magazine": 1}
+{"film": 4}
+{"film": 2, "movie": 2}
+{"film": 1, "manhua": 1}
+{}
+{"film": 5, "films": 4}
+{}
+{}
+{}
+{"song": 1, "album": 1}
+{"album": 12, "song": 1}
+{"song": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "films": 1}
+{"film": 5, "music video": 2, "song": 1, "television": 3}
+{"film": 1}
+{"film": 2}
+{}
+{"song": 2}
+{"song": 1, "movie": 1}
+{}
+{}
+{"film": 2, "album": 3}
+{"film": 2}
+{"film": 2, "songs": 6, "operettas": 2}
+{"film": 3}
+{"album": 1}
+{"album": 1, "single": 1}
+{"album": 1}
+{"album": 1}
+{"album": 2}
+{"album": 1}
+{"album": 1, "music video": 1}
+{"album": 1, "webzine": 1}
+{"album": 1}
+{"album": 1, "single": 1}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{}
+{"film": 2}
+{"film": 6, "movie": 0}
+{"film": 1, "movie": 1, "musical": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4}
+{"film": 4}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 2, "album": 1}
+{"song": 4}
+{"song": 2, "film": 1}
+{"song": 5, "film": 2}
+{"song": 2}
+{"song": 2, "album": 1}
+{"song": 3, "film": 1}
+{"song": 4, "album": 2, "music video": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "movie": 0}
+{"song": 5}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 4, "movie": 0, "song": 0, "magzine": 0}
+{"film": 1, "novel": 1}
+{"film": 1, "movie": 1, "magzine": 1}
+{"film": 7, "films": 5}
+{"movie": 0, "film": 1, "song": 0, "magzine": 0}
+{"song": 6, "film": 3}
+{"song": 1}
+{}
+{}
+{"film": 1}
+{"film": 4, "magazines": 1}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 2, "one-man show": 1}
+{"film": 2}
+{"film": 1}
+{}
+{}
+{"film": 1}
+{}
+{}
+{"film": 2}
+{"film": 3, "song": 1}
+{"film": 3}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 4, "magzine": 1}
+{"film": 1}
+{"film": 2}
+{"film": 4, "movie": 0}
+{"film": 5, "movie": 0}
+{"film": 2}
+{"film": 15, "movie": 10}
+{"film": 6, "movie": 0, "song": 0, "magzine": 0}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 2, "documentary": 1}
+{"film": 4}
+{}
+{}
+{}
+{}
+{}
+{"movie": 1}
+{"film": 4, "song": 2, "theater": 2, "play": 2}
+{"film": 5}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 2, "movie": 0}
+{}
+{"film": 1}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"film": 3}
+{"film": 2}
+{"film": 2}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{"song": 2}
+{}
+{"film": 1, "films": 4}
+{"film": 2}
+{"film": 2}
+{"film": 4}
+{"film": 2}
+{"film": 3, "movie": 1}
+{"movie": 1}
+{"film": 1, "films": 1}
+{"movie": 4, "song": 1}
+{}
+{"movie": 2, "film": 4}
+{}
+{"movie": 5, "film": 5}
+{"film": 4, "sitcom": 1}
+{"magzine": 1}
+{}
+{}
+{}
+{}
+{"magzine": 1}
+{}
+{"magzine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 3, "movie": 1, "magzine": 1}
+{"film": 10, "song": 5}
+{}
+{}
+{"film": 1}
+{"film": 5, "novel": 5, "short story": 1}
+{"film": 2, "play": 2, "book": 1, "magzine": 1}
+{}
+{}
+{"film": 1, "novel": 1}
+{"film": 3}
+{}
+{}
+{"film": 1, "novel": 1}
+{"film": 4}
+{"film": 1}
+{"film": 4}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 2, "video game": 2, "soundtrack": 3}
+{}
+{"video game": 3}
+{"film": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 4}
+{}
+{"film": 3}
+{"film": 3}
+{"film": 4}
+{"film": 4}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"song": 2, "soap opera": 2}
+{"film": 1}
+{"film": 1}
+{"film": 4, "movie": 2}
+{"film": 1}
+{"film": 1}
+{"song": 2}
+{"film": 10}
+{"film": 1, "films": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{"film": 1, "novel": 1}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"film": 4}
+{"film": 2}
+{}
+{}
+{"song": 2}
+{"song": 1}
+{"song": 1, "album": 1}
+{"song": 5, "album": 1}
+{"song": 11, "film": 1, "magazine": 1}
+{"song": 1}
+{"film": 2}
+{"film": 1, "movie": 2}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{"film": 3, "films": 2}
+{"film": 7, "films": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magzine": 2, "poem": 1, "short stories": 1, "sketches": 1, "plays": 1, "book": 2}
+{"film": 1, "movie": 1}
+{"film": 1}
+{}
+{}
+{}
+{"song": 4, "album": 2}
+{"song": 3, "album": 2, "music video": 1}
+{}
+{"film": 5, "movie": 1}
+{"film": 1, "films": 3}
+{"film": 3, "films": 1}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{"film": 3}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 2}
+{"film": 1}
+{"film": 4}
+{"movie": 2, "film": 2}
+{"film": 5, "films": 3}
+{"film": 1}
+{"movie": 1, "film": 4}
+{"film": 4, "magazine": 1}
+{"film": 1}
+{"film": 1}
+{"movie": 1, "film": 1}
+{"film": 3, "documentary": 2}
+{"film": 1}
+{"film": 1}
+{"film": 5, "movie": 1}
+{"movie": 0, "film": 0, "song": 1, "magzine": 0, "album": 1, "sitcom": 3}
+{}
+{"film": 3}
+{}
+{}
+{"film": 6}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"film": 3}
+{"film": 6, "movie": 1}
+{"film": 1}
+{}
+{"film": 2}
+{"film": 4}
+{"film": 1, "films": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 8}
+{"movie": 5, "film": 1, "song": 1}
+{}
+{}
+{}
+{"film": 2}
+{"film": 1, "films": 1}
+{"film": 2}
+{}
+{"film": 5}
+{"film": 2}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 5, "films": 3}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{"film": 2, "films": 1, "movie": 1}
+{"film": 2}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{"film": 1}
+{"film": 3}
+{"film": 5}
+{"film": 1, "documentary": 1}
+{"film": 1, "movie": 1}
+{"film": 1}
+{"film": 1}
+{"novel": 2}
+{"film": 3}
+{"movie": 5, "film": 4}
+{}
+{}
+{}
+{}
+{}
+{"movie": 1, "film": 1, "book": 1}
+{"film": 4}
+{}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "films": 4}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 4}
+{"film": 4}
+{}
+{}
+{}
+{"film": 4, "movie": 1}
+{"film": 1, "films": 2}
+{"film": 4, "movie": 2}
+{"film": 3, "movie": 0}
+{"film": 3}
+{"film": 4}
+{}
+{"song": 1}
+{}
+{}
+{}
+{"film": 1, "reality TV series": 2, "music reality television show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"opera": 5}
+{}
+{}
+{}
+{"film": 1, "movie": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 3, "album": 3}
+{}
+{}
+{"song": 3}
+{"song": 4, "film": 1}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{}
+{"song": 1, "opera": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"magzine": 1}
+{"film": 2}
+{"film": 2}
+{"film": 2}
+{"film": 2}
+{"film": 2}
+{"song": 1, "album": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"series": 2}
+{"film": 2, "movie": 1}
+{"film": 1}
+{"film": 3}
+{"film": 1}
+{"film": 2}
+{"film": 4}
+{"film": 10, "movie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 5}
+{"film": 3, "films": 3, "music": 1}
+{"documentary": 1, "music": 1}
+{}
+{}
+{"film": 2}
+{"song": 2}
+{"song": 2}
+{"song": 4, "album": 5, "film": 1, "musical": 1}
+{"movie": 1, "film": 1}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"film": 1}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "movie": 1, "song": 1}
+{"film": 5}
+{}
+{}
+{"film": 1}
+{}
+{"film": 5}
+{}
+{}
+{}
+{"song": 1}
+{"film": 2}
+{"film": 5, "magazine": 1}
+{"film": 3}
+{"film": 2}
+{"film": 12, "films": 10}
+{"film": 1}
+{}
+{"film": 2}
+{"film": 1, "documentary": 1}
+{}
+{}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 4}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"movie": 2, "film": 0, "song": 0, "magzine": 0}
+{"film": 4, "song": 2}
+{"film": 2, "musical": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 1}
+{}
+{}
+{}
+{"film": 1}
+{"film": 4}
+{}
+{"film": 1}
+{"film": 1}
+{"magzine": 1}
+{"film": 1}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"movie": 1, "film": 1}
+{"film": 2}
+{"film": 5}
+{}
+{"song": 1}
+{"song": 2, "album": 1}
+{"song": 2}
+{"song": 3, "album": 1}
+{"song": 5}
+{"film": 2, "musical": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "opera": 1, "movie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 2}
+{"movie": 1, "film": 1}
+{"film": 1, "play": 1}
+{"film": 1}
+{"film": 1}
+{"film": 1, "book": 1}
+{}
+{"magzine": 2}
+{"magzine": 1, "short story": 1}
+{}
+{"magzine": 1}
+{}
+{"magzine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"film": 2, "song": 2}
+{"film": 3}
+{"film": 3, "movie": 2, "song": 4, "album": 1, "music video": 3, "podcast": 1}
+{"film": 1}
+{"film": 2}
+{"movie": 1, "film": 1, "song": 0, "magzine": 0}
+{"film": 2, "movie": 1, "song": 1}
+{"movie": 0, "film": 0, "song": 0, "magzine": 0, "television series": 2}
+{"magzine": 1}
+{"film": 1, "cinema": 1}
+{"film": 1}
+{"film": 6}
+{"film": 2}
+{"documentary": 1, "film": 2}
+{}
+{"film": 1}
+{"film": 4}
+{"movie": 0, "film": 0, "song": 0, "magzine": 0}
+{"film": 3}
+{}
+{"film": 3}
+{"song": 4}
+{}
+{}
+{}
+{"film": 2}
+{"song": 1, "magzine": 1}
+{"film": 1}
+{"film": 1, "opera": 2}
+{}
+{"opera": 5, "play": 3, "libretto": 4, "theatre": 3}
+{"film": 1}
+{}
+{"film": 3, "song": 3}
+{}
+{}
+{"film": 2, "movie": 0}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 2}
+{"film": 4, "movie": 0, "song": 1, "magzine": 0}
+{"film": 1}
+{"film": 1}
+{"film": 2, "films": 3}
+{"film": 1}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "documentary": 1, "series": 2}
+{}
+{"film": 1, "novel": 2, "blog": 1, "column": 1, "collection": 1}
+{}
+{}
+{"film": 1, "magzine": 2}
+{"film": 2, "movie": 3}
+{"film": 4}
+{"film": 6}
+{"film": 5, "movie": 1}
+{"film": 5}
+{"film": 1, "films": 5}
+{"film": 1}
+{"film": 4}
+{"film": 1}
+{"film": 1, "television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"film": 1, "films": 1}
+{"film": 13}
+{"film": 1}
+{"film": 4, "movie": 2}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{"film": 1}
+{"film": 5}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 2}
+{"film": 1}
+{}
+{"song": 2, "album": 3}
+{"film": 4}
+{"film": 1, "television": 1}
+{"film": 5, "movie": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 8}
+{"film": 2}
+{"film": 1}
+{"film": 3, "films": 2}
+{}
+{}
+{"film": 2, "novel": 6}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"film": 2}
+{"song": 4, "album": 3, "magzine": 2}
+{"song": 3}
+{"song": 1, "film": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 3, "film": 1}
+{"film": 1}
+{}
+{}
+{}
+{"film": 3}
+{"film": 2, "movie": 1}
+{"film": 5}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{}
+{"film": 2}
+{}
+{"film": 1, "novel": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "movie": 1}
+{"film": 3}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"film": 2}
+{"film": 1, "films": 1}
+{"film": 2}
+{"film": 3, "novel": 1}
+{"film": 2}
+{"film": 1}
+{"film": 3, "films": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"film": 4}
+{"film": 1}
+{}
+{}
+{"film": 1}
+{"film": 3}
+{"film": 3}
+{"film": 1}
+{"film": 5, "movie": 2, "music video": 1, "song": 1}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}

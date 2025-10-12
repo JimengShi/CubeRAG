@@ -1,0 +1,6119 @@
+{}
+{}
+{}
+{"published": 4, "book": 5, "series": 3, "essay": 1, "translated": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1}
+{"directorial debut": 1, "wrote": 1, "composed by": 1, "screened at": 1, "won": 1, "premiere television broadcast": 1}
+{"released": 1}
+{"released": 1}
+{"directed by": 1, "written by": 1, "released": 1, "stars in": 1, "made": 1}
+{"released": 2, "featured": 1}
+{"directed by": 1, "released": 2, "album": 1, "documentary": 1}
+{"produced by": 1, "written by": 1, "directed by": 1, "stars": 1, "music is by": 1}
+{"directed by": 1, "released": 1, "filmed in": 1, "retitled": 1, "limited release": 1, "debut": 1}
+{"directed by": 1, "composed by": 1}
+{"recorded": 1, "singer": 2, "film director": 1, "song": 1}
+{"is a song of": 1, "fifth song of": 1, "homonymous album of": 1, "was composed and produced by": 1, "released like": 1, "third single of": 1}
+{"released": 1, "produced by": 1, "single": 1}
+{"released": 1, "written by": 1, "lyrics by": 1, "singer": 2, "song": 1}
+{"released": 5, "album": 5, "mixtapes": 3, "film": 2, "debut": 2, "studio album": 4, "single": 3, "top-ten entries": 3, "awards": 7}
+{"is the stage name of": 1, "singer of": 1}
+{}
+{}
+{"released": 1, "published": 1, "Albums": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "remake of": 1, "film": 3, "Award": 1}
+{"edited by": 1, "directed by": 1}
+{}
+{"director of": 2}
+{"films": 6, "film": 4, "directed": 2, "director": 2, "acting": 1, "movies": 1}
+{"is best known for": 1, "feature film": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "completed as": 1, "released": 1, "songs": 1}
+{"directed": 8, "films": 8, "movie": 1, "musicals": 3, "comedy": 2, "dramas": 4, "Academy Awards": 1, "Best Director": 1, "Best Short Subject": 1, "classic": 4}
+{"director": 2, "movie": 1}
+{}
+{"written": 1, "directed by": 1, "director": 1}
+{"directed by": 1, "produced by": 1, "distributed by": 1, "released": 1}
+{}
+{"in film": 1, "films": 3, "sequel": 1, "roles in": 1, "executive producer on": 1}
+{"directed": 1, "movies": 1, "starring": 2, "co-starring": 1, "written by": 1, "shot": 2, "billed as": 1}
+{}
+{"produced": 1, "distributed": 1, "based on": 1, "acquired": 1, "obtained": 1, "remade": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"composed film scores": 1, "recorded solo albums": 1, "collaborated with other musicians": 1, "exhibited his photography": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"films": 40, "comedy": 1, "Oh, Mr Porter!": 1, "The Lady Vanishes": 1, "Night Train to Munich": 1, "Millions Like Us": 1, "I See a Dark Stranger": 1, "Green for Danger": 1, "The Happiest Days of Your Life": 1, "St Trinians": 1}
+{"film": 1, "parts": 2, "staff": 1, "actors": 1}
+{"directed by": 1, "starring": 1, "about": 1}
+{"appeared in": 6, "films": 6}
+{"roles in": 2}
+{"director": 1, "screenwriter": 1, "producer": 1, "films": 1, "author": 1, "collection": 1}
+{}
+{"directed by": 1, "starring": 1, "made by": 1, "based on": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"written by": 1, "directed by": 1, "produced by": 1, "stars": 1}
+{}
+{"co-directed by": 1, "stars": 1, "appear in": 1, "film": 2}
+{"known for": 1}
+{"director of": 1}
+{"director": 2, "film": 2, "Israeli Academy of Film and Television": 1, "Israeli culture entrepreneur": 1}
+{"best known for": 1, "writing": 1, "film": 1}
+{"making films": 1, "acting": 1, "directing": 1, "latest film role": 1, "released": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1}
+{"directed": 5, "film": 6, "short film": 3, "movie": 1, "documentaries": 1, "Ariel Award": 2, "Academy Award": 1, "Golden Globe Awards": 1, "Best Director": 1, "Best Film": 1, "box-office output": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"singer of": 1, "associate editor of": 1}
+{"composed by": 1, "released": 1, "performed by": 1, "covered by": 1, "described as": 1}
+{"released": 3, "debut album": 1, "album": 3, "compilation albums": 1, "remix album": 1, "live albums": 1, "covers of songs": 1, "charity concerts": 1, "performed": 1}
+{"released": 7, "album": 6, "song": 1, "studio album": 4, "hit single": 1, "EP": 2, "cover": 1}
+{"written by": 1, "performed by": 1, "released": 2, "ranked": 1, "include": 1}
+{"released": 3, "appeared at": 2, "sing": 1, "sang": 1, "cover of": 1, "original song": 1, "albums": 4, "singles": 1, "song": 1, "ranked": 2}
+{"released": 1, "album": 1, "song": 1}
+{"songs": 6, "hits": 4, "musical career": 1, "recording career": 1, "animated film": 1, "Broadway musical": 1}
+{"associated with": 1, "suggested": 1, "title": 1, "theme": 1, "became a hit for": 1, "received a co-writing credit": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"produced by": 1, "directed by": 1, "distributed by": 1, "stars": 1, "based on": 1, "director": 1}
+{}
+{"written by": 1, "directed by": 1, "stars": 1, "installment in": 1, "sequel to": 1}
+{"directed by": 1, "premiered": 1, "documentary": 2, "feature films": 1, "film": 1}
+{"directed by": 1, "written by": 1, "film": 3, "reboot": 1, "installment": 1, "series": 1}
+{"written by": 1, "directed by": 1, "starring": 1, "based on": 1, "adaptation of": 1, "released": 1}
+{"written by": 1, "directed by": 1, "installment of": 1, "served as a prequel to": 1, "followed by": 1}
+{"appeared in": 1, "film": 1, "films": 1}
+{"directed by": 1, "released": 1, "sequel to": 1, "installment in": 1}
+{"director of": 1, "films": 1}
+{"directed by": 1, "released": 1, "sequel to": 1, "installment in": 1, "received a positive response": 1, "best-reviewed": 1}
+{"featuring": 1, "official selection": 2}
+{"directed": 2, "wrote for": 1, "entered into": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"directed by": 1, "released": 2, "starring": 1, "based on": 1, "remade in": 1, "featuring": 1}
+{"directed by": 1}
+{"directed": 3, "movie": 2, "released": 1, "film": 3, "screened": 1}
+{"was": 1}
+{"directed by": 1, "based on": 1}
+{"directed by": 1, "released": 1, "remake of": 1, "based on": 2}
+{}
+{"directed by": 1, "producer": 1}
+{}
+{"film": 1, "singers": 1}
+{"film": 4, "silent film": 2, "Academy Award": 3, "talkie": 1, "novel": 1, "adapted to screen": 1, "directed by": 1, "nominated": 2, "received": 1, "dropped": 1, "preserved": 1}
+{"composed": 1, "film scores": 1, "scored": 1, "breakthrough hit": 1}
+{"directed": 2, "film": 3}
+{"directed by": 1, "screened out of competition": 1}
+{"writing": 1}
+{"directed by": 1, "starring": 1, "release title": 1, "portrays": 1, "subject of": 1, "biopic": 1}
+{"directed by": 1}
+{}
+{"released": 1, "written": 1, "recorded": 1, "covers": 1}
+{"included": 1, "performance": 1}
+{}
+{}
+{"film": 4, "television film": 1, "documentary": 2, "theatrical animated feature": 1, "Academy Award": 1, "Best Documentary Feature": 1}
+{"known for": 1, "singles": 2}
+{"composed": 1, "performed": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "dramatic film": 1, "television series": 1}
+{"films": 3, "television adaptation": 1, "drama series": 1}
+{}
+{}
+{}
+{}
+{"released": 1, "based on": 1, "directed by": 1, "filmed version of": 1, "broadcast live": 1, "screenings": 1}
+{"based on": 1, "performance as": 1}
+{"film": 2, "musical": 1}
+{"directed by": 1, "composed by": 1, "released": 1, "adapted for": 1, "opened in": 2}
+{"composed by": 1, "music for": 2, "won an Oscar for": 1, "won the Drama Desk Award for": 1}
+{"best known for": 1, "original": 2, "performed": 2, "theatrical production of": 1, "Gala show": 1}
+{"composer of": 1}
+{}
+{}
+{"composer": 3, "instrumental music": 1, "songs": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{"directed by": 1, "starring": 1, "came at": 1}
+{}
+{"directed by": 1, "came out": 1, "filmed in": 1, "based on": 1, "described in": 1, "published": 1}
+{"directed by": 1, "came from": 1, "film": 2}
+{"film": 2, "documentary": 1, "soundtrack album": 1, "entitled": 1}
+{}
+{"directed by": 3, "produced by": 2, "came out": 1, "debuted": 1, "directorial debut": 1}
+{"directed by": 1, "produced by": 1}
+{"written by": 1, "directed by": 1, "came out": 1, "movie": 1, "album": 1, "song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"wrote": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "film": 3, "sequel": 1, "title": 1, "montage": 1, "features": 1, "based on": 1}
+{"released": 3, "directed by": 2, "film": 6, "movies": 3, "documentary": 1, "children's film": 1, "horror films": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{}
+{"directed by": 1}
+{"directed by": 1, "written by": 1, "based on": 1, "followed by": 1, "sequel": 1}
+{"appeared in": 1, "films": 2, "feature films": 1}
+{"film": 1, "director": 1, "screenwriter": 1, "actor": 1, "entered into": 1}
+{}
+{"released": 3, "came out": 1, "directed by": 0, "composed by": 0, "appeared in": 1, "recorded": 3, "album": 5, "song": 4, "film": 1, "magazine": 1}
+{"written": 1, "performed by": 1, "released": 1, "found on": 1}
+{"written by": 1, "performed by": 1, "produced by": 1, "appeared as": 1}
+{"director of": 1}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{"directed by": 1, "filmed in": 1, "completed": 1, "distributed": 1, "released": 1}
+{}
+{"released": 1, "directed by": 1}
+{"film": 3, "movie": 1, "actor": 1, "producer": 1, "writer": 1, "director": 1, "films": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed": 3, "film": 2, "B-film": 1, "westerns": 1, "lighthearted films": 1}
+{"directed by": 1}
+{}
+{"directed by": 1, "written by": 1, "starring": 1, "released": 1}
+{"films": 2, "film director": 1, "cinema": 1, "special effects": 1, "storyboards": 1, "A Trip to the Moon": 1, "The Impossible Voyage": 1, "science fiction films": 1, "fantasy": 1}
+{}
+{}
+{"composing": 1, "covered by": 2}
+{"performed": 1, "sings about": 1, "written and composed by": 1, "represented": 2}
+{"film director": 1, "screenwriter": 1, "editor": 1}
+{"written by": 1, "debuted": 1, "title track": 1, "album": 1}
+{"released": 5, "came out": 1, "debut album": 1, "recorded": 4, "album": 6, "musical": 1, "film": 1, "starred in": 2, "won": 2, "appeared in": 1, "collaborations": 1, "television special": 1, "show": 1, "involved with": 1, "married": 2}
+{"is the debut single by": 1, "Hungarian entry in": 1}
+{"known as": 2, "song": 1, "by": 1, "answer songs": 1}
+{"is a song by": 1, "from her seventh studio album": 1, "produced by": 1, "written by": 1, "recording songs for her first greatest hits album": 1, "recorded the song for": 1, "has received a generally positive response": 1, "charted within the top 40 of": 1, "was also included by": 1}
+{}
+{}
+{}
+{"directed": 4, "produced": 2, "feature-length": 2, "film": 2, "drama": 2, "theatre": 1, "movie": 0, "released": 0, "came out": 0, "composed by": 0}
+{"directed by": 1, "based on": 1, "made into": 1}
+{"directed by": 1, "starring": 1, "shot by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film scores": 1, "debut single": 1, "Creep": 1, "albums": 1, "Rolling Stone": 1, "soundtrack": 2, "film": 3, "scored": 1, "directed by": 1, "composed": 3, "collaborations": 1, "album": 1, "Junun": 1}
+{"directed by": 1, "written by": 1, "based on": 1, "adaptation of": 1, "premiered at": 1, "released": 1, "nominated for": 1, "voted": 1}
+{"composer of": 1}
+{"composer of": 1}
+{"composer of": 1}
+{}
+{"composer": 2, "film scores": 1}
+{"composer of": 1}
+{"acted in": 2, "considered as": 1}
+{"directed by": 1, "starring": 1, "created in collaboration with": 1}
+{}
+{}
+{"directed by": 1, "film": 3, "movies": 1, "feature": 1, "horror": 1, "film journalist": 1, "preservation": 1}
+{}
+{"directed by": 1, "released": 1, "music by": 1, "dialogue by": 1}
+{}
+{"based on": 1}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"films": 5, "film": 3, "director": 2, "screenwriter": 2, "The Antichrist": 2, "The Exorcist": 1, "Jaws": 1}
+{"directed by": 1, "starring": 1}
+{"released": 1, "directed by": 1, "written by": 1, "paired": 1, "director": 1}
+{"called": 1, "filmmaker": 2, "cinema": 1}
+{"directed": 1, "films": 1, "contract": 3}
+{"directed by": 1}
+{"nominated for": 1, "directed": 1, "known for": 1}
+{"directed by": 1, "stars": 1, "screenplay by": 1, "features": 1}
+{}
+{"directed by": 1}
+{"written": 1, "directed by": 1, "premiered": 1, "released": 1}
+{"starring": 1, "directed by": 1}
+{"directed by": 1}
+{}
+{}
+{}
+{"directed by": 2, "film": 4, "produced by": 1, "stars": 1, "features": 1}
+{"directed by": 1, "produced by": 1, "nominated": 1}
+{}
+{"directed by": 1, "starring": 1, "film": 2}
+{"released": 1, "directed": 3, "co-writer": 1}
+{"released": 4, "album": 4, "single": 3, "featuring": 2, "signed": 2, "collaborates": 1, "documentary series": 1, "label": 1, "mixtape": 1, "compilation series": 1, "executive producer": 1}
+{"released": 1, "single": 2, "cover": 1}
+{"released": 1, "song": 2, "single": 1, "produced by": 1, "features": 1}
+{"directed by": 1}
+{"directed by": 5, "film": 5, "feature": 1, "theatrical release": 1, "included in": 1, "books on": 1, "making of": 1, "television movies": 1, "narrated by": 1, "episodes of": 1, "biopic": 1}
+{"directed by": 1}
+{"directed by": 1, "filmed": 1, "co-produced": 1, "co-wrote": 1, "title is a reference to": 1}
+{"film": 3, "television": 1, "stage": 1, "lead role": 1, "directed by": 1}
+{"written": 1, "directed by": 1, "film": 3}
+{"films": 6, "film": 1, "musical": 1, "comedy": 1, "drama": 1, "television show": 1}
+{}
+{"is": 1, "film": 1}
+{}
+{"is a": 1, "film": 1}
+{"is a": 1, "documentary film": 1, "from": 1}
+{"directed by": 1, "starring": 1, "written by": 1, "film": 5, "remake": 1, "sensation": 1, "inspiration": 1, "animated character": 1, "entered the public domain": 1}
+{"written by": 1, "directed by": 1, "starring": 1, "created by": 1}
+{"released": 1}
+{"is a": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "composed by": 1}
+{"films": 2}
+{"composed by": 4, "music for": 6, "film": 4, "films": 3, "directed": 1}
+{"directed by": 1}
+{"directed by": 1, "producing": 1, "screen versions of": 1, "published": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"starring in": 1, "playing": 2, "biopic": 1, "video": 1}
+{"directed by": 1, "appeared as": 1, "film": 2, "comedy": 1, "composer": 1}
+{}
+{}
+{"played in": 2, "film": 3, "directed by": 1, "TV show": 1, "Netflix dark comedy": 1}
+{}
+{"written by": 1, "directed by": 1, "stars": 1}
+{}
+{"film": 4, "nominated": 3, "entered into": 2, "Academy Award": 2, "Best Foreign Film": 1, "Best Foreign Language Oscar": 1, "Berlin International Film Festival": 1, "Moscow International Film Festival": 1}
+{"directed by": 1, "premiered": 1, "starred": 1}
+{}
+{"film": 3, "director": 3, "screenwriter": 3, "wrote": 1, "producing": 1}
+{}
+{"starred in": 1, "include": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "filmed in": 1, "starring": 1}
+{}
+{}
+{"film": 6, "movies": 2, "director": 4, "directed": 3, "comedies": 2, "stage": 4, "sitcom": 2, "show": 1, "theatrical": 1, "vehicle": 2, "career": 2, "stardom": 1}
+{}
+{}
+{}
+{"directed by": 1, "co-written by": 1}
+{}
+{"composer": 1}
+{"composer of": 1}
+{"directed by": 1, "starring": 1, "produced by": 1, "based on": 1, "music score was by": 1, "cinematography by": 1}
+{"directed by": 1, "produced by": 1, "composed by": 1}
+{"directed by": 1, "producer": 1, "story writer": 1, "score composer": 1}
+{"is a": 1}
+{"directed by": 1}
+{"directed by": 1}
+{"directed by": 1}
+{"is": 1, "film": 1}
+{"films": 1, "director": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"wrote": 1, "book": 1, "memoirs": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{"film": 6, "director": 5, "screenwriter": 2, "animated films": 2, "Yugoslav film": 1, "animated short film": 1, "feature films": 1, "Best Film": 3, "Best Director": 2}
+{}
+{"released": 3, "film": 6, "short film": 3, "feature film": 1, "adaptation": 2, "romantic comedy": 1, "children's book": 1, "Danish title": 5, "nominated": 1, "Academy Award": 1, "movement": 2, "quality work": 1, "visual director": 1, "awards": 1}
+{"released": 2, "directed by": 1, "written by": 1, "based on": 1, "stars": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1}
+{}
+{"acted in": 8, "popular": 1}
+{"film": 2, "movie": 1, "starring": 1, "adapted from": 1, "plays": 1, "provided with": 1, "rounds out": 1, "called": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1, "released": 1}
+{"is a": 1, "stars": 1}
+{"written by": 1, "directed by": 1, "stars": 1, "released": 1}
+{"directed": 1, "movies": 1}
+{"starring": 1}
+{"written by": 1, "directed by": 1, "stars": 1, "produced": 1}
+{"directed by": 1, "written by": 1, "starring": 1, "sequel to": 1, "includes": 1, "starred": 2, "coproduction between": 1}
+{"is a": 1, "film about": 1}
+{"written": 1, "directed by": 1, "released": 1, "film": 5, "comparing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "starred": 1, "explores": 1, "filmed in": 1}
+{"directed by": 5, "film": 6, "documentary": 3, "DVD": 2, "excerpts from": 3, "title": 1, "based on": 1, "funded": 1}
+{"films": 6, "short films": 2, "features": 2, "Dance in the Rain": 1, "Pe\u0161\u010deni grad/Sand Castle": 1, "Erotikon": 1, "Ma\u0161karada/Masquerade": 1}
+{}
+{"credited as": 1, "queen of film dancing": 1, "Hindi cinema": 2, "Bollywood films": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 6, "movie": 2, "directed by": 2, "produced by": 1, "starring": 2, "co-starring": 1, "written": 1, "published": 1, "released": 2, "based on": 1, "adaptation": 1}
+{"aired on": 1, "promote": 1}
+{"written by": 1, "directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1, "shot at": 1, "investigates": 1, "designed by": 1}
+{}
+{}
+{"directed by": 1, "produced": 1, "film": 3}
+{}
+{}
+{"directed by": 1}
+{"directed by": 1, "film": 2, "nominated": 1, "Academy Award": 1, "Best Foreign Language Film": 1}
+{}
+{"directed by": 1, "starring": 1, "adaptation": 2}
+{"directed by": 1, "starring": 1, "premiered at": 1, "designed by": 1}
+{}
+{"directed by": 1, "produced by": 1, "distributed by": 1, "based on": 1, "filmed before": 1}
+{"directed by": 1, "based on": 1, "won": 1}
+{"directed by": 1, "movie": 2, "sequel to": 1}
+{}
+{}
+{"written by": 1, "directed by": 1, "stars": 1, "play": 1}
+{}
+{"directed by": 1}
+{}
+{"directed by": 1}
+{"narrated by": 1, "documentary film": 1, "making of motion pictures": 1, "first of the studio's": 1, "series": 1}
+{"produced by": 1, "adapted from": 1, "criticized as": 1, "released": 1, "shares": 1}
+{"directed by": 1, "stars": 1, "distributed by": 1, "release dates": 2, "release date": 2}
+{"directed by": 1, "released": 1, "known by": 1}
+{}
+{}
+{"directed by": 1, "released": 1}
+{"directed by": 1}
+{"directed by": 1, "film": 3, "inspired by": 1, "classic": 2, "cult classic": 1}
+{"films": 2}
+{"film director": 1, "motion pictures": 1, "directed": 2, "scripted": 1, "leading man": 1, "character actor": 1, "talkies": 1}
+{"film director": 1, "screenwriter": 1, "actor": 1, "silent film": 1}
+{"directed by": 1, "released": 1, "adapted from": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1, "distributed by": 1, "franchise": 1, "films": 2}
+{"directed by": 1, "produced by": 1, "musical score by": 1, "released": 1, "died before the release of": 1}
+{}
+{"is a": 1, "by": 1, "sampling": 1, "from": 2, "singing": 1, "was lead single from": 1, "received": 1, "charted on": 1, "peaked at": 1, "is best remembered for": 1}
+{}
+{}
+{"directed by": 1, "movies": 1, "films": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4, "film director": 2, "screenwriter": 2, "won": 1, "nominated": 1}
+{"directed by": 1, "produced by": 1, "written by": 1, "film": 5, "premiere": 1, "shot": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"came to prominence": 1, "launched a successful solo career": 1, "scoring an enduring hit": 1, "replaced": 1, "returned to the band": 1, "was inducted into": 1, "musical style primarily consists of": 1, "founded": 1, "include being the lead singer of": 1, "is the host of": 1}
+{}
+{}
+{}
+{"released": 2, "album": 2, "performed with": 1}
+{"played": 4, "albums": 1, "band": 2, "married": 2, "tour": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"composer": 2, "music": 1, "film": 1, "theme music": 1}
+{"is a": 1, "album by": 1, "title song": 1}
+{"composed by": 1, "recorded by": 1}
+{}
+{"songs": 6, "magazine": 3, "film": 1, "record": 1}
+{"composer of": 1}
+{"composer of": 1}
+{"released": 1, "written by": 1, "hit": 2, "cover version": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "entered into": 1}
+{"directed by": 1}
+{}
+{"film": 5, "director": 3, "Polish film": 2, "Film Polski": 1, "National Film School": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 2, "film": 2, "documentary": 1, "feature films": 1, "series": 1}
+{"was": 1}
+{"directed by": 1, "starring": 1, "shot at": 1, "designed by": 1}
+{"directed by": 1, "starring": 1, "written by": 1, "produced by": 1, "performed by": 1}
+{"appeared in": 1, "roles include": 1}
+{}
+{}
+{}
+{}
+{"film": 1, "movies": 1, "actor": 3, "actress": 1, "director": 1, "producer": 1, "playwright": 1}
+{}
+{}
+{"film maker": 1, "actress": 1, "record producer": 1}
+{}
+{"directed by": 1, "starring": 1}
+{"films": 203, "film": 156, "directed": 47, "sound pictures": 1}
+{"directed by": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1, "film": 3, "movies": 1, "films": 2}
+{}
+{"appeared in": 1, "photographed for": 1, "known for": 1, "represented": 1}
+{"appeared in": 2}
+{"film director": 1, "writer": 1, "silent film era": 1, "sound films": 1, "actor": 1, "bit roles": 1}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "features": 1, "peaked at": 1}
+{"released": 1, "featuring": 1, "charted on": 1, "debuted in": 1}
+{}
+{"directed by": 1, "selected to compete": 1}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{"film": 3, "feature films": 1, "Brazilian films": 1, "film director": 1, "producer": 1, "Cannes Film Festival": 1, "controversial film": 1}
+{}
+{}
+{}
+{"published": 4, "wrote": 2, "adapted as films": 1}
+{"directed by": 1, "enacted by": 1, "film": 3, "remake of": 2, "blockbuster film": 1}
+{"produced by": 1, "directed by": 1, "composed by": 1, "remake of": 1, "remade in": 3}
+{"is a": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"directed by": 1, "remade into": 2, "remade in": 3}
+{"directed by": 1, "produced by": 1, "music direction by": 1, "lyrics by": 1, "starred": 1}
+{"films": 4, "produced": 1, "founded": 1}
+{"directed by": 1, "submission": 2, "Academy Awards": 1, "Academy Award": 1, "Best Foreign Language Film": 1}
+{"directed by": 1, "described as": 1, "refers to": 1, "calls": 1}
+{}
+{"directed by": 1, "stars": 1}
+{"directed": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"photographed": 1, "worked with": 1, "films": 3, "debut": 1, "camera operator": 1}
+{}
+{"directed by": 1, "co-written by": 1, "released": 1}
+{"appeared in": 5, "films": 7, "TV series": 3, "starring": 1, "look back at": 1, "commemoration of": 1, "conventions": 1, "movies": 1}
+{"film director": 1, "film producer": 1, "documentary": 1, "debuted in direction": 1}
+{"directed": 6, "produced": 2, "wrote": 2}
+{"directed by": 1, "written by": 1, "based on": 2, "stars": 1, "sequel to": 1, "produced by": 1}
+{"directed by": 1, "written by": 1, "based on": 2, "followed by": 1, "produced by": 1, "director": 1}
+{"is a": 1, "film": 1, "by": 1, "starring": 1}
+{"directed by": 1, "starring": 1, "produced by": 1}
+{}
+{"directed by": 1, "released": 1}
+{"directed by": 1, "released": 1}
+{"directed by": 1, "premiered": 1, "received": 1, "nominations": 1, "awards": 1}
+{"directed by": 1, "starring": 1, "produced by": 1, "shot at": 1}
+{"directed by": 1, "starring": 1, "written by": 2, "based on": 1, "feature": 1, "published by": 1}
+{"directed by": 1, "written by": 1, "remake of": 1, "premiered on": 1}
+{"film": 2, "comedy": 1, "feature film": 1}
+{}
+{}
+{"nominated for": 1, "won": 2, "Best Actress in a Leading Role": 1, "Best Actress": 2, "movie": 1, "Two Brides and a Baby": 1}
+{"produced by": 1, "distributed through": 1, "directed by": 1, "starred": 1, "written by": 1}
+{"movie": 1, "television series": 1, "won": 1, "nominated": 2}
+{"directed by": 1, "released": 1, "composed by": 1}
+{"composer": 1, "film scores": 1, "musical director": 1, "film industry": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"published": 1, "book": 5, "Chronicles": 3, "The Minack Chronicles": 2, "A Gull on the Roof": 1, "The Way to Minack": 1, "Cottage on a Cliff": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"co-founder": 1, "editor": 1}
+{"magazine": 5, "editor": 2, "publisher": 2, "managing editor": 1, "produces": 1, "coverage": 1, "rankings": 1, "discontinued": 1}
+{}
+{}
+{"magazine": 3, "book": 2}
+{}
+{"film": 5, "documentary": 4, "feature film": 1, "screened": 1, "directed": 3, "produced": 1, "movie": 1, "wrote": 1, "story": 2, "journey": 1, "reportage": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"written by": 1, "covered by": 1}
+{}
+{"released": 2, "debut single": 1, "debut major-label album": 1, "album": 4, "compilation album": 1, "best-selling album": 1, "album and single sales": 1}
+{}
+{"released": 2, "recorded by": 1, "featuring": 1, "written by": 1, "produced by": 1, "performed": 1, "shot by": 2, "included": 2, "highlighted": 1}
+{}
+{"is a song": 1, "recorded as": 1, "features production from": 1, "helped write": 1, "release of": 1, "received": 1, "praised": 1}
+{}
+{"editor of": 1, "poem": 1, "origin of": 1, "song": 1}
+{"directed by": 1}
+{"film": 3, "theatrical features": 2, "television series": 1}
+{}
+{"directed": 1, "produced": 2, "films": 3, "pictures": 2}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 2, "produced by": 1, "distributed by": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "produced by": 1, "distributed by": 1}
+{}
+{"directed by": 1, "starring": 1}
+{"directed by": 1}
+{"directed by": 1}
+{"starring": 1, "directed by": 1}
+{}
+{"directed by": 1}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"written by": 1, "directed by": 1, "starring": 1, "film": 2}
+{"directed": 5, "produced": 3, "wrote": 1, "film": 2, "movie": 1}
+{"film": 4, "documentary": 3, "director": 1, "won": 3, "award": 3, "festival": 2}
+{"directed by": 1, "produced by": 1, "distributed by": 1, "tied with": 1}
+{"co-writing": 1, "hit for": 1}
+{"movie": 1, "director": 1, "screenwriter": 1, "producer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "television film": 1}
+{}
+{"directed by": 1, "released": 1}
+{"is a": 1, "received": 1, "documentary": 2, "award": 1}
+{"film director": 1, "screenwriter": 1, "Independent film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{"directed by": 1, "producer of film": 1, "Academy Award- winning movies": 1, "credits including": 1, "adaptation of": 1, "gained a reputation for": 1}
+{"film": 4, "released": 1, "directed by": 1, "written by": 1}
+{"directed by": 1, "produced by": 1, "written": 1, "film": 3}
+{"nominated for": 1, "appeared in": 3, "performed in": 1}
+{"written by": 1, "directed by": 1, "produced by": 1}
+{"animated": 1, "film": 1}
+{}
+{"appeared in": 3}
+{"directed": 6, "starred": 6, "nominated": 4, "film": 10, "films": 3, "adaptation": 2, "adaptations": 1, "action-thriller": 1, "documentary": 1, "series": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a": 3, "sequel to": 1, "followed by": 1}
+{"is a": 3, "sequel to": 1, "title": 1, "relation to": 1}
+{"directed by": 1}
+{"directed by": 1, "released": 2, "sequel": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1}
+{}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{"directed by": 1}
+{}
+{"film": 2, "film adaptation": 2}
+{}
+{"written by": 1, "directed by": 1, "premiered": 1}
+{}
+{}
+{"recorded by": 1, "written by": 1, "features": 1, "received": 1, "performed": 1, "debuted": 1, "released": 1}
+{"composer of": 1}
+{"producing": 1, "hit singles": 1, "featuring": 3, "nominated for": 1, "Album of the Year": 1, "released": 2, "solo project": 1, "track": 2, "co-written": 1, "collaboration": 1, "cover story": 1, "co-writes": 1}
+{"directed": 1, "composed": 1, "appeared": 2, "films": 3, "actor": 2, "actress": 1}
+{"directed by": 1, "film": 2}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{"playing": 3}
+{"directed by": 1}
+{"directed by": 1, "stars": 1, "released": 2, "portrays": 1, "led to": 1, "gave": 1, "reclassified": 1, "cut": 2}
+{"directed by": 1}
+{"film": 1, "actress": 1, "roles in": 2}
+{"films": 5, "director": 1, "screenwriter": 1, "won": 2, "Academy Award": 2, "Best Director": 1, "Best Adapted Screenplay": 1, "Honorary Palme d' Or Award": 1, "Cannes Film Festival": 1}
+{}
+{"directed by": 1, "spoof of": 1}
+{"released": 2, "directed by": 1, "parody of": 1}
+{"films": 6, "film": 4, "movie": 1, "cinema": 1, "theater": 2, "produced": 3, "producing": 1, "directed": 1, "released": 1, "screened": 1, "rediscovered": 2, "restored": 2, "retrospective": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1, "starring": 1, "art direction": 1}
+{"directed by": 1, "film": 3}
+{"directed by": 1, "starring": 1, "based on": 1, "released": 1, "earned": 1, "nominated": 1, "music by": 1, "lyrics by": 1, "performed in": 1, "sung in": 1}
+{"directed by": 1, "written by": 1, "starring": 1, "released": 1}
+{"directed by": 1, "released": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "starring by": 1}
+{}
+{"directed by": 1, "starring": 1, "adaptation of": 1, "film debut": 1, "film's production": 1, "scenes of the film": 1}
+{"directed by": 1, "starring": 1, "remake of": 1, "released": 1}
+{}
+{"directed by": 1, "written by": 1, "sequel to": 1, "released": 1}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"won": 1}
+{}
+{}
+{}
+{"film": 1, "movie": 1, "magazine": 1, "cinema": 1, "playwright": 2, "theater": 1}
+{"directed by": 1, "starring": 1, "produced by": 1, "distributed by": 1}
+{}
+{}
+{"directed by": 1}
+{"listed in": 3, "mentioned in": 2, "called": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "album": 3, "single": 1, "recorded by": 1, "added": 1, "mash-up": 1}
+{"released": 1, "charted": 1, "hit": 1, "portrayed": 1, "film": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "makes a special appearance in": 1, "composed by": 1}
+{"is a": 1, "about": 1}
+{"based on": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "starring": 1, "is the sequel to": 1, "soundtrack song": 1, "received": 1, "nominated for": 2}
+{}
+{}
+{"films": 6, "debut films": 1, "C\u00e9sar Award": 1, "film star": 2, "performances in": 1, "James Bond film": 1}
+{"film": 3, "director": 1, "screenwriter": 1, "actor": 2, "performance": 1, "title character": 1}
+{"film": 3, "film adaptation": 2, "silent film version": 1, "play": 3, "eighth film adaptation": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"directed by": 1, "written by": 2, "starring": 1, "appearing in": 1, "released": 1, "singing": 1, "director": 1}
+{"film": 3, "documentary film": 2, "nature films": 1, "Outstanding Direction in documentary film": 1, "Emmy Award": 1, "Outstanding Science Program": 1}
+{"directed by": 1}
+{"is a": 1, "premiered at": 1, "won": 1, "compete in": 1}
+{"adapted by": 1, "directed by": 1, "written by": 1, "released in": 1}
+{"directed by": 1}
+{}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{}
+{}
+{"directed": 2, "film": 1, "wrote": 1}
+{}
+{}
+{"directed by": 1, "written by": 1, "sequel": 2, "film": 6, "released": 2, "produced by": 1, "title was announced": 1, "principal photography commenced": 1}
+{"directed by": 1, "inspired from": 1, "released": 1}
+{"film": 2, "photographer": 1, "jury member": 1, "awarded": 1}
+{"directed by": 2, "film": 4, "sequel to": 1, "installment of": 1}
+{"films": 3, "roles": 1, "sequels": 2}
+{"sequel to": 1, "film": 2, "directed by": 1, "written by": 1, "released": 1}
+{"directed by": 5, "movies": 4, "portrayed": 1, "role in": 1}
+{"directed": 8, "films": 8, "wrote": 1, "co-wrote": 1, "episodes": 1, "acclaimed": 1}
+{"directed by": 2, "written by": 4, "released": 3, "based on": 2, "film": 6, "movie": 5, "magazine": 1, "musical": 1, "series": 1, "sequel": 1, "awards": 2, "feature film": 1, "direction": 1, "came out": 1}
+{"directed": 1, "film": 5, "films": 2, "music composer": 2, "documentaries": 1, "shorts": 1, "feature films": 1, "Pather Panchali": 1, "Aparajito": 1, "Apur Sansar The World of Apu": 1, "The Apu Trilogy": 1, "scripting": 1, "casting": 1, "scoring": 1, "editing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "composed by": 1, "stars": 1, "opened to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed": 1, "films": 2, "work": 1}
+{"film": 3, "television": 1, "theater": 1, "grindhouse": 1, "Zombie Hunter": 1, "Elegy for a Revolutionary": 1, "Forbidden Ground": 1}
+{"directed by": 1, "released": 1}
+{"directed by": 2, "starring": 1, "written by": 3}
+{"directing credits": 1, "producer": 2, "film": 2, "series": 2, "executive producer": 1, "directed": 2, "episodes": 2}
+{"directed by": 1, "story by": 1, "screenplay by": 1, "stars": 1, "released": 1}
+{}
+{}
+{}
+{}
+{}
+{"published": 1, "called": 2}
+{"published": 1, "known as": 1}
+{"was a magazine": 1, "distributed to": 1}
+{"published": 2, "featured": 1, "devoted to": 1, "going on sale": 1, "ceased publication": 1}
+{"published": 1}
+{}
+{"published": 1}
+{"is": 1, "based in": 1, "specializing in": 1}
+{"came out": 1}
+{"came out": 1, "covered": 1, "ceased publication": 1, "last dated issue": 1}
+{}
+{}
+{"film": 10, "movie": 0, "drama": 6, "romantic comedy": 4, "thriller": 4, "action film": 1, "ensemble": 3, "crime film": 2, "romance": 2, "comedy-dramas": 2, "English film": 1}
+{"films": 2, "Filmfare Award": 1, "Celebrity 100": 1}
+{}
+{"directed": 1, "films": 3, "movies": 4, "starring": 1, "considered as classics": 1, "acted in": 1}
+{"film": 5, "film adaptation": 2, "play": 2, "film version": 2, "directed": 1, "distributed": 1, "available for online download": 1}
+{"directed": 1, "film": 4, "entered into": 3, "film festival": 3}
+{"directed by": 2, "starring": 2, "film": 2, "received": 1, "Best Director Award": 1}
+{"series": 3, "earned": 2, "nominated": 1}
+{"directed by": 1, "entered into": 1}
+{"is": 1, "stars": 1}
+{"is a": 2, "based on": 1, "sequel to": 1, "was released": 1}
+{"written by": 1, "directed by": 1, "starring": 1}
+{"directed by": 1, "produced by": 1, "released": 2}
+{"film": 1, "documentary": 1}
+{"published": 3, "serialized": 1, "won": 1, "awards": 2}
+{"won": 1, "original production of": 1}
+{}
+{"films": 3, "film": 2, "comedy": 1, "television": 2, "actress": 1, "cinematographer": 1, "composer": 1}
+{}
+{}
+{"film director": 1, "Film Production": 1, "Cultural Studies": 1, "TV series": 1}
+{}
+{}
+{"appearance in": 1, "relationship with": 1, "introduced to": 1, "immortalised in": 1, "authored by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{}
+{"film director": 1, "film producer": 1, "singer": 1, "actress": 1, "model": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"known for": 1, "leading roles in": 2}
+{}
+{}
+{"featured on": 1, "soundtrack": 2, "song": 4, "album": 3, "produced by": 2, "teamed with": 2, "released": 1, "called": 3, "signed to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "produced by": 1, "stars": 1, "following": 1}
+{"directed by": 1, "written by": 1, "released": 3, "nominated for": 2, "winning": 1, "sequel": 2}
+{"film": 3, "sequel": 1, "nominated": 3, "Academy Award": 3, "Oscar nomination": 2}
+{"directed by": 1, "written by": 1, "stars": 1, "produced by": 1, "followed by": 1}
+{"directed by": 7}
+{"directing": 1, "co-writing": 1, "aired": 1}
+{"directed by": 1, "written by": 1, "premiered": 1, "released": 1, "nominated for": 3}
+{"directed by": 1, "written by": 1, "produced by": 1, "stars": 1, "followed by": 1, "reboot": 1, "remake": 1}
+{"directed by": 1, "titled": 1, "based on": 1}
+{"released": 3, "directed by": 1, "written by": 1, "stars": 1, "premiered at": 1, "aired on": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"known for": 2, "musical": 1, "ran": 1, "writing": 1, "hit song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 3, "album": 2, "song": 3, "re-released": 1, "entered": 2, "peaked": 1, "re-recording": 1}
+{}
+{"directed by": 1, "documentary film": 1, "studio album": 1}
+{"released": 3, "debut": 2, "single": 1, "album": 2, "song": 6, "music video": 4, "voted": 2, "performed": 1, "tours": 1, "nominated": 1, "included": 1, "featured": 2, "compilation": 1}
+{"released": 1, "documentary": 1, "compilation album": 1}
+{"released": 4, "debut": 2, "album": 4, "song": 5, "single": 2, "tape": 2, "track": 1, "tour": 2, "certification": 1, "success": 3, "performance": 1, "nominations": 1}
+{"lead single": 1, "album": 1, "certified Platinum": 1, "reached number 1": 1, "number 14": 1}
+{"written by": 1, "directed by": 1, "stars": 1, "released": 1}
+{}
+{"directed by": 3, "film": 4, "movie": 0, "released": 0, "came out": 0, "composed by": 0, "nominated": 3, "best known for": 1, "named as": 1, "blacklisted": 1, "testify": 1, "rehabilitated": 1, "critical and commercial success": 1, "highest grossing": 1, "awards": 1, "achievement": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1, "produced by": 1, "distributed by": 1}
+{}
+{"directed by": 1, "produced by": 1, "based on": 1, "collaborated on": 1}
+{"directed": 1, "films": 2, "starred in": 1}
+{"starring": 1, "film": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "most successful film": 2}
+{"directed by": 1, "inspired by": 1, "working title": 1}
+{}
+{"nominated for": 1, "won": 1, "made": 1, "delivered": 1, "proved": 1}
+{}
+{"directed by": 1, "remake of": 1}
+{"film": 2, "next film": 1, "character": 2}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{"is": 1, "works in": 1}
+{"written by": 1, "directed by": 1, "stars": 1, "sequel to": 1}
+{}
+{"directed by": 1, "based on": 1, "stars": 1, "was also known as": 1}
+{"directed by": 1, "written by": 1, "stars": 1}
+{"directed": 4, "film": 4, "Westerns": 2, "film noir": 1, "medieval epic": 1, "big- budget film": 1}
+{"directed by": 1, "composed by": 2, "stars": 2, "singing for": 2, "has a song by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "starring": 1, "featuring": 1}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "film": 4, "movie": 1, "written by": 1, "photographed in": 1, "released": 1, "received by": 1, "nominated for": 1, "won in": 1}
+{}
+{}
+{}
+{"directed by": 1}
+{"directed by": 1, "released": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{"film": 2, "fantasy film": 1, "tetralogy": 1}
+{}
+{}
+{}
+{}
+{"is a": 1, "directed by": 1}
+{}
+{"referred to as": 1}
+{}
+{"directed by": 1, "entered into": 1}
+{"directed": 3, "film": 3}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{"appeared in": 1, "directed": 2}
+{}
+{"directed by": 1}
+{}
+{"directed by": 1, "produced by": 1, "stars": 1, "based on": 1, "movie": 1, "film": 2, "release": 1}
+{}
+{"directed by": 3, "producer": 3, "film": 1, "television series": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"published": 3, "written by": 2, "recorded by": 1, "topping": 1, "included": 1}
+{}
+{}
+{}
+{}
+{"directed by": 1, "film": 4, "feature film": 3, "adaptation": 1, "novel": 2}
+{}
+{"directed by": 1, "film": 4, "adaptions": 1, "silent": 3, "color": 1, "sound": 1}
+{"wrote for": 1, "directed": 2}
+{}
+{"film": 4, "movie": 3, "song": 2, "motion picture": 1, "composer": 1, "lyricist": 1, "screenwriter": 1, "director": 1}
+{"directed by": 1}
+{}
+{"recording": 1, "featured on": 1, "release": 1, "influenced": 1, "recorded with": 1}
+{"directed by": 1, "based on": 1, "reprised her role from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "movie": 2, "teleplay": 1, "script": 1, "story": 2, "awards": 3, "Best Supporting Actress": 1, "Best story": 1}
+{"directed by": 1, "film": 5, "Best Picture": 1, "Best Director": 1, "Best Film": 1}
+{}
+{"film": 5, "drama film": 1, "CineFilipino Film Festival": 2, "literary classic": 1, "morality tale": 1, "actress": 1, "director": 1, "dialogue": 1, "authenticity": 1, "subtitles": 1, "top-grosser": 1}
+{"referred to as": 1, "written by": 1, "directed by": 1, "starred": 1, "theatrical release": 1, "banned by": 1, "presumed to be": 1}
+{"films": 3, "silent film": 2, "sound film": 1, "director": 2, "screenplays": 1}
+{"film director": 1, "producer": 1, "Western films": 1}
+{"directed by": 1, "film": 4, "movie": 1}
+{"directed by": 1, "film": 2}
+{"director": 1, "actress": 1, "producer": 1, "screenwriter": 1, "film": 2, "independent film": 1, "film production company": 1, "won": 1, "award": 1, "Berlin International Film Festival": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1}
+{"released": 2, "debut studio album": 1, "singles": 2, "features": 1}
+{}
+{"released": 2, "album": 2, "deluxe edition": 1, "recording sessions": 1, "production": 1, "debuted": 1, "selling": 1, "well received": 1}
+{"released": 2, "album": 2, "single": 1}
+{"released": 2, "album": 2, "features": 1}
+{}
+{"released": 2}
+{"released": 3, "album": 5, "produced by": 1, "recorded": 1, "influenced by": 1, "debut": 1, "singles": 2, "peaked at": 1, "acclaimed by": 1, "ranked": 1, "included on": 1}
+{"released": 2, "produced by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "film": 2, "Argentine": 2, "Best Foreign Language Film": 1, "Academy Awards": 1, "nominee": 1}
+{"directed": 5, "film": 6, "short": 1, "full-length film": 1, "adaptation": 1, "based on": 3, "novel": 3, "poem": 1, "biography": 2}
+{"directed by": 3, "co-produced": 1, "written by": 1, "screenplay": 2, "title song": 1, "starring": 1}
+{"directed by": 3, "film": 5, "sequel": 1, "prequel": 1, "starring": 1, "released": 1}
+{"appeared in": 5, "films": 3, "as a child artist in": 1, "in": 4, "screen debut as an adult in": 1, "which emerged as": 1, "reality shows including": 1}
+{"directed by": 1, "produced by": 1, "written by": 1, "edited by": 1, "featured in": 1, "released": 2, "remake of": 1, "cameo appearances in": 1}
+{"directed by": 1, "starring": 1, "like": 1, "starrer": 1, "super hit": 1}
+{"written by": 1, "directed by": 2, "released": 1, "stars": 1, "focus on": 1, "edited by": 1, "directing": 1}
+{"directed": 6, "films": 8, "film": 5, "productions": 1, "series": 3}
+{"was": 1, "director": 1, "writer": 1, "producer": 1}
+{}
+{"film": 5, "movie": 1, "produced by": 1, "co-directed by": 1, "wrote": 1, "distributed by": 1, "storyline": 1, "written and directed": 1, "features": 1}
+{"known for": 1, "role as": 1}
+{"movie": 1, "serial": 5, "produced by": 1, "co-directed by": 1, "written by": 1, "adapted from": 1, "shown theatrically": 1, "retitled": 2, "edited down": 1, "feature-length films": 2, "re-edited": 1, "title": 1, "available": 2, "shown chapter-by-chapter": 1, "theatrical release": 1, "released": 1}
+{"movie": 1, "serial": 3, "based on": 1, "followed by": 1}
+{"directed by": 1, "film": 2, "adaptation": 1, "novel": 1}
+{"released": 3, "theatrical release": 1, "sequel": 1}
+{"feature film": 2, "serial": 2, "made for TV movies": 1}
+{}
+{}
+{}
+{}
+{"directed by": 1, "produced by": 1, "composed by": 1, "remade in": 1}
+{"directed": 1, "films": 1, "cinema": 2, "social films": 1, "middle cinema": 1, "Film Certification": 1, "Film Development Corporation": 1, "Award": 3, "Filmfare Awards": 1}
+{"directed by": 1, "based on": 1, "filmed in": 1, "stars": 1, "won": 1, "entry to": 1}
+{}
+{"film": 2, "director": 1, "screenwriter": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "entered into": 1}
+{"films": 5, "film series": 1, "Tarzan": 3, "Tarzan \u2019s Hidden Jungle": 1, "television episodes": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "nominated for": 1}
+{"directed by": 1, "starring": 1, "released": 1, "film": 4, "movies": 1}
+{"directing": 6, "film": 6, "won": 1, "earned": 1, "nominated": 1}
+{"film": 8, "classic": 1, "sequel": 1}
+{"made": 2, "film": 3, "first- ever": 1, "three- strip": 1, "Technicolor": 1, "directorial output": 1, "film noir": 1, "thriller": 1, "drama": 1, "western": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 7, "feature film": 1, "television dramas": 1, "film production": 1, "film producers": 1, "film- friendly": 1, "film industry": 2, "micro-budget projects": 1, "Mannin Shorts": 1, "workshops": 1}
+{"produced": 1, "ordered": 1}
+{"directed by": 1, "written by": 1, "starring": 1}
+{"depicted on": 1}
+{"film": 2, "directors": 1}
+{"is": 1, "is the writer": 1, "director": 2, "lead actor": 1}
+{"produced": 1}
+{"directed by": 1, "based on": 1}
+{"produced": 1}
+{}
+{"directed by": 1, "written by": 1}
+{}
+{"known for": 1}
+{"directed by": 1}
+{"directed by": 1, "produced by": 1, "distributed by": 1, "based on": 2, "considered a lost film": 1, "remake of": 1}
+{"is": 4, "credited to": 1, "B-side to": 2, "entitled": 1, "supposedly a tribute to": 1, "became famous for": 1, "introduced": 1, "thought that": 1, "wrote": 1, "gave the credit to": 1, "were supposed to write": 1}
+{"appeared in": 1, "recorded": 1, "solo album": 1, "released": 2, "toured": 1, "produced": 1, "inducted into": 1, "voted": 1}
+{"directed by": 1, "producer": 1, "film": 1}
+{}
+{}
+{"directed by": 1, "produced by": 1, "released": 2}
+{}
+{}
+{"directed by": 1, "released": 2, "starring": 2}
+{"directed": 2, "wrote": 3, "film": 3, "feature films": 2, "short film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "composed by": 2, "film": 2, "movie": 1, "song": 1}
+{"directed by": 1, "produced by": 1, "stars": 1, "musical score by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "released": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1, "screenplay by": 1, "based upon": 1}
+{}
+{}
+{"directed by": 1, "starring": 1, "art direction was by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "produced by": 1, "stars": 1, "had musical score by": 1}
+{"is a": 1}
+{"released": 3, "consists of": 3, "followed by": 4, "written and narrated by": 1}
+{"include": 2}
+{"lyricist": 1, "songs": 1, "films": 2, "directed": 1, "produced": 1, "acted": 1, "cinema": 1, "feature films": 2, "documentaries": 1, "movies": 1}
+{"films": 4, "directed by": 1, "collaboration": 1}
+{"directed by": 1, "stars": 1, "had musical score by": 1}
+{"directed by": 1, "documentary film": 1}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{}
+{"directed by": 1, "subtitled": 1, "film": 2}
+{}
+{}
+{"directed by": 3, "adapted from": 1, "remade as": 1, "starring": 2}
+{"film": 2, "film series": 1}
+{"directed by": 1, "movie": 1, "film": 1, "perform": 1, "show": 2, "invites": 1, "watch": 1, "marry": 1, "released": 1}
+{"written": 1, "directed by": 1, "starring": 1}
+{"films": 6, "film": 5, "directed by": 2, "awards": 3, "Best Director": 4, "Best Film": 1, "Golden Horse Awards": 1, "Asia Pacific Film Festival": 1, "Hong Kong Film Awards": 1, "Grand Slam": 1, "Summer Snow": 1, "A Simple Life": 1, "Asian Film Awards": 1}
+{"directed by": 1, "produced by": 1, "released": 1, "listed as": 1, "starring": 1, "title of the film": 2, "sequel": 1, "translates as": 1}
+{"directed by": 1}
+{"produced": 3, "released": 1, "listed as": 1, "translated as": 1}
+{"directed by": 1}
+{"directed by": 1, "documentary": 2, "film": 3, "premiered": 1, "release": 1, "broadcast premiere": 1, "nominated": 2, "song": 1}
+{"directed by": 1, "released": 1, "film": 3, "opera": 1}
+{"studied": 1, "taken part in": 1}
+{"written by": 1, "directed by": 1, "produced by": 1, "based on": 1, "music by": 1, "libretto by": 1, "star in": 1, "adapted": 1, "arranged": 1, "conducted by": 1, "released by": 1}
+{"directed": 1, "appeared in": 1, "documentary": 2, "won": 1}
+{"featured in": 3}
+{"film": 2}
+{}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"written": 1, "directed by": 1, "produced by": 1, "starring": 1, "released": 1, "received": 2, "music": 1}
+{"directed by": 1}
+{"directed by": 1, "film": 2, "comedy film": 1, "commedia all'italiana": 1}
+{}
+{"is a": 1}
+{"film director": 1, "producer": 1, "screenwriter": 1, "horror film": 1, "masterpieces": 2, "The House with Laughing Windows": 1, "Zeder": 1}
+{}
+{"films": 5, "directed": 2, "produced": 1, "collaborated": 1}
+{"film": 5, "film journal": 1, "Cahiers du cin\u00e9ma": 1, "film festival": 2, "Academy Awards": 1, "San Sebasti\u00e1n International Film Festival": 1, "Golden Lion": 2, "Venice Film Festival": 2, "obituary": 1, "movies": 1}
+{"directed by": 8, "produced": 1}
+{"directed by": 1, "premiered": 1, "productions called": 1}
+{"directed by": 1, "film": 3, "Tales of the Four Seasons": 1, "A Tale of Springtime": 1, "A Tale of Winter": 1, "A Summer's Tale": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring role in": 1, "adaptation of": 1, "contributed the voice of": 1}
+{"starring": 1, "directed by": 1, "based on": 1, "made into": 1, "released": 1}
+{"released": 2, "directed by": 1, "adaptation of": 1, "published in": 2, "followed by": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 2, "film": 1, "novel": 2}
+{"is a": 1, "known as": 1}
+{"directed by": 1, "based on": 1, "written by": 1}
+{}
+{"films": 4, "director": 1, "screenwriter": 1, "actor": 1, "silent era": 1, "Golden Age of Silent Film": 1, "leading role": 1}
+{}
+{}
+{"released": 2, "republished": 1, "sequel": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{}
+{"appeared in": 3, "films such as": 1}
+{"directed": 1, "documentary": 1, "film": 1}
+{"directed": 5, "wrote": 3, "composed": 2, "released": 1, "staged": 1, "filmed": 1, "starred": 2}
+{}
+{"is a": 1, "stars": 1}
+{"directed by": 1, "starring": 1, "screenplay by": 1, "based on": 1}
+{"film": 2, "actress": 2, "singer": 1, "dancer": 1, "operetta": 1, "film adaptation": 1, "studio": 1, "Hungarian films": 1}
+{}
+{}
+{}
+{}
+{"recorded": 8, "released": 6}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a": 1, "film": 1}
+{"directed by": 1, "released": 1, "based on": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1, "adaptation of": 1}
+{"starring": 1, "directed by": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1}
+{"is a": 1, "film": 2, "as director": 1}
+{"is a": 1}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{"directed": 2, "produced": 1, "film": 5, "documentary": 2, "won": 1, "received": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"best actor": 1, "nominated": 1, "role": 2, "film": 1, "theater": 1, "TV": 1, "productions": 1}
+{}
+{"film": 1}
+{"is a": 1, "by": 1}
+{"directed by": 1, "film": 2, "propaganda film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"written by": 1, "directed by": 1, "inspired by": 1, "title": 1, "translates as": 1, "themes in the film": 1}
+{}
+{"directed by": 1}
+{"directed": 1, "films": 3}
+{}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1, "known as": 1}
+{"film": 4, "movie": 0, "released": 0, "came out": 0, "directed by": 0, "composed by": 0}
+{"film": 3, "directed by": 1, "produced": 1, "nominated": 1, "screenplay": 1}
+{"film": 6, "television": 4, "movie": 0, "series": 3, "first film": 1, "first wife": 1, "appeared in": 2}
+{"directed by": 1}
+{"directed": 4, "films": 3, "actor": 2}
+{"directed": 5, "films": 8, "feature films": 1, "pictures": 1, "movies": 0, "songs": 0, "magazines": 0, "won": 1, "received": 1, "nominations": 2, "introduced": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"produced": 3, "co-writer": 1, "album": 3, "single": 2}
+{"directed by": 1}
+{"directed by": 1, "film": 2}
+{"film director": 1, "screenwriter": 1, "cinematographer": 1, "films": 2, "shown in": 1, "retrospective section": 1}
+{"directed": 1, "screened": 1, "selected": 1, "compete for": 1}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 6, "directorial debut": 1, "starring": 4, "released": 1, "box office hit": 1, "box office and critical failure": 1, "blockbuster": 1, "mixed response": 1}
+{"directed by": 2, "remake of": 1, "written by": 1, "released": 1, "movie": 1}
+{"produced": 3, "film": 3, "production": 2}
+{"directed by": 1}
+{"is a": 1, "film director": 1, "screenwriter": 1}
+{"directed by": 1, "starring": 1, "designed by": 1, "reflects": 1}
+{"directed by": 1, "film": 3, "documentary": 2, "studio": 1, "based on": 1, "portray": 1, "casting": 1}
+{}
+{}
+{}
+{"directed by": 1, "produced by": 1, "screenwriter": 1, "won": 1, "nominated": 1}
+{}
+{}
+{}
+{"wrote": 1, "plays": 1, "have survived": 1}
+{"directed by": 1, "starring": 1, "movie": 2, "based on": 1, "adapts": 1, "film": 3, "original novel": 1}
+{"directed by": 1, "nominated for": 1, "includes": 1, "indicate that": 1, "have been recreated": 1}
+{"film": 5, "produced by": 2, "advertised as": 1, "sold to": 1, "written by": 1, "based on": 1, "directed by": 2, "released": 1}
+{"produced by": 1, "written by": 1, "based on": 1, "directed by": 2, "released": 2}
+{"actor": 1, "director": 1, "screenwriter": 1, "film": 1}
+{}
+{}
+{}
+{"Music of Life": 1, "The Mysticism of Sound and Music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"produced": 1, "ranked": 2}
+{}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"film": 4, "movie": 1, "television": 2, "series": 1, "drama show": 1, "first film appearance": 1, "cult horror film": 1, "theatrical release": 1, "DVD": 1}
+{}
+{"directed": 8, "films": 9, "film": 4, "nominated": 1, "collaborated": 1, "president": 2, "award": 1}
+{"directed by": 1, "released": 1, "adapted from": 1}
+{"directed by": 1, "starring": 1, "film debut": 1}
+{}
+{}
+{}
+{"directed": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"based on": 1, "directed by": 1, "written by": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "adapted for the screen by": 1, "includes": 1, "follows": 1, "received": 1, "criticized": 1, "praised": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "film": 2, "appearance": 1}
+{"appeared in": 4, "credited as": 2, "played": 3, "movie contract": 1, "film": 2, "documentaries about": 1, "star of": 1}
+{"produced by": 1, "played by": 1}
+{"released": 1}
+{"produced by": 1, "available on": 1, "part of": 1, "feature": 1}
+{"directed by": 1, "starring": 1, "known as": 2}
+{"written": 1, "directed by": 1, "starring": 1}
+{}
+{"nominated": 3, "film": 4, "directorial debut": 1, "added to": 1}
+{"directed by": 1, "stars": 1, "produced by": 2, "not to be lost": 1, "features": 1, "claims to be in": 1}
+{"released": 2, "recorded": 1, "composed by": 1, "written by": 1, "received": 2, "peaked at": 1, "certified": 1, "sold": 2, "shot by": 1}
+{}
+{}
+{"best known roles": 1, "film": 1, "stage": 1, "television": 1}
+{"film": 3, "movies": 1, "film franchise": 1, "film series": 1}
+{}
+{"directed by": 1}
+{}
+{"designed for": 3, "includes": 1}
+{}
+{}
+{"written by": 1, "released": 2, "included on": 1, "B-side": 2, "single": 1, "photograph": 1}
+{"songs": 6, "singer": 2, "songwriter": 1, "composer": 1, "music": 1}
+{}
+{"released": 1, "written by": 1, "spent": 1, "peaking at": 1, "reaching": 1, "reached": 2, "ranked": 1}
+{"written by": 1, "included on": 1, "album": 1, "survive": 1, "demos": 1}
+{"released": 1, "written and recorded by": 1, "attributed to": 1, "hit on": 1, "peaked at": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1, "remake of": 1}
+{}
+{"directed": 1, "film": 1, "shown": 1}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "written by": 1, "based on": 1}
+{"directed by": 1, "screenplay written by": 1, "produced by": 1, "music director": 1}
+{"directed by": 1, "film": 2, "debut film": 1}
+{"directed": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "film": 3, "movie": 2, "title": 1}
+{"is a": 1, "by": 1, "from": 1}
+{"directed by": 1, "starring": 1, "re-released": 1}
+{"directed by": 1, "produced": 1, "distributed": 1}
+{"directed by": 1, "based on": 1, "wrote": 1, "nominated for": 1, "for the movie": 1}
+{"known as": 2, "sequel to": 1, "film": 2}
+{"directed by": 1, "film": 3, "sequel to": 1, "referenced in": 1}
+{}
+{}
+{}
+{"director of": 1, "screenwriter of": 1}
+{"directed": 1, "film": 1, "films": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "about": 1, "spoofed in": 1}
+{"directed by": 1, "written by": 1, "starring": 1, "recorded a song": 1, "contributed music": 1}
+{}
+{"director of": 1}
+{"released": 4, "came out": 1}
+{}
+{}
+{}
+{"appeared in": 1, "sang": 1, "presented as": 1, "played": 1}
+{"film": 6, "movies": 3, "directorial debut": 1, "film biography": 1, "propaganda films": 2, "hit movies": 1, "war films": 1, "crime films": 1, "television": 1, "series": 2, "mini-series": 1}
+{"directed by": 1, "produced by": 1, "starring": 1, "based on": 1, "shown in": 1}
+{"directed by": 1}
+{"directed by": 1, "written by": 1, "based on": 1, "composed by": 1}
+{"directed by": 1, "written by": 1, "performed by": 1}
+{"film director": 1, "screenwriter": 1, "producer": 1, "works": 1}
+{"directed by": 1, "written by": 1, "performed by": 1}
+{"directed by": 1, "starring": 1, "designed by": 1, "shot at": 1, "on location in": 1}
+{"film": 3, "TV": 2, "actor": 1, "protagonist": 1, "TV series": 1}
+{"appeared in": 3, "film": 3, "in": 3, "TV series": 1}
+{"film": 1, "actress": 1, "Hindi language films": 1}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "starring": 1, "distributed by": 1, "premiered at": 1, "planned for a theatrical release": 1}
+{}
+{}
+{}
+{}
+{"is": 1, "debut": 1, "studio album": 1, "by": 1}
+{"directed by": 1, "known as": 1}
+{}
+{"directed by": 2, "released": 1, "starring": 1, "followed by": 1, "featuring": 1, "returning": 2}
+{"directed by": 2, "starring": 1, "sequel to": 1, "features": 1}
+{"film": 2, "director": 1, "martial arts": 2, "actor": 1}
+{"directed by": 1, "written by": 1, "based on": 1, "titled": 1, "film": 4}
+{"film": 1, "TV director": 1, "music video director": 1, "musician": 1, "songwriter": 1, "band": 1}
+{"directed by": 1, "based on": 1, "premiere": 1, "opened in limited release": 1, "released": 2}
+{"film": 5, "films": 4, "director": 1, "producer": 2, "editor": 1, "screenwriter": 1, "cinematographer": 1, "actor": 1, "Ghost Catchers": 1, "Anchors Aweigh": 1, "Unconquered": 1, "Man Beast": 1, "screenplays": 1}
+{"directed by": 1, "based on": 1, "film": 5, "adaptation": 3, "released": 2}
+{"directed by": 1, "written by": 1, "starring": 1, "released": 1}
+{"produced by": 1, "distributed by": 1, "directed by": 1, "based on": 1, "adapted": 1, "starred": 3, "costarred": 1, "marked": 1}
+{"film": 2, "movie": 1, "written by": 1, "directed by": 1, "appeared in": 1}
+{"directed": 1, "wrote": 1, "films": 1}
+{"appeared in": 1}
+{"directed by": 1, "film": 3, "biopic": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "based on": 1, "portrays": 1, "plays": 1, "last film": 1}
+{"film": 3, "movie": 3, "directed": 2, "married": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "produced by": 1, "featured": 1, "peaked on": 1}
+{"released": 3, "debut": 2, "single": 1, "album": 3, "signed": 2, "chart": 1, "certified": 2, "show": 1}
+{}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"directed by": 1, "film": 2}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "based on": 2, "documentary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a film by": 1, "is also known as": 1, "exhibited at": 1, "featuring": 1, "produced by": 1}
+{"directed by": 1}
+{"directed by": 1}
+{"directed by": 1}
+{"written": 1, "directed by": 1, "starring": 1}
+{}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 5, "produced": 2, "film producer": 1, "film distribution": 2, "film festival": 1, "film distribution company": 1}
+{}
+{"directed by": 1, "starring": 1, "followed": 1}
+{"directed by": 1, "starred in": 1, "wrote": 1, "served as executive producer of": 1}
+{"films": 8, "film": 3, "television": 3, "television series": 1, "television biographical film": 1, "soap opera": 1, "limited series": 1, "drama": 1}
+{"released": 2}
+{}
+{"released": 1, "lead single": 1, "studio album": 1, "release date": 1, "made available": 1, "purchase": 1, "produced": 1, "trilogy": 1}
+{}
+{"directing": 6}
+{"directed by": 1, "starring": 1}
+{}
+{"directed by": 1, "starred": 1, "listed as": 1, "based on": 1}
+{"directed by": 1, "based on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "movie": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "is about": 1, "inspired by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 5, "films": 4, "feature films": 1, "Telugu film": 1}
+{}
+{"directed by": 1, "stars": 1}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "based on": 1, "featured in": 1}
+{"best known for": 1}
+{"produced": 1, "distributed": 1, "Directed by": 1, "starring": 1, "taken from": 1, "filmed as": 1}
+{}
+{"directed by": 1, "produced by": 1, "distributed through": 1, "survives in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"created by": 1, "exhibited at": 1, "animated short": 1, "test project": 1, "based off": 1, "found as": 1, "directed": 1}
+{"known for": 1, "animated shorts": 2, "Academy Award": 1, "Best Animated Short Film": 1, "film": 2, "feature length": 1, "computer-animated film": 1}
+{"directed by": 1, "produced by": 1, "stars": 1, "musical score by": 1}
+{"composed": 2, "directed by": 2, "music for": 1, "feature films": 3, "movies": 1, "soundtracks": 1, "won": 1, "sang": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"composed by": 1, "songwriter": 1, "song compositions": 1}
+{}
+{"directed by": 1, "entered into": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"released": 1, "written by": 2, "performed live": 1, "album": 1, "single": 1, "gold record": 1, "tour": 3}
+{}
+{"directed by": 1}
+{"directed by": 1, "based on": 1, "film": 2}
+{"film": 8, "short film": 1, "poem": 2, "version": 3, "soundtrack": 1, "album": 1, "tune": 1, "revision": 2, "edition": 2, "performance": 1, "movie": 0, "song": 0, "magazine": 0}
+{"released": 3, "directed by": 1, "produced by": 1, "written by": 1, "premiered at": 1, "sequel to": 1}
+{}
+{}
+{"directed by": 1}
+{"directed by": 1, "produced by": 1, "released": 2, "premiered": 1, "based on": 1, "sequel to": 1, "co-wrote": 1, "stars": 1, "filming began": 1, "received": 2, "grossing": 3, "nominations": 1}
+{}
+{"directed": 1, "films": 2}
+{}
+{}
+{}
+{"film director": 1}
+{}
+{"directed by": 1, "starring": 1, "based on": 1, "turned into": 1, "release": 1}
+{"directed by": 1, "released": 1, "inspired by": 1}
+{}
+{"directed by": 1, "starring": 1, "issued on": 1, "double bill": 1}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "part of": 1, "series of films": 1, "designed by": 1}
+{"film director": 1, "producer": 1, "screenwriter": 1}
+{"directed by": 1, "starring": 1, "part of": 1, "series of": 1, "known by": 1}
+{"directed by": 1, "adapted for the screen": 1, "based on the play": 1, "produced by": 1, "distributed by": 1, "filmed in": 1}
+{"directed by": 1, "starring": 1, "series of films": 1}
+{"directed by": 1, "film": 2, "produced": 1, "series": 1}
+{"directed by": 1, "starring": 1, "part of": 1, "series of films": 1}
+{"directed by": 1, "starring": 1, "part of": 1, "series of": 1, "made by": 1}
+{"directed by": 1, "starring": 1, "series": 1, "films": 2}
+{"directed": 5, "film": 4}
+{"directed by": 1, "rated": 1}
+{"released": 1, "based on": 1, "written by": 1}
+{"directed by": 1}
+{"released": 1, "directed by": 1}
+{"directed by": 1, "stars": 1, "music is by": 1, "penned by": 1, "based on": 1}
+{}
+{"produced": 2, "directed": 2, "film": 2, "movies": 1, "silent film": 1}
+{"starring": 1, "song": 1, "sarsuela": 4, "kundiman": 2, "theatrical producer": 1, "writer": 2, "plays": 2, "concerts": 1, "dramas": 1}
+{}
+{}
+{}
+{}
+{"written by": 1, "directed by": 1, "stars": 1, "released": 1}
+{"produced by": 1, "directed by": 1, "stars": 1, "composed by": 1}
+{"released": 2, "stars": 2, "produced": 2, "screenplay won": 1, "selected": 1, "chosen": 1}
+{}
+{"directed": 1, "feature films": 1, "directorial debut": 1, "film": 1, "movie": 1}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "scored by": 1, "produced by": 1, "released": 1}
+{}
+{"worked in": 1, "appeared as": 1, "in": 2}
+{"directed by": 1, "starring": 1, "remake of": 1}
+{"directed": 1, "created": 1, "documentary film": 1, "musical": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"worked with": 1, "association with": 2, "made": 2, "earned": 1, "received": 1, "nominated for": 1}
+{"is a": 1, "stars": 1, "started": 1, "was completed": 1}
+{"starring": 1, "co-produced by": 1, "features": 1, "screenplay by": 1, "directed by": 1}
+{"directed by": 1}
+{"film": 3, "movie": 1, "debut film": 1, "Kiss of Death": 1, "films noir": 1, "motion picture": 1}
+{"produced": 2}
+{"film": 4, "television": 3, "appeared in": 3, "notable for portraying": 1, "married to": 1, "met on": 1, "sound/ studio engineer in": 1, "recounted his experiences on": 1, "making of": 1}
+{"directed by": 1, "starring": 1, "produced by": 2, "feature film": 1}
+{}
+{"film": 1, "actress": 1, "film producer": 1, "silent film": 1}
+{"directed by": 1}
+{"directed by": 1, "released": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"edited": 1, "films": 2, "television series": 2, "Academy Award": 1, "Best Film Editing": 1, "Primetime Emmy Award": 1}
+{"directed": 1, "films": 1}
+{"directed": 5, "starring": 4, "silent classic": 1}
+{"directed by": 2, "starring": 2, "based on": 1, "produced on": 1, "adaptation": 3}
+{"directed by": 1, "starring": 1, "featuring": 2, "nominated for": 1, "scoring of a musical picture": 1, "songs such as": 1, "listed beginning with": 1, "remade": 1, "remake of": 1}
+{"is a": 1}
+{"directed by": 1, "remade": 1, "film": 5}
+{"released": 1, "film": 3, "nominated for": 1, "entered into": 1}
+{"edited": 2, "film": 2}
+{"is an": 1, "best known for": 1, "role in": 1, "drama film": 1}
+{"directed by": 1, "art direction was by": 1}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{"directed by": 1, "written by": 1, "based on": 1, "stars": 1, "premiered on": 1}
+{"directed by": 1, "released": 1}
+{"directed": 1, "film": 2, "television": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "album": 2, "single": 1, "track listing": 2, "hidden track": 1, "editions": 1, "ranked": 1, "magazine": 1, "title": 2, "song": 5}
+{"released": 1, "song by": 1, "studio album": 1, "single": 1}
+{"known as": 2, "copyrighted": 1, "draws on": 1, "sung in": 1}
+{"released": 4, "album": 6, "single": 5, "debut": 3, "featured on": 1, "number one": 3, "top": 4, "appeared in": 3, "film": 1}
+{"released": 1, "single": 2, "lead single": 1, "album": 1}
+{"released": 1, "song": 2, "single": 2, "album": 2, "music": 1}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "involved in": 1, "released": 1, "known as": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1}
+{"directed by": 1}
+{"produced by": 1, "distributed by": 1}
+{"directed by": 1, "released": 2}
+{"directed by": 1, "released": 1, "film": 4}
+{}
+{}
+{"films": 1, "songs": 1}
+{}
+{"directed by": 1, "nominated for": 1, "won": 1}
+{"directed": 1, "films": 1}
+{"directed by": 1, "starring": 1}
+{"directed": 4, "film": 5, "movie": 2, "feature film": 3, "made-for-TV movie": 1, "Toronto Star": 1, "Genie Awards": 2, "Best Motion Picture": 3, "Best Director": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "turned into": 1}
+{"directed by": 1, "based on": 1, "adapted into": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4, "musical": 1, "directed by": 1, "released": 1}
+{"released": 1, "direction of": 1}
+{"directed by": 1, "adaptation of": 1, "premiere at": 1, "acquired for distribution by": 1, "released": 1}
+{}
+{"film": 1, "director": 1, "scriptwriter": 1, "producer": 1, "worked as a cameraman": 1, "producer he realized": 1, "films": 1, "director:": 1}
+{"won": 2, "composer": 1, "producer": 1, "lecturer": 1, "professor": 1, "Film": 2, "Music": 2, "Award": 1, "Prize": 1, "Composition": 1}
+{}
+{}
+{"starred in": 2, "film": 2, "television series": 1, "won": 1, "awards": 2, "appeared in": 1}
+{"editor": 3, "magazines": 1, "Weekly Bichitra": 1, "Shaptahik 2000": 1, "Anandadhara": 1}
+{}
+{}
+{}
+{}
+{"editor of": 4}
+{}
+{}
+{"editor of": 2}
+{"recorded": 1, "performed": 1, "awarded": 3, "sold": 3, "recognized": 1, "celebrated": 1, "inducted": 1, "named": 1}
+{"released": 1, "sung by": 1, "albums": 2}
+{"films": 3}
+{"directed by": 2, "written by": 2, "film": 5, "adaptation of": 1, "version": 2, "short film": 1}
+{}
+{}
+{}
+{"directed by": 2, "screenwriter": 2, "producer": 1, "actor": 1, "films": 3}
+{"directed by": 1, "based on": 1, "stars": 1}
+{"films": 5}
+{"directed by": 1, "written by": 1, "stars": 1, "final screen appearance": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1, "art direction was by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "director": 1, "screenplay writer": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{"directed by": 1, "film": 2, "movie": 1, "portrays": 1, "stars": 1}
+{"film director": 1, "screenwriter": 1, "silent film actor": 1}
+{"film": 3, "horror film": 1, "comic book": 1, "Tales from the Crypt": 1, "Tales from the Hood": 1, "film festival": 1, "theaters": 1}
+{}
+{"directed by": 1, "starring": 1, "produced by": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{}
+{}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{}
+{}
+{}
+{"directed by": 1, "best known for": 1}
+{}
+{}
+{"directed by": 1, "film": 2, "drama film": 1, "selected as": 1, "entry for": 1, "Best Foreign Language Film": 1, "Academy Awards": 1, "accepted as": 1, "nominee": 1}
+{"released": 1, "directed by": 1, "narrated by": 1}
+{"directed by": 1, "film": 2, "feature film": 1}
+{"composed by": 1, "music for": 1}
+{}
+{}
+{"released": 1, "directed": 1, "wrote": 1, "co-starred": 1, "shot in": 1}
+{"directed by": 1, "starring": 1, "inspired by": 1, "spun off from": 1, "film": 3, "sequel": 1}
+{"directed by": 1, "produced": 1, "worked on": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"written by": 1, "published": 1, "recorded by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "remade": 1, "film": 2}
+{}
+{"directed by": 2, "film": 3, "remake": 1, "silent film": 1}
+{"film": 3, "silent": 1, "Australian film": 1, "German film": 1, "director": 1}
+{"directing": 1, "producing": 1, "film": 2}
+{}
+{}
+{"films": 3, "directed": 1, "collaborated": 1, "shown at": 2, "awarded": 2}
+{"written": 1, "directed by": 1, "starring": 1, "features": 1, "songs by": 1}
+{}
+{"starring": 1, "directed by": 1, "written by": 1, "produced by": 1, "distributed by": 1, "considered lost": 1}
+{"is a song by": 1, "may also refer to": 1}
+{}
+{"films": 5, "film": 3, "directed": 2}
+{}
+{"directed by": 1}
+{"directed by": 1, "released": 1}
+{"directed by": 1}
+{"directed by": 1, "produced by": 1, "released": 1}
+{"film": 1, "actor": 1, "screenplay writer": 1, "director": 1}
+{"directed": 1, "film": 2, "films": 1, "film serial": 1}
+{"include": 1}
+{"directed": 5, "movies": 3, "episode": 3, "series": 4, "film": 1}
+{"starring": 1, "directed by": 1, "featuring": 1, "penned by": 1, "co-stars": 1}
+{"directed by": 1, "starring": 2, "remake of": 1, "released": 1, "film": 3}
+{"directed": 1, "film": 3, "rockumentaries": 1, "film producer": 1, "starring": 1}
+{}
+{"directed by": 1, "starring": 1, "adapted by": 1, "produced by": 2, "released": 2, "filmed in": 1, "set in": 1, "promoted in": 1, "ranked": 1, "chose it as": 1, "remade in": 1}
+{"made into": 1}
+{"known for": 1, "film scores": 1}
+{"directed by": 1, "written by": 1, "starring": 1, "released": 1}
+{"film": 2, "director": 1, "producer": 1, "production company": 1}
+{}
+{}
+{"directed by": 1}
+{}
+{}
+{"co-wrote": 1, "silent film": 1}
+{}
+{}
+{}
+{}
+{}
+{"appeared in": 2, "films": 2}
+{"participated in": 1, "premiered in": 1, "played": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 3, "film": 5, "music is by": 1, "premiered": 1, "feature": 1, "documentary film": 1}
+{"directed by": 1, "came out": 1, "film": 3, "documentary": 1, "narrative": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directing": 1, "directed": 3, "films": 5, "feature films": 2, "B-movie": 1, "shorts": 1, "training films": 1, "industrial films": 1, "TV episodes": 1, "produced": 1, "productions": 1, "westerns": 1, "horror film": 1, "crime drama": 1}
+{"directed by": 1, "starring": 1, "shot in": 1, "cast for": 1, "appear in": 1}
+{"directed by": 1}
+{"directed by": 1, "entered into": 1}
+{"film director": 1, "screenwriter": 1, "filmmaker": 1, "feature film": 1}
+{"directed by": 1, "starring": 1}
+{"released": 2, "directed by": 1}
+{}
+{}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 2, "film": 5, "Children's Film": 1, "action film": 1, "blockbuster film": 1, "historical film": 1, "released": 1}
+{"written by": 1, "directed by": 1, "stars": 1, "scored": 1, "released": 2}
+{"film scores": 1, "ballet music": 2, "Piano Concerto": 1, "Violin Concerto": 1, "Cello Concerto": 1, "Masquerade Suite": 1, "Anthem of the Armenian SSR": 1, "three symphonies": 1, "Gayane": 2, "Spartacus": 1, "Sabre Dance": 1}
+{"directed by": 1, "composed by": 1, "film": 3}
+{"directed by": 1, "released": 1, "world premiere": 1}
+{"directed by": 1, "released": 2, "film": 5, "sequel to": 1, "stars": 1, "shot in": 1, "title is": 1, "different from": 1, "spoofing": 1}
+{"films": 3}
+{"film": 6, "released": 2, "directed by": 3, "premiered": 1, "starring": 1, "episode of": 2, "collective film": 1, "film festival": 2}
+{"films": 20, "film": 1, "director": 4, "directed": 1, "directorial": 1, "released": 1, "sequel": 1, "horror": 5, "science fiction": 1, "cult classics": 1, "giallo": 1, "self-parodying": 1, "sex comedy": 1, "slasher": 1, "notable": 1}
+{"directed by": 1, "stars": 1, "features": 1, "parody of": 1, "spoof of": 1, "made using": 1, "achieved": 1, "performed by": 1, "retitled": 1, "led to": 1, "entitled": 1}
+{"directed by": 1, "art direction was by": 1}
+{"movie": 2, "film": 1, "Soviet talkies": 1, "propaganda movie": 1}
+{}
+{}
+{"recorded": 1, "songs": 2, "incorporated": 1, "formed": 1, "notable for": 1, "fusion of": 1, "merged": 1}
+{"released": 2, "albums": 2, "recordings": 1}
+{"released": 1, "album": 2, "Grammy Award": 1, "certified": 1}
+{}
+{}
+{"released": 3, "compilation": 2, "album": 1, "band": 2, "recorded": 1, "digital download": 1}
+{}
+{"released": 1, "album": 1, "collection": 1, "songs": 4, "albums": 2}
+{"released": 1}
+{"film": 1, "actress": 1, "playback singer": 1, "first film": 1, "Love Story": 1, "1981": 1}
+{"directed by": 1}
+{"composed": 5, "film": 5, "songs": 2, "music": 6, "film composer": 1, "film music director": 1, "Tamil film industry": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"collaborated with": 1, "hit singles": 3, "single": 1, "song": 1, "recorded": 1}
+{"directed by": 1}
+{"recordings": 3, "played with": 6, "worked with": 3, "led": 1, "recorded": 4, "toured": 1}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1, "starring": 1, "distributed by": 1, "produced by": 1, "released": 1}
+{"acted in": 1, "directed": 2, "films": 2}
+{}
+{"directed by": 1, "produced by": 1, "stars": 1, "features": 2, "released": 2, "cameo appearance": 1, "sequel": 1}
+{"appears in": 1, "debut film": 1}
+{"directorial debut": 1, "film": 5, "films": 4, "romance": 1, "dramas": 2, "social drama": 1, "spy thriller": 1, "talk show": 1, "radio show": 1, "competition reality shows": 1}
+{"works in": 1, "ventured into acting": 1, "leading roles in": 1, "film": 2, "comedy": 1}
+{"written by": 1, "directed by": 1, "produced by": 1, "distributed by": 1, "stars": 1, "follows": 1, "announced": 1, "collaborate for": 1, "marks the debut of": 1, "composed by": 1, "released": 1, "received": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "album by": 1}
+{}
+{}
+{}
+{"appeared on": 2, "interview on": 1, "was referred to as": 1, "finished in": 1, "was notable for": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1}
+{}
+{}
+{"album": 2, "song": 4, "Eurovision Song Contest": 2, "magazine": 1, "released": 1, "produces": 1, "composes": 1, "writes": 1}
+{}
+{}
+{}
+{}
+{}
+{"wrote": 1, "verse romance": 1, "translated": 1, "title": 1, "dedicated to": 1, "sequel": 1}
+{}
+{}
+{}
+{}
+{"written by": 1, "directed by": 1, "stars": 1, "made their debut": 1, "was": 1, "commercial success": 1}
+{"directed by": 1, "released": 1, "film": 3}
+{"directed by": 1, "film": 2}
+{}
+{}
+{}
+{}
+{"released": 2, "featured on": 1, "produced by": 2, "sampled in": 1, "guest rapping by": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 2, "written by": 2, "title": 1, "feature- length film": 2, "short film": 1, "films": 5, "characters": 1, "production": 1, "studio": 1, "screen": 1, "collaborate on": 1}
+{}
+{"written by": 1, "directed by": 1, "produced by": 1, "screened": 3, "narrated by": 1, "features": 1, "released": 3, "music clearances fees": 1, "fund raising": 1, "publicly release": 1, "update": 1, "released on": 1}
+{}
+{"director of": 1, "documentary film": 1}
+{"film": 6, "movie": 3, "album": 4, "show": 3, "game show": 1, "biographical film": 1, "crime film": 1, "film adaptation": 1, "sketch comedy show": 1, "television sitcom": 1}
+{"released": 1, "featuring": 1, "single from": 1, "album": 1}
+{"film": 4, "feature film": 1, "preteen film": 1, "musical episode": 1, "biopic": 1}
+{"directed by": 1, "appeared in": 1, "performing the songs": 1, "stars": 2, "actor": 2, "co-star": 1}
+{"best known for": 1, "film": 1}
+{}
+{}
+{"involved in": 1, "film": 2, "acting credit": 1, "restored": 1}
+{"directed": 1}
+{"directed by": 1, "released": 1, "alternative title": 1}
+{"directed": 1, "wrote": 1, "films": 1, "television series": 1}
+{"directed by": 1, "film": 5, "film debut": 1, "re-released": 1, "title": 1}
+{"directed by": 1}
+{}
+{"debuted": 1, "single": 1, "hit": 1, "failed to duplicate": 1}
+{"directed": 1, "appeared in": 1, "won": 1, "for directing": 1, "for set designing": 1}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "produced by": 1, "last film": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1, "theme tune": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "film": 2}
+{"directed by": 1, "starring": 1, "based on": 1, "televised by": 1}
+{"directed by": 1, "titled": 1, "considered": 1}
+{"directed by": 1, "screened in": 1}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "signed by": 1, "performing": 1, "collaborations": 1, "albums": 1, "movie scores": 1}
+{"written by": 1, "composed by": 1, "performed in": 1, "popularized by": 1}
+{"represented": 2, "finished": 1, "sang": 1, "entitled": 1}
+{"known for": 1, "singer": 1, "songwriter": 1, "contestant on": 2, "songs": 1}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "sequel to": 1}
+{"directed by": 1, "film": 2}
+{"starring": 4, "premiered": 1, "published": 2, "created": 1, "writing": 1, "directed": 1}
+{"appeared": 2, "recorded": 2, "replaced": 3, "premiered": 1, "featured": 1, "advertising for": 1, "episode of": 2, "voice of": 2, "heard in": 1, "known as": 1}
+{"song": 1}
+{"written by": 1, "recorded by": 1, "sung by": 1, "intended to be": 1, "album": 2, "film": 2, "chose": 1, "remained unreleased": 1}
+{"composed": 5, "songs": 2, "orchestral compositions": 2, "film": 3, "opera": 2, "Broadway theater works": 1, "jazz standard": 1, "hit": 1}
+{"composed by": 1, "written for": 1}
+{"written by": 1, "recorded by": 1, "released": 1, "album": 2, "single": 1, "title track": 1}
+{"created by": 1, "sung by": 1, "describes": 1, "recorded": 2, "released": 5, "included": 1, "appears on": 3, "was used in": 1}
+{"written": 1}
+{"written by": 1, "recorded by": 2, "included in": 1, "released": 1, "won": 1, "recorded": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"written": 1, "directed by": 1, "stars": 1, "premiered": 1, "released": 1, "received": 1}
+{"film": 2, "director": 2}
+{"directed by": 1, "starring": 1, "film": 3, "collaboration": 1}
+{}
+{"directed": 7, "wrote": 1, "co-wrote": 1}
+{}
+{"directed by": 1, "stars": 1, "premiered at": 1, "won": 1, "released": 1}
+{}
+{"appeared in": 1}
+{"is a song": 1, "from her fourth studio album": 1, "included as the standard edition's final track": 1, "was written and produced by": 1, "was conceived following": 1, "was channeled into": 1, "was first unveiled at": 1, "Upon the release of": 1, "received generally favorable reviews": 1, "appreciated its vulnerability": 1, "picked it as one of the musical highlights from the album": 1, "criticized its placement on the record": 1, "Following the album's release": 1, "has entered various musical charts": 1}
+{}
+{"directed by": 1, "starring": 1, "adaptation from": 1}
+{"released": 1, "by": 2, "as a single from": 1}
+{"directed by": 1, "released": 1, "won": 1}
+{"formed": 1, "reached": 1, "became": 1}
+{}
+{}
+{}
+{}
+{"released": 2, "recorded by": 1, "album": 2, "single": 1, "featuring": 1, "music video": 1}
+{"directed by": 1, "starring": 1}
+{"directed": 2, "film": 2, "animated series": 1, "character": 2}
+{"written": 1, "co-produced": 1, "directed by": 1, "produced by": 1, "distributed by": 1, "premiering": 1, "opened": 1, "release": 1, "received": 1, "swept": 1, "considered": 1, "opened in": 1, "grossed": 2, "envisioned": 1, "announced": 1}
+{"film director": 1, "film producer": 1, "screenwriter": 1, "writer": 1, "films": 1, "feature films": 1, "documentaries": 1, "TV serials": 2, "National Cinema movement": 1, "production of TV serials": 1}
+{"released": 3, "movie": 4, "film": 10, "directorial debut": 1, "received": 2, "nominated": 1, "adaptation": 1, "producer": 1, "writer": 1}
+{}
+{}
+{}
+{}
+{"released": 3, "re-released": 1, "remixed": 1, "album": 5, "song": 2, "tracks": 1, "title": 1, "bonus tracks": 1, "references": 1, "features": 1}
+{"came out": 2}
+{"came out": 1}
+{"released": 1, "debut album": 1}
+{"debut album": 1, "came out": 1}
+{"released": 1, "came out": 1}
+{"is an album by": 1}
+{"marks": 1, "album": 2, "release": 1, "came out": 1}
+{}
+{"directed by": 1, "released": 1}
+{"directed by": 1, "edited": 1, "stars": 1}
+{"directed": 4, "director": 3, "films": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "entered into": 1, "starred": 1}
+{"directed by": 1, "written by": 1, "based on": 1, "sequel": 1}
+{"film": 5, "cinema": 4, "films": 4, "female": 3, "female characters": 1, "female pleasure": 1, "sexual responsibility": 1, "sexual conflicts": 1, "adolescence": 1, "girlhood": 1, "adulthood": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1, "produced by": 1, "distributed by": 1}
+{"directed by": 1, "adaptation of": 1, "designed": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "performed on": 1, "features": 1, "credited as": 1, "led to be cast in": 1}
+{"movies": 7, "films": 5, "series": 5, "Program or Series": 4, "Best Direction": 3, "Leo Award": 3, "Santa Hunters": 1, "Splitting Adam": 2, "Escape from Mr. Lemoncello's Library": 2, "Malibu Rescue": 1, "Big Time Movie": 1, "Jinxed": 1, "Swindle": 1, "Saved": 1, "Son of The Beach": 1, "The Fairly Odd Parents": 1}
+{"directed by": 1}
+{}
+{"directed": 2, "films": 3}
+{"directed": 1, "appeared in": 1, "founded": 1}
+{}
+{}
+{"directed": 6, "film": 4, "movie": 1, "television": 3, "series": 2, "episodes": 1, "short films": 2, "memoir": 1, "adaptation": 1, "rights": 1, "play": 1, "guide": 1}
+{"directed by": 1}
+{"written": 1, "directed by": 1, "stars": 1, "film": 2}
+{}
+{}
+{}
+{"include": 1, "used as the basis for": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{}
+{"directed by": 1, "released": 1, "film": 3}
+{"directed by": 1, "screened in": 1}
+{"is a": 1, "documentary movie": 1}
+{"is": 1}
+{"directed by": 1, "released": 1}
+{"film": 10, "movie": 0, "song": 0, "magazine": 0, "released": 1, "adapted by": 1, "directed by": 1, "based on": 2, "screened at": 3, "won": 3, "awarded": 2, "received": 5, "made": 1, "showcased in": 1, "experimented with": 1, "remade in": 1}
+{"film": 4, "directing": 3, "director": 2, "magazines": 1}
+{"directed by": 1, "produced by": 1, "composed by": 1, "based on": 1, "adapted into": 2, "remade in": 3, "recorded as": 1}
+{"directed by": 1, "film": 2, "song": 1, "composer": 2, "record": 1, "music video": 1}
+{}
+{"wrote for": 1, "directed": 2, "wrote scripts for": 1, "married": 1}
+{"directed by": 1, "film": 2}
+{"directed": 3, "film": 4, "Academy Awards": 2, "Best Short Subject": 1, "Best Documentary": 1, "adapt": 1, "novel": 1}
+{"directed by": 1, "released": 1}
+{"film": 2, "released": 1, "debut EP": 1}
+{"directed by": 1, "starring": 1, "dealing with": 1, "disliked the film": 1, "calling it the worst": 1}
+{"directed by": 1}
+{"directed by": 1}
+{"director": 1, "screenwriter": 1, "films": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"featured in": 1, "movie": 1, "starring": 1}
+{}
+{}
+{"directed by": 1, "premiered": 1}
+{"directed by": 1, "released": 1}
+{"directed by": 2, "written by": 1, "received": 1, "originated in": 1}
+{"directed by": 1}
+{}
+{"directed": 1, "appeared in": 1, "films": 2}
+{"film": 6, "actor": 1, "role": 1, "slasher films": 1, "narrator": 1, "film credits": 1, "character": 1, "parodied by": 1}
+{"is a": 1}
+{}
+{"painted the poster for": 2}
+{"producing": 2, "films": 3, "co-founder": 1}
+{"directed by": 1, "starring": 1, "produced by": 1, "distributed by": 1, "based on": 1}
+{"produced": 1, "directed by": 1, "written by": 1, "starring": 1, "features": 1, "portrayed": 1, "installment": 2, "sequel": 2, "intended to be part of": 1, "released": 2}
+{"directed by": 1, "starring": 1, "based on": 1, "adapted from": 1}
+{"films": 2, "film": 1}
+{}
+{"recorded": 1, "toured": 2, "collaborating": 1, "co-founded": 1, "influenced": 1, "received": 1}
+{}
+{"released": 1}
+{"directed by": 6, "debuted": 1, "made": 1, "best known for directing": 1}
+{"films": 5, "film": 4, "directing": 1, "composed": 1, "scores": 1}
+{}
+{"directed by": 1, "released": 1}
+{"directed by": 1, "script written by": 1, "released": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 2, "film": 2}
+{}
+{}
+{}
+{"participated in": 3, "published": 1}
+{"directed by": 1}
+{"released": 2, "came out": 1, "issued": 1}
+{}
+{"directed by": 1}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1, "produced by": 1}
+{}
+{"directed by": 1}
+{"film": 1, "director": 4, "musical comedies": 1, "Broadway operettas": 1, "musicals": 1, "dramas": 1, "thrillers": 1, "British comedies": 1, "best films": 1}
+{"directing": 1, "films": 6}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{"released": 1, "directed by": 1, "stars": 1, "based on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "produced by": 1, "categorized as": 1}
+{}
+{}
+{"directed by": 1, "starring": 1, "adaptation of": 1, "first starring role for": 1}
+{"film": 3, "movies": 1, "director": 3, "feature films": 2, "TV episodes": 1, "films": 3, "directorial feature": 1, "Westerns": 4, "episode": 1}
+{"films": 2}
+{"directed by": 1, "starring": 1, "based on": 1, "about": 1}
+{"written by": 2, "directed by": 1}
+{}
+{"film editor": 1, "acting": 1, "directing": 1, "screenwriting": 1, "nominated": 1, "won": 1}
+{"directed by": 1, "released": 1}
+{"directed": 1, "films": 5, "film": 1, "cinema": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"directed by": 1, "starring": 1, "made by": 1}
+{"directed by": 1, "starring": 1}
+{"film": 3, "composer": 1, "film director": 1, "films": 1, "entered into": 1}
+{"directed by": 1, "based on": 1}
+{"directed by": 1, "starring": 1, "film": 2}
+{"released": 2, "film": 4, "films": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "wrote songs": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 6, "film producer": 1, "director": 1, "screenwriter": 1, "film production": 1, "film distribution": 2, "silent films": 2, "talkies": 1, "British film industry": 2, "London Films": 1, "British Lion Films": 1, "classics": 1, "The Private Life of Henry VIII": 1, "Rembrandt": 1, "Things To Come": 1, "The Thief of Baghdad": 1, "The Third Man": 1}
+{"directed by": 1, "starring": 1, "made for": 1, "concerns": 1, "led to": 1, "collapsed": 1, "fled": 1}
+{"released": 1, "movie": 1, "directed by": 1}
+{"directed by": 1, "scripted": 1, "produced by": 1, "features": 1, "composed by": 1, "released": 1, "retells": 1}
+{}
+{"released": 2, "produced by": 1, "adaptation of": 1, "part of": 1}
+{"film": 3, "director": 2, "musician": 1, "screenwriter": 1, "cartoonist": 1, "pioneers of Parallel Cinema": 1, "filmmakers": 1, "documentaries": 1, "theatre": 1, "directed music": 1}
+{"co-directed by": 1, "co-written by": 1, "features": 1, "film adaptation": 2}
+{}
+{"directed by": 1, "starring": 1, "followed by": 1, "sequel": 1}
+{"released": 1, "adaptation of": 1, "based on": 1}
+{}
+{"released": 2, "directed by": 1}
+{}
+{"directed by": 1}
+{"is a": 1, "based on": 1, "was released": 1}
+{}
+{"directed by": 1, "starring": 1, "sequel to": 1, "similar in style to": 1, "designed by": 1}
+{"directed by": 1, "screened in": 1, "entered into": 1, "selected as": 1}
+{"written": 1, "directed by": 1, "starring": 1, "feature film": 1, "directorial debut": 1}
+{"released": 1, "came out": 1, "musical compositions": 1, "feature films": 1, "publicities": 1, "videoclips": 1, "short films": 1, "movies": 1}
+{"produced": 5, "directed by": 2, "nominated": 1}
+{"released": 1, "shot": 5, "produced by": 1, "stars": 1, "won": 1}
+{"directed by": 6, "film": 8, "movie": 0, "song": 0, "magazine": 0, "released": 0, "came out": 0, "composed by": 0, "adaptation of": 1, "biographical sports film": 1, "romantic drama": 3, "tragedy": 1, "highest-grossing": 2}
+{"directed by": 1, "produced": 1, "distributed": 1, "released": 1, "starring": 1, "film": 4, "soundtrack": 1}
+{"released": 1, "directed by": 1, "based on": 2, "described as": 1, "premiered in": 1, "remade in": 1, "received": 1, "winning": 1}
+{"film director": 1, "film editor": 2, "father of film editor": 1}
+{"film": 6, "song": 4, "choreography": 3, "choreographed": 3, "awards": 2, "musical": 2, "acting debut": 1, "National Film Award": 1, "Bollywood films": 2, "Malayalam film": 1, "short break": 1, "television dance show": 1}
+{"films": 5, "film": 3, "movie": 0, "released": 0, "came out": 0, "directed by": 0, "composed by": 0}
+{"directed by": 1, "produced by": 1, "stars": 1, "plays": 1, "featured in": 1, "had a worldwide release": 1, "marks the second collaboration": 1}
+{"directed by": 1, "written by": 1, "inspired by": 1, "reused by": 1}
+{"directed by": 2, "produced by": 1, "music by": 1, "reprises": 1, "starred": 1, "used in": 1}
+{"directed by": 1, "features": 1, "musical score by": 1, "released": 1, "dubbed in": 1, "won": 1}
+{"written by": 1, "directed by": 1, "released": 1, "remake of": 1, "based on": 1, "adapted from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "based on": 1, "film": 2}
+{"directed by": 1, "starring": 1, "remake of": 1, "followed": 1}
+{}
+{"produced by": 1, "directed by": 1, "composed by": 1, "remade in": 1}
+{}
+{}
+{}
+{"produced": 1, "directed by": 1, "Cinematography by": 1, "Starring": 1, "music composed by": 1, "recorded as": 1}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "starring": 1, "remake of": 1}
+{"directed by": 1, "produced by": 1, "written by": 1, "stars": 1, "composed by": 1, "released": 1, "became": 1, "remade in": 3}
+{"directed": 1, "films": 2, "cinema": 2, "awarded": 1, "highest award": 1}
+{"film director": 1, "film producer": 1, "screenwriter": 1}
+{"written": 1, "produced": 1, "directed by": 1, "starred": 1, "explores": 1, "entry": 1, "trilogy": 1}
+{}
+{}
+{}
+{}
+{}
+{"lead role": 1, "prominent role": 2, "won": 1, "awarded": 1}
+{"directed by": 1}
+{"directed by": 1, "released": 1}
+{"directed by": 1, "starring": 1, "title comes from": 1}
+{"films": 2, "film director": 1, "nominations": 1, "Academy Award": 1}
+{}
+{}
+{"directing": 1, "cult classic": 1}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "stars": 1, "centers around": 1}
+{}
+{}
+{}
+{}
+{"directed by": 1, "based on": 1, "remade in": 1, "nominated for": 1}
+{}
+{}
+{}
+{"film": 6, "film festival": 5, "entered into": 4, "won": 3, "director": 1, "actresses": 1, "family life": 1, "women": 1, "lead roles": 1}
+{"written": 1, "directed by": 1, "entered into": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "also known as": 1}
+{"directed by": 1, "received an Academy Award for": 1, "contribution to": 1}
+{"directed by": 1, "produced by": 1, "released": 1, "adapted by": 1, "remade as": 1}
+{"directed by": 1, "scored by": 1, "released": 1, "stars": 1, "concerns": 1, "highlight of the film": 1}
+{"directed by": 1, "produced by": 1, "distributed by": 1, "based on": 1, "filmed as": 1}
+{"directed": 1, "film": 3}
+{"directed by": 1, "starring": 1}
+{"directed by": 1}
+{}
+{"released": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"written": 1, "directed by": 1, "play": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4, "director": 2, "screenwriter": 1, "film editor": 1, "influenced": 1, "writing the script for": 1, "named a character after": 1}
+{"directed by": 1, "starring": 1, "written by": 1, "includes": 1}
+{"directed by": 1, "starring": 1, "film": 2, "lost film": 1}
+{"film": 1, "trilogy": 1, "preceded by": 1, "followed by": 1, "played by": 1, "director": 1, "selected as": 1, "entry for": 1}
+{"subject of": 1}
+{"nominated for": 1, "film": 2}
+{}
+{"nominated for": 1, "film": 1}
+{"directed by": 1, "based on": 1, "stars": 1, "made": 1, "sequels": 1}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"directed by": 1, "starring": 1}
+{}
+{"directed by": 1, "entered into": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "remake of": 1}
+{"directed by": 1, "film": 3, "lost film": 2}
+{"directed by": 1}
+{"directed by": 1}
+{"written by": 1, "directed by": 1, "sequel to": 1}
+{"written by": 1, "directed by": 1, "produced": 1, "released": 2}
+{"directed by": 1, "produced by": 1, "film": 3}
+{"directed by": 1, "starring": 1, "remake of": 1, "adapted from": 1, "known by": 1, "country of origin": 1}
+{}
+{"directed by": 1, "based on": 1, "starring": 1, "directed": 1}
+{"directed by": 1}
+{"movie": 1, "set in": 1}
+{"produced": 1, "wrote": 1, "directed": 1, "films": 3, "documentary": 1, "created": 1}
+{}
+{"best known for": 1, "documentaries": 2, "song": 1}
+{}
+{"created": 5, "broadcast": 1, "featuring": 1, "wrote": 1, "co-created": 1, "premiered": 3, "directed": 1, "developing": 1, "producing": 1}
+{}
+{"directed by": 1, "starring": 1}
+{"written by": 1, "directed by": 1, "starring": 1, "film": 5}
+{"directed": 4, "produced": 1, "films": 3}
+{"film": 5, "movie": 1, "directed by": 2, "produced": 1, "released": 1, "entitled": 1}
+{"written": 1, "directed by": 1, "sequel to": 1, "film": 2, "title translates to": 1}
+{}
+{}
+{}
+{}
+{"written by": 1, "directed by": 1, "starring": 1, "follows": 1, "considered a trilogy": 1, "reconsidered": 1, "shot in": 1, "made simultaneously with": 1, "documents": 1}
+{"written": 1, "directed by": 1, "starring": 1, "tells the story of": 1, "structured as": 1, "released": 1, "won": 1, "followed by": 1}
+{"composed by": 5, "wrote": 1, "published": 1, "known for": 1, "music for": 1, "employed as": 1, "engaged with": 1, "enriched": 1, "include": 1, "adapted": 1, "saw the publication of": 1, "devoted to": 1, "popularised through": 1}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{}
+{"produced": 1, "directed": 1, "written": 1, "received": 1, "nominations": 1, "Best Picture": 1, "Best Director": 1}
+{"directed by": 1, "film": 2, "world premiere": 1}
+{"starring": 1, "features": 1}
+{}
+{}
+{}
+{}
+{"music": 1, "films": 2}
+{"directed by": 1, "starring": 1, "fame": 1}
+{"directed": 2, "film": 4, "feature film": 1, "starring": 2, "winner": 1, "including": 1}
+{"starred in": 2, "reality series": 1, "singer": 1, "songwriter": 1, "actor": 1, "band": 3, "made his singing debut": 1, "joined": 1, "acting role": 1, "television series": 1}
+{}
+{"film": 3, "documentary": 2, "animated documentary": 1, "co-directed by": 1, "Best Foreign Language Film": 1, "Academy Awards": 1}
+{}
+{"released": 1, "appeared in": 1, "debut single": 1}
+{"produced by": 1, "directed by": 1, "composed by": 1, "released": 1, "dubbed": 1, "remade": 2, "debut": 1}
+{}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"released": 1, "directed by": 1}
+{"produced": 1, "ordered": 1}
+{"film": 4, "feature films": 3, "director": 2, "television": 2, "editor": 2}
+{"directed by": 1, "film": 2}
+{"directed": 1, "films": 1, "TV show episodes": 1}
+{"appeared in": 1, "directed": 2, "co-starred in": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"based on": 1}
+{"movie": 2, "film": 4, "films": 2, "sequel": 1, "adaptation": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1, "released": 1}
+{"directed by": 1, "released": 3, "film": 5, "adaptation": 1, "success": 1, "premiere": 1}
+{"directed by": 1, "starring": 1, "co-produced": 1, "feature-length directorial debut": 1, "described as": 1, "passed for release": 1}
+{"directed by": 1, "starring": 1}
+{"based on": 1}
+{"directed by": 1, "written by": 1, "based on": 1, "stars": 1, "released": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"directed by": 1, "entered into": 1}
+{"starring": 1, "directed by": 1, "based on": 1}
+{"directed by": 1}
+{}
+{}
+{"directing": 1, "directed": 3, "nominated": 2, "feature film": 1, "music videos": 1, "Academy Award": 1, "Best Director": 1, "celebrated directorial works": 1}
+{"released": 2, "directed by": 1, "adaptation of": 1}
+{"film": 6, "films": 6, "directed": 3, "director": 2, "magazine": 1}
+{}
+{}
+{}
+{}
+{"is a": 1, "documentary film": 1, "by": 1, "directed by": 1, "chronicles": 1, "includes": 1, "detailing": 1, "friendship": 1, "collaboration": 1}
+{"written by": 1, "directed by": 1, "stars": 1, "released": 1}
+{}
+{"is a": 1}
+{}
+{}
+{}
+{"produced by": 1, "distributed by": 1, "directed by": 1}
+{}
+{}
+{}
+{"released": 1}
+{"ranked": 1, "nominated": 1}
+{"featuring": 1, "derived from": 1}
+{}
+{"is a": 1, "by": 2}
+{"is a": 1, "studio album by": 1, "was followed up by": 1, "recorded at": 1}
+{}
+{"directed by": 1, "sequel of": 1}
+{"directed by": 1, "starring": 1, "titled": 1}
+{"directed by": 1, "based on": 1}
+{"directed by": 1, "nominated for": 1}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{"presented": 5, "hosted": 3, "show": 4, "programme": 3, "radio": 4, "chat": 3, "book": 2, "nominated": 1, "awards": 1}
+{"written": 1, "directed by": 1}
+{"directed": 1, "film": 1, "films": 1}
+{"directed by": 1}
+{"directed by": 1}
+{"directed": 1, "films": 1}
+{"directed by": 1, "starred": 1}
+{"directed by": 1}
+{"film": 7, "feature film": 1, "awards": 5, "national awards": 2, "National Film Awards": 3, "Best Director": 1, "Best Original Screenplay": 1, "official selection": 1, "Hindi film": 1, "release": 1, "Best Bengali Film": 1}
+{"directed by": 1, "starring": 1}
+{}
+{"wrote": 1, "book": 1, "described": 1, "chronicled": 1}
+{}
+{"directed by": 1, "released": 1, "based on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "starring": 1}
+{"directed": 5, "collaborated with": 1, "won": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{"film": 5, "documentary": 3, "short": 2, "feature debut": 1, "debut film": 1, "thriller": 1, "awards": 1, "series": 1}
+{"film": 2, "produced": 1, "last film": 1, "film series": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"film": 4, "movie": 3, "adapted by": 1, "produced by": 1, "directed by": 1, "nominated for": 1, "credited onscreen as": 1}
+{"directed": 1, "produced": 2, "films": 3}
+{"films": 2}
+{"directed by": 3, "film": 3, "starring": 2, "screenplay": 1, "credited": 2, "adapters": 1}
+{"directed by": 1, "starring": 1, "producing": 1, "replaced": 1}
+{"film": 2, "movie": 0, "released": 0, "came out": 0, "directed by": 0, "composed by": 0}
+{"directed by": 1, "released": 1}
+{}
+{"directed by": 1, "also known as": 1}
+{"film": 3, "documentary": 1, "tagline": 1, "interviews": 2, "thesis project": 1, "chronicles": 1, "March for Life": 1, "March for Women's Lives": 1}
+{}
+{"directed by": 1, "film": 5, "released": 1, "premiered": 1}
+{"directed by": 1, "selected as": 1, "entry for": 1, "accepted as": 1, "nominee": 1}
+{"film": 5, "released": 3, "biographical": 1, "sports": 1, "family": 1}
+{}
+{}
+{"directed by": 1, "film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "released": 1}
+{}
+{}
+{"directed by": 1, "released": 1, "film": 2, "sequel": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1, "adaptation of": 1, "film version": 1, "funded by": 1, "produced by": 1, "released": 2, "distributor": 1}
+{"directed by": 1, "stars": 1, "follows": 1, "shot at": 1, "composed": 1, "contributed": 1, "released": 2, "features": 1, "received": 1, "regarded as": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1, "selected for preservation": 1}
+{"directed by": 1, "theme song": 1, "by": 2, "won": 1}
+{"composer of": 1}
+{"nominated for": 1, "Academy Award": 1, "Best Art Direction": 1, "film": 1, "The Picture of Dorian Gray": 1}
+{"film": 1}
+{"is a": 1, "based on": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "designed by": 1}
+{"directed": 1, "written by": 1, "starring": 1}
+{"released": 1, "directed by": 1, "based on": 1, "stars": 1, "features": 1}
+{"produced": 5, "directed": 7, "wrote": 1, "published": 1, "credited as": 1}
+{"film": 2, "television": 1, "stage": 1}
+{"directed by": 1, "starring": 1, "screenplay by": 1, "based on": 1}
+{"starring": 1, "written by": 1, "include": 1}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{"starring": 1, "film": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "film": 2}
+{"best known for": 1, "work on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed": 1, "wrote": 1}
+{"film": 1, "films": 2, "Academy Awards": 1}
+{}
+{}
+{"directed by": 1}
+{}
+{"released": 2, "directed by": 1, "produced by": 1, "re-released": 1}
+{}
+{"directed by": 4, "film": 5, "starring": 1, "inspired by": 1, "known as": 1}
+{"directed by": 1, "based on": 1}
+{"directed by": 1, "featured in": 1}
+{"films": 5, "film": 3, "horror films": 1, "exploitation film": 1, "juvenile delinquent films": 1, "nudie-cuties": 1, "children's films": 1, "rural comedy": 1, "gore films": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film director": 1, "films": 3}
+{"directed by": 1}
+{"directed by": 1, "written by": 1, "features": 1}
+{"directed by": 1, "produced by": 1, "stars": 1, "film": 3, "screenplay": 1, "nominated for": 1, "basis for": 1}
+{}
+{"films": 5, "directed": 3, "writing": 2, "producing": 2, "screenplays": 1, "television": 1, "theater": 1, "musical": 1, "drama": 1, "comedies": 1, "Honorary Academy Award": 1}
+{"directed by": 1, "written by": 1}
+{}
+{"author of": 1, "memoir of": 1, "magazine": 1, "called": 2, "book": 2}
+{"directed by": 1, "best known for": 1}
+{"directed by": 1, "based on": 2, "titled": 3}
+{"released": 1, "lead single": 1, "peaked at": 2}
+{}
+{"directed by": 1, "written by": 1, "based on": 1, "stars": 1, "released": 1}
+{}
+{}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{}
+{}
+{}
+{}
+{"directed": 5, "film": 6, "feature film": 1, "short film": 1, "won": 3, "entered into": 2, "inspired by": 1}
+{"film": 1, "movie": 1, "starring": 1, "collaboration": 1, "director": 1}
+{"directed": 1, "best known for": 1, "movies": 2}
+{"directed": 1, "produced": 1, "written": 1, "stars": 1}
+{"adapted from": 1, "directed by": 1, "written by": 1, "produced by": 1, "starred": 1, "preceded by": 1, "followed by": 1}
+{"directed by": 1, "film": 1, "talking movies": 1}
+{"directed": 5, "wrote": 1, "scripted": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "produced by": 1, "based on": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"produced by": 1, "directed by": 1, "released by": 1, "written by": 1}
+{"directed": 1, "produced": 1, "adapted from": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"film": 1, "comedy film": 1, "starring": 1, "written by": 1, "directed by": 1, "title song": 1, "scored": 1}
+{"directed by": 1, "starring": 1, "written by": 1, "based on": 1, "advertised as": 1, "shot at": 1, "designed by": 1}
+{"released": 1, "directed by": 1, "based on": 1}
+{"film": 3, "horror films": 1, "mainstream roles": 1, "Brian Herzlinger film": 1, "How Sweet It Is": 1, "Saving Mr. Banks": 1, "2013 film": 1, "Mary Poppins": 1}
+{"directed": 1, "made the film": 1, "invested": 1}
+{}
+{"directed by": 1, "starring": 1, "retelling of": 1}
+{}
+{"directed by": 1, "written by": 1, "starring": 1, "released": 1}
+{}
+{"directed by": 1, "producer": 1, "writer": 1, "actor": 1, "films": 2, "mumblecore film movement": 1, "relationships": 1, "sex": 1, "technology": 1, "filmmaking process": 1, "launching the careers of": 1}
+{"directed by": 1, "film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "film": 4}
+{"directed by": 1, "released": 1, "adaptation": 2, "film": 3}
+{"directed by": 1, "released": 2, "adaptation": 3, "film": 4, "themed films": 1, "shot": 1, "starring": 1, "entitled": 1}
+{"directed by": 1}
+{"released": 1, "movie": 3, "films": 3, "documentary": 1, "porn": 5, "classic": 2, "screenplays": 1, "production": 1, "adult": 3, "video": 1}
+{"Best Foreign Language Film": 2, "Academy Award": 2, "Begin the Beguine": 1, "Sesi\u00f3n continua": 1, "Asignatura aprobada": 1, "El abuelo": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{}
+{"starring": 1, "directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1}
+{"released": 1}
+{}
+{"released": 2, "album": 1, "peaked": 1, "singles": 1, "title- track": 1, "hit": 1}
+{"released": 1, "recorded by": 1, "from the album": 1, "written by": 1}
+{"written by": 1, "released": 1, "single": 1, "title track": 1, "peaked at": 1}
+{"released": 1}
+{}
+{}
+{}
+{"known for": 1, "writing the music of": 1}
+{}
+{"founded": 1, "literary illustrated magazine": 1, "wrote": 1, "texts of several cantatas": 1, "rewrote": 1}
+{}
+{}
+{}
+{"film": 2, "television": 2, "documentary": 1, "series": 1, "producer": 2, "director": 1, "writer": 1}
+{}
+{"documentary": 1, "film": 1, "producer": 3, "correspondent": 2, "reporter": 2, "investigative reporting": 3, "broadcast": 1, "print": 1, "The New York Times": 2, "60 Minutes": 1, "The Insider": 1}
+{"directed by": 1, "film": 3, "Czech film": 1, "screenplay by": 1, "based on": 1, "masterpiece": 1, "Czech literature": 1, "submission": 1, "Academy Awards": 1, "Academy Award": 1, "Best Foreign Language Film": 1}
+{}
+{"editor-in-chief": 1, "rock critic": 1}
+{}
+{}
+{"is a": 1}
+{}
+{}
+{}
+{}
+{"films": 5, "movies": 3, "director": 1, "feature films": 1}
+{"directed by": 1}
+{"directed by": 1, "known as": 1}
+{}
+{"directed by": 1, "starring": 1, "produced by": 1}
+{"directed by": 1, "written by": 1, "starring": 1, "released": 1}
+{"directed by": 1, "remade as": 1}
+{"directed by": 2, "written by": 1, "released": 1, "stars": 1, "made": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "recorded by": 1, "single from": 1, "written by": 1}
+{"released": 2, "written": 1, "recorded": 1, "single from": 1, "album": 1, "release of": 1}
+{"contribution to": 1, "soundtrack": 1, "song": 1}
+{"reached": 1, "song": 1}
+{"released": 2, "single": 1, "album": 2, "recorded": 1, "charted": 1, "inducted": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "released": 1}
+{"released": 1, "film by": 1}
+{}
+{}
+{}
+{"appeared in": 1, "films": 10}
+{"directed by": 1, "starring": 2, "film": 2}
+{"written": 1, "directed by": 1, "starring": 1}
+{}
+{"directed by": 1, "debuted at": 1, "played at": 1, "theatrical release": 1}
+{}
+{}
+{}
+{"participated in": 1}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "based on": 1}
+{}
+{"directed": 3, "film": 4, "films": 3}
+{"directed by": 1, "starring": 1, "shares its title with": 1, "made at": 1, "designed by": 1}
+{}
+{}
+{"written by": 1, "directed by": 1, "stars": 1, "screened at": 1, "under the title": 1}
+{}
+{"directed": 1, "films": 1}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{"directed by": 1}
+{"directed by": 1, "written by": 1, "starred": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "designed by": 1}
+{"films": 6, "film": 3, "directoral": 1, "Justice est faiteJustice is Done": 1, "Nous sommes tous des assassins We Are All Murderers": 1, "Le passage du RhinTomorrow Is My Turn": 1, "Jean- Marc ou La vie conjugaleAnatomy of a Marriage: My Days with Jean- Marc": 1, "Fran\u00e7oise ou La vie conjugaleAnatomy of a Marriage: My Days with Fran\u00e7oise": 1, "Il n'y a pas de fum\u00e9e sans feu": 1}
+{}
+{}
+{}
+{"produced by": 1, "directed by": 1, "composed by": 1, "based on": 1, "won": 1, "screened at": 1}
+{}
+{"appeared in": 1, "won": 3, "received": 4, "starred in": 10, "acclaimed performance in": 3, "film": 1, "movie": 1, "debuted as a film director with": 1, "established": 1}
+{}
+{"produced by": 1, "directed by": 1, "written by": 1, "stars": 1, "launched on": 1}
+{}
+{"film": 3, "film producer": 2, "screenwriter": 1, "Telugu cinema": 3, "National Film Awards": 1, "Filmfare Awards": 1, "Raghupathy Venkaiah award": 1, "Best Feature Film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"produced": 2, "film": 1, "films": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "shortlisted by": 1, "selected as": 1, "chosen as": 1}
+{}
+{}
+{"directed by": 1, "starring": 1, "based on": 1}
+{}
+{"released": 1}
+{"film": 5, "movie": 2, "released": 1, "premiered": 1}
+{"released": 2, "debut solo single": 1, "taken from": 1, "album": 1, "CD single": 1, "DVD single": 1}
+{"directed by": 1}
+{"directed by": 1, "released": 2, "re-released": 1}
+{}
+{}
+{}
+{"starring in": 1, "Broadway musicals": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "choreographed by": 1, "film": 3, "musical film": 1, "successful film debut": 1, "sing on the big screen": 1}
+{"released": 1, "directed by": 2, "produced by": 1, "written by": 1, "filmed at": 1}
+{"appeared": 1, "made her d\u00e9but": 1, "successes": 3, "played": 1, "devoting herself to the productions of": 1, "published": 1, "souvenir book": 1, "starring": 1}
+{"movie": 1, "playwright": 1, "screenwriter": 1, "plays": 2}
+{"produced by": 1, "distributed through": 1, "directed by": 1, "based on": 1, "starred": 1, "restored": 1, "held at": 1, "donated by": 1}
+{"films": 800, "film": 3, "movie": 1, "motion picture": 2, "The Italian": 1, "Civilization": 1, "screenplay": 1, "director": 1, "producer": 2}
+{"the Toast of the Town": 2, "The Ed Sullivan Show": 1, "MTV": 1, "Bravo": 1, "the Comedy Channel": 1, "the Tonight Show": 1, "TV Guide": 1, "50 Greatest TV Stars of All Time": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mentions": 2, "Antiquities of the Jews": 1, "The Jewish War": 1}
+{}
+{}
+{}
+{}
+{}
+{"is a": 1, "by": 2, "composer": 2, "singer": 1, "nominated": 1}
+{}
+{"released": 1, "earned": 1, "is from": 1}
+{"released": 1, "song": 3, "album": 2, "DVD": 1, "produced by": 1, "peaked at": 1, "reached": 1, "re-entries": 2}
+{"released": 1, "debut album": 1, "album": 7, "songs": 1, "hit singles": 1, "German language project": 1, "reality television series": 2, "season": 3, "compilation album": 1, "talent series": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "designed as a vehicle for": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "adapted from": 1, "published": 2, "written by": 1, "stars": 1}
+{"released": 2, "developed by": 2, "published by": 1}
+{}
+{"film": 3, "directed by": 1, "written": 1, "genre": 2, "mystery": 1, "thriller": 1, "dramas": 1, "comedies": 1, "Giallo Genre": 1, "protagonist": 1, "asylum": 1, "restaurant": 1, "mansion": 1, "house": 2, "crime": 1, "secret": 1}
+{"movie": 3, "film": 1, "Movies": 1, "The Movie": 1, "The Movies": 1}
+{"directed by": 1}
+{"is the first live album by": 1, "was nominated for": 1, "was recorded at": 1}
+{"directed by": 1, "based on": 1, "film adaptations": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"produced": 5, "directed": 3, "released": 4, "wrote": 1}
+{"film": 6, "films": 4, "movie": 0, "movies": 0, "documentary": 1, "directed by": 1, "premiered": 1, "adapted from": 1, "retrospective": 1, "awarded": 1, "influential": 1}
+{"directed by": 1, "stars": 1, "follows": 1, "known as": 1, "featured in": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1, "screenplay was written by": 1, "story by": 1}
+{"directed": 1}
+{"films": 5, "film": 4, "directing": 2, "director": 2}
+{"directed": 1, "written by": 1, "from a story by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "produced by": 1, "released": 3, "based on": 1, "shares the same name as": 1}
+{"directed by": 1, "starred": 1, "feature films": 1}
+{"directed by": 1, "produced by": 1, "distributed through": 1, "based on": 1, "adapted from": 1, "stars": 1, "filmed at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed": 5, "film": 3, "Academy Award": 1, "Best Director": 2, "Skippy": 1, "La La Land": 1, "Boys Town": 1, "Martin and Lewis films": 1, "Elvis Presley films": 1}
+{"directed by": 1, "film": 4, "movie": 2, "musical comedy": 1, "screenplay": 1, "released": 1, "Academy Award nomination": 1}
+{"directed": 1, "films": 1}
+{"directed by": 1, "featuring": 1, "film": 3, "movies": 1, "signature song": 1, "debut": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "produced by": 1, "co-stars": 1, "film": 3, "movie": 2}
+{"appeared in": 1, "credited on": 1, "arranger of": 1}
+{"directed by": 1}
+{"collaborating with": 1, "Oscar- winning song": 1, "sung by": 1, "in the film": 1}
+{"released": 1, "directed by": 1, "adaptation of": 1, "stars": 1, "played by": 1}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed": 1, "adapted from": 1, "based on": 3, "film": 3}
+{"directed": 1, "feature films": 1, "films": 1}
+{"directed by": 1, "starring": 1, "art direction was by": 1}
+{"appeared in": 2, "role as": 1}
+{"directed by": 1, "starring": 1}
+{"include": 1}
+{"directed by": 1, "based on": 1, "stars": 1, "cinematography is by": 1}
+{"nominations": 5, "won": 1, "Academy Award": 3, "Primetime Emmy Award": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"film": 5, "director": 4, "Academy Award": 3, "Czech": 3, "Czechoslovakia": 3, "Golden Globe": 1, "Cannes": 1, "Berlinale": 1, "BAFTA": 1, "Cesar": 1, "David di Donatello": 1, "European Film Academy": 1, "Czech Lion": 1}
+{"films": 6, "film producer": 3, "executive producer": 3, "production executive": 1, "production company": 2}
+{"directed": 1, "films": 5, "landmark films": 1, "posthumously given": 1, "National Artist of the Philippines for Film award": 1}
+{"directed by": 1, "starring": 1, "written by": 1, "based on": 1, "nominated for": 2, "lauded by": 1, "garnered": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "won": 3, "film": 5, "category": 1, "award": 2}
+{"directed by": 1, "film": 3, "Hungarian entry": 1, "Best Foreign Language Film": 1, "Academy Awards": 1}
+{"appeared in": 3, "directed by": 3, "movie role": 1}
+{"movie": 5, "film": 3, "released": 1, "adaptation of": 1}
+{"film": 5, "films": 4, "feature film": 1, "short film": 1, "Mephisto": 1, "Academy Award": 1, "Hungarian": 3, "newspaper": 1, "Life and Literature": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{}
+{}
+{"directed by": 1, "written by": 1, "released": 1, "based on": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1, "produced by": 1, "based on": 1}
+{"appeared": 2, "published": 1, "titles": 8, "series": 9, "books": 1, "spin- offs": 1}
+{"directed by": 1, "starring": 1}
+{"released": 1, "entitled": 1, "directed by": 1}
+{"published": 5, "ran": 1, "announced": 1, "ended": 2, "launched": 2, "revised": 2, "panned": 1, "received": 1}
+{}
+{}
+{}
+{}
+{"released": 1, "featured on": 1, "made": 1}
+{}
+{}
+{"recorded": 1, "lead- singer": 2, "hit": 1, "solo- artist": 1}
+{}
+{"composer": 1, "film soundtracks": 1, "Music Producer": 1, "Songwriter": 1, "Arranger": 1}
+{"films": 5, "film": 1, "musicals": 1, "epic": 1}
+{"directed by": 1, "film": 2, "version": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{"directing": 1, "cinema series": 1, "films": 2, "selected for preservation": 1, "National Film Registry": 1}
+{"directed by": 1, "written by": 1, "read by": 1, "opens with": 1, "made in": 1, "co-produced by": 1, "selected for": 1}
+{"film director": 1, "proto-film noir movies": 1}
+{}
+{}
+{}
+{}
+{}
+{"released": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "film": 2}
+{"directed by": 1, "starring": 1, "remake of": 1, "shot at": 1, "designed by": 1}
+{"directed by": 1, "sequel to": 1}
+{"appeared": 1, "based on": 2, "inspired": 1}
+{"directed by": 1, "released": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed": 5, "wrote": 3, "film": 10, "documentary": 3, "feature-length drama": 1, "nominated": 3, "won": 4, "premiere": 2, "distributed": 1, "based on": 1, "starring": 1, "identified": 1, "produced by": 1}
+{"directed by": 1}
+{"directed by": 1, "entered into": 1}
+{"directed by": 1, "released": 1}
+{}
+{}
+{"directed by": 1, "feature film": 1}
+{}
+{"directed by": 1, "film director": 1, "Oscar-winning": 1, "short": 1}
+{}
+{"films": 11, "director": 1, "producer": 1, "screenwriter": 1, "nominated": 1, "awarded": 1}
+{"film": 5, "director": 1, "screenwriter": 1, "novelist": 1, "made his first film": 1, "official debut": 1, "directing": 1, "making": 2}
+{"directed by": 1, "movie": 2, "film": 1, "played": 3, "known as": 1, "role": 1, "sequel": 1}
+{"directed by": 1, "film": 4, "character": 1, "plays": 1, "star of the film": 1, "write": 1}
+{"released": 1, "directed by": 1, "produced by": 1, "homage to": 1, "screwball classic": 1}
+{"film": 3, "movie": 1, "played": 4, "collaboration": 1, "directed by": 1}
+{"film": 3, "song": 1, "composed by": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1}
+{"directed by": 1, "inspired by": 2, "came out": 1}
+{"directed by": 1, "based on": 2, "adapted as": 2, "listed to compete": 1}
+{"directed by": 1, "written by": 1, "based on": 1}
+{"directed by": 1, "film": 2}
+{"based on": 1}
+{"directed by": 1, "produced by": 1, "features": 1, "written by": 1, "received": 1, "ranks": 1, "cited": 1, "planned for": 1, "featured in": 1}
+{}
+{"is": 1, "about": 1}
+{"film director": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 2, "limited release": 1}
+{}
+{"directed by": 1, "stars": 1, "music by": 1, "dialogue and screenplay by": 1, "depicts": 1, "song": 1}
+{"directed by": 1, "released": 2, "starring": 1, "produced by": 1, "screenplay by": 1, "well received": 1, "garnered": 1, "nominations for": 1}
+{}
+{"released": 3, "adapted by": 1, "changed to": 1, "restored": 1, "stars": 1, "directed by": 1}
+{"is the stage name of": 1, "best known as the star of": 1, "pornographic film": 1}
+{"released": 2, "directed by": 2, "original": 2, "television": 3, "movie": 1}
+{"directing": 1, "films": 3}
+{"directing": 1, "film director": 1, "producer": 1, "Hollywood hits": 1}
+{"nominated": 3, "won": 1, "honored": 1, "contribution to the film industry": 1}
+{"directed": 1, "produced": 1, "released": 2, "shot": 1, "associated with": 1, "inspired by": 1, "spawn": 1, "distributed": 1, "claims": 1, "agreed": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 6, "released": 1, "produced by": 1, "debut": 2, "remake of": 1}
+{"written by": 1, "directed by": 1, "stars": 1, "cast include": 1}
+{}
+{"directed by": 1}
+{}
+{"directed by": 1, "produced by": 1, "documentary": 4}
+{"book": 3}
+{"feature film": 1}
+{}
+{"directed by": 1, "premiered": 1, "aired on": 1, "shown at": 2, "coordinated": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"known for": 1, "playing": 1, "original series": 1, "horror film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "based on": 1}
+{"is a": 1}
+{"directed by": 1, "starring": 1, "film": 1}
+{"directed": 1, "produced": 2, "films": 2}
+{"directed by": 1, "starring": 1, "portrays": 1, "starred as": 1, "designed by": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1}
+{"directed by": 2, "adapted from": 1, "starring": 1, "film": 2}
+{"directed": 3, "produced": 2, "wrote": 2, "released": 1, "considered": 1, "cited": 1}
+{"directed": 3, "wrote": 1, "films": 1}
+{"directed by": 1, "film": 5, "movie": 0, "released": 0, "came out": 0, "composed by": 0, "cast included": 1, "appeared as": 1, "featured on": 1}
+{"directed by": 1, "starred": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"novels": 5, "book": 1, "film": 1, "adapted into": 1, "title of": 1}
+{}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{}
+{"directed by": 1, "won": 2, "film": 1, "drama": 1, "Best Director Award": 1, "Best Actress Award": 1, "Cannes Film Festival": 1}
+{"directed by": 1, "starring": 1, "released": 1}
+{"films": 5, "director": 1, "music producer": 1, "published": 1, "memoir": 1}
+{"films": 2}
+{"films": 8, "movie": 1, "directed": 3, "wrote": 2, "filmed": 2, "released": 1}
+{}
+{"Heimskringla": 1, "Orkneyinga Saga": 2, "The Half- drowned King": 1, "The Sea Queen": 1}
+{}
+{"film": 1}
+{"directed by": 1, "starring": 1}
+{"released": 1, "directed by": 1, "nominations": 1, "won": 1}
+{"written": 1, "directed by": 1}
+{"directed by": 1, "film": 5, "documentary": 3, "co-produced": 1}
+{"written": 1, "directed": 1, "produced": 1}
+{"directed by": 1}
+{"directed by": 1}
+{"written": 1, "directed by": 1}
+{"directed by": 1}
+{"directed by": 1, "film": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "title of the film": 1, "reference to": 1}
+{"directing": 6, "directed": 6, "received": 3, "nominated": 1}
+{}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1}
+{"appeared in": 1, "music video for": 1, "hit song": 1}
+{"released": 5, "album": 6, "single": 6, "song": 3, "collaborated with": 1, "debut album": 1, "live album": 2, "number-one single": 3, "title song": 1, "chart-topping album": 2, "critical and commercial success": 2}
+{"released": 1, "written by": 1, "taken from": 1, "produced by": 1}
+{}
+{}
+{"is a": 1, "director": 2, "producer": 2, "feature film": 1}
+{}
+{"appeared in": 1, "directed": 2}
+{}
+{"best known for": 1}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 5, "movie": 2, "directed by": 2, "starring": 1, "co-written": 1, "screened": 1}
+{"included": 1, "lead roles": 1, "supporting performances": 1, "directed": 1, "feature films": 1, "received": 1, "nominated": 1, "won": 1, "retired": 1}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{"is a": 1, "collaboration": 1, "mixtape": 1, "by": 1, "from": 1}
+{"issued": 1, "singles": 1, "extended plays": 1}
+{}
+{}
+{}
+{"album": 2, "music": 2, "group": 3, "recording": 2, "debut": 1}
+{}
+{"written by": 1, "publication of": 1, "namesake recital": 1}
+{}
+{"released": 1, "directed by": 1, "written by": 1, "stars": 1, "captures": 1, "identified as": 1, "honored as": 1}
+{}
+{"film": 1, "director": 1, "screenwriter": 1, "producer": 1, "television producer": 1}
+{}
+{"released": 2, "appeared on": 1, "written for": 1}
+{"released": 1}
+{"co-written": 1, "recorded by": 2, "released": 1}
+{"released": 3, "recorded by": 1, "featuring": 1, "co-written by": 1, "directed by": 1, "premiered": 1, "uploaded to": 1, "performed live": 1}
+{"recorded by": 1, "written by": 1}
+{"released": 1, "titled": 3, "written as a collaboration": 1, "produced by": 1, "received": 1, "making the top-10": 1, "topping charts": 1}
+{"released": 1, "single": 1, "album": 1}
+{}
+{"issued": 3, "album": 3, "single": 2, "b-side": 1, "live recording": 1, "live version": 1}
+{}
+{}
+{}
+{"released": 0, "came out": 0, "directed by": 0, "composed by": 0, "announced": 1, "joined": 1, "coaches": 1, "singer-songwriter": 1, "actress": 1, "musician": 1, "sold": 1, "version": 1, "award": 1}
+{"single": 2, "album": 1, "produced by": 1, "written by": 1, "singer": 1}
+{"directed by": 1, "written by": 1, "nominated for": 1, "released": 1, "co-written for": 1}
+{}
+{"directed": 7, "won": 1}
+{"directed by": 1, "starring": 1, "nominated for": 1}
+{"TV-movie": 1, "television series": 1}
+{"directed by": 1, "starring": 1, "adaptation of": 1, "shot at": 1, "designed by": 1}
+{"include": 1}
+{"directed by": 1, "starring": 1, "released": 1, "inspired by": 1}
+{"directed by": 1}
+{"directed by": 1, "based on": 1, "film": 2}
+{"film": 2, "musical drama": 1, "directed by": 1, "starring": 1, "based on": 1}
+{"directed by": 1, "starring": 1, "film": 2}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"directed by": 1, "starring": 1, "produced by": 1, "distributed by": 1, "shot on location": 1, "held at": 1}
+{"directed by": 1, "starring": 1}
+{"published": 1}
+{"directed by": 1, "starring": 1, "film": 2}
+{"appeared in": 1, "film": 1, "song": 2}
+{}
+{"opened": 5, "produced": 3, "released": 1, "composed by": 1}
+{"published": 1}
+{}
+{}
+{"owns": 3, "founded by": 1, "managed by": 1, "includes": 1, "closed": 2}
+{}
+{}
+{"acted in": 1, "directed": 1, "father of movie serial motion pictures": 1, "mentor to": 1}
+{}
+{"produced by": 1, "commissioned by": 1, "released": 1, "title is derived from": 1}
+{"directed by": 1, "screenplay is by": 1, "starring": 1, "featured in": 1, "praised by": 1}
+{"directed by": 1, "starring": 1, "preserved in": 1}
+{}
+{}
+{}
+{}
+{"singer": 3, "song": 2, "performer": 1, "singing competition": 1, "singing lesson": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"written by": 1, "directed by": 1, "composed by": 1, "dubbed in": 2}
+{"director": 1, "movies": 3, "actor": 1, "music director": 1, "singer": 1, "lyricist": 1}
+{"director": 2}
+{"directed": 3, "film": 3, "Academy Award": 2, "first film": 1, "Best Picture": 1, "Best Story": 1}
+{"directed by": 1, "film": 3}
+{"released": 1, "aired": 1, "runs": 1, "known as": 1, "confused with": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1, "produced by": 1, "stars": 1, "musical score by": 1, "remake of": 1}
+{"released": 1, "entitled": 1, "titled": 1, "composed of": 1, "won": 2, "voted": 1}
+{"directed by": 1, "written by": 1}
+{"directed by": 1, "feature film": 1}
+{}
+{}
+{"known for": 1}
+{}
+{}
+{}
+{"film": 4, "documentary": 1, "theatrical release": 1, "television distribution": 1, "Hungarian title": 1}
+{}
+{"is a": 1, "by": 1, "starring": 1}
+{}
+{}
+{}
+{"published": 1, "writings": 1, "inspired": 1, "music": 1}
+{}
+{"film": 6, "TV series": 3, "directed": 2, "starred": 3, "released": 1, "entered into": 2}
+{"directed by": 1, "starring": 1, "entered into": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"compiled": 1, "collection": 2, "poems": 1, "influential": 2, "wrote": 1, "guide": 1}
+{"directed by": 1, "written by": 1, "produced by": 1, "stars": 1, "film critic": 1, "cited as": 1}
+{"film": 3, "director": 1, "screenplay writer": 1, "producer": 1, "magazine": 1, "cinema": 2, "film critic": 2, "online community": 1, "independent filmmakers": 1, "aficionados": 1, "cited as": 1, "beginning of": 1, "wave": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed": 1, "appeared in": 1, "films": 2}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"subject of": 1}
+{}
+{"directed by": 1, "produced by": 1, "features": 1, "composed by": 1}
+{}
+{"directed": 1, "producing": 1, "appeared in": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1}
+{"directed": 3, "film": 2, "starred": 1}
+{"directed by": 1, "written by": 2, "stars": 1, "featuring": 1, "score written by": 1}
+{}
+{}
+{}
+{"published": 3, "curated": 2, "collaborated": 1, "exhibition": 2, "biography": 1, "guide": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "HBO film": 1, "TV series": 1, "producer": 1}
+{}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{"directed by": 1}
+{"directed by": 1, "adapted from": 1}
+{"directed by": 1}
+{"directed by": 1}
+{"directed by": 1, "written by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is": 1}
+{"film": 2}
+{"directed by": 2, "released": 1, "adapted by": 1, "remade in": 1}
+{"directed by": 1}
+{"is a": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{}
+{}
+{}
+{"film": 1, "movie": 1, "series": 1}
+{"directed": 1, "films": 1}
+{"directed by": 1, "premiere": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "stars": 1, "involved with": 1, "aided in": 1}
+{"directed by": 1, "produced by": 1, "stars": 1, "had musical score by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "gained prominence": 1, "known as": 2, "recorded": 1, "followed": 1, "earned": 1, "claimed": 2, "came in": 1, "charted": 2, "described as": 1, "inducted into": 1, "ranked": 1}
+{}
+{"is the third single from": 1, "album": 2, "became a minor hit": 1, "reached": 1}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "perform": 1, "original songs by": 1}
+{"directed by": 1, "co-written by": 1}
+{"directed": 1, "feature": 1}
+{"directed by": 1, "film": 3, "films": 2, "starring": 1, "episodes": 1, "TV series": 1}
+{"directed by": 1, "also known as": 1}
+{}
+{"film": 4, "drama": 1, "based on": 1, "stars": 1, "cast": 1, "filmed on location": 1}
+{}
+{}
+{"directed": 1, "filmed": 1}
+{}
+{"feature films": 45, "documentaries": 41, "National Film Awards": 11, "international awards": 21, "Padma Shri": 1}
+{}
+{"directed by": 1, "produced by": 1, "executive producer": 1, "released": 1}
+{}
+{}
+{"directed by": 1}
+{"written by": 1, "directed by": 1, "released": 2, "starring": 1, "alternative title": 1}
+{}
+{}
+{}
+{}
+{}
+{"films": 5, "franchise": 1, "book": 1}
+{"directed by": 1, "film": 2}
+{"released": 1, "directed by": 1}
+{}
+{}
+{"directed by": 1, "produced by": 1, "premi\u00e8red": 1, "won": 1, "selected as": 1, "acquired for": 1}
+{}
+{}
+{}
+{"directed by": 1, "features": 1, "based on": 1, "wrote": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{"directed by": 1, "produced by": 1, "musical animated film": 1, "film": 3}
+{"directed by": 1, "released": 1}
+{"is": 1, "stars": 1}
+{"written by": 1, "directed by": 1, "won": 3, "nominated for": 1, "selected as": 1}
+{"starring": 1, "directed by": 1, "preserved by": 1}
+{}
+{}
+{}
+{}
+{"directed by": 1, "film": 5, "released": 1, "adapted by": 1, "starring": 1, "selected for preservation": 1}
+{"written by": 1, "recorded by": 1, "released": 1, "album": 1, "title track": 1, "became": 1}
+{}
+{"released": 2, "written by": 1, "song": 2, "music video": 1}
+{"released": 3, "debut solo studio album": 1, "single": 3, "cover": 2, "remake": 1, "classic": 1, "promotional CD": 1}
+{"released": 1, "co-written": 1, "recorded": 1, "single": 2, "album": 1, "co-wrote": 1, "certified": 1, "sold": 1, "achieved": 1, "directed by": 1}
+{}
+{"is a": 1, "single by": 1, "father of": 1}
+{"released": 3, "stylized as": 1, "single from": 1, "music video": 1, "featuring": 1}
+{"written by": 1, "recorded by": 1, "B-side to": 1, "hit": 1, "version of": 1, "No. 1 single": 1}
+{}
+{"released": 1, "recorded": 1, "uploaded": 1, "performed": 2, "albums": 1, "collaboration": 1}
+{}
+{}
+{"wrote for": 1, "sole credit": 1, "penning the screenplays for": 3, "uncredited writers on the screenplay of": 1}
+{"directed by": 1, "released": 1, "film": 2, "movie": 1}
+{"directed by": 1, "film": 2, "drama film": 1, "Moroccan entry": 1, "Best Foreign Language Film": 1, "Academy Awards": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"inspiration for": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"filmography": 1, "appeared in": 2, "commercial": 1, "video for": 1}
+{"directed by": 1, "credited onscreen as": 1, "film": 2, "installment": 1, "film series": 1}
+{"film": 3, "sequel": 2}
+{"directed by": 1, "stars": 1, "film": 2, "movie": 1}
+{"directed by": 1}
+{"directed by": 1, "film": 2, "B-movie": 1, "production group": 1, "film series": 1}
+{"director": 2, "producer": 2, "screenwriter": 1, "actor": 1, "co-founder": 1, "film studio": 1, "feature films": 1}
+{"directed by": 1, "film series": 2, "nominated for": 1, "film": 1}
+{"directed by": 1, "produced by": 1, "film": 3}
+{}
+{"directs": 1, "directed": 1, "films": 3, "feature films": 1, "film": 2, "Cinemas": 3, "cinema": 2, "published": 2, "book": 2, "awards": 1, "homages": 1, "retrospectives": 1, "conference": 1}
+{"is a": 1, "film by": 1, "titled": 1}
+{"directed by": 1, "film": 2, "parody of": 1}
+{"directed": 1, "film": 1}
+{"portraying": 2, "remake of": 1}
+{"directing": 1, "film director": 1, "producer": 1, "screenwriter": 1, "horror movies": 1}
+{"directing": 1, "films": 5, "movies": 2, "wrote for": 1, "highest rated film": 1, "lowest rated film": 1}
+{}
+{"released": 1, "directed by": 1}
+{"directed by": 1, "starring": 2, "produced by": 1, "distributed by": 1, "sequel to": 1}
+{"directed by": 1, "written by": 1, "produced by": 1, "filmed in": 1, "cast": 1, "released": 1}
+{"appeared in": 5, "performed in": 4, "directed": 1, "played": 4}
+{"starred in": 2}
+{"directed by": 1, "co-written by": 1, "produced by": 1, "released": 1}
+{"starring": 1, "directed by": 1, "based on": 1, "distributed by": 1, "remake of": 1, "survives at": 1, "preserved at": 1}
+{"directed by": 1, "premiered": 1}
+{"written by": 1, "directed by": 1}
+{"based on": 1}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{"roles in": 4}
+{}
+{"directed by": 1, "starring": 1, "featured appearances of": 1, "written by": 1}
+{"produced": 1, "directed": 3, "movie": 3, "film": 2, "starring": 3, "filming": 1, "short subject": 1, "independent thriller": 1, "earned": 1, "awards": 1, "Best Feature Film": 1}
+{"directed": 2, "appeared in": 1, "produced by": 1}
+{"directed by": 1, "produced by": 1, "known as": 1}
+{}
+{"directed by": 1, "written by": 1, "based on": 1, "stars": 1, "released": 1}
+{}
+{"directed by": 1, "co-produced by": 1, "released": 2, "world premiere": 1, "theatrically released": 1}
+{"directed by": 1, "based on": 1, "stars": 1, "inspired by": 1, "won": 1}
+{"directed by": 2, "based on": 2, "released": 1}
+{"film": 5, "movie": 0, "book": 1, "picture": 1}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "preceded by": 1, "followed by": 1, "part of": 1, "producing": 1, "create": 1, "showing up to": 1}
+{}
+{"directed": 1, "films": 1}
+{}
+{"directed by": 1, "starring": 2, "film": 5, "movie": 0}
+{}
+{}
+{"directed by": 1, "starring": 1, "sequel to": 1, "played by": 2, "thought of as": 1, "released": 1, "titled": 1}
+{"novels": 3}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1, "produced by": 1, "based on": 1}
+{"directed by": 1, "starring": 1, "released": 2, "film": 5, "sequel to": 1, "appeared in": 1}
+{"directed by": 1, "starring": 1, "musical adaptation of": 1}
+{"released": 1, "called": 1, "continues": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed": 1, "written": 1, "designed": 1, "animated": 1}
+{"directed by": 1, "features": 1, "produced by": 1, "deals with": 1, "written by": 1, "received": 1, "was": 2}
+{"directed": 1, "film": 3, "action films": 1, "westerns": 1, "produced": 1}
+{"written": 1, "directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1}
+{"directed by": 1}
+{"released": 2, "directed by": 1, "titled": 1}
+{"directed by": 1, "stars": 1}
+{"directed by": 1}
+{"produced": 1, "film": 3, "films": 1, "garnered attention": 1}
+{}
+{"directed by": 1, "released": 2, "starring": 2}
+{"films": 3, "based on": 2, "director": 1, "episodes": 1}
+{}
+{"directed by": 1}
+{"directed by": 1}
+{}
+{}
+{"recorded": 2, "albums": 2, "Freaky Styley": 2, "The Uplift Mofo Party Plan": 2, "songs": 1, "published": 1, "book": 1, "entitled": 1, "inducted": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{"directed": 1, "appeared in": 1, "played": 1}
+{"directed by": 1, "film": 2}
+{}
+{"is a": 1}
+{"directed by": 1, "starring": 1, "spoof of": 1}
+{"played": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{"is": 1}
+{"directed by": 1, "written by": 1, "starring": 1, "based on": 1, "premiered on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 2, "documentary films": 1, "documentary series": 7, "executive producer": 2, "Academy Award nominations": 2, "Emmy Awards": 1}
+{}
+{"directed by": 1, "produced by": 1, "film": 2}
+{"shown on": 1, "appeared in": 2, "playing": 2, "is best known for": 1, "is married to": 1}
+{"appeared in": 3, "played": 4, "starred as": 1, "voiced": 3, "directed by": 0, "composed by": 0, "released": 0, "came out": 0}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1, "music score is by": 1}
+{}
+{"film": 2, "director": 2}
+{}
+{}
+{"published": 1, "distributed by": 1}
+{"published": 1}
+{}
+{"released": 4, "magazine": 6, "edited": 3, "established": 2, "published": 2}
+{"published": 1, "started": 1}
+{"published": 1}
+{}
+{"published": 2, "monthly magazine": 2}
+{"song": 8, "film": 6, "album": 6, "released": 4, "recorded": 4, "written by": 3, "nominated for": 1, "included on": 3, "sung in": 1, "comment on": 1, "suggested": 1, "completed": 1, "cut from": 1, "broadcast of": 1, "featured in": 1, "acted as": 1, "won": 2, "performed by": 1, "called": 1}
+{"co-directed by": 1, "premiere": 1, "documentary film": 1}
+{"directed by": 1, "produced by": 1, "adapted by": 1}
+{}
+{"films": 3, "television series": 1}
+{"features": 2, "narrates": 1, "performed": 1, "featured": 2, "was nominated": 1, "included": 1, "broadcast": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"reports": 3, "synchronises": 1, "dates": 2}
+{"written": 1, "co-written": 1, "songs": 1, "hits": 1, "albums": 1}
+{}
+{"released": 3, "issued": 2, "performed": 2, "recorded": 1, "wrote": 1}
+{"released": 1}
+{"debut studio album": 1, "album": 2, "Little Ol' Cowgirl": 1}
+{"released": 3, "album": 3, "song": 2, "studio album": 2}
+{}
+{"starring": 1, "directed by": 1, "written by": 1, "aired on": 1}
+{"motion picture": 4, "recordings": 2, "music": 1, "Oscar": 1, "Grammy Global Achievement Award": 1, "films": 1, "magazine": 1}
+{"written by": 1, "recorded by": 3, "published": 1, "came about": 1, "taped": 2, "broadcast": 2, "issued": 1, "charted": 2, "sung": 1, "recorded": 1}
+{"released": 2, "directed by": 1, "written by": 1, "produced by": 1, "sequel to": 1}
+{"directed by": 1, "starring": 1, "film": 2}
+{"films": 23, "directed": 18}
+{}
+{"directed by": 1, "starring": 1, "edited by": 1, "disowned": 1, "satirised": 1}
+{"film": 8, "director": 1, "song": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{}
+{"directed by": 1, "based on": 1, "entered into": 1, "selected as": 1}
+{}
+{}
+{"released": 4, "featured": 1, "peaked at": 1, "included on": 1}
+{"released": 2, "remix studio album": 1, "debut album": 1, "reworking": 1}
+{"released": 3, "featured": 1}
+{"released": 3, "album": 2, "studio album": 1, "songs": 2, "double single": 1}
+{"released": 1, "includes": 1, "became": 1, "reached": 1, "was": 2, "had been recorded": 1, "include": 1}
+{"released": 1, "studio album": 1, "composer": 1, "guitarist": 1}
+{"released": 3, "album": 2, "music video": 1}
+{"released": 2, "album": 1, "single version": 1, "songs": 1}
+{"released": 2, "studio album": 3, "song": 2, "theme song": 1, "covers": 1}
+{"released": 2, "release": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "screenplay is by": 1, "produced": 1, "stars": 1, "takes place": 1, "released": 1, "grossed": 1, "re-releases": 1}
+{}
+{"film": 2, "game": 3, "released": 1, "published by": 1, "developed by": 1}
+{"directed by": 1, "produced": 1, "written": 1, "starring": 1}
+{"is a film": 1, "refer to": 1}
+{"film": 7, "Star Wars": 7, "Return of the Jedi": 5, "The Last Jedi": 2, "The Force Awakens": 1, "magazine": 1, "Star Wars Insider": 1}
+{}
+{"directed by": 1}
+{"produced by": 1, "distributed by": 1, "revived": 1, "shown in": 1}
+{"written by": 1, "retold from": 1}
+{}
+{}
+{"directed by": 1}
+{}
+{"directed": 1, "films": 2, "film": 3}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"appeared in": 1, "acted in": 1, "made her directoral debut in": 1, "won a C\u00e9sar Award for Best Debut": 1, "participated in": 1}
+{"directed by": 1}
+{"written": 1, "directed by": 1, "starring": 1, "sequel to": 1}
+{"directed by": 1, "starring": 1, "preserved at": 1}
+{"film": 6, "horror film": 2, "action film": 2, "cult classics": 1, "futuristic action vehicle": 1, "sequel": 1, "Gold Award winner": 1, "Bronze Award winner": 1, "Theatrical Feature Film": 1, "directorial effort": 1}
+{"written": 1, "directed by": 1, "starring": 1, "sequel": 1, "called": 1}
+{"directed": 2, "film": 2, "film serial": 1, "exploitation film": 1}
+{"directed by": 1, "starring": 1, "appeared on": 1, "made-for-television": 1, "feature film": 1, "movie": 1}
+{"directed": 3, "film": 2, "horror film": 1, "episodes": 2}
+{"directed": 2, "collaborate": 3, "screen adaptation": 1}
+{"directed by": 1, "released": 2}
+{"films": 123, "directed": 3, "film version of": 1, "serial": 1, "played": 1, "original Broadway production of": 1}
+{"directed by": 1, "produced by": 1}
+{"directed by": 1, "sequel to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"co-creating": 1, "co-developing": 1, "musical": 3, "film": 5, "premiere": 2, "produced": 1, "wrote": 1, "direct": 1, "star": 1, "based on": 2, "received": 1, "established": 1, "recipient": 1, "awards": 1}
+{"directed by": 1, "written by": 1, "starring": 1, "come out": 1, "premiered": 1, "released": 1}
+{"directed by": 1, "film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directing": 1, "feature films": 3, "releases": 1, "released": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{"produced by": 1, "distributed by": 1, "directed by": 1, "starred": 1}
+{"directed": 1, "film": 1}
+{"directed by": 1}
+{}
+{"directed by": 1}
+{"written by": 1, "directed by": 1}
+{"include": 12, "directed by": 1, "produced": 1, "notable works": 1, "film": 3, "cinema": 2, "received": 2, "founded": 1, "company": 1, "award": 2}
+{"starring": 1}
+{"produced by": 1, "directed by": 1, "stars": 1, "music is by": 1, "lyrics wrote by": 1, "was a huge box office success": 1, "was critically acclaimed": 1, "considered to be one of his best": 1, "received his first Filmfare Award nomination": 1, "nominated under the Best Film category": 1}
+{"directed by": 1, "co-written by": 1, "starring": 1}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1, "written by": 1, "based on": 1, "release": 1}
+{}
+{"films": 2}
+{"directed by": 1, "stars": 1, "script by": 1}
+{"published": 5, "book": 4, "poetry": 3, "article": 1, "theatre": 1, "treatise": 1, "anthology": 1}
+{"published": 3, "appeared": 2, "contributed to": 1, "wrote": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a": 1}
+{"released": 1, "transmitted": 1, "recording": 1}
+{"released": 1, "album": 2, "live album": 1, "recording": 1, "concert": 2, "release": 1, "tracks": 1, "double album": 1}
+{"is an album by": 1, "may also refer to": 1}
+{"released": 3, "album": 3, "studio album": 1, "live album": 1, "title": 1}
+{"released": 1}
+{"is a song from": 1, "musical film": 1, "refer to": 1}
+{"directed by": 1, "released": 1}
+{"directed by": 1, "adapted from": 1}
+{"worked on": 1}
+{"composed by": 1, "film": 2, "based on": 1, "intended for release": 1, "composer": 1}
+{"composed by": 5, "ballet": 4, "opera": 4, "symphony": 3, "suite": 2, "piano concerto": 2, "completed": 2, "performed": 2, "works include": 1, "created": 1, "commissioned": 1, "producing": 1, "success": 1}
+{}
+{"directed by": 1}
+{}
+{}
+{"directed by": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written": 1, "produced": 1, "screened at": 1, "selected as": 1, "received": 1, "nominations": 1, "winning": 1, "awards": 1, "including": 1, "has become": 1}
+{"written": 1, "directed by": 1}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starred": 1, "onscreen appearance": 1, "musical": 2}
+{"director of": 1, "film": 1, "comedy films": 1}
+{"film director": 1, "producer": 1, "screenwriter": 1, "exploitation films": 1, "The Student Nurses": 1, "Terminal Island": 1}
+{"directed by": 2, "starring": 2, "followed by": 1, "featuring": 2, "producer": 1, "taking the helm as director": 1, "return of": 1}
+{}
+{"directed by": 1, "film": 3, "films": 2}
+{"released": 1, "starring": 1, "features": 1, "directed by": 1, "among": 1, "produced by": 1, "distributed by": 1, "screened at": 1}
+{}
+{"directed by": 1, "produced by": 1, "starring": 1, "in the film": 3, "considered a major classic": 1, "nicknamed": 1, "portrays in the film": 1, "representative works": 1}
+{"starred in": 3, "featured in": 1}
+{"directed by": 1, "nominated for": 1, "Best Director": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "actor": 1, "roles in": 2, "2006": 1, "2007": 1, "Palme d' Or-winning": 1, "completed his studies at": 1, "artistic director at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"won": 3, "book": 5, "memoir": 1, "collection of poems": 1, "magazines": 1, "translated": 1, "workshop": 2, "published": 1, "award": 2}
+{}
+{"edited": 1, "published": 2, "anthology": 1, "memoir": 1, "poetry": 2, "Poet- in- Residence": 1}
+{}
+{}
+{"released": 1, "debut album": 1, "singles included": 1, "co-wrote": 1}
+{"directed by": 1, "written by": 1, "entered into": 1}
+{"directed by": 1, "based on": 1, "writing": 1}
+{}
+{"directed by": 1, "composed by": 1, "film version": 1}
+{}
+{"composed": 1, "operetta music": 1, "pieces for films": 1, "I Lost My Heart in Heidelberg": 1, "I Saw Miss Helen Bathing": 1, "I Lost An Eyelash": 1, "operettas": 2, "Geliebte ManuelaBeloved Manuela": 1, "Flieder aus WienLilacs from Vienna": 1}
+{"Film": 1, "Director": 1, "Writer": 1, "Producer": 1, "Short Film": 1, "films": 1}
+{"directing": 1, "films": 6, "movies": 6, "serial": 1, "TV serial": 1, "based on": 4, "popular": 1}
+{"directed by": 1, "written by": 1, "composed by": 1, "produced by": 1, "released": 2, "nominated": 1}
+{}
+{}
+{}
+{}
+{"directing": 1, "film": 4, "produced": 1, "made": 2, "re-shot": 1, "use of outdoor locations": 1}
+{"directed by": 1, "starring": 1}
+{"released": 1, "directed by": 1, "starring": 1, "sequel to": 1}
+{"released": 1}
+{}
+{}
+{}
+{"plays in": 6, "member of": 5, "took over": 1, "co-wrote": 1, "did percussion on": 1}
+{}
+{"include": 2}
+{"directed by": 1, "film": 2}
+{"film director": 1}
+{}
+{}
+{}
+{"directed by": 1}
+{"directed": 5, "produced": 3, "film": 5, "films": 5, "feature film": 1, "theater director": 1, "associate producer": 2, "executive producer": 1}
+{"directed by": 1, "starring": 1}
+{}
+{"starring": 1, "part of": 1}
+{"released": 1, "directed by": 1, "co-written by": 1, "sequel to": 1, "reprising his role as": 1, "based on": 1, "translates to": 1, "reference to": 1}
+{"is a": 1, "starring": 1}
+{"released": 2, "directed by": 2, "co-written by": 1, "stars": 1, "based on": 1, "adaptation": 1}
+{"directed by": 1, "co-wrote": 2, "co-produced": 1, "based on": 1, "shot in": 1}
+{"released": 1, "directed by": 1}
+{"released": 1, "directed by": 1, "produced by": 1, "made his film debut": 1, "based on": 1, "published in": 1}
+{"released": 1}
+{"directed by": 1, "produced by": 1, "released": 1, "features": 1, "based on": 1, "shot on": 1, "arranged by": 1, "designed by": 1, "similarities to": 1}
+{"released": 1, "directed by": 1, "produced by": 1, "based on": 1, "co-produced by": 1, "shot on": 1, "featured": 1}
+{"directed by": 1, "released": 1}
+{"directing": 1, "wrote": 1, "for Film and Television": 1, "of Movie Making": 1}
+{"co-founder": 1, "magazine": 1}
+{"director of silent films": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"wrote": 5, "published": 2, "produced": 1, "performed": 1, "became associated with": 1, "refused": 1, "convicted": 1, "sentenced": 1, "discusses": 1, "left": 1}
+{"best known for": 1, "playing the role of": 1}
+{"produced by": 2, "film": 2, "narration by": 1, "viewed by": 1}
+{}
+{"directed by": 1, "produced by": 1, "written by": 1}
+{}
+{"directed by": 1, "released": 1}
+{"directed by": 1}
+{"written": 1, "directed by": 1, "based on": 1, "stars": 1, "released": 1}
+{"directed by": 1}
+{"directed by": 1, "written by": 1}
+{"directed by": 1, "stars": 1, "screenplay was written by": 1, "received acclaim": 1, "nominated for": 1, "released": 1}
+{"films": 5, "won": 2, "best known works": 1, "best director": 1, "best picture": 1}
+{"directed by": 1, "starring": 1}
+{"film": 2, "directed by": 1}
+{}
+{"directed by": 1, "film": 2}
+{"directed": 1, "produced": 1, "films": 1}
+{}
+{"film": 3, "director": 2, "Oscar": 1, "assistant director": 1, "feature": 1}
+{"released": 1}
+{"directed by": 1, "written by": 1, "based on": 1, "executive produced by": 1, "features original music by": 1}
+{"directed by": 1, "starring": 1, "film": 3, "films": 1}
+{"directed by": 1, "produced by": 1, "filmed in": 1, "stars": 1}
+{}
+{"directed by": 1, "nominated for": 1}
+{"directed by": 1, "entered into": 1}
+{"released": 1, "created by": 1, "takes place after": 1, "explores": 1, "runs long": 1, "was uploaded to": 1, "was removed for": 1}
+{}
+{"directed by": 1, "based on": 1, "revolves around": 1}
+{"directed by": 5, "collaborated": 1, "art director": 5, "production designer": 2, "nominated": 4, "won": 1, "received": 2, "credits include": 1, "documentary short": 1}
+{}
+{"known for": 1, "writing": 1, "films": 1}
+{}
+{"movie": 2, "released": 2, "sequel": 1, "adapted into": 1, "film": 2}
+{"starring": 1, "starred": 2}
+{"directed by": 1, "written by": 1, "based on": 1, "sequel to": 1, "stars": 1, "co-production between": 1, "released by": 1}
+{"directed by": 1, "written by": 1, "based on": 1, "stars": 1, "released": 2, "titled": 1}
+{"debuted": 2, "released": 3, "peaked": 3, "spawned": 1, "joined": 2, "became": 1, "left": 2, "made": 1, "produced by": 1, "sequel to": 1}
+{"film": 2}
+{"directed by": 1}
+{"based on": 1, "directed by": 1, "features": 1}
+{"directed by": 1, "adaptation of": 1}
+{"directed": 8, "film": 10, "films": 6, "premiered": 3, "received": 5, "won": 1, "showcased": 1, "garnered": 3, "hagiographical": 2, "romance": 3, "action thriller": 2, "fantasy": 2, "melodrama": 2, "drama": 1, "social problem": 1, "box office": 1, "state Nandi Award": 3, "Filmfare Award": 3, "Cine MAA Award": 1, "National Film Awards": 1, "International Film Festival of India": 4}
+{}
+{"directed by": 2, "produced by": 1, "film": 4, "musical hit": 1, "songs": 1, "remake of": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "director": 1, "producer": 1, "screenwriter": 1, "produced by": 1}
+{"directed by": 1, "written by": 1}
+{"directed": 4, "films": 3, "pictures": 1}
+{"produced": 1, "co-written": 1, "directed by": 1, "featuring": 1, "released": 1, "considered": 1}
+{"directed by": 1, "film": 1}
+{"directed by": 1, "best known for": 1, "dubbed a": 1}
+{}
+{}
+{"directed": 12, "movies": 77, "actress": 2, "cinema": 1, "assistant director": 1}
+{"directed by": 1, "stars": 1, "had musical score by": 1}
+{"appeared in": 1, "record": 1, "charting artist": 1, "songs": 1, "television series": 1, "show": 2, "bestseller": 1}
+{"song": 5, "title": 3, "sung": 3, "commercial": 1, "jingle": 2, "lyrics": 1, "music": 1, "written for": 1, "associated with": 1, "signature song": 1, "televised": 1, "aired": 1, "titled as": 2, "catalogued for": 1}
+{"best known for": 1, "used in": 1, "theme song for": 1, "public education awareness film": 1}
+{"recorded": 1, "arrangements": 1, "jingles": 2}
+{}
+{}
+{"directed by": 1, "starring": 1, "designed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"written": 1, "directed by": 1, "starring": 1}
+{"writing the screenplay for": 1, "creating the NBC series": 1, "rewriting a horror film for": 1, "directed": 1}
+{"written by": 1, "directed by": 1, "stars": 1, "centers on": 1}
+{}
+{}
+{"starred in": 2, "films": 2}
+{"written by": 1, "reworking of": 1}
+{"is a": 1, "by": 1, "from": 1, "produced by": 1, "peaking at": 1, "on": 2}
+{"worked in": 1, "in film": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1, "featured": 1, "based on": 1, "released": 1}
+{"is a": 1}
+{"written": 1, "directed by": 1, "starring": 1}
+{"portrayal of": 1, "appears in": 1}
+{"directed by": 1}
+{"became a movie director": 1, "producer": 1}
+{"directed by": 1, "starring": 1}
+{}
+{"directed by": 1, "adapted from": 1}
+{"director": 2, "co-writer": 1, "children's film": 1}
+{}
+{}
+{}
+{}
+{}
+{"produced by": 1, "directed by": 1, "composed by": 1, "remake of": 2, "movie": 2, "starring": 2}
+{"directed by": 1, "written by": 1, "starring": 1, "released": 1}
+{"released": 1, "soundtrack": 1, "film": 1}
+{"starring": 1, "refer to": 1}
+{"directed by": 1, "written by": 1, "features": 1, "regarded as": 1, "remake of": 1}
+{"directed by": 1, "produced by": 1, "written by": 2, "starred": 1, "received": 1, "won": 1, "selected as": 1, "featured": 1}
+{"directed by": 1, "movie": 1, "film": 2, "remade": 1}
+{"directed by": 1, "released": 2, "film": 5, "starring": 1, "based on": 1}
+{"film": 1, "film credits": 1, "episode": 1}
+{"co- directed by": 1, "starring": 1, "movie": 1, "produced by": 1, "released": 1}
+{"filmed": 1, "released": 2, "directed": 2, "scripted": 1, "produced": 1, "credited": 1, "features": 1, "based on": 1, "published": 1, "mocking": 1, "premiered": 1}
+{"directed by": 1, "produced by": 1, "included": 1, "took place": 1, "focuses on": 1}
+{"directed by": 1, "produced by": 1, "screenplay by": 1, "stars": 1, "film": 3, "movie": 1}
+{"co- directed by": 1, "starring": 1, "produced by": 2, "associate producer": 1, "co-produce": 1, "syndicated to television": 1, "known as": 2}
+{"produced by": 1, "starring": 1, "directed by": 1}
+{"released": 1, "directed by": 1, "produced by": 1, "included": 1}
+{}
+{"published": 1, "played in": 1, "included": 1, "became a producer": 1, "musical director": 1, "recounted": 1}
+{}
+{}
+{"starring": 1}
+{"directed by": 1, "produced by": 1, "co-produced by": 1, "released": 2, "movie": 2, "documentary": 4, "film": 8, "teaser trailer": 1, "premiere": 1, "distributed by": 1, "nominations": 1, "won": 1, "soundtrack": 1}
+{"produced": 1, "directed by": 1}
+{"starring": 1, "originally called": 1, "made after": 1}
+{"directed by": 1}
+{"directed by": 1, "produced by": 1, "written by": 1, "published in": 2, "titled": 1, "stars": 1, "based on": 1}
+{"directed by": 1, "written by": 1, "sequel": 2, "film": 4}
+{"directed by": 1, "written by": 1, "released": 1, "following": 1}
+{"directed by": 1, "based on": 1, "won": 1}
+{}
+{"films": 5, "film director": 2, "producer": 2, "cinematographer": 2, "co-directed": 1, "executive produced": 1, "film series": 1, "trilogy": 1}
+{}
+{}
+{}
+{"released": 1, "lead single from": 1, "features": 1}
+{"released": 3, "album": 5, "studio album": 1, "collaborative albums": 2, "full-length": 1, "music": 1, "music artists": 1, "records": 1, "Grammy Awards": 1, "number-one albums": 1, "publication": 2, "Songwriters Hall of Fame": 1, "award": 1}
+{"released": 1, "song": 2, "wrote": 1, "produced": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed": 1, "films": 1}
+{"directed": 6, "released": 2, "nominated": 2, "produced": 2, "worked with": 1, "signed with": 1, "ran": 1}
+{"directed by": 1, "written by": 1, "starring": 1}
+{"directed by": 1, "starring": 1, "shot in": 2, "premiere": 1, "distributed in": 2, "produced by": 1, "designed by": 1}
+{}
+{"co-writer": 1, "producer": 2, "hit songs": 2}
+{"composed by": 1, "for the movie": 1}
+{}
+{}
+{"film composer": 1, "albums": 2, "soundtracks": 1, "released": 1}
+{"directed by": 1, "starring": 1, "co-stars": 1, "composed by": 1, "film": 2}
+{"film scores": 1, "songs": 1, "cabaret songs": 1, "operettas": 2, "theatre": 1, "The Merry Widow": 1, "Ein WalzertraumA Waltz Dream": 1, "The Chocolate SoldierDer tapfere Soldat": 1, "1950 film": 1, "La Ronde": 1}
+{"directed by": 1, "based on music by": 1}
+{"released": 1, "studio album": 1}
+{"released": 1, "produced by": 1, "album": 3, "single": 1}
+{"released": 1}
+{"is": 1}
+{"released": 1, "debut album": 1, "rereleased": 1, "split album": 1}
+{"released": 1}
+{"album": 1, "music video": 1}
+{"released": 1, "album": 2, "studio album": 1, "elected as the best domestic album": 1}
+{"released": 1, "studio album": 1}
+{"released": 2, "preceded by": 1, "re-released": 1}
+{"directed by": 1, "starring": 1, "also known as": 1}
+{"directed by": 1, "sequel to": 1}
+{"film": 1}
+{}
+{"directed by": 1, "based on": 1}
+{"starred in": 6, "adaptions of": 1, "films": 6}
+{"directed": 5, "film": 5, "wrote": 1, "played": 1}
+{"directed by": 1, "starring": 1, "starred": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "composed of": 1, "interviewed by": 1, "shot between": 1, "released": 1}
+{"directed by": 1, "film": 3, "films": 1, "restored": 1, "shown": 1}
+{"directed by": 1, "written": 1, "film": 3, "co-production": 1, "debut": 1, "story": 1, "actresses": 1, "Bollywood": 1, "industry": 1, "culture": 1, "mythology": 1, "dreams": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "is a song by": 1, "from": 1, "peaked at": 1}
+{"released": 2, "recorded": 4, "became popular": 1}
+{"is a song by": 1, "track on": 1, "album": 1, "was recorded at": 1, "inspired by": 2, "theme to the": 1, "written by": 1, "known as": 1, "lyrics were added to": 1, "concern": 1}
+{"released": 1, "film debut": 1, "single": 1, "concert": 1, "soundtrack albums": 1, "television comeback special": 1, "concert residency": 1}
+{"represented": 1, "selected": 1, "sing": 1}
+{"released": 1, "debut studio album": 1, "impacted radio": 1}
+{"is a song by": 1, "from": 1, "included in": 1, "was written by": 1, "credited to": 1, "addressed to": 1}
+{"released": 3, "written by": 1, "produced by": 2, "collaboration with": 1, "charted on": 1, "music video for": 1}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "screened": 1}
+{"released": 1, "included on": 1, "covered by": 1, "charted in": 1, "reached": 3, "spent": 1, "first charted in": 1, "reached its peak position of": 1, "enjoy": 1, "exiting": 1, "falling from": 2}
+{}
+{"directed by": 1, "screened in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 2, "starring": 1, "produced by": 1, "based on": 1}
+{"directed by": 1, "produced by": 1, "based on": 1, "written by": 1}
+{"directed by": 1, "starred": 1, "based on": 1, "written by": 1, "appeared in": 1, "issue of": 1}
+{"directed": 6, "film": 5, "feature films": 3, "film awards": 4, "received": 3, "acted": 1, "screened": 1, "acclaim": 1}
+{}
+{"published": 1, "lyrics by": 1, "music by": 1, "recorded in": 1, "released in": 2, "featured in": 2, "performed by": 2, "sung by": 2, "produced": 1, "included": 1, "reached": 1, "recorded by": 1, "played during": 1}
+{}
+{}
+{}
+{"directed by": 1}
+{"film": 5, "films": 2, "filmmaker": 1, "documentary": 1, "magazines": 1}
+{"directed by": 1, "written by": 1, "played by": 1, "premiered": 1}
+{"directed by": 1, "sequel": 1, "remake": 2}
+{}
+{"directed by": 1, "starring": 1, "includes": 1}
+{"made into": 1, "screened at": 1, "premiered on": 1}
+{"directed by": 1, "starring": 1, "include": 1, "entered into": 1}
+{"directed by": 1}
+{}
+{}
+{"portrayal of": 1, "on film": 1}
+{}
+{}
+{"film": 2, "actor": 1, "director": 1}
+{"directed by": 1, "starring": 1, "film": 3, "song": 1}
+{}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "produced by": 1, "nominated for": 1, "based on": 1, "published in": 1, "republished under": 1}
+{"directed by": 1}
+{"directed by": 1, "written by": 1, "premiered": 1, "starred": 1}
+{"film": 5, "tango film": 1, "appeared in": 4, "acting": 1}
+{"directed": 3, "film": 4, "directorial debut": 1, "nominated": 1}
+{"directed by": 1, "based on": 1}
+{"includes": 10, "produced": 10, "film": 6, "films": 6, "directed": 4, "released": 4, "written": 2, "acclaimed": 1, "awarded": 1, "planned": 1, "fought": 1, "earned": 1, "appealed": 1, "honored": 1}
+{"film": 6, "films": 6, "movie": 0, "movies": 0, "song": 0, "songs": 0, "released": 1, "came out": 0, "directed by": 0, "composed by": 0, "starring in": 3, "portraying": 3, "roles in": 5, "acclaimed": 1, "commercial success": 1, "box office hit": 1, "highest-grossing release": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1}
+{"written": 1, "directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "entered in": 1}
+{"released": 1, "directed by": 1, "based on": 1, "filming began": 1, "concluded": 1}
+{"released": 1, "directed by": 1, "music is by": 1}
+{}
+{}
+{}
+{}
+{}
+{"starred in": 1}
+{"directed": 3, "writer": 2, "composer": 1, "songwriter": 2, "musical scores": 1, "songs": 1, "play": 3, "co-writing": 1, "adaptation": 1}
+{"co-produced": 1, "directed by": 1, "written by": 1, "stars": 1, "signed to play": 1, "released": 1, "met with": 1, "grossed": 1, "ran for": 1}
+{}
+{"directed by": 1}
+{"directed by": 1}
+{}
+{"film": 2, "won the award for": 1, "nominated for": 1}
+{}
+{"co-written by": 1, "directed by": 1, "starring": 1, "received": 1}
+{}
+{}
+{}
+{"directed by": 1}
+{}
+{"directed by": 1, "film": 2}
+{"film director": 1}
+{"directed by": 1, "written by": 1, "produced by": 1, "world premiere": 1, "distributed by": 1}
+{"film": 3, "Best Actor": 1, "portrayal of": 1, "at the Boston and Catalina Film Festivals": 1, "roles include": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"recorded by": 1, "composed by": 1, "lyrics by": 1}
+{}
+{"directed": 4, "appeared in": 2, "acted with": 1, "owned": 1}
+{"directed by": 1, "produced by": 1, "remade as": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "designed by": 1}
+{"produced": 1, "distributed": 1, "starring": 1, "based on": 1, "directed by": 1, "filmed in": 1, "remake of": 1}
+{}
+{"film": 3, "movie": 1, "scripted by": 1, "directed by": 1}
+{"best known for": 1, "playing the role of": 1}
+{"directed": 1, "films": 1}
+{"roles in": 3, "movies such as": 1}
+{}
+{"film": 5, "movie": 2, "television": 2, "portray": 3, "starred": 3, "appeared": 2, "played": 1}
+{}
+{"appeared in": 5, "films include": 5, "starring role": 1, "directorial debut": 1, "television series": 2, "musical drama series": 1}
+{"appeared in": 3, "starred in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"written by": 1, "featured in": 1, "sung by": 1, "reprised by": 1, "performed": 1, "recorded": 1}
+{"songs": 3, "films": 7, "musical comedy": 1, "operetta": 1, "Hollywood": 1, "Academy Award": 1, "title song": 1}
+{}
+{}
+{"directed by": 1}
+{"include": 5, "from": 5}
+{"wrote": 1, "play": 2, "staged": 1, "made into": 1, "film": 2, "acted in": 1, "book": 1}
+{}
+{}
+{"directed": 1, "produced": 1, "based on": 1}
+{"film": 3, "directed by": 1, "based on": 1, "received": 1, "release": 1}
+{}
+{}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"film": 5, "book": 2, "adapted": 1, "directed by": 1, "starring": 1, "released": 1, "title": 2, "sequel": 1, "prequel": 1, "motion picture": 1}
+{"directed by": 1, "premiered": 1}
+{"directed by": 1, "released": 1, "entered into": 1, "selected as": 1}
+{"directed by": 1, "starring": 1, "parody of": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1}
+{"directed by": 1}
+{"written by": 1, "directed by": 1}
+{"directed by": 1}
+{"released": 2, "directed by": 1, "starring": 1}
+{"directed by": 1}
+{"directed by": 1}
+{"directed by": 1, "released": 1}
+{"directed by": 1, "based on": 1, "entered into": 1}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "released": 1}
+{"composed by": 3, "featured on": 1, "nominated for": 1, "worked on": 2}
+{}
+{"known for": 1}
+{"film": 5, "director": 3, "productions": 2, "works": 2, "launched": 1, "announced": 1, "dropped out": 1, "entered into": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{"directed by": 1}
+{}
+{"directed by": 1, "stars": 1, "filmed": 2, "feature": 2, "film": 5}
+{}
+{"directed by": 1, "preceded by": 1}
+{"directed by": 1, "selected as": 1, "entry for": 1, "accepted as": 1}
+{"directed by": 1, "written by": 1, "features": 1, "released": 2, "performed": 1, "release": 1}
+{"directed by": 1, "produced by": 1, "musical score by": 1, "released": 1, "remake of": 1}
+{"directed by": 1}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "sequel to": 1}
+{"written by": 1, "directed by": 1, "produced by": 1, "stars": 1}
+{"directed by": 1}
+{"directed by": 1, "selected as": 1, "entry for": 1}
+{"directed by": 1, "won": 1}
+{"is a": 1, "stars": 1}
+{"directed by": 1, "released": 1}
+{"is a": 1, "stars": 1}
+{"directed by": 1, "starring": 1}
+{"released": 1, "recorded": 1, "worked in": 2}
+{"directed by": 1}
+{"directed by": 1}
+{"released": 1, "directed by": 2, "film": 5, "movies": 1, "soundtrack": 1, "composed by": 1}
+{}
+{"is a": 1}
+{"popularized by": 1, "such as": 1, "wrote": 2, "column": 3, "in": 5}
+{"nominations": 6, "Academy Award": 5, "Best Actor": 5, "Golden Globe": 3, "BAFTA": 4, "film": 8, "role": 5, "directed": 1, "starring": 2, "received": 3, "acclaimed": 2, "acting": 3, "character": 1, "thriller": 2, "action": 3, "comedy": 3, "cinema": 1, "lifetime achievement": 1}
+{"produced": 3, "film director": 1, "screenwriter": 1, "producer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "directed by": 1}
+{}
+{"directed": 1, "played": 1, "won": 2}
+{"directed by": 1, "starring": 1, "based on": 1, "produced by": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1, "remake of": 1}
+{"written by": 1, "directed by": 1, "stars": 1, "awarded": 1, "released": 1}
+{"film": 2, "director": 1}
+{}
+{}
+{"released": 1, "recorded by": 1, "single from": 1, "debut studio album": 1}
+{"competed in": 1, "song": 1}
+{"released": 1, "written by": 1}
+{"written": 1, "performed": 1, "released": 3, "toured": 1, "signed": 1, "wrote": 3, "coupled": 1, "included": 1}
+{"songs": 5, "films": 1, "Billboard": 3, "magazine": 1, "Grammy Award": 1, "Emmy Award": 1, "Golden Globe Award": 1, "Billboard Music Awards": 1, "Academy Awards": 1, "Songwriters Hall of Fame": 1, "Ivor Novello Award": 1}
+{"writing": 1, "song": 1, "published": 1, "recorded by": 1}
+{"directed by": 1, "starring": 1, "won": 1}
+{"film": 1, "actress": 2, "roles in": 2, "These Final Hours": 1, "The Nice Guys": 1}
+{"directed by": 1}
+{"portraying": 1, "film": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "premiered": 1, "screened": 1, "released": 1}
+{"directed": 1, "film": 2, "won": 1, "prize": 1, "Best Artistic Contribution": 1, "Cannes Film Festival": 1}
+{"written": 4, "films": 4, "actor": 1, "directorial debut": 1, "direct": 3, "film": 5, "role": 1, "adaptation": 1, "ranks": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"published": 2, "translated": 1, "issued": 1, "wrote under the pseudonym of": 2, "co-editor of": 1}
+{"directing": 1, "movie": 1}
+{"directed by": 1}
+{}
+{}
+{}
+{"released": 1, "album": 2, "song": 4}
+{"is a song": 1, "written by": 1, "produced": 1, "served as the sixth single from": 1, "debut album": 1, "features": 1, "reached": 2, "released": 2, "collaboration album": 1, "uses": 1}
+{}
+{"directed by": 1, "film": 5, "films": 4, "first directing project": 1, "major credits include": 1, "based on": 1, "final project": 1}
+{"directed by": 1, "starring": 1, "featuring": 1}
+{"directed by": 1, "starring": 1, "part of a series of films": 1, "featuring": 1, "designed by": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1}
+{"directed": 1, "film": 2}
+{"starring": 2, "directed by": 1, "title role in": 1, "by": 2}
+{"released": 1, "starring": 1, "features": 1, "directed by": 1, "based on": 1, "made into a film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "art direction was by": 1}
+{"directed by": 1}
+{"written": 1, "directed by": 1, "produced by": 1, "music score was by": 1, "cinematography by": 1, "stars": 1, "marked the screen debuts of": 1, "had its World Premiere on": 1}
+{"starring": 1, "film": 2, "movie": 1, "copy of": 1}
+{"directed": 4, "film": 4, "films": 3}
+{"written": 1, "directed by": 1}
+{"film": 4, "movie": 0, "story": 1, "screenplay": 1, "co-director": 1, "produced": 1}
+{"directed by": 1, "written by": 1, "franchise": 1, "follows": 1, "magazine": 1, "titled": 1, "released": 2, "re-released": 1, "launched": 1, "sequel": 1}
+{"directed by": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "released": 1}
+{"directed by": 1, "documentary": 2, "film": 2}
+{"directed by": 1}
+{"directed by": 1}
+{"directed by": 1, "written by": 1, "sequel to": 2, "marks the first installment": 1, "released": 2, "premiered": 1, "theatrically released": 1, "grossed": 3, "scheduled to be released": 1}
+{"include": 1, "hosting": 1, "nominated": 1}
+{}
+{"co-written by": 1, "co-directed by": 1, "produced in": 1, "theatrically released in": 1, "directed by": 2}
+{}
+{}
+{"directed": 5, "produced": 2, "feature films": 4, "film": 6, "feature debut": 1, "horror film": 1}
+{"starring": 1, "directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "based on": 1, "starring": 1, "film": 2}
+{"directed by": 1, "written by": 1, "starring": 1, "features": 1}
+{"co-wrote": 2, "acted on": 2, "creator": 1, "producer": 1, "writer": 1, "film director": 1, "directed": 3, "starring": 1, "success": 1, "comedy duo": 1, "acted in": 2, "notable comedies": 1, "won": 1}
+{"directed by": 1}
+{}
+{"directed by": 1, "starring": 1, "premiered": 1}
+{"directed by": 1, "starring": 1, "reprises": 1, "film series": 1, "followed": 1}
+{"directed": 1, "film director": 1, "pictures": 1}
+{"directed by": 1, "starring": 1, "produced by": 1, "featuring": 1, "based upon": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 8, "feature- length film": 1, "horror film": 1, "drama": 1, "story": 1, "directed": 5, "produced": 2, "nominated": 5, "won": 4, "received": 3, "awards": 3}
+{"known for": 1, "nominated for": 3, "C\u00e9sar Award": 1, "C\u00e9sar Awards": 2, "married to": 1}
+{}
+{}
+{}
+{"written by": 1, "directed by": 1, "inspired to": 1, "entered into": 1}
+{}
+{"directed by": 1, "based on": 1, "parodying": 1}
+{}
+{"directed by": 3, "film": 6, "wrote": 1, "starring": 1, "co-wrote": 1, "adaptation": 2, "produced by": 1, "credited in": 1}
+{"films": 2}
+{}
+{"directed by": 1, "starring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"wrote for": 1, "directed": 2, "married to": 1}
+{}
+{}
+{"directed by": 1, "based on": 1, "produced by": 1, "distributed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directing": 2, "films": 2, "comedy": 1, "nominated": 1, "Academy Award": 2, "Best Director": 1, "Best Original Screenplay": 1}
+{"directed by": 1, "written by": 1, "produced by": 1}
+{"directed by": 1}
+{"directed by": 1}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1, "starring": 1}
+{"film": 3, "films": 3, "comedy": 1, "comedies": 1, "screen appearance": 1}
+{"directed": 3, "film": 5, "silent": 2, "acting debut": 1, "starring": 1, "motion pictures": 1, "canine": 2, "major canine film star": 1}
+{}
+{"directed by": 1, "film": 1, "movie": 1}
+{"directed by": 1}
+{"written by": 1, "directed by": 1}
+{"won": 2, "novel": 2, "prize": 2}
+{"directed by": 1, "produced by": 1, "stars": 1, "musical score by": 1}
+{"produced": 5, "released": 3, "directed by": 1, "created": 1, "known as": 1, "first": 3, "involved in": 1}
+{}
+{}
+{}
+{}
+{}
+{"is a": 1, "based on": 1, "written by": 1, "directed by": 1}
+{"released": 1, "directed by": 1, "screened in": 1, "won": 1}
+{}
+{"directed by": 1, "remake of": 1, "stars": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"films": 4, "director": 1, "filmmakers": 1, "science fiction": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "written by": 1, "based on": 1}
+{"film director": 1}
+{"directed by": 1}
+{"directed by": 1, "stars": 1, "written by": 1, "music score is by": 1}
+{"directed by": 1, "based on": 1, "working titles": 2}
+{}
+{}
+{}
+{"directed": 2, "film": 3, "documentary": 1, "Oscar nomination": 1}
+{"directed": 1, "films": 2, "won": 1, "awards": 1}
+{"directed by": 1, "composed by": 1, "film": 5, "movie": 1}
+{"directed by": 1, "features": 1, "remake of": 1, "based upon": 1, "starred": 1, "transformed into": 1, "marks": 1, "appearance": 2}
+{"directed by": 1, "starring": 1, "silent film": 2, "talkies": 1, "films": 1}
+{"directed by": 2, "starring": 2, "written by": 1, "based on": 1, "remake of": 1}
+{}
+{}
+{}
+{}
+{}
+{"starred in": 1, "aired on": 2, "appeared as": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"performed in": 3, "roles in": 2, "opera": 4, "soprano": 2}
+{}
+{}
+{}
+{"directed": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 2, "album": 3, "single": 1, "song": 2, "written by": 1, "worked with": 1}
+{}
+{}
+{"released": 1, "recorded by": 1, "single from": 1, "features": 1, "was a hit on": 1}
+{"song": 5, "album": 3, "B-side": 2, "track": 2, "single": 1, "musician": 1, "producer": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "actor": 1, "played the role of": 1}
+{}
+{"composed": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "director": 1, "actor": 1}
+{}
+{"directed by": 1, "produced by": 1, "based on": 1, "starring": 1}
+{"directed by": 1, "written by": 1, "starring": 1, "released": 1}
+{"is": 2, "film": 2}
+{"is a": 2, "film": 2}
+{"film": 2}
+{"released": 3, "performed": 3, "recorded": 2, "albums": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"remembered for": 1, "playing": 2, "actor": 2, "director": 2, "films": 1, "silent era": 1, "sound era": 1, "motion pictures": 1}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"appeared in": 1}
+{"directed by": 1, "starring": 1, "screenplay was by": 1, "made at": 1, "designed by": 1}
+{"film debut": 1, "gained international recognition": 1, "role as": 1}
+{"directed by": 1, "written": 1, "starred": 1, "showcases": 1, "showcased": 2}
+{"directed": 5, "film": 10, "awards": 4, "nominated": 1, "premiered": 1, "screened": 3, "received": 5, "won": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"written by": 1, "directed by": 1, "film": 5, "premiered": 1, "released": 1}
+{"films": 2, "directed by": 1, "composed by": 1, "scores": 1, "soundtracks": 1, "music": 1}
+{}
+{}
+{}
+{"directed by": 1, "documentary film": 1, "screened out of competition": 1, "Cannes Film Festival": 1}
+{"released": 1, "song": 2, "single": 1, "album": 1, "hit": 3, "peaking": 2, "chart": 1}
+{"released": 1, "is a song by": 1, "created through": 1}
+{"released": 4, "album": 4, "single": 3, "song": 2, "musical": 1, "film": 1, "Broadway": 1}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "acts as": 1, "executive producer": 1, "released": 1}
+{"produced": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed": 1, "written": 1, "acted in": 1, "nominated for": 3}
+{"directed by": 1, "screenplay credit": 1, "film": 5, "sequel to": 1, "appeared on": 1, "nominated for": 1, "released": 1}
+{}
+{}
+{"directed by": 1}
+{}
+{"directed by": 1, "produced by": 1, "released": 3, "premiered": 1, "sequel to": 2, "based on": 1, "filming": 1, "converted to": 1, "in development": 1}
+{}
+{}
+{}
+{"included in": 1}
+{"directed by": 1, "shown as part of": 1}
+{"released": 2, "directed by": 1, "based on": 2, "film": 4, "magazine": 1}
+{}
+{"film": 2, "actor": 2, "television": 1, "host": 1, "executive": 1, "child actor": 1, "roles": 1, "Alfred Hitchcock": 1, "Sabotage": 1}
+{"directed": 6, "film": 12, "films": 8, "feature films": 1, "silent film": 1, "thriller": 1, "thrillers": 2, "British films": 1, "Academy Award": 2, "Best Director": 2, "Hitchcock film": 3, "Hitchcockian": 1, "movies": 0, "song": 0, "magazine": 0}
+{"directed by": 1, "produced by": 1, "written": 1}
+{}
+{"film director": 1, "screenwriter": 1, "editor": 1, "film producer": 1}
+{}
+{}
+{}
+{"documentary film": 1}
+{}
+{"directed by": 1}
+{"directed by": 1, "starring": 1, "known for": 1, "inspired by": 1, "featured": 1, "echo": 1}
+{}
+{}
+{}
+{}
+{"directed by": 1}
+{}
+{"known for": 1, "roles in": 1}
+{"directed by": 1, "produced by": 1, "starring": 1, "features": 1, "composed by": 1, "sung by": 1}
+{"directed by": 1, "based on": 1, "starring": 1}
+{}
+{"directed by": 1}
+{}
+{"directed": 1, "written by": 1}
+{}
+{"directed by": 1}
+{}
+{}
+{}
+{"is a": 1}
+{"directed by": 1, "nominated for": 1, "entered into": 1}
+{}
+{"directed by": 1, "written": 1}
+{"directed by": 1}
+{"include": 1}
+{"directed by": 1, "released": 1}
+{}
+{}
+{"producing": 1, "credits with": 1, "record producer": 1, "composer": 1, "sound engineer": 1, "freelance": 1, "in-house producer": 1, "international releases": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "released": 2, "starring": 2}
+{"released": 1, "directed by": 1}
+{"film": 5, "movie": 0, "released": 0, "came out": 0, "directed by": 0, "composed by": 0, "nominated": 1, "won": 1, "entered into": 1, "specialized in": 1, "shot": 1}
+{}
+{}
+{"released": 1, "recorded by": 1, "single from": 1, "studio album": 1, "peaked at": 1}
+{"performed": 1, "opening": 1, "Eurovision Song Contest": 1}
+{"released": 1, "song": 3, "album": 1, "written by": 1}
+{"released": 1, "performed": 4, "written by": 1}
+{"film": 3, "musical": 1, "based on": 2, "novel": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"inspiration": 2, "translated into": 1, "opera": 1, "film": 1, "saga": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "based on": 1, "adapted by": 1, "screenplay by": 1, "composer": 1, "editor": 1, "cinematography by": 1, "production companies": 1, "distribution by": 1}
+{"directed by": 1}
+{"directed by": 1, "released": 2, "sequel to": 1}
+{"best known for": 1, "writing the screenplay for": 1}
+{"directed by": 1, "written by": 1, "based on": 1, "film": 1}
+{}
+{"was": 1}
+{"directed by": 1, "based on": 1}
+{}
+{"published": 1, "launched": 1}
+{"published": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "starring": 1, "released": 1, "shown at": 1, "includes": 1}
+{"written by": 1, "directed by": 1, "taken from": 1, "features": 1, "hit": 1}
+{"films": 2, "film": 2, "directed by": 1, "starring": 1}
+{"directed": 5, "produced": 2, "released": 1, "co-created": 1, "co-wrote": 2, "played the music for": 1, "featured": 1, "charted": 1, "directs": 1, "worked with": 1, "directed the UK music video for": 1, "directed the music video for": 2, "made": 1, "documentary called": 1, "wrote": 1, "original music used in": 1, "ongoing podcast available through": 1}
+{"written by": 1, "directed by": 1, "film": 1}
+{"directed by": 1, "debut film": 1, "premiered": 1}
+{"appeared in": 3, "hosting": 1, "best known for": 1, "independent comedy film": 1, "starring": 1}
+{"written by": 1, "starring": 1, "directed by": 1, "distributed by": 1, "movie": 1, "concert film": 1, "songs": 1, "film": 2}
+{"acted in": 1, "portraying": 1, "stars as": 1, "voiced": 1}
+{}
+{}
+{}
+{"film": 7, "movie": 0, "documentary": 1, "adaptation": 1, "biopic": 1, "entered into": 1, "won": 1, "deals with": 1, "struggles with": 1, "came out": 1}
+{"films": 2, "Chinese Cinema": 1, "classics": 1}
+{"is a": 1, "by": 1, "in": 2, "produced": 1, "funded": 1}
+{}
+{"directed by": 1, "starring": 1}
+{"film": 3, "Iranian film": 2, "Persian cinema": 1, "father of the Iranian film industry": 1, "talkie": 1, "feature film": 1}
+{}
+{"film": 3, "guest starred on": 4, "appearing in": 2}
+{}
+{"directed by": 1, "starring": 1, "released": 1, "film": 3}
+{"known by": 1, "best known for": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"appeared": 1, "engaged": 1, "won": 1, "retired": 1, "married": 2, "separated": 1}
+{}
+{"came from": 1, "performed in": 2, "directed": 2, "sang in": 3, "wrote": 3, "premi\u00e8re of": 1, "revival by": 1, "set by": 2}
+{}
+{}
+{"appeared in": 2, "sang": 3, "film": 3, "songs": 2}
+{}
+{}
+{"includes": 2, "film": 2, "director": 1}
+{"directed by": 1, "starring": 1, "adapted by": 1, "based upon": 1, "screenplay by": 1}
+{"directed by": 1, "starring": 1, "release": 1, "shown with": 1}
+{"released": 1, "directed by": 1, "earned": 1}
+{"directed": 1, "appeared in": 1, "films": 2}
+{"nominated for": 1, "Academy Award": 1, "Best Actor": 1, "A Song to Remember": 1, "directing films": 1}
+{"directed by": 1, "written by": 1, "filmed in": 1}
+{"directed by": 1, "starring": 1}
+{"produced": 1, "directed": 2, "film": 3}
+{"directed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "produced by": 1}
+{}
+{"published": 3, "adapted for film": 1}
+{}
+{}
+{"films": 1, "magazines": 2}
+{"film": 3, "movies": 3, "directed by": 1, "featuring": 1}
+{"directed by": 1, "released": 1, "film": 5, "film series": 1, "martial arts film": 1}
+{"directed by": 2, "film": 6, "produced by": 1, "based on": 1, "starring": 1, "cinematography was by": 1, "film score by": 1, "includes": 1}
+{"co-written": 1, "directed by": 2, "stars": 1, "written by": 2, "film score": 1, "produced": 1, "released": 2, "edited down": 1, "selected for preservation": 1}
+{"directed by": 2, "co-written by": 1, "starring": 1, "film": 5, "epic": 1, "western": 2, "trilogy": 1}
+{"directed": 3, "wrote": 5, "script": 4, "films": 5, "trilogy": 1}
+{}
+{"directed by": 2, "written by": 1, "film": 5, "film series": 1, "reprising": 1, "co-wrote": 1, "produced": 1, "return": 1, "absent": 1}
+{"directed by": 1, "based on": 1, "written by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "film": 2, "drama film": 1, "selected as": 1, "entry for": 1, "Best Foreign Language Film": 1, "Academy Awards": 1, "accepted as": 1, "nominee": 1}
+{"directed": 1, "film": 1, "films": 1}
+{"directed": 1, "films": 1, "television series": 1}
+{"directed by": 1, "released": 2}
+{"released": 3, "directed by": 1, "produced by": 1, "score by": 1, "screenplay by": 1, "film": 5, "movie": 1}
+{"directed by": 1}
+{}
+{"directed by": 1, "written by": 1, "stars": 1, "released": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "based on": 1, "film": 5, "play": 1, "shown publicly": 1}
+{"directed by": 1, "starring": 1}
+{"is": 1, "remake of": 1, "film": 2, "by": 1}
+{"directed by": 1, "starring": 1, "based on": 1, "remake": 2}
+{"directed by": 1, "entered into": 1}
+{"produced by": 1, "directed by": 1}
+{}
+{"composed by": 3, "released": 1, "recorded by": 2, "album": 3, "added lyrics to": 1}
+{"film": 3, "director": 3, "feature": 2, "New Zealand film": 1, "Hollywood features": 1, "The Lord of the Rings": 1, "scriptwriter": 1, "actor": 1, "writer": 1}
+{}
+{"produced": 3, "film": 6, "movie": 0, "released": 1, "directed": 1, "cameo": 1, "screenplay": 1, "commercials": 2, "television": 2, "band": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"appeared in": 1, "directed": 3, "film": 6, "films": 4, "best film": 1, "called": 1, "was": 3, "success": 1, "became": 1, "entered into": 1, "nominated for": 1, "remarking": 1, "starrer": 1, "married to": 1, "co-star": 1}
+{"directed by": 1, "stars": 1}
+{"directed by": 1, "starring": 1, "released": 1, "premiere": 1, "debut": 1}
+{"directed": 1, "wrote for": 1, "entered into": 1}
+{}
+{}
+{"published": 5, "adapted into": 3, "produced": 1, "described by": 1, "associated with": 1, "best known for": 1}
+{}
+{"produced": 1, "co-devised": 1}
+{}
+{}
+{}
+{}
+{"film director": 1, "screenwriter": 1, "film producer": 1}
+{"released": 1, "directed by": 1, "starring": 1, "adaptation of": 1}
+{"released": 2, "written by": 1, "called": 1, "achieves": 1, "wrote": 1, "released on": 1}
+{"released": 1, "song": 2, "single": 1, "album": 1}
+{"composed by": 1, "lyrics by": 1, "introduced by": 1, "film": 1}
+{"directed by": 1, "known as": 1, "sequel to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"known as": 1, "best known for": 1, "notable songs": 1, "chart toppers": 1, "top 10 hit": 1, "subject of": 1}
+{}
+{}
+{}
+{}
+{"directed by": 1, "starring": 1, "considered as": 1, "made by": 1}
+{"producing": 1, "short- film": 1, "Academy Award": 1, "Best Live Action Short Film": 1, "nominated": 1}
+{"directed by": 1, "released": 3, "film": 5, "sequel": 1, "produced": 1, "starring": 1, "series": 1}
+{"directed by": 1, "starring": 1}
+{"directed by": 1, "starring": 1, "shot at": 1, "art direction was by": 1}
+{}
+{}
+{}
+{"directed by": 1, "entered into": 1}
+{}
+{"directed by": 1, "based on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"directed by": 1, "written by": 1, "titled": 1}
+{"written by": 1, "directed by": 1, "produced by": 1, "composed by": 1, "released": 1}
+{"is a": 1, "follow- up to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"produced": 1, "films": 2}
+{"produced": 1, "films": 2}
+{"directed": 1, "films": 1}
+{"produced": 1, "ordered": 1}
+{"released": 2, "directed by": 1, "co-written": 1, "wrote": 1, "film": 3, "silent film": 2, "restored": 1}
+{"produced": 1, "films": 2}
+{"directed by": 1, "starring": 1, "based on": 1}
+{"films": 2, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released": 1, "directed by": 1}
+{"directed by": 1, "based on": 1, "inspiration of": 1, "premiered": 1}
+{"known as": 1, "written and directed by": 1, "won": 1}
+{}
+{}
+{"released": 1, "directed by": 1, "produced by": 2, "screenplay by": 1, "stars": 1}
+{"directed by": 1, "film": 2}
+{"directed by": 1, "starring": 1, "based on": 1, "designed by": 1}
+{"film director": 1, "screenwriter": 1, "producer": 1}
+{"directed": 4, "film": 3, "movies": 1, "short films": 1, "feature films": 2, "music video": 1, "duet": 1}
+{"directed by": 1, "written by": 1, "released": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}

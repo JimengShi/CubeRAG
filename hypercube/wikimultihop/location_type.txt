@@ -1,0 +1,6119 @@
+{}
+{"city": 1}
+{"county": 2, "city": 2, "state": 1, "country": 1}
+{"city": 3, "state": 2}
+{"county": 1, "city": 1}
+{"city": 1, "abbey": 1, "county": 1}
+{"city": 2, "county": 1, "state": 2, "country": 1}
+{}
+{}
+{"county": 1, "country": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"country": 1}
+{"country": 2}
+{}
+{}
+{}
+{}
+{"city": 1, "county": 1, "country": 1}
+{}
+{}
+{}
+{"city": 2, "country": 1, "state": 1}
+{}
+{}
+{}
+{"city": 2}
+{"city": 2, "state": 1}
+{"region": 2, "state": 2, "country": 1}
+{"village": 1, "county": 1, "province": 1, "country": 1}
+{"country": 2, "island": 1, "territory": 1}
+{"village": 2, "county": 1, "voivodeship": 1, "country": 1}
+{"country": 1}
+{"district": 2, "river": 1, "state": 1, "country": 1}
+{"village": 2, "county": 1, "voivodeship": 1, "country": 1}
+{"village": 2, "county": 1, "voivodeship": 1, "country": 1}
+{"community": 1, "county": 1, "state": 1, "country": 1}
+{"village": 1, "district": 1, "country": 1}
+{}
+{"city": 1, "country": 2}
+{}
+{}
+{"country": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "state": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "state": 1}
+{"city": 1, "country": 1}
+{}
+{"country": 1}
+{"county": 1, "country": 1}
+{"country": 1}
+{"country": 3, "city": 2, "county": 1}
+{"city": 2, "country": 1}
+{"county": 1, "state": 1}
+{"country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"village": 1, "county": 1}
+{}
+{}
+{"city": 2}
+{}
+{}
+{}
+{}
+{"country": 2, "city": 1, "county": 1}
+{"county": 1, "state": 1}
+{"county": 1, "region": 2}
+{"city": 1, "county": 1, "country": 1}
+{}
+{"city": 1}
+{}
+{"city": 1}
+{}
+{}
+{}
+{}
+{"country": 1, "city": 1}
+{"city": 2, "county": 1}
+{"street": 1}
+{}
+{}
+{}
+{}
+{}
+{"university": 1}
+{"country": 1}
+{}
+{"county": 1, "state": 1}
+{"city": 1}
+{"county": 1, "state": 1, "country": 1}
+{"state": 1}
+{"city": 1, "town": 1}
+{"city": 1, "state": 1}
+{}
+{"city": 2, "country": 3}
+{"island": 1, "archipelago": 1, "country": 1}
+{"island": 1, "province": 1, "country": 1}
+{"island": 1, "sea": 1, "country": 1}
+{"island": 3, "city": 3, "country": 1, "district": 1, "river": 3, "bridge": 4, "metro station": 2}
+{"island": 1, "municipality": 1, "county": 1, "country": 1}
+{"island": 3, "gulf": 1, "strait": 1, "province": 1, "country": 1}
+{"island": 1, "county": 1, "state": 1, "country": 1}
+{"island": 1, "county": 1, "state": 1}
+{"island": 1, "county": 1, "state": 1, "country": 1}
+{"island": 1, "archipelago": 1, "country": 1}
+{}
+{}
+{}
+{"village": 1, "hospital": 1, "city": 1, "country": 1, "county": 1, "campaign": 1}
+{}
+{"country": 2}
+{"city": 1, "festival": 2, "country": 1, "state": 1}
+{}
+{"city": 1, "state": 2, "country": 1, "museum": 1}
+{}
+{"city": 2, "county": 1}
+{"county": 1}
+{"city": 1}
+{"county": 2, "city": 2}
+{"city": 2}
+{"county": 2}
+{"county": 2, "city": 2}
+{"county": 1, "country": 1}
+{}
+{"city": 5, "province": 5, "country": 1}
+{"city": 2, "country": 2, "university": 2}
+{"country": 1}
+{"region": 1, "country": 1}
+{"country": 2, "village": 1}
+{"voivodeship": 1, "city": 4}
+{"country": 2, "city": 2}
+{"city": 1, "country": 1, "region": 1}
+{"city": 1, "country": 1}
+{"country": 2}
+{"county": 2, "voivode": 2, "region": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"country": 1, "city": 1, "county": 1, "state": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "country": 2}
+{}
+{}
+{"country": 1}
+{"city": 1}
+{}
+{}
+{}
+{"city": 1, "state": 1}
+{"county": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "province": 1}
+{"city": 1}
+{"university": 1, "state": 1}
+{"city": 1, "county": 1, "state": 1, "country": 1}
+{}
+{"city": 3, "country": 1}
+{"city": 1, "province": 1, "country": 1}
+{}
+{}
+{"country": 1, "city": 2}
+{}
+{"city": 1, "country": 1}
+{"city": 1}
+{"country": 1, "club": 3}
+{"city": 2}
+{"city": 1}
+{}
+{}
+{"country": 2, "city": 1}
+{}
+{}
+{}
+{"city": 2, "town": 1, "village": 1}
+{"city": 1}
+{}
+{"theatre": 1, "city": 1, "country": 3}
+{"school": 2}
+{}
+{"county": 1, "country": 1}
+{"city": 2, "county": 1, "university": 1}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"street": 1, "country": 1, "city": 1, "county": 1, "state": 1}
+{}
+{"country": 1}
+{"city": 1, "university": 1, "country": 1}
+{}
+{}
+{"country": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{}
+{"country": 1, "state": 1, "city": 1}
+{}
+{"state": 1}
+{}
+{}
+{"village": 1, "farm": 1}
+{}
+{}
+{"county": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{"country": 3}
+{}
+{}
+{}
+{"city": 1}
+{"country": 1, "state": 1}
+{"county": 2, "city": 1, "mythology": 1}
+{"city": 1}
+{"country": 1}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{"city": 1, "museum": 3}
+{}
+{}
+{}
+{"city": 1}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{"county": 3, "duchy": 1, "country": 1}
+{"city": 1, "county": 1, "duchy": 1}
+{"county": 2, "duke": 2}
+{"city": 5, "country": 1, "state": 1}
+{"county": 4}
+{"county": 5, "duchy": 2}
+{"county": 3}
+{"county": 3, "duke": 1, "crusader": 2, "country": 1}
+{"city": 1, "county": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 2}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "state": 2}
+{"city": 1, "country": 2}
+{}
+{}
+{"city": 1}
+{"country": 3, "state": 1, "city": 1}
+{}
+{"city": 5, "state": 2, "county": 0, "country": 0, "village": 0, "street": 0}
+{}
+{}
+{"city": 2, "village": 1, "country": 1}
+{"country": 1, "city": 2}
+{"country": 1}
+{"village": 1, "county": 2, "country": 1}
+{"university": 2, "state": 1, "country": 1}
+{"city": 1, "state": 1, "county": 1}
+{"city": 1}
+{}
+{"city": 2, "country": 1}
+{"city": 2, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 2, "country": 2, "state": 2}
+{}
+{"city": 1}
+{}
+{}
+{}
+{"city": 2, "province": 2, "country": 2}
+{"country": 1}
+{}
+{}
+{"city": 2, "region": 1}
+{"country": 5}
+{"commune": 1, "department": 1, "country": 1}
+{"village": 1, "city": 1}
+{"city": 2, "country": 1}
+{}
+{"university": 1}
+{}
+{"sea": 2, "country": 1}
+{"city": 1, "state": 1}
+{"city": 2, "country": 1, "state": 1}
+{"city": 2, "county": 2, "country": 1}
+{"state": 1, "country": 1}
+{"county": 1, "district": 2, "state": 1, "country": 1}
+{}
+{"country": 1, "university": 2}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"city": 2, "state": 2}
+{}
+{}
+{}
+{"city": 3, "state": 2, "country": 1, "town": 1}
+{}
+{"city": 1, "country": 1}
+{"state": 1, "country": 1, "ranch": 1}
+{}
+{"city": 1, "country": 1}
+{"village": 1, "county": 2, "city": 2, "school": 3, "university": 2}
+{}
+{"province": 1, "country": 2}
+{"country": 1}
+{}
+{"city": 2, "state": 1}
+{"city": 1, "state": 1}
+{"city": 2, "state": 2, "country": 1}
+{}
+{}
+{}
+{"country": 1, "state": 1, "city": 1}
+{}
+{}
+{"country": 2}
+{}
+{"country": 1, "city": 2}
+{"country": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{"county": 1}
+{"city": 2, "country": 2}
+{"village": 1, "city": 3, "county": 2, "state": 1}
+{}
+{"country": 1}
+{}
+{}
+{"city": 2, "county": 1, "country": 1}
+{"county": 1, "city": 1}
+{}
+{}
+{"country": 1}
+{"city": 5, "country": 2, "state": 1, "village": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1}
+{"camp": 1, "country": 1}
+{"city": 2}
+{"city": 1, "state": 1, "country": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{"city": 1}
+{"city": 2, "country": 2}
+{"city": 1}
+{"city": 3, "county": 2}
+{"city": 3, "duchy": 1}
+{"city": 3, "duke": 2}
+{}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{"city": 5, "county": 1, "state": 1, "country": 2, "town": 1, "duchy": 4, "university": 1, "castle": 1}
+{"duchy": 4, "city": 2}
+{"county": 3, "state": 3, "country": 1}
+{"city": 3, "county": 2, "duchy": 3}
+{"county": 1}
+{"country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 1}
+{"city": 1, "country": 2, "cathedral": 1}
+{}
+{"city": 2}
+{"country": 2, "city": 1}
+{"country": 1}
+{"city": 1, "state": 1}
+{}
+{"city": 2, "country": 2}
+{}
+{}
+{"country": 1, "city": 1, "county": 1, "state": 1}
+{}
+{}
+{"country": 1}
+{"kingdom": 1}
+{"county": 1, "duchy": 1, "kingdom": 1}
+{"city": 5, "country": 2}
+{}
+{}
+{"county": 1, "country": 1}
+{}
+{"country": 2}
+{"city": 2, "country": 1}
+{}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "county": 1, "country": 1}
+{"country": 1, "city": 1}
+{"city": 2, "country": 1}
+{"city": 1}
+{"city": 1, "province": 1}
+{"city": 3, "country": 2, "university": 2, "region": 2}
+{"city": 2}
+{}
+{"city": 6, "country": 2}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "country": 2}
+{"city": 3, "country": 2}
+{}
+{}
+{"county": 3, "state": 2}
+{"county": 3}
+{"county": 1, "state": 1, "country": 1}
+{"city": 3, "county": 2, "state": 1}
+{"city": 1}
+{"country": 2}
+{}
+{}
+{}
+{"city": 2, "country": 2}
+{"country": 2, "city": 1}
+{"village": 1, "country": 1}
+{"city": 1}
+{}
+{"town": 1, "department": 1, "country": 1}
+{"town": 1, "department": 1, "country": 1}
+{"town": 1, "department": 1, "country": 1}
+{"city": 2, "region": 1, "country": 1}
+{"village": 1, "city": 1, "county": 1, "state": 1, "country": 1, "station": 4}
+{"city": 2, "region": 1, "country": 1}
+{"town": 2, "department": 1, "country": 1, "city": 2}
+{"city": 3, "country": 1, "airport": 1, "station": 1}
+{"commune": 2, "department": 1, "country": 1}
+{"city": 2, "region": 1, "country": 1}
+{"country": 1}
+{"city": 1, "state": 1}
+{}
+{"county": 2, "country": 1}
+{"county": 2}
+{"county": 1}
+{"county": 1}
+{"county": 3, "state": 2, "country": 1}
+{"castle": 1, "city": 2, "county": 1, "state": 1}
+{"city": 2, "duchy": 1, "country": 1}
+{"duchy": 2, "country": 2}
+{"city": 1, "county": 1, "country": 1}
+{"city": 2, "principality": 2, "country": 1}
+{"city": 1, "state": 1, "country": 1, "settlement": 1}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{"country": 2, "region": 1}
+{"city": 1}
+{"county": 1}
+{"country": 1}
+{"country": 1}
+{}
+{}
+{}
+{"city": 3, "state": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "state": 2}
+{}
+{"country": 1}
+{"country": 2}
+{}
+{}
+{"street": 1, "city": 3, "country": 1, "state": 1, "museum": 1}
+{"city": 2, "country": 1}
+{}
+{"street": 1, "city": 1, "country": 1}
+{"city": 2, "county": 1, "state": 1}
+{}
+{"city": 1, "country": 1, "county": 1, "museum": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1, "state": 1}
+{"city": 3, "country": 3, "state": 1, "county": 1}
+{"country": 1}
+{"country": 1}
+{"city": 3, "state": 5}
+{"state": 1, "country": 1}
+{}
+{"city": 2, "state": 1, "country": 1}
+{}
+{}
+{}
+{"city": 2, "country": 2}
+{"country": 1}
+{"city": 2, "country": 1}
+{}
+{}
+{}
+{"kingdom": 3, "city": 2}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"city": 1}
+{}
+{}
+{"county": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "cinema": 1}
+{"country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "town": 1, "municipality": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"state": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{"county": 1, "country": 1}
+{"city": 2}
+{"county": 1, "state": 1}
+{}
+{}
+{"state": 1}
+{"state": 1, "city": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 2, "country": 2, "state": 1}
+{}
+{}
+{"country": 1}
+{"county": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{"city": 3, "country": 2}
+{}
+{}
+{}
+{"county": 2, "duke": 2}
+{}
+{"county": 1, "country": 1}
+{}
+{}
+{"city": 3}
+{}
+{"country": 1}
+{}
+{"county": 1, "city": 1, "kingdom": 1}
+{"city": 1, "island": 1, "country": 1}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"state": 1, "country": 1}
+{"city": 3, "country": 2, "state": 3}
+{"state": 1}
+{}
+{}
+{}
+{"country": 1}
+{"county": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "state": 1, "country": 1, "school": 1, "nightclub": 1}
+{"country": 1}
+{}
+{"country": 1}
+{"city": 2, "river": 1, "country": 1}
+{}
+{}
+{}
+{"city": 1, "county": 1}
+{"city": 2}
+{"city": 1, "country": 1}
+{"country": 1, "city": 1}
+{"county": 2, "country": 2}
+{"country": 1}
+{}
+{}
+{}
+{"county": 1}
+{"city": 3, "country": 3, "state": 2, "empire": 1}
+{}
+{"city": 1}
+{"city": 4, "country": 2, "department": 3, "municipality": 3}
+{"county": 1, "city": 1}
+{"village": 1, "country": 1}
+{"county": 1, "city": 1}
+{}
+{"state": 1}
+{"city": 1}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{"island": 2, "channel islands": 2}
+{"city": 1, "state": 1}
+{}
+{"city": 1}
+{}
+{"city": 1, "street": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"state": 1, "country": 1}
+{}
+{}
+{"county": 4, "country": 1}
+{"city": 1}
+{}
+{}
+{"city": 2, "county": 1, "state": 1, "country": 1, "mountain": 1}
+{}
+{}
+{"city": 3}
+{}
+{"city": 1, "state": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 5, "country": 1, "university": 3, "institution": 3, "council": 4}
+{"city": 4, "country": 1}
+{}
+{"city": 4, "country": 1}
+{"country": 2, "city": 2}
+{}
+{"city": 2, "country": 2}
+{}
+{}
+{}
+{}
+{"city": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 2, "country": 1}
+{"street": 1, "city": 1, "square": 1}
+{}
+{"city": 1}
+{"village": 1, "city": 2, "county": 2, "state": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1}
+{"country": 1}
+{"country": 1}
+{}
+{"city": 1}
+{}
+{"city": 2, "county": 3}
+{"city": 4, "county": 1, "state": 1, "country": 1, "island": 1, "castle": 5}
+{"county": 2}
+{"county": 1, "state": 1}
+{"city": 2, "country": 1}
+{"city": 2}
+{"city": 2, "town": 1}
+{"county": 4, "state": 1, "country": 1}
+{"county": 1, "state": 2}
+{"city": 3}
+{"county": 1, "duchy": 1}
+{}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{"city": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 2}
+{}
+{"country": 1}
+{"studio": 1, "country": 1}
+{}
+{}
+{}
+{"hotel": 5, "city": 2, "country": 1, "street": 3}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"city": 3, "county": 2, "state": 2}
+{"county": 3, "kingdom": 3}
+{"city": 1}
+{"city": 1, "country": 1}
+{}
+{"county": 1}
+{"city": 1, "county": 1}
+{}
+{}
+{"county": 1}
+{}
+{}
+{"county": 3, "city": 1}
+{"cove": 1, "county": 1, "country": 1}
+{"city": 2, "town": 1}
+{"school": 1, "city": 1, "state": 1}
+{}
+{"city": 3, "country": 2}
+{}
+{"city": 2}
+{"country": 1}
+{}
+{"country": 1}
+{"city": 3, "state": 2}
+{}
+{"city": 4, "country": 3, "state": 1, "county": 0, "village": 0, "street": 0}
+{"city": 2, "county": 2}
+{"city": 1}
+{}
+{"county": 5, "duke": 6, "empire": 1, "city": 1}
+{"city": 1}
+{}
+{}
+{}
+{"city": 1, "county": 1, "country": 1}
+{}
+{"county": 1, "duke": 5, "region": 1}
+{"city": 2, "country": 2, "county": 1}
+{"county": 4, "state": 1, "country": 1}
+{"country": 1}
+{}
+{}
+{"theater": 1, "festival": 1}
+{"city": 2, "prefecture": 1, "country": 1}
+{"country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "state": 2, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mountain": 1, "region": 1, "province": 2, "district": 2}
+{"region": 3, "country": 1, "mountain": 1, "range": 1}
+{"mountain": 1, "region": 1, "province": 1, "district": 1}
+{"mountain": 1, "region": 2, "province": 2, "district": 3, "border": 1}
+{"town": 1, "county": 1, "state": 1, "country": 1}
+{"city": 1, "country": 2}
+{}
+{}
+{"country": 2}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 2}
+{}
+{"city": 2, "castle": 1}
+{"city": 2, "county": 2, "state": 1, "country": 1}
+{"county": 1, "state": 1}
+{"county": 1, "country": 1}
+{"county": 1, "state": 1, "country": 1}
+{"city": 2}
+{}
+{"county": 1}
+{}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"county": 2, "country": 1}
+{"county": 1, "title": 3}
+{"county": 1, "city": 1, "state": 1}
+{}
+{"district": 1, "city": 1, "county": 1, "estate": 2}
+{}
+{}
+{"street": 1}
+{"city": 2, "country": 1}
+{"city": 1, "country": 1}
+{"city": 2, "state": 1, "country": 1}
+{}
+{}
+{"village": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{"country": 1}
+{"city": 2}
+{"city": 3}
+{"city": 2, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"city": 2, "state": 1}
+{"city": 1, "county": 1, "country": 1}
+{"city": 1, "state": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 2}
+{"city": 1, "country": 1}
+{}
+{"city": 2, "country": 1}
+{}
+{}
+{"city": 2}
+{"city": 1, "county": 1, "state": 1, "country": 1}
+{"country": 1}
+{}
+{"city": 2, "country": 1}
+{"city": 2, "country": 1}
+{"city": 2, "state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1, "state": 1}
+{}
+{}
+{}
+{"village": 1, "county": 1}
+{"city": 1}
+{"town": 1, "province": 1}
+{"city": 2, "country": 2}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{}
+{"county": 1}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"country": 2}
+{}
+{}
+{"country": 2, "state": 3}
+{"country": 1}
+{}
+{"country": 2}
+{"country": 2}
+{"country": 1}
+{"country": 1}
+{"country": 2}
+{"country": 2}
+{"country": 5, "city": 2, "palace": 1}
+{"country": 3}
+{"country": 2}
+{"city": 3, "country": 2, "state": 1}
+{"country": 2}
+{"country": 2}
+{"city": 5, "country": 5, "state": 1, "county": 1, "village": 1, "street": 0}
+{}
+{}
+{"city": 2, "state": 2}
+{}
+{}
+{}
+{"city": 3, "state": 2, "country": 1}
+{"county": 1, "state": 1, "country": 2, "city": 1}
+{"country": 1, "city": 1}
+{"county": 1}
+{"country": 3}
+{}
+{}
+{"country": 2}
+{"city": 1}
+{}
+{"state": 1, "country": 1}
+{}
+{}
+{"street": 2, "city": 1, "state": 1, "country": 1}
+{}
+{}
+{"country": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"county": 1, "kingdom": 5}
+{"county": 5, "country": 1}
+{"county": 2}
+{}
+{"county": 3}
+{"county": 1}
+{"county": 3, "state": 1}
+{"county": 2, "duchy": 1}
+{"county": 4, "province": 1}
+{"county": 2, "city": 1, "village": 1}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"county": 1, "kingdom": 1}
+{"county": 1, "state": 1, "country": 1}
+{"county": 1, "state": 1, "country": 1}
+{"county": 2, "state": 2}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 3, "country": 2}
+{"state": 3, "city": 4, "county": 1, "cemetery": 1}
+{}
+{"country": 1}
+{"city": 2, "county": 1, "country": 2}
+{"city": 2, "county": 2, "region": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{"country": 3, "city": 1, "festival": 1}
+{"country": 1}
+{"village": 1, "country": 1}
+{}
+{}
+{"country": 1, "city": 1, "league": 1}
+{}
+{"city": 1, "town": 1}
+{"country": 2, "city": 1}
+{}
+{"city": 1, "state": 2, "country": 1}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{"county": 1, "country": 3}
+{"county": 3, "kingdom": 3, "country": 1}
+{"county": 3, "country": 3}
+{"county": 1, "country": 2}
+{"city": 4, "county": 2, "country": 1}
+{"county": 2, "state": 2, "country": 1}
+{"county": 4, "country": 1}
+{"city": 3, "country": 1, "kingdom": 1}
+{"county": 3, "state": 1, "country": 1}
+{"city": 1}
+{"county": 1, "state": 1, "country": 1}
+{"county": 1, "state": 1, "country": 1}
+{}
+{"kingdom": 3, "country": 1}
+{}
+{"county": 1, "country": 1}
+{"county": 3, "city": 1, "country": 1}
+{"county": 3, "kingdom": 1, "city": 1, "house": 1}
+{"city": 1}
+{"county": 1, "city": 1, "region": 1, "country": 1}
+{"city": 2}
+{"city": 3, "country": 2, "county": 1, "state": 1, "village": 1, "street": 0}
+{"city": 1, "province": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "country": 1}
+{"country": 1}
+{}
+{}
+{"country": 1}
+{}
+{}
+{}
+{"city": 2, "state": 2, "cemetery": 1}
+{}
+{"county": 3, "city": 2, "state": 1, "country": 1}
+{"kingdom": 4, "battle": 1, "abbey": 2, "world": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 2, "country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{"country": 1}
+{"city": 1}
+{}
+{"city": 1, "state": 1}
+{"city": 3, "country": 2, "state": 1}
+{"country": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 2}
+{"country": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{"country": 1}
+{"city": 1, "state": 2, "castle": 1, "cottage": 1, "center": 3}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"city": 2, "province": 1, "country": 1, "school": 2, "university": 2}
+{}
+{}
+{"city": 3, "country": 1}
+{"county": 1, "state": 1, "country": 1}
+{"street": 0, "village": 0, "city": 0, "county": 1, "state": 0, "country": 0}
+{"country": 1, "city": 1, "palace": 1, "basilica": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "county": 1}
+{"city": 2, "county": 1}
+{"city": 1, "county": 1, "state": 2, "country": 1}
+{"city": 1, "country": 1}
+{"county": 1, "state": 1}
+{"country": 1}
+{"county": 1}
+{"city": 3, "county": 1, "state": 1, "country": 1}
+{}
+{"island": 2, "kingdom": 1, "sea": 1, "expedition": 1}
+{"county": 1}
+{}
+{"country": 1, "county": 1, "kingdom": 1}
+{}
+{"county": 2}
+{"county": 1}
+{}
+{"village": 1, "county": 1}
+{"country": 1}
+{}
+{"city": 1}
+{}
+{"country": 1, "state": 1}
+{}
+{}
+{"county": 1, "city": 1}
+{"county": 3, "country": 2, "city": 1, "village": 1, "state": 1}
+{"county": 1, "country": 1, "state": 1}
+{"county": 3, "title": 5}
+{}
+{}
+{}
+{"county": 4, "country": 1}
+{}
+{}
+{}
+{"country": 1}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"country": 1}
+{}
+{}
+{"city": 1}
+{}
+{"city": 2, "country": 2}
+{}
+{}
+{"city": 3, "state": 1, "country": 1, "county": 1, "village": 1}
+{"city": 1, "country": 1, "province": 1, "governorate": 2}
+{"country": 1}
+{"kingdom": 1, "country": 1, "city": 3, "village": 1, "desert": 1}
+{}
+{}
+{"city": 2, "county": 1, "castle": 1}
+{"county": 5, "town": 1, "city": 1, "state": 1, "country": 1}
+{}
+{"county": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1}
+{}
+{"country": 1}
+{"county": 3, "title": 4}
+{}
+{}
+{}
+{}
+{}
+{"country": 2}
+{"city": 1, "country": 1, "state": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"county": 1, "city": 1}
+{}
+{}
+{"country": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"county": 5}
+{}
+{"country": 1}
+{}
+{}
+{"country": 1, "city": 1}
+{}
+{"country": 1}
+{"country": 2}
+{}
+{}
+{}
+{}
+{}
+{"city": 3, "state": 1, "county": 1}
+{}
+{"city": 2, "county": 1, "state": 1}
+{"state": 1}
+{"country": 1}
+{}
+{"village": 1, "country": 1}
+{"country": 1}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1, "city": 1, "county": 1}
+{"country": 4}
+{"country": 3, "city": 1, "estate": 4}
+{"country": 2}
+{"city": 1, "country": 1}
+{"city": 4, "country": 1}
+{"country": 2, "state": 2, "city": 1, "county": 0}
+{"cathedral": 1, "city": 2}
+{}
+{"city": 5, "country": 1}
+{"city": 3, "country": 1}
+{"city": 3, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"country": 3}
+{}
+{}
+{"country": 1}
+{"village": 1, "city": 2, "country": 1}
+{"city": 2, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"city": 2}
+{}
+{"city": 1, "county": 1, "state": 1}
+{"country": 10, "city": 3, "state": 2, "county": 0, "village": 0, "street": 0}
+{"city": 1, "country": 1}
+{"city": 1}
+{"city": 1, "country": 2}
+{}
+{"castle": 1, "county": 1, "country": 1}
+{"street": 1, "city": 1, "county": 1, "country": 1}
+{"county": 1, "title": 6}
+{}
+{}
+{}
+{"country": 1}
+{"city": 1, "county": 1, "country": 1}
+{"city": 2, "county": 1, "country": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"country": 1}
+{}
+{"city": 4, "province": 3, "country": 2}
+{"city": 3, "country": 1}
+{"city": 3, "country": 3}
+{"city": 3, "province": 1, "country": 1}
+{"city": 2, "country": 2}
+{"province": 2, "country": 1}
+{"street": 1}
+{"city": 4, "country": 1}
+{}
+{"city": 2, "province": 2, "country": 1}
+{}
+{}
+{"country": 1}
+{"city": 3, "country": 2}
+{}
+{"city": 2, "province": 2, "country": 1}
+{}
+{}
+{"city": 2, "state": 2}
+{"city": 1}
+{}
+{"city": 1, "town": 1}
+{"lake": 1, "state": 1}
+{"state": 1}
+{}
+{"city": 2, "state": 2}
+{}
+{"city": 2, "state": 2, "country": 1}
+{}
+{}
+{"city": 3, "state": 3, "country": 1}
+{}
+{"street": 1}
+{"street": 1, "city": 1, "county": 1}
+{}
+{}
+{}
+{"state": 2}
+{}
+{}
+{}
+{"county": 2, "state": 3}
+{"city": 1}
+{"city": 1}
+{"state": 1}
+{"city": 1}
+{}
+{}
+{"city": 1, "country": 1, "continent": 1}
+{}
+{"country": 1}
+{"city": 2, "country": 2}
+{}
+{"city": 1, "county": 1}
+{}
+{}
+{}
+{"city": 3}
+{"country": 1}
+{"country": 1, "city": 1}
+{"mountain": 2, "department": 1, "province": 1, "municipality": 1, "country": 1}
+{"mountain": 3, "department": 1, "province": 2, "city": 1, "lake": 3}
+{"mountain": 2, "valley": 1, "national park": 1, "range": 1, "province": 1, "country": 1}
+{"mountain": 1, "department": 1, "province": 1, "municipality": 1}
+{"mountain": 2, "department": 1, "province": 1, "municipality": 1, "lake": 1}
+{"mountain": 1, "department": 1, "province": 1, "municipality": 1}
+{"mountain": 1, "department": 1, "province": 3, "municipality": 2}
+{"mountain": 1, "department": 1, "province": 3, "municipality": 2}
+{"mountain": 1, "region": 1, "province": 1, "district": 1}
+{"mountain": 1, "department": 1, "province": 1, "municipality": 1, "river": 1}
+{}
+{}
+{"country": 3}
+{"country": 2, "state": 2, "city": 2}
+{"city": 1}
+{"city": 2, "country": 2, "county": 1}
+{"country": 3}
+{}
+{"country": 3, "city": 1}
+{"city": 2, "country": 2}
+{}
+{"country": 2}
+{}
+{}
+{}
+{}
+{}
+{"country": 1, "state": 1}
+{"city": 1, "state": 1}
+{"country": 1}
+{"city": 1, "state": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 3, "country": 2}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{"city": 2, "country": 2}
+{"city": 1, "country": 1}
+{"city": 4, "country": 1, "region": 1}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{"city": 2, "country": 2}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 2}
+{}
+{}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"country": 1}
+{"country": 1}
+{}
+{"county": 1, "country": 1}
+{}
+{}
+{"city": 1}
+{}
+{}
+{}
+{}
+{}
+{"county": 1, "country": 1}
+{"city": 1}
+{}
+{"country": 2}
+{"country": 2}
+{}
+{}
+{}
+{"state": 1, "country": 1}
+{"country": 1}
+{"country": 1}
+{"country": 1}
+{}
+{"island": 3}
+{"country": 1}
+{"city": 1}
+{}
+{}
+{"city": 1}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{}
+{"city": 2, "country": 1}
+{"country": 1}
+{}
+{}
+{}
+{"suburb": 1, "city": 1, "state": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"county": 2, "country": 1}
+{}
+{"country": 1}
+{"country": 2}
+{"country": 1, "city": 2, "village": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{"university": 1}
+{"city": 3, "country": 2}
+{}
+{"county": 1, "city": 2, "state": 1, "country": 1}
+{"city": 2}
+{"city": 1, "country": 1}
+{"town": 2, "city": 2, "street": 2, "castle": 1}
+{"city": 1}
+{"state": 1}
+{"club": 1}
+{}
+{"city": 3, "country": 1}
+{"city": 4, "state": 2, "country": 1, "island": 1}
+{}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 3, "country": 1, "university": 4}
+{}
+{"cave": 1, "land": 1}
+{}
+{"country": 3}
+{"country": 1}
+{}
+{}
+{}
+{}
+{"country": 2}
+{"city": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 2}
+{}
+{"city": 6, "county": 1, "district": 1}
+{"country": 2}
+{"county": 1, "country": 2}
+{"duchy": 2, "house": 1}
+{"country": 2}
+{"country": 1}
+{}
+{"country": 1}
+{"city": 5, "country": 1, "county": 2, "state": 1, "village": 1}
+{"county": 1}
+{}
+{"country": 1}
+{}
+{}
+{"state": 1}
+{"city": 2, "country": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 2, "country": 1}
+{"country": 1}
+{"city": 2}
+{"city": 3, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "island": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 4, "country": 1}
+{"city": 2, "country": 1}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{"country": 2, "city": 1}
+{"city": 1, "country": 1}
+{"country": 2}
+{}
+{}
+{"town": 1, "film": 1}
+{"country": 1}
+{}
+{"country": 1}
+{"county": 1, "country": 1}
+{"country": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{"city": 5, "country": 3, "kingdom": 3, "county": 2, "battle": 2, "dynasty": 1, "monastery": 1, "church": 1}
+{"county": 1, "city": 1}
+{}
+{"county": 2}
+{}
+{"county": 1}
+{}
+{"county": 1, "title": 5, "peerage": 1, "country": 1}
+{}
+{"district": 1, "city": 2, "country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 3, "country": 4, "desert": 1}
+{"city": 4}
+{}
+{}
+{"country": 2}
+{"city": 1, "country": 2}
+{}
+{"city": 1}
+{"village": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 2, "state": 1, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{"country": 1}
+{"country": 1}
+{"country": 1}
+{"country": 1}
+{}
+{"country": 1}
+{"country": 1}
+{"country": 1}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{}
+{}
+{}
+{"street": 1}
+{"country": 2, "city": 1}
+{"county": 1, "island": 1}
+{}
+{"country": 2, "city": 2, "continent": 1}
+{"country": 2, "city": 1}
+{"city": 1}
+{"city": 4, "county": 1}
+{}
+{"city": 2, "country": 2}
+{"city": 1, "county": 1, "country": 1}
+{}
+{"country": 1, "state": 1}
+{}
+{"city": 1, "country": 1, "street": 1}
+{"city": 2}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 3, "country": 1}
+{}
+{}
+{}
+{"country": 1, "city": 1}
+{}
+{}
+{"beach resort": 1, "village": 1, "city": 1, "island": 1, "country": 1}
+{}
+{}
+{"city": 2, "county": 1, "country": 1}
+{"city": 1, "country": 2}
+{"city": 4, "country": 1, "region": 1, "municipality": 4}
+{"city": 1, "state": 1, "county": 1}
+{"city": 2, "country": 1, "county": 1}
+{"country": 1}
+{"university": 2, "city": 2, "country": 1}
+{"museum": 1, "country": 1}
+{"city": 1, "state": 1}
+{"museum": 1, "country": 1}
+{"village": 1, "county": 1, "country": 1}
+{}
+{}
+{"city": 2, "state": 1, "country": 1}
+{"country": 1}
+{}
+{}
+{"country": 1}
+{"city": 1, "state": 1}
+{"county": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cemetery": 1, "city": 1}
+{"city": 3, "country": 1}
+{"country": 1}
+{"country": 1}
+{"country": 1}
+{"country": 1, "kingdom": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{"village": 1, "country": 2}
+{"country": 1}
+{"country": 1, "island": 1}
+{"country": 3, "city": 1}
+{}
+{"city": 1, "country": 1}
+{"county": 3, "city": 2}
+{"county": 1}
+{"county": 2, "city": 2}
+{"county": 2, "city": 2}
+{"county": 5, "city": 3, "country": 1}
+{"county": 3}
+{"county": 1, "state": 1}
+{"city": 3}
+{"county": 4}
+{"county": 1, "country": 3}
+{}
+{"state": 2, "country": 1}
+{}
+{"state": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 5, "state": 1, "country": 1}
+{}
+{}
+{"city": 2, "state": 2}
+{"city": 2, "country": 2, "state": 1, "county": 0}
+{"city": 1}
+{}
+{"district": 2, "city": 2, "country": 1}
+{"country": 1}
+{"city": 2, "county": 1, "state": 1, "country": 1, "village": 1}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{"country": 2}
+{"city": 1, "country": 1}
+{"country": 3, "duchy": 1, "princess": 1, "queen consort": 1, "duchess consort": 1}
+{"duchy": 3, "kingdom": 1, "city": 3, "region": 1, "country": 1}
+{"country": 2, "city": 1, "duchy": 1}
+{"city": 1, "country": 2}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 2, "state": 2, "country": 1}
+{"city": 2, "state": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{"country": 1}
+{}
+{"city": 2, "state": 2}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"school": 1, "festival": 2}
+{}
+{"mountain": 3, "region": 1, "province": 1, "river": 2, "ocean": 1}
+{"mountain": 1, "region": 1, "province": 1, "district": 1}
+{"mountain": 3, "province": 2, "country": 1}
+{}
+{"peak": 1, "mountain": 3, "glacier": 1, "province": 1, "country": 1}
+{"locality": 1, "region": 1, "state": 1, "country": 1, "mountain": 2, "suburb": 1}
+{"city": 2, "state": 2}
+{"city": 2}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 1, "province": 1, "country": 1}
+{}
+{}
+{"city": 3}
+{"city": 2, "country": 1}
+{}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{"city": 1}
+{}
+{}
+{}
+{"country": 1, "title": 3}
+{"country": 1}
+{"country": 1}
+{"city": 5, "country": 8}
+{"country": 1}
+{"city": 1}
+{"city": 2, "country": 1}
+{}
+{"village": 1, "district": 1, "region": 1, "country": 1}
+{"country": 1}
+{"city": 5, "country": 8}
+{"state": 3}
+{}
+{"state": 1, "country": 1}
+{"city": 1, "country": 1, "continent": 1}
+{}
+{}
+{"city": 3, "state": 1, "university": 1}
+{}
+{"country": 2}
+{"country": 1}
+{}
+{}
+{"country": 1}
+{"country": 1, "province": 1, "city": 1, "village": 1, "mountain": 1, "island": 2}
+{}
+{}
+{}
+{}
+{}
+{"county": 3, "city": 2, "duchy": 1}
+{"city": 3, "country": 1}
+{"county": 5, "city": 2, "castle": 1, "country": 3}
+{"county": 1, "country": 1}
+{"city": 5, "county": 1, "university": 1, "village": 1}
+{"county": 1, "state": 1, "country": 1}
+{"state": 1, "country": 1}
+{}
+{}
+{}
+{"city": 2}
+{"city": 1}
+{"city": 2, "county": 1}
+{"county": 1, "city": 1, "state": 1}
+{"city": 1}
+{"city": 2, "country": 1}
+{}
+{"county": 5, "state": 3, "country": 1}
+{}
+{"county": 1, "title": 2}
+{"county": 1, "state": 1, "country": 1}
+{}
+{}
+{"city": 2, "country": 1}
+{}
+{"island": 2, "earldom": 1, "barony": 1}
+{"county": 1, "country": 1}
+{}
+{}
+{"city": 1}
+{}
+{"county": 3}
+{"county": 1, "duke": 2}
+{"city": 2, "country": 2, "county": 1, "state": 1}
+{"city": 1, "county": 4}
+{"county": 2}
+{}
+{"duchy": 1, "city": 1, "country": 1}
+{"city": 4, "county": 1, "duchy": 2, "castle": 1, "region": 1}
+{"city": 2, "castle": 1, "country": 1}
+{"city": 1}
+{"city": 1}
+{"city": 1}
+{"country": 1}
+{"city": 1}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"city": 2, "state": 2}
+{}
+{"state": 1}
+{"city": 2, "country": 1}
+{}
+{"city": 2, "country": 1}
+{"country": 1}
+{"motel": 1, "city": 1, "state": 1}
+{}
+{"country": 1}
+{}
+{}
+{"country": 1}
+{}
+{}
+{"city": 1}
+{"county": 1, "state": 1}
+{}
+{"city": 4, "country": 1}
+{}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{"country": 1}
+{"city": 1, "state": 1}
+{"city": 4, "state": 1, "country": 4}
+{"town": 1, "district": 1, "province": 1, "country": 1}
+{"country": 3}
+{"city": 1, "country": 1}
+{"country": 1}
+{"country": 3}
+{"city": 1, "country": 2}
+{}
+{"city": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{"city": 2, "country": 1}
+{"county": 1, "state": 1, "country": 1}
+{"city": 2, "country": 1}
+{"city": 3, "country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 2}
+{}
+{"city": 1, "country": 1, "state": 1}
+{}
+{"city": 5, "county": 1, "country": 1}
+{"city": 4, "country": 1, "county": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "country": 1}
+{}
+{}
+{"city": 1, "country": 2}
+{"city": 1, "state": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{"city": 1}
+{"village": 1}
+{}
+{"city": 1, "state": 1}
+{"city": 1, "country": 1}
+{"city": 1, "province": 1, "country": 2}
+{}
+{"city": 1, "state": 1}
+{}
+{"city": 2, "state": 1}
+{"street": 1, "city": 1, "state": 1, "country": 1}
+{"city": 5}
+{}
+{"country": 2, "city": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{}
+{"city": 1}
+{}
+{}
+{}
+{"city": 3, "country": 1, "state": 1, "county": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{}
+{"city": 3, "state": 2, "country": 2}
+{"principality": 1, "country": 1}
+{"city": 2, "county": 1, "principality": 1}
+{"city": 2, "county": 1, "principality": 1}
+{"principality": 1, "city": 1, "county": 1}
+{"principality": 1, "country": 1}
+{"city": 2, "county": 2, "country": 1}
+{"principality": 1, "country": 1}
+{}
+{"county": 2}
+{"county": 1, "country": 1}
+{}
+{"city": 3, "state": 2, "country": 1}
+{}
+{"country": 3}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{}
+{}
+{}
+{"state": 1}
+{}
+{"city": 3}
+{"city": 1, "principality": 2, "county": 1}
+{"city": 2, "principality": 1}
+{"city": 2, "county": 1, "principality": 1, "state": 1}
+{"city": 3, "principality": 1}
+{"county": 3, "duchy": 1}
+{"county": 1, "principality": 1, "state": 1}
+{"village": 1, "city": 2, "county": 1, "principality": 2}
+{"city": 3, "principality": 1, "county": 1}
+{"city": 3}
+{}
+{"country": 1}
+{}
+{}
+{}
+{"city": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 1}
+{"city": 1}
+{}
+{"country": 1}
+{"county": 2}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"city": 2, "country": 2}
+{}
+{}
+{"city": 1, "university": 3, "high school": 1}
+{}
+{}
+{}
+{"village": 1, "city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"country": 1}
+{"city": 2}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "country": 1}
+{}
+{"city": 1, "state": 1}
+{}
+{"city": 1}
+{"country": 1}
+{"county": 2, "state": 1}
+{"county": 2, "duchy": 2}
+{"duchy": 1, "court": 2, "county": 1, "landgrave": 1, "state": 1, "country": 1}
+{"city": 2, "county": 1, "country": 2}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "county": 1, "country": 1}
+{}
+{"city": 1, "state": 1}
+{}
+{}
+{"country": 1}
+{"city": 1}
+{"city": 1, "state": 1, "track": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1}
+{"university": 3}
+{}
+{"city": 1, "state": 1}
+{"country": 2, "city": 1}
+{}
+{"country": 1}
+{"city": 3, "country": 2, "state": 1}
+{"city": 3, "duchy": 2, "country": 2, "county": 1}
+{"city": 2, "country": 2, "kingdom": 1}
+{"city": 1, "country": 2, "castle": 1}
+{"city": 2, "country": 1}
+{}
+{"country": 1}
+{"state": 1, "country": 1}
+{}
+{"street": 1, "city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 1}
+{}
+{"country": 1, "state": 1, "city": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"country": 2, "state": 2, "city": 1}
+{}
+{"county": 2, "state": 1, "city": 1}
+{"city": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{"city": 2}
+{"city": 1, "country": 1}
+{"city": 2}
+{"city": 3}
+{}
+{"city": 2}
+{}
+{"city": 3}
+{"city": 4}
+{}
+{}
+{}
+{"street": 1}
+{}
+{}
+{"city": 1}
+{}
+{}
+{"city": 1}
+{"city": 2, "country": 1}
+{"country": 2}
+{"city": 2, "village": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 3, "town": 2, "province": 1}
+{"country": 1}
+{"city": 6, "village": 1, "county": 0, "state": 0, "country": 1, "street": 0}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"country": 1, "city": 2}
+{}
+{"country": 1}
+{}
+{"city": 3}
+{}
+{"country": 1}
+{"city": 2}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "country": 4}
+{"city": 1}
+{"city": 2, "country": 2}
+{}
+{}
+{"county": 3, "city": 1, "state": 1}
+{"city": 2, "county": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"street": 1, "city": 2, "state": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "state": 2}
+{}
+{}
+{}
+{"city": 1}
+{"country": 1}
+{"city": 2, "country": 2}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{"county": 2, "duchy": 1}
+{}
+{"county": 4}
+{"county": 2, "country": 1}
+{"county": 3, "country": 1, "city": 1, "castle": 1}
+{"county": 2}
+{}
+{"county": 3, "city": 2, "duchy": 1, "country": 1}
+{"county": 3, "city": 1}
+{"county": 3, "city": 2, "country": 1}
+{"county": 3}
+{}
+{}
+{"county": 3, "principality": 1}
+{"city": 2, "county": 3, "state": 1}
+{}
+{"county": 2, "village": 2}
+{"county": 3}
+{"county": 2}
+{"county": 2, "city": 4}
+{"city": 4, "state": 1, "country": 1, "school": 6}
+{"street": 1, "city": 3, "county": 1, "province": 1, "country": 1}
+{"township": 2, "high school": 2, "city": 1, "state": 1}
+{"street": 1, "city": 2, "county": 1, "state": 1}
+{"street": 0, "village": 0, "city": 1, "county": 0, "state": 1, "country": 0, "school": 1, "district": 1}
+{"city": 1, "state": 1, "country": 1, "county": 1}
+{"city": 3, "state": 2, "country": 1, "township": 1, "suburb": 1}
+{"city": 2, "town": 1, "county": 1, "province": 1, "country": 1}
+{"street": 1, "township": 2, "city": 2, "state": 1}
+{"city": 1, "state": 1}
+{"city": 2, "county": 2, "castle": 1}
+{"county": 4, "city": 1, "village": 1}
+{}
+{"country": 1}
+{"county": 5, "title": 5}
+{"county": 2, "duke": 4}
+{"school": 1}
+{"county": 2, "estate": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"country": 2}
+{"country": 1}
+{"country": 1}
+{"country": 1, "city": 2, "island": 4}
+{"city": 5, "county": 1, "duchy": 3, "kingdom": 2}
+{"county": 1, "country": 1}
+{"city": 1, "country": 1}
+{"county": 4, "duchy": 3, "city": 2}
+{"county": 3}
+{"county": 1, "duchy": 2}
+{"country": 1}
+{}
+{}
+{}
+{"country": 1}
+{}
+{}
+{"town": 1, "city": 1, "country": 1}
+{"county": 1, "kingdom": 1}
+{}
+{"city": 1, "country": 2}
+{"country": 3}
+{"city": 3, "country": 2, "state": 1}
+{"country": 2}
+{"country": 2}
+{"city": 3}
+{"village": 1, "county": 1, "province": 1, "country": 1}
+{}
+{"village": 1, "county": 1, "province": 1, "country": 1}
+{"village": 1, "county": 1, "province": 1, "country": 1}
+{}
+{}
+{"village": 1, "county": 1, "province": 1, "country": 1}
+{"village": 3, "island": 1, "city": 1, "county": 1, "country": 1}
+{"village": 1, "county": 1, "province": 1, "country": 1}
+{"village": 1, "county": 1, "province": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"country": 2}
+{"county": 1}
+{"country": 2}
+{}
+{"city": 2, "state": 2}
+{}
+{"state": 1}
+{"college": 2, "university": 1, "city": 1}
+{"village": 1, "county": 3, "state": 1, "country": 1, "city": 1}
+{}
+{"city": 3, "county": 1, "fjord": 1}
+{"city": 1, "state": 1, "country": 1}
+{"country": 5, "city": 2}
+{}
+{"city": 2, "state": 2, "country": 2}
+{}
+{"city": 1, "county": 1}
+{"city": 3, "country": 2, "state": 3}
+{"city": 1, "country": 2}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 2}
+{"city": 1, "country": 2}
+{"city": 6, "country": 6}
+{"abbey": 1, "city": 1}
+{"city": 1, "country": 1}
+{"city": 3, "country": 2}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{"county": 1, "state": 1, "country": 1}
+{}
+{}
+{"diocese": 2, "archdiocese": 1}
+{"city": 2, "state": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 2, "province": 1, "country": 1}
+{"state": 1, "country": 1}
+{}
+{}
+{}
+{"country": 3}
+{}
+{}
+{"country": 1}
+{}
+{"village": 1, "county": 1, "state": 1}
+{"building": 1}
+{"country": 1}
+{"county": 1}
+{"county": 1, "duke": 1, "earl": 1}
+{"county": 2}
+{"county": 3}
+{"county": 2}
+{}
+{}
+{"city": 3}
+{"city": 2, "county": 1}
+{"castle": 1, "lord": 3}
+{}
+{"country": 1}
+{"city": 2, "island": 2}
+{"country": 1, "city": 1, "museum": 1}
+{"island": 1, "country": 1}
+{"country": 1}
+{"city": 5, "county": 2, "island": 3, "castle": 5, "duchy": 3}
+{"city": 1}
+{"city": 2, "state": 1, "country": 2}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{}
+{"city": 2, "building": 2, "state": 1}
+{}
+{}
+{}
+{}
+{"city": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{"village": 1}
+{"city": 2, "state": 2}
+{}
+{"country": 1}
+{"country": 2}
+{"country": 1}
+{"city": 3, "county": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "state": 3, "country": 1}
+{"province": 5, "country": 2, "city": 5, "region": 1, "river": 1}
+{}
+{"city": 2, "country": 1}
+{"city": 4, "province": 2, "country": 1}
+{}
+{"city": 2, "country": 1}
+{"city": 2, "country": 2, "county": 1, "state": 1}
+{"country": 1}
+{"country": 1}
+{"city": 2, "country": 1}
+{}
+{}
+{"city": 2}
+{"county": 1}
+{"county": 2, "state": 1}
+{"county": 4}
+{"city": 1, "county": 1, "state": 1, "country": 1}
+{"duchy": 3, "county": 1}
+{"city": 3, "castle": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 3, "state": 3, "country": 1, "university": 1}
+{"country": 1, "city": 2, "county": 1, "university": 1, "cathedral": 1, "ward": 1, "constituency": 1}
+{"state": 2, "country": 1}
+{"city": 2, "state": 2}
+{"county": 3}
+{"county": 3, "lordship": 1}
+{}
+{"county": 4, "village": 1}
+{"city": 2, "county": 1, "country": 1}
+{}
+{"county": 2}
+{"county": 4}
+{}
+{"street": 1, "city": 1, "state": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "province": 1, "country": 1}
+{}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{}
+{"county": 1, "country": 1}
+{"city": 2, "country": 2}
+{"city": 2, "country": 2}
+{}
+{}
+{}
+{"city": 2, "county": 1, "country": 1}
+{"city": 2, "kingdom": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{"state": 2, "country": 1}
+{"country": 1}
+{"city": 2, "country": 2, "state": 1}
+{}
+{}
+{"country": 1}
+{}
+{"county": 1, "state": 1, "city": 1, "country": 1}
+{"country": 1}
+{}
+{}
+{"city": 2}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 2}
+{"country": 2}
+{"city": 1, "country": 1}
+{"city": 1}
+{"country": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"state": 2, "country": 1, "province": 1}
+{"city": 1, "country": 1}
+{"state": 1}
+{"country": 2, "city": 1, "estate": 3, "manor": 2}
+{"city": 2, "country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 5, "state": 1, "country": 1, "river": 1}
+{}
+{}
+{"city": 3}
+{}
+{}
+{}
+{"city": 2, "state": 2}
+{"city": 1, "state": 1}
+{"country": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"country": 2, "city": 2}
+{"country": 1}
+{"city": 1, "country": 1}
+{"university": 1, "state": 3, "city": 1, "company": 5}
+{"city": 2, "country": 1}
+{}
+{"country": 2, "city": 1}
+{}
+{"city": 3, "country": 2, "state": 1}
+{"country": 1}
+{"country": 2, "city": 2}
+{"city": 3, "province": 1, "country": 1}
+{"city": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"city": 1}
+{"city": 1}
+{}
+{"city": 1}
+{"country": 1, "city": 1}
+{"country": 1, "city": 1}
+{"country": 1}
+{"city": 1, "state": 1}
+{}
+{}
+{"county": 2, "country": 1, "kingdom": 1}
+{"city": 4, "county": 1, "castle": 1, "priory": 1}
+{"town": 1, "county": 1}
+{"city": 2, "country": 1}
+{"city": 4, "university": 1}
+{}
+{}
+{"city": 1, "country": 2}
+{}
+{"city": 2, "empire": 2, "nation": 1, "tribe": 1, "state": 1, "land": 1}
+{"city": 3, "country": 1}
+{"state": 1, "country": 1}
+{}
+{}
+{}
+{"city": 1, "hometown": 1, "studio": 1, "festival": 1}
+{"city": 1, "country": 1}
+{"city": 2, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"country": 1}
+{}
+{}
+{"city": 1, "state": 1}
+{}
+{}
+{"city": 1, "county": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "state": 2}
+{"city": 3, "province": 2, "country": 1}
+{"city": 1}
+{}
+{}
+{"country": 1}
+{"country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"city": 3, "country": 1}
+{"city": 1, "state": 1, "district": 1}
+{"city": 1, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"city": 1, "state": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1, "city": 1}
+{"city": 1, "country": 1}
+{"city": 2, "country": 2, "county": 1}
+{"county": 3}
+{}
+{"county": 1, "country": 1}
+{"country": 1}
+{"city": 1, "country": 6}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 3, "empire": 2}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"city": 2, "state": 2, "university": 2}
+{"state": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 2, "country": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{"country": 1}
+{}
+{"state": 2}
+{"castle": 1, "county": 1, "city": 1}
+{"parish": 1, "state": 2, "city": 1, "county": 1, "country": 1}
+{"city": 1, "county": 1, "country": 1}
+{}
+{"country": 1, "city": 1}
+{"city": 3, "country": 2}
+{}
+{}
+{}
+{}
+{"country": 2}
+{"country": 2}
+{"country": 5}
+{}
+{}
+{}
+{"state": 1, "country": 1}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{"street": 1, "city": 3, "county": 2}
+{"city": 1, "county": 4, "school": 2, "college": 1, "castle": 1, "village": 1}
+{"city": 1, "province": 1, "country": 1}
+{"city": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 2, "state": 2, "country": 1}
+{}
+{"street": 1}
+{}
+{"city": 1}
+{}
+{"town": 1, "city": 1}
+{"city": 1, "state": 1}
+{}
+{}
+{"country": 2}
+{}
+{}
+{"city": 2}
+{"street": 1}
+{}
+{"city": 2, "country": 1, "village": 1, "district": 1, "state": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 2}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 1}
+{"city": 1, "country": 1}
+{}
+{"university": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "state": 1}
+{}
+{"region": 1, "province": 1}
+{"city": 2, "country": 2}
+{"city": 2, "state": 2, "country": 1}
+{"city": 3, "kingdom": 1, "state": 1, "region": 1}
+{"city": 5, "state": 3, "county": 1}
+{"city": 2, "state": 2, "country": 1}
+{}
+{}
+{}
+{"region": 1, "country": 1}
+{"city": 2, "country": 2, "street": 1, "park": 1}
+{}
+{"city": 5, "country": 2, "state": 1}
+{"city": 3, "county": 2}
+{"castle": 1, "town": 1}
+{"county": 4, "principality": 1, "house": 3, "city": 1, "country": 1}
+{"castle": 1, "city": 3, "county": 1}
+{"city": 3}
+{"castle": 1, "city": 1, "county": 1}
+{"city": 2}
+{"city": 2, "county": 2}
+{"country": 2, "county": 1}
+{}
+{"county": 1}
+{}
+{"county": 1, "country": 1, "castle": 2, "estate": 2, "ward": 1}
+{}
+{}
+{"country": 1}
+{"city": 1}
+{"city": 2}
+{}
+{}
+{"country": 1, "state": 1, "city": 1, "festival": 3}
+{}
+{}
+{}
+{"city": 2, "state": 2}
+{}
+{}
+{"city": 2, "state": 1, "university": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"city": 1, "county": 2, "state": 1}
+{"city": 1, "state": 1, "country": 1}
+{"street": 0, "village": 0, "city": 1, "county": 0, "state": 1, "country": 0}
+{"city": 1, "state": 1, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"school": 1, "district": 2, "city": 3, "province": 1}
+{"city": 1, "state": 1}
+{}
+{"country": 1}
+{}
+{"city": 1, "state": 1, "county": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 1, "slum": 1}
+{"country": 1}
+{}
+{}
+{"city": 1}
+{}
+{}
+{}
+{}
+{}
+{"lake": 2, "country": 1}
+{}
+{}
+{"county": 2, "city": 2, "state": 1, "country": 1}
+{"city": 2}
+{}
+{"street": 1}
+{"country": 1}
+{"city": 2, "country": 2}
+{"district": 1}
+{}
+{}
+{}
+{"city": 2, "county": 1, "state": 1, "country": 1, "university": 1, "college": 1, "estate": 1}
+{"country": 3}
+{}
+{"country": 1}
+{"district": 1, "state": 1, "province": 1, "country": 1}
+{"city": 4, "country": 1}
+{}
+{"city": 2}
+{"village": 1, "city": 2}
+{"city": 2, "country": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{}
+{"villa": 1, "country": 2}
+{"county": 1, "duchy": 1}
+{"county": 1, "city": 1}
+{"country": 1}
+{"county": 2, "country": 1}
+{"city": 1, "region": 1, "country": 1}
+{"county": 1}
+{"country": 2}
+{"county": 2, "state": 1}
+{}
+{}
+{}
+{"county": 2, "city": 1}
+{}
+{}
+{}
+{"country": 1}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{"university": 1, "state": 1, "country": 1}
+{}
+{"city": 3, "country": 2, "county": 1}
+{}
+{}
+{"city": 2, "state": 1, "university": 1, "high school": 1}
+{}
+{"country": 1, "city": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"country": 2}
+{}
+{}
+{"country": 1}
+{}
+{"county": 1}
+{"country": 3, "city": 2, "county": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{"county": 1, "country": 1}
+{"country": 1}
+{"country": 1}
+{}
+{}
+{}
+{"ranch": 2}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "state": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "county": 1, "country": 1}
+{}
+{"country": 1}
+{"county": 2, "duke": 1}
+{"city": 1, "county": 1, "country": 1}
+{"city": 1}
+{"country": 1}
+{"country": 2}
+{"country": 2, "city": 1, "state": 1}
+{"country": 3}
+{"country": 1, "city": 1}
+{}
+{"village": 2}
+{}
+{}
+{}
+{"castle": 1, "county": 2, "country": 2}
+{}
+{"village": 1, "county": 1, "state": 1, "country": 1}
+{"country": 2, "county": 1, "city": 1, "village": 1, "street": 0}
+{"county": 3, "state": 2, "city": 1, "street": 1, "village": 1, "country": 1}
+{"city": 2}
+{}
+{"city": 2}
+{"country": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{"city": 1}
+{"country": 3}
+{"country": 2}
+{"city": 2, "country": 3}
+{"city": 1, "country": 2}
+{"country": 3}
+{"country": 2}
+{"country": 2, "duchy": 2}
+{"country": 2}
+{"city": 1}
+{"city": 1, "country": 2}
+{"city": 3, "state": 5, "country": 1, "county": 1, "village": 1, "street": 1, "capital": 1}
+{"state": 1, "city": 1, "constituency": 1}
+{"city": 1}
+{}
+{"city": 2, "country": 2, "county": 2}
+{"city": 1}
+{"city": 2, "state": 1, "country": 1, "county": 1}
+{}
+{"city": 1, "country": 1}
+{"state": 1}
+{"city": 5, "country": 3, "state": 1, "county": 1, "village": 1}
+{"city": 2, "country": 2, "state": 2}
+{}
+{"city": 2, "club": 1}
+{}
+{"state": 1}
+{"city": 1}
+{}
+{"city": 2, "country": 1}
+{}
+{"country": 1}
+{"country": 1}
+{"airport": 2, "city": 1, "county": 1, "state": 1, "country": 1}
+{"airport": 1, "city": 2, "province": 1, "country": 1}
+{"airport": 1, "city": 1, "county": 1, "state": 1, "country": 1}
+{"airport": 1, "county": 1, "state": 1, "country": 1}
+{"airport": 1, "city": 1, "state": 1}
+{"airport": 1, "village": 1, "province": 1, "country": 1}
+{"airport": 1, "city": 2, "province": 1, "country": 1}
+{"airport": 1, "city": 2, "province": 1, "country": 1}
+{"airport": 1, "city": 1, "county": 1, "state": 1, "country": 1}
+{"city": 2, "province": 1, "country": 1}
+{"house": 1, "county": 1}
+{"county": 1, "state": 1}
+{"county": 2, "city": 1}
+{}
+{"city": 3, "country": 1}
+{"country": 1, "city": 1}
+{"state": 1, "country": 1}
+{}
+{"state": 1}
+{}
+{"city": 1}
+{"state": 1, "country": 1, "city": 1}
+{}
+{}
+{"country": 1, "person": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"country": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "state": 1}
+{"country": 1, "state": 1, "city": 1}
+{"city": 2, "state": 2}
+{}
+{"city": 3, "state": 1, "country": 1}
+{"city": 1}
+{}
+{}
+{"state": 1}
+{}
+{}
+{"country": 3, "city": 3, "state": 1, "village": 1}
+{"country": 3}
+{}
+{}
+{"city": 1, "country": 1}
+{"county": 2, "city": 1, "state": 1, "country": 1}
+{}
+{"diocese": 1, "country": 1}
+{}
+{"country": 1, "city": 1, "county": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"county": 3, "kingdom": 1}
+{"city": 1, "county": 1, "country": 1}
+{"county": 5, "city": 1, "duke": 1, "queen": 1, "graf": 4, "seigneur": 2}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"country": 1, "state": 1}
+{"county": 1}
+{"city": 1, "country": 1}
+{}
+{"county": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"island": 4}
+{"island": 2, "city": 2, "country": 1}
+{}
+{"state": 1, "country": 1}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "state": 1}
+{}
+{}
+{}
+{"state": 1}
+{}
+{}
+{}
+{"city": 1}
+{}
+{"county": 1}
+{"hall": 2, "house": 1, "city": 1}
+{"county": 1, "title": 1}
+{"county": 1, "state": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 3, "country": 2, "county": 1, "battle": 1, "cathedral": 1}
+{}
+{"county": 3, "city": 1, "country": 2, "state": 2}
+{}
+{"city": 1, "country": 1}
+{"county": 1, "city": 1}
+{}
+{"county": 2, "battle": 4}
+{}
+{"county": 4, "country": 3, "principality": 1, "empire": 1}
+{"county": 2, "country": 1}
+{"city": 4, "country": 1}
+{"country": 2, "city": 2, "county": 1, "state": 1}
+{"city": 1, "county": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"country": 1, "city": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 3, "county": 1, "neighborhood": 1}
+{"city": 2, "country": 1}
+{}
+{"country": 1}
+{"city": 1, "university": 2, "college": 1}
+{"village": 1}
+{}
+{}
+{"county": 2, "estate": 1, "park": 1}
+{"city": 2, "county": 2, "university": 1}
+{"country": 1, "city": 1, "river": 1}
+{"garden": 1}
+{"estate": 1}
+{"county": 1, "country": 1}
+{}
+{"county": 1}
+{"county": 1}
+{"city": 1, "county": 1, "country": 1}
+{"city": 2, "state": 2, "country": 1}
+{"country": 2, "city": 1, "college": 1}
+{"city": 1, "county": 1, "country": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "country": 1}
+{"university": 1, "institute": 1, "state": 1}
+{"city": 2, "province": 1, "country": 1}
+{"city": 1, "province": 1, "country": 1}
+{"city": 2, "country": 2}
+{"city": 2, "country": 1}
+{"city": 2, "province": 1, "country": 1}
+{"city": 1, "country": 1}
+{"commune": 1, "city": 1, "province": 1, "country": 1}
+{"city": 1, "state": 1, "country": 1, "university": 1}
+{}
+{"country": 3, "state": 1, "city": 1}
+{"city": 2, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{"county": 1, "sea": 1}
+{"county": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{"state": 2, "county": 1}
+{"city": 5, "state": 3, "country": 2, "school": 3, "college": 1, "club": 1}
+{"city": 3, "state": 2, "country": 1}
+{"city": 2, "country": 2}
+{"city": 2, "country": 1}
+{"city": 1, "country": 1}
+{"country": 2, "island": 1}
+{"country": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1}
+{}
+{"city": 1, "state": 1}
+{"university": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"state": 3, "city": 2, "university": 1}
+{"city": 1, "country": 1}
+{"city": 1, "state": 1}
+{}
+{"city": 2}
+{}
+{"city": 1, "country": 1}
+{"city": 1}
+{"county": 2, "country": 2}
+{"palace": 1, "city": 2, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{}
+{"country": 1}
+{"island": 2}
+{"city": 3, "county": 1, "state": 1, "country": 2}
+{}
+{"university": 1, "state": 1}
+{"city": 2}
+{}
+{}
+{"country": 1}
+{"city": 1}
+{"country": 1}
+{}
+{"country": 1}
+{"county": 2, "state": 2}
+{"county": 2, "country": 1}
+{}
+{"national reserve": 1, "country": 1}
+{"city": 3, "country": 2}
+{"city": 2, "country": 1}
+{"city": 2, "country": 2, "state": 2, "university": 2}
+{"city": 1, "country": 2}
+{}
+{"country": 1}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"county": 1, "state": 1, "country": 1}
+{}
+{"city": 3, "state": 3, "county": 1, "park": 1}
+{"city": 2, "county": 2}
+{}
+{"county": 4, "duchy": 2, "house": 1}
+{"county": 4, "state": 1, "country": 1}
+{"county": 4, "princess": 1, "queen consort": 1}
+{"country": 2, "city": 3, "empire": 3}
+{"county": 3, "state": 2, "country": 2}
+{"city": 3, "county": 1, "state": 1, "country": 1}
+{"county": 2}
+{"country": 2}
+{"country": 2}
+{}
+{"city": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{}
+{"studio": 1}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"city": 3, "state": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{"state": 1}
+{"city": 1, "country": 1}
+{}
+{"state": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{"city": 1, "country": 1, "district": 1}
+{}
+{}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{"country": 1}
+{}
+{"neighborhood": 1, "city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"street": 0, "village": 0, "city": 0, "county": 0, "state": 0, "country": 0, "clinic": 1}
+{"town": 1}
+{}
+{}
+{"city": 2, "country": 1}
+{"street": 1, "city": 2, "country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 3}
+{}
+{"country": 2}
+{"city": 2, "county": 1, "state": 1, "country": 2}
+{"city": 1}
+{"city": 3, "county": 2, "state": 2, "country": 2, "castle": 2}
+{"city": 2}
+{"city": 3, "country": 3, "state": 1, "county": 1}
+{"country": 2, "state": 2, "city": 1, "title": 3}
+{"street": 0, "village": 0, "city": 0, "county": 0, "state": 1, "country": 1, "castle": 1}
+{}
+{"city": 3, "state": 3, "college": 1, "university": 1}
+{"mountain": 1, "department": 1, "province": 1, "municipality": 1}
+{"mountain": 1, "department": 1, "province": 1, "municipality": 1, "river": 2}
+{"mountain": 1, "region": 1, "province": 1, "district": 2}
+{"mountain": 1, "region": 1, "province": 1, "district": 1, "river": 1}
+{"mountain": 1, "region": 1, "province": 1, "district": 2}
+{"mountain": 1, "region": 1, "province": 1, "district": 2, "country": 1}
+{"mountain": 1, "department": 1, "province": 2, "municipality": 2}
+{"mountain": 1, "department": 1, "province": 1, "municipality": 1, "town": 1}
+{"mountain": 1, "department": 1, "province": 1, "municipality": 1}
+{"mountain": 1, "department": 1, "province": 1, "municipality": 1}
+{"country": 5}
+{"city": 2, "country": 1, "river": 1}
+{}
+{"country": 3}
+{"city": 1, "state": 1, "country": 1}
+{"country": 5}
+{"country": 1}
+{"city": 2, "country": 1, "county": 1, "town": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"city": 1}
+{}
+{"city": 1, "country": 1}
+{"country": 1, "state": 1, "university": 1}
+{}
+{"city": 1}
+{}
+{"city": 2, "state": 1}
+{}
+{}
+{"country": 2}
+{"county": 5, "city": 2, "state": 1, "country": 1}
+{}
+{}
+{"city": 3, "county": 1, "province": 1, "country": 2}
+{"city": 2}
+{"county": 3}
+{"county": 1, "country": 1}
+{}
+{}
+{"city": 3, "county": 4}
+{}
+{}
+{}
+{"county": 2, "city": 1}
+{"county": 4, "duke": 1, "lord": 1}
+{}
+{"lake": 2, "municipality": 2, "county": 1, "city": 1, "country": 1}
+{}
+{}
+{}
+{"country": 2}
+{"country": 2, "city": 1}
+{}
+{"country": 1}
+{}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{}
+{"country": 1}
+{}
+{"city": 2, "state": 2}
+{}
+{}
+{}
+{"lake": 3, "city": 1, "country": 2}
+{}
+{}
+{}
+{}
+{}
+{"city": 4, "state": 3, "country": 1}
+{"state": 1}
+{}
+{}
+{}
+{}
+{}
+{"college": 4, "city": 3}
+{"university": 3, "college": 2, "city": 1}
+{}
+{"city": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"state": 1}
+{"city": 2, "country": 1}
+{"county": 5, "city": 2, "margraviate": 2}
+{"county": 3, "duke": 3}
+{"county": 2, "duke": 2}
+{"county": 1}
+{"principality": 1, "duke": 2, "count": 1}
+{"county": 3, "duke": 2, "duchess": 2}
+{"county": 4, "duchy": 3, "city": 1}
+{"city": 1, "country": 2}
+{"city": 1, "county": 1, "state": 1, "country": 1}
+{"country": 1, "state": 1}
+{}
+{"country": 1}
+{}
+{}
+{}
+{"country": 1, "state": 1}
+{}
+{}
+{"city": 1}
+{}
+{"country": 1}
+{}
+{"country": 2, "state": 1, "city": 1}
+{"country": 1}
+{}
+{"country": 1}
+{"country": 1}
+{"country": 2}
+{"country": 1, "city": 1}
+{}
+{}
+{"city": 2}
+{}
+{"city": 1, "country": 1}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{"town": 1, "city": 1, "county": 1}
+{"city": 1}
+{"country": 2}
+{}
+{}
+{"country": 1}
+{"dynasty": 3, "emperor": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"city": 1}
+{"country": 1, "state": 1, "city": 1}
+{"country": 1}
+{}
+{"city": 2, "state": 2}
+{"university": 3, "building": 2, "observatory": 1, "college": 1, "country": 1, "city": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"country": 1}
+{"city": 3, "province": 1, "country": 3, "county": 1}
+{"county": 2, "country": 2}
+{"country": 2}
+{"county": 3}
+{}
+{"county": 2}
+{"city": 1}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"county": 1, "region": 1}
+{}
+{}
+{}
+{"emperor": 1, "dynasty": 1}
+{"country": 1, "dynasty": 1}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1, "mountain": 1, "title": 5}
+{}
+{}
+{"city": 1, "country": 1}
+{"country": 1}
+{}
+{}
+{"country": 1}
+{"province": 6, "country": 1}
+{}
+{"country": 1, "state": 1}
+{}
+{}
+{"city": 1, "state": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 5, "country": 2}
+{"city": 3, "village": 2, "country": 1}
+{}
+{}
+{"city": 1}
+{}
+{}
+{}
+{"village": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"city": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "state": 1}
+{"country": 1, "state": 1, "league": 1}
+{"cemetery": 1}
+{"city": 1, "state": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 2}
+{}
+{"city": 1, "state": 2, "country": 1}
+{}
+{"city": 3, "state": 3, "country": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "country": 1, "tribe": 1}
+{"country": 1}
+{"city": 2, "county": 1}
+{"country": 2}
+{"city": 1, "county": 1}
+{"country": 2}
+{"city": 5, "county": 1, "state": 1, "country": 1}
+{"county": 2}
+{"country": 2}
+{"city": 4, "county": 3, "state": 2, "country": 1}
+{"city": 3, "duchy": 3}
+{"city": 3, "county": 1}
+{"country": 1}
+{"country": 1}
+{}
+{"city": 1, "county": 1, "country": 2}
+{"city": 1, "state": 1}
+{"county": 1, "country": 2}
+{"city": 2, "country": 2, "county": 1, "region": 1}
+{}
+{"country": 1}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{"country": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"country": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{"country": 1}
+{}
+{}
+{"city": 2}
+{"city": 2, "river": 2, "port": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 2}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"city": 2}
+{"city": 2, "state": 2}
+{"country": 1}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{}
+{}
+{}
+{"city": 1}
+{"country": 1}
+{"country": 1}
+{}
+{}
+{"city": 1}
+{"city": 1, "state": 1, "country": 1}
+{"city": 5, "county": 3, "state": 3, "country": 1}
+{"city": 2, "county": 4, "state": 1, "country": 1}
+{}
+{"county": 1, "country": 1}
+{}
+{"city": 2, "state": 2}
+{}
+{"league": 2, "team": 4, "country": 1}
+{}
+{}
+{"county": 2}
+{"county": 3, "country": 1}
+{"county": 3, "duke": 1}
+{"county": 2, "duke": 2}
+{"palace": 1, "county": 1, "country": 2}
+{"county": 2, "state": 1}
+{"county": 5, "duchy": 4}
+{"county": 3, "duchy": 3, "castle": 1}
+{}
+{"county": 4, "duchy": 3, "castle": 1, "abbey": 1}
+{"town": 1, "state": 1, "city": 1, "country": 1}
+{"club": 1, "country": 1}
+{}
+{}
+{"city": 1, "country": 2}
+{"country": 1}
+{"city": 1, "county": 1}
+{"country": 1}
+{}
+{"city": 1}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"city": 3, "state": 1, "country": 1}
+{}
+{"city": 1}
+{"station": 3, "locality": 1, "city": 2}
+{"city": 1, "village": 1}
+{"city": 3, "province": 2}
+{}
+{}
+{"city": 1, "country": 2}
+{}
+{}
+{}
+{"country": 2, "city": 1, "estate": 1, "castle": 2, "county": 1}
+{}
+{"city": 1, "state": 1}
+{}
+{"city": 3, "county": 2, "state": 1, "country": 1, "school": 1, "university": 1, "castle": 3, "theatre": 1}
+{}
+{"city": 1, "state": 1, "country": 1}
+{"country": 1}
+{"city": 1}
+{"city": 1, "canyon": 1, "ocean": 1}
+{"city": 3}
+{}
+{}
+{"city": 1}
+{"city": 2}
+{"university": 1, "city": 1}
+{}
+{"city": 1, "country": 1}
+{"country": 3}
+{"country": 2}
+{"county": 3, "duchy": 3}
+{"castle": 1, "state": 1, "country": 2}
+{"city": 1, "country": 1}
+{"country": 3}
+{"country": 3}
+{"city": 1}
+{"county": 2}
+{"city": 1, "country": 1}
+{"city": 2, "county": 2, "country": 1}
+{"city": 2, "country": 2}
+{"university": 1, "city": 1, "state": 1, "country": 1, "college": 1}
+{}
+{"country": 2}
+{"country": 1}
+{"county": 3, "city": 2, "country": 2, "state": 1, "village": 1}
+{"country": 2}
+{"city": 3, "empire": 1}
+{"city": 3}
+{"city": 2}
+{"city": 3}
+{"city": 2, "country": 1}
+{"city": 3, "county": 1, "state": 1, "country": 1}
+{"city": 3, "country": 1}
+{"city": 5, "kingdom": 4, "country": 1, "county": 1, "region": 1}
+{"city": 2}
+{"county": 1, "country": 1}
+{"county": 2, "country": 1}
+{"duchy": 1, "kingdom": 2, "country": 1}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 4, "country": 1}
+{}
+{"city": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"neighborhood": 2, "city": 1, "venue": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{"city": 2, "country": 1, "island": 1, "square": 1}
+{"college": 1, "country": 1}
+{}
+{"neighbourhood": 1, "city": 2, "suburb": 1, "state": 1, "country": 1}
+{"city": 2, "country": 2, "university": 3, "community college": 1, "elementary school": 1, "middle school": 2, "high school": 3}
+{"street": 1, "city": 2, "county": 0, "state": 1, "country": 1}
+{"city": 2, "country": 1}
+{"city": 2, "country": 1}
+{"street": 2, "city": 2, "state": 1, "county": 1}
+{}
+{"state": 1}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"plantation": 4, "county": 1, "country": 2}
+{"forest": 1, "county": 2, "city": 1, "church": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"county": 3, "title": 5}
+{"city": 1, "country": 1}
+{"city": 2}
+{"castle": 1, "abbey": 2, "city": 1}
+{"city": 1, "country": 1}
+{"isle": 2}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{"castle": 2, "city": 1, "country": 1, "county": 1, "duke": 1, "lieutenant": 1}
+{"palace": 1, "county": 1, "duke": 3, "house": 2, "throne": 1}
+{"village": 1}
+{"city": 2, "country": 2}
+{}
+{}
+{}
+{"country": 1}
+{}
+{}
+{"country": 1, "county": 1, "state": 1}
+{}
+{"school": 1, "college": 1, "city": 2}
+{}
+{}
+{"street": 1}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"county": 1, "duke": 1, "country": 2}
+{"country": 1, "region": 1, "city": 1, "abbey": 3}
+{"country": 2}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "country": 2}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"state": 1, "country": 1}
+{}
+{"country": 2, "city": 1}
+{}
+{"country": 1}
+{"state": 1}
+{"county": 2}
+{"county": 3, "city": 1}
+{"duke": 5, "duchy": 1}
+{"county": 3, "duchy": 3, "city": 2, "state": 1}
+{"city": 3, "county": 1, "duke": 3}
+{"county": 4, "duke": 4}
+{"city": 2, "county": 1}
+{"duke": 5, "city": 4}
+{"city": 2}
+{"county": 4}
+{"kingdom": 1}
+{"county": 4, "kingdom": 2}
+{"county": 2, "city": 1}
+{"county": 1, "country": 1}
+{"county": 2, "kingdom": 2}
+{"county": 3, "kingdom": 3, "city": 1, "battle": 2, "river": 1}
+{"city": 2}
+{"city": 2, "county": 2, "country": 1}
+{"city": 2}
+{"city": 3, "county": 2}
+{"city": 2, "county": 2}
+{"county": 5, "city": 3}
+{"county": 3, "state": 1}
+{"city": 2, "county": 2}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{"county": 2}
+{"county": 4, "country": 1}
+{"county": 1, "city": 1, "country": 1}
+{"county": 4}
+{"county": 5, "city": 1, "country": 1}
+{"county": 4, "city": 2, "duke": 1, "lord": 4, "battle": 3, "siege": 4, "king": 3, "crusade": 1, "mint": 1}
+{"county": 3}
+{"county": 2}
+{"county": 3, "country": 2}
+{"county": 3}
+{}
+{"state": 1, "country": 1, "city": 1}
+{}
+{"city": 2, "theatre": 3}
+{}
+{"country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{"country": 1}
+{"country": 1}
+{"country": 1}
+{"island": 1, "city": 2, "county": 1, "country": 1}
+{}
+{}
+{}
+{"country": 2}
+{"city": 1, "country": 1}
+{"country": 1, "city": 1}
+{"city": 3}
+{"county": 3, "state": 1}
+{"country": 1, "city": 1, "county": 1}
+{"county": 1, "duke": 1, "prince": 1}
+{"county": 4, "city": 1, "country": 1, "state": 1, "region": 1}
+{"country": 1}
+{"county": 2, "duke": 1}
+{}
+{}
+{}
+{}
+{}
+{"street": 1, "city": 2, "state": 1}
+{"city": 1, "state": 1, "institution": 1}
+{}
+{}
+{}
+{"county": 1, "title": 2, "kingdom": 1}
+{"city": 2, "county": 1}
+{"county": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{}
+{}
+{"city": 1}
+{}
+{}
+{"city": 1, "country": 2}
+{"city": 3, "county": 1, "country": 1, "village": 1}
+{"county": 3, "city": 2, "kingdom": 2}
+{"kingdom": 1}
+{"city": 3, "county": 1, "kingdom": 1, "country": 1}
+{"city": 3, "county": 1, "state": 1, "country": 1}
+{"county": 1, "country": 1}
+{"city": 2, "country": 1}
+{"city": 2, "country": 2, "kingdom": 2}
+{"county": 1, "region": 1}
+{"county": 1, "kingdom": 1, "city": 1}
+{"city": 1, "state": 2}
+{"state": 2}
+{"county": 2, "city": 2}
+{"university": 1, "city": 1, "country": 1}
+{}
+{"university": 1, "city": 1}
+{}
+{"city": 1, "county": 1, "province": 1, "country": 1}
+{"country": 2, "city": 1, "province": 1}
+{"country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "county": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1}
+{}
+{}
+{}
+{"country": 1, "city": 1, "street": 1}
+{"country": 1}
+{}
+{"street": 1, "city": 3, "state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 1, "province": 1, "country": 1}
+{"county": 1, "state": 1}
+{"country": 2}
+{"country": 1}
+{}
+{"city": 2}
+{"state": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "state": 1}
+{}
+{}
+{"city": 4, "state": 2, "country": 1, "province": 1}
+{}
+{"city": 1, "state": 1}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"emirate": 3, "city": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{"street": 1, "village": 0, "city": 0, "county": 0, "state": 1, "country": 1}
+{"city": 1}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "county": 1, "country": 1}
+{"city": 2}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "country": 1}
+{"city": 1}
+{"city": 1, "country": 1}
+{"county": 1, "state": 1, "empire": 1}
+{"county": 2}
+{"county": 1, "country": 2}
+{"country": 1}
+{"county": 1}
+{"city": 2, "county": 1}
+{"county": 1}
+{"county": 1}
+{"city": 2, "country": 2}
+{"country": 3}
+{"country": 1}
+{"village": 1, "country": 1}
+{"city": 2, "country": 2}
+{"city": 2, "country": 2}
+{"country": 2, "city": 1}
+{"street": 1, "city": 2, "country": 2}
+{"state": 1, "country": 1}
+{"country": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{"county": 2, "country": 1}
+{"county": 1, "country": 1}
+{"county": 1, "country": 1}
+{}
+{}
+{}
+{"city": 2, "country": 2}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{}
+{"city": 2, "country": 2, "state": 1}
+{}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{"city": 1}
+{"city": 1, "country": 1}
+{"city": 3, "county": 2, "state": 3, "country": 1, "province": 3, "island": 1}
+{"state": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 3, "country": 2}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{"city": 2, "county": 1}
+{"city": 2, "county": 2}
+{"county": 1, "city": 1}
+{"city": 2}
+{"county": 2, "city": 1}
+{"city": 3, "church": 1}
+{"county": 2}
+{"city": 3, "county": 2}
+{"county": 2, "city": 2}
+{"county": 3, "state": 3, "country": 2}
+{"county": 5, "duke": 3, "viscount": 1}
+{"county": 4, "city": 2, "country": 1}
+{"county": 2, "state": 2}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"street": 1, "city": 1}
+{"country": 1}
+{"city": 3, "country": 1, "kingdom": 1, "empire": 1}
+{"county": 1, "country": 1, "island": 1}
+{}
+{"city": 3, "county": 1, "country": 1}
+{}
+{}
+{}
+{"city": 2, "country": 3, "state": 1, "region": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"island": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 3, "country": 2, "empire": 3, "kingdom": 2, "battle": 2, "river": 1}
+{"city": 1, "country": 1}
+{"city": 1}
+{}
+{"city": 2, "state": 2}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "state": 1}
+{}
+{}
+{"country": 1}
+{"kingdom": 3, "city": 1, "river": 2, "country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{}
+{"country": 2}
+{}
+{}
+{"county": 5, "island": 2, "city": 1, "republic": 1}
+{"county": 3, "kingdom": 2, "island": 2, "city": 1, "republic": 1}
+{"county": 5, "city": 4, "village": 1, "castle": 1, "country": 1, "state": 1}
+{}
+{"city": 2, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 2, "state": 1}
+{}
+{}
+{}
+{"country": 1, "festival": 3}
+{"city": 3, "country": 6}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"country": 2, "city": 1}
+{"country": 1}
+{"country": 13, "city": 1}
+{}
+{}
+{}
+{"city": 1}
+{"city": 1, "county": 1, "church": 1}
+{"city": 1, "region": 1, "country": 1}
+{}
+{"country": 1}
+{"city": 2, "state": 1}
+{}
+{}
+{"city": 1}
+{"college": 1, "state": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{"country": 1}
+{"street": 0, "village": 0, "city": 1, "county": 0, "state": 0, "country": 0, "nightclub": 1}
+{}
+{}
+{"city": 4, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"neighborhood": 1, "city": 2, "state": 1, "country": 1}
+{"city": 1}
+{"island": 3, "kingdom": 1, "city": 1}
+{"island": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"country": 1}
+{"village": 1, "city": 1, "county": 1, "country": 1}
+{}
+{"city": 10, "state": 3, "country": 5}
+{"city": 1, "country": 2, "university": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{}
+{}
+{"city": 2, "state": 1, "country": 1, "village": 1, "county": 1}
+{}
+{}
+{}
+{"country": 1}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{"province": 2, "country": 1}
+{"county": 2}
+{}
+{"county": 2, "country": 1}
+{"county": 4, "country": 1}
+{"county": 4}
+{}
+{"country": 2}
+{}
+{"county": 2}
+{}
+{"city": 1, "region": 1}
+{"city": 1, "state": 1, "region": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{"county": 1, "state": 1}
+{"county": 4, "state": 1}
+{"county": 1, "state": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"country": 1}
+{}
+{"county": 1, "state": 1, "country": 1}
+{"city": 1}
+{"city": 1, "country": 1}
+{"university": 1, "city": 1, "state": 1}
+{}
+{"state": 1, "country": 1}
+{"state": 1}
+{"university": 3, "city": 1, "state": 1}
+{"city": 6, "state": 2, "country": 1, "county": 1, "town": 1, "village": 1}
+{}
+{"state": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 2, "state": 2}
+{"county": 1}
+{"city": 3, "country": 1}
+{}
+{}
+{"city": 5, "country": 2, "county": 2, "state": 3, "village": 1}
+{}
+{"village": 2, "city": 1, "county": 1, "state": 2, "country": 1}
+{"city": 3, "country": 1}
+{"city": 4, "country": 2, "river": 1, "province": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"county": 3, "city": 1, "abbey": 1}
+{"city": 1, "county": 2}
+{"city": 3, "state": 2, "country": 2, "county": 1, "village": 1}
+{"country": 1}
+{"country": 1, "region": 3}
+{"country": 2, "county": 2, "state": 2}
+{"county": 5, "city": 1, "country": 1, "duchy": 2, "commune": 1}
+{"county": 1}
+{"city": 1}
+{"country": 1}
+{"city": 1, "country": 2, "state": 1}
+{"country": 1}
+{"state": 1, "country": 1}
+{"county": 1, "state": 1}
+{"county": 1, "country": 1}
+{"county": 1, "state": 1}
+{}
+{}
+{"county": 1, "city": 1, "country": 1}
+{"county": 3, "country": 1}
+{"county": 2, "city": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"country": 1}
+{"city": 1}
+{"county": 4}
+{"city": 2}
+{"city": 4}
+{"city": 3, "province": 2, "country": 1, "river": 2, "port": 1, "dam": 1, "village": 300}
+{}
+{"city": 2, "country": 1}
+{"city": 1, "country": 1}
+{"city": 3, "region": 2, "country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{"alley": 1}
+{}
+{"city": 2, "country": 3, "court": 1, "regiment": 1, "battle": 3, "militia": 1, "lavra": 1}
+{"city": 1, "country": 1}
+{"city": 2, "country": 2}
+{}
+{}
+{"country": 1}
+{"county": 1, "country": 1}
+{"village": 1, "county": 2, "city": 2, "country": 1}
+{"castle": 1, "county": 1}
+{"county": 3, "city": 7, "constituency": 7}
+{"city": 5, "county": 4, "college": 1, "castle": 1, "park": 1}
+{}
+{}
+{"city": 1}
+{}
+{"village": 1, "county": 2, "city": 1, "country": 1}
+{"country": 1}
+{"state": 1, "country": 1}
+{"country": 1}
+{"state": 1}
+{"country": 2, "state": 1, "city": 1, "protectorate": 1}
+{}
+{"city": 2, "province": 1, "country": 1}
+{"country": 1}
+{}
+{"city": 2, "country": 1, "province": 1}
+{"county": 1}
+{"city": 1, "country": 1}
+{"city": 1}
+{}
+{"school": 1, "city": 1, "state": 1, "country": 1}
+{"school": 1, "parish": 1, "state": 1}
+{"city": 1, "state": 1}
+{"city": 2, "state": 1, "country": 1}
+{"school": 1, "city": 1, "state": 1, "country": 1}
+{"city": 1, "county": 2, "state": 1, "country": 1, "village": 1}
+{"country": 2, "city": 1, "state": 1}
+{"street": 1, "city": 1, "state": 1, "country": 1}
+{"city": 1, "county": 1, "country": 1}
+{"city": 2, "state": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 2, "state": 2, "country": 1, "village": 1}
+{}
+{}
+{"state": 1}
+{"aerodrome": 1, "village": 1, "province": 1, "country": 1}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"country": 1}
+{"county": 2}
+{"county": 2}
+{"county": 2, "duke": 1}
+{"city": 1, "duchy": 2, "country": 1}
+{}
+{"university": 1}
+{}
+{}
+{"country": 1}
+{"country": 1}
+{"city": 1, "country": 1, "state": 2, "festival": 2}
+{"city": 1, "country": 3}
+{"country": 1, "state": 1}
+{"country": 2}
+{}
+{"territory": 4, "country": 1}
+{"university": 5, "college": 4, "state": 2, "city": 1, "country": 1}
+{"country": 1}
+{"district": 1, "city": 1, "territory": 1, "country": 1}
+{"mountain": 2, "wilderness": 1, "county": 1, "state": 1, "creek": 2, "river": 1}
+{"stream": 1, "county": 1, "state": 1, "river": 2}
+{"street": 0, "village": 0, "city": 2, "county": 0, "state": 1, "country": 1}
+{"river": 1, "state": 1, "country": 1}
+{"street": 2, "township": 1, "county": 1, "state": 1, "country": 1, "community": 1}
+{"lake": 1, "district": 1, "city": 1, "territory": 1, "country": 1, "suburb": 2}
+{}
+{"island": 1}
+{}
+{"country": 1}
+{"city": 2, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"state": 1}
+{}
+{}
+{"country": 1}
+{"country": 2}
+{}
+{}
+{}
+{}
+{"country": 1, "state": 1}
+{}
+{"city": 1, "country": 2}
+{"country": 1}
+{}
+{}
+{}
+{"city": 2}
+{"county": 3, "duke": 3}
+{"county": 2}
+{"county": 3}
+{"city": 4, "duke": 5}
+{"county": 2, "duke": 3}
+{"city": 2, "county": 2, "state": 1, "country": 1}
+{"county": 3}
+{"county": 3, "duchy": 3}
+{"city": 2}
+{}
+{}
+{}
+{}
+{"city": 1, "province": 3, "country": 1}
+{"city": 1, "country": 1}
+{"city": 4, "county": 1, "province": 1, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"county": 1, "title": 3}
+{"country": 1, "city": 1, "region": 1}
+{}
+{}
+{"county": 1}
+{"village": 3, "district": 1, "country": 1}
+{"village": 2, "county": 1, "district": 1, "ward": 1, "peninsula": 1}
+{"village": 2, "municipality": 1, "regional unit": 1, "country": 1}
+{"village": 3, "borough": 1, "county": 1, "region": 1, "country": 1}
+{"commune": 3, "village": 3, "department": 1, "country": 1, "town": 1}
+{"village": 1, "mountain": 1, "county": 1, "country": 1, "municipality": 1, "municipal unit": 1}
+{"village": 3, "county": 1, "country": 1}
+{}
+{}
+{"city": 2, "state": 1}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 5, "country": 2, "state": 1}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"city": 1, "state": 1}
+{}
+{}
+{}
+{"city": 2, "state": 1, "country": 1}
+{"city": 4, "state": 3, "country": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "state": 1, "school": 1}
+{}
+{}
+{}
+{}
+{}
+{"country": 2}
+{"city": 1}
+{}
+{"country": 1}
+{"street": 1, "city": 1, "country": 1}
+{"county": 2, "city": 1, "state": 1, "country": 1}
+{}
+{}
+{"city": 1, "country": 2}
+{}
+{}
+{"city": 2, "state": 2}
+{"country": 1}
+{}
+{"country": 1, "city": 2, "state": 1}
+{"country": 1}
+{"country": 1, "city": 1}
+{}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"country": 1}
+{}
+{}
+{}
+{"country": 2, "state": 2, "city": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 2}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"state": 1}
+{"city": 4, "country": 1, "state": 1}
+{"city": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"city": 2, "state": 2}
+{}
+{}
+{"country": 1}
+{}
+{"city": 1, "state": 1}
+{"country": 1}
+{}
+{}
+{"city": 2, "country": 2, "castle": 1, "cemetery": 1}
+{}
+{"city": 1, "state": 1, "university": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"state": 1}
+{}
+{"country": 1, "city": 1}
+{}
+{}
+{}
+{}
+{}
+{"state": 1}
+{}
+{"city": 2, "country": 1}
+{"city": 2, "county": 2, "state": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{"city": 1}
+{"city": 1, "state": 2, "country": 1}
+{}
+{}
+{"country": 1}
+{"street": 1, "city": 1}
+{"city": 3, "county": 1, "state": 1, "country": 1}
+{"country": 1, "state": 1, "city": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "state": 1}
+{"castle": 3, "county": 3, "village": 1}
+{"county": 1, "state": 1}
+{"county": 1, "country": 1}
+{"country": 1}
+{"county": 1, "country": 1}
+{"county": 1, "country": 3}
+{"city": 1}
+{"island": 3, "country": 1, "city": 1}
+{"city": 3, "state": 3, "country": 1, "school": 1, "festival": 1, "arboretum": 1}
+{"city": 1}
+{}
+{}
+{}
+{"country": 1}
+{}
+{}
+{"country": 3, "city": 1}
+{}
+{"city": 2, "state": 1}
+{"city": 1}
+{}
+{}
+{}
+{"county": 11}
+{}
+{"street": 1, "county": 4, "city": 1}
+{}
+{}
+{}
+{}
+{"city": 1}
+{"country": 1}
+{}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"city": 2, "country": 1}
+{}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{}
+{}
+{"country": 2}
+{}
+{"county": 5, "duke": 1}
+{"county": 1, "duchy": 1, "country": 1}
+{"county": 4, "duke": 3, "bishopric": 1}
+{"county": 3, "duke": 2}
+{"city": 2, "county": 1}
+{"city": 3, "county": 2, "duke": 1}
+{"county": 4, "castle": 1, "bishopric": 1}
+{"county": 4, "city": 1}
+{"county": 5, "city": 3, "duke": 1, "abbey": 2}
+{"county": 5, "duke": 1}
+{"county": 4, "duke": 3}
+{"county": 1, "state": 1}
+{"county": 5, "duke": 1, "abbey": 1}
+{"city": 2, "county": 1, "state": 1}
+{"city": 2, "country": 2}
+{"country": 1}
+{"city": 2, "country": 1}
+{}
+{"country": 1, "state": 3}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"country": 1, "city": 1}
+{}
+{"country": 1, "city": 2}
+{"country": 1, "city": 2}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "county": 1, "country": 2}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "country": 3, "duchy": 3, "kingdom": 3, "court": 2, "palace": 1, "convent": 1, "exile": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 2}
+{"country": 1}
+{"city": 2, "country": 1}
+{"city": 1, "county": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"country": 1}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "village": 1, "county": 1}
+{"country": 3}
+{"city": 2, "state": 2, "country": 1}
+{"city": 1, "country": 2}
+{"country": 1}
+{"city": 1, "state": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 2}
+{}
+{}
+{"city": 2, "country": 1}
+{"city": 1, "university": 1}
+{"country": 2, "city": 1}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "state": 1}
+{"state": 1, "city": 1}
+{"city": 2}
+{"city": 1}
+{}
+{}
+{}
+{}
+{"country": 1, "state": 1, "city": 1}
+{"country": 1}
+{}
+{}
+{"country": 1, "city": 1}
+{"city": 1, "region": 1}
+{}
+{"country": 1}
+{"city": 2, "country": 2}
+{"country": 2}
+{}
+{"country": 1}
+{"country": 1, "city": 1, "state": 1}
+{"country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1}
+{}
+{}
+{}
+{"city": 1, "country": 2}
+{}
+{}
+{"country": 1}
+{"town": 1, "shire": 1, "local government area": 1, "state": 1}
+{"country": 2}
+{}
+{"city": 3, "country": 1}
+{"city": 5, "county": 3, "region": 1, "country": 1}
+{}
+{}
+{}
+{"city": 2, "country": 1, "settlement": 1, "town": 1}
+{}
+{"city": 1, "country": 1}
+{"country": 2, "city": 2, "state": 2, "county": 0, "village": 0, "street": 0}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "country": 1}
+{}
+{"country": 1}
+{}
+{}
+{"city": 1, "country": 1, "dynasty": 3}
+{"country": 1}
+{}
+{"stadium": 2, "city": 1, "country": 1}
+{"theatre": 2, "city": 1}
+{}
+{"theatre": 1, "city": 1}
+{}
+{}
+{}
+{}
+{"country": 1, "city": 1}
+{}
+{"country": 2, "city": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{"country": 3}
+{}
+{"city": 1}
+{"university": 1}
+{"city": 1}
+{}
+{}
+{}
+{"country": 1}
+{"city": 4, "county": 2, "state": 2, "country": 1, "village": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 2, "country": 1}
+{"city": 1, "country": 1}
+{"state": 1}
+{}
+{}
+{"principality": 1, "country": 1}
+{"principality": 1, "duchy": 1}
+{"principality": 1, "duke": 1}
+{"county": 2, "principality": 1, "duke": 1}
+{"principality": 1, "duke": 1, "elector": 1}
+{"county": 1, "country": 1}
+{"city": 3, "county": 2, "country": 1, "street": 1, "village": 0, "state": 0}
+{}
+{}
+{"city": 1, "state": 1}
+{"city": 2, "county": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"city": 1, "state": 1}
+{}
+{"city": 2, "state": 2, "country": 1}
+{"city": 1, "state": 1}
+{"country": 1}
+{}
+{}
+{"country": 1, "city": 1}
+{}
+{"city": 2, "country": 1}
+{}
+{"city": 2, "country": 1}
+{"county": 2, "city": 2, "monastery": 1, "region": 1}
+{"county": 1, "kingdom": 1}
+{"city": 1, "country": 1}
+{}
+{"county": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"city": 3, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"country": 2, "county": 1}
+{"city": 1, "country": 1}
+{"city": 1, "province": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "state": 3, "country": 1}
+{}
+{"city": 1, "state": 1}
+{"city": 2, "state": 4, "country": 1}
+{}
+{"city": 3, "state": 3, "university": 4, "county": 1, "country": 1, "mountain": 1}
+{"city": 5, "country": 1}
+{"city": 3, "state": 2, "university": 3}
+{"city": 1, "state": 1}
+{}
+{}
+{}
+{"city": 2, "country": 2}
+{"city": 2}
+{"city": 3, "country": 1, "street": 1}
+{}
+{"state": 1}
+{"state": 1}
+{"state": 1, "country": 1}
+{"country": 1}
+{"city": 1, "country": 1, "state": 1}
+{"city": 1, "state": 1}
+{"city": 2}
+{}
+{}
+{"country": 2}
+{"county": 2, "city": 1, "club": 1}
+{"region": 2, "basilica": 1}
+{}
+{"city": 3, "state": 1, "country": 1}
+{"city": 2, "country": 1}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{"state": 1, "country": 1}
+{"city": 1, "state": 1}
+{"village": 1, "state": 1, "country": 1}
+{}
+{"city": 5, "country": 4, "state": 1, "town": 1}
+{}
+{"university": 1}
+{}
+{"country": 2}
+{}
+{"city": 2, "country": 1}
+{"city": 1}
+{}
+{"country": 2, "state": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"country": 1, "city": 1, "village": 1, "state": 1}
+{"country": 1}
+{"country": 1}
+{"country": 1}
+{}
+{}
+{"county": 1, "country": 1}
+{"county": 2, "country": 1}
+{"city": 1, "county": 3}
+{"county": 5, "lord": 1}
+{"county": 2, "country": 2, "city": 1}
+{"county": 4, "principality": 1, "kingdom": 2, "city": 2, "country": 1}
+{"county": 3}
+{"county": 4}
+{}
+{"province": 1, "country": 1}
+{}
+{"city": 4, "country": 2}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "state": 1, "country": 1}
+{"city": 1, "state": 1}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{"island": 1, "sea": 1, "country": 1}
+{"city": 1, "county": 1}
+{}
+{"city": 1}
+{}
+{}
+{}
+{"city": 1, "university": 1, "monument": 1, "statue": 1}
+{"county": 1, "country": 1}
+{}
+{}
+{}
+{"street": 1, "country": 1}
+{"country": 1}
+{}
+{"country": 2, "city": 2, "studio": 1, "entertainment group": 1}
+{}
+{}
+{"city": 2, "country": 1}
+{}
+{"state": 5}
+{}
+{}
+{}
+{}
+{}
+{"country": 2, "city": 1, "island": 1}
+{}
+{}
+{"city": 3, "country": 1, "state": 1}
+{}
+{"city": 3}
+{"country": 1}
+{}
+{"city": 2, "country": 1}
+{}
+{"city": 2, "country": 2}
+{"country": 1}
+{"city": 2, "country": 1}
+{"city": 1, "country": 1}
+{"city": 2, "state": 1, "country": 1}
+{"city": 3}
+{}
+{}
+{"country": 1, "city": 1, "state": 1}
+{"city": 1}
+{}
+{"city": 3, "state": 2}
+{"country": 3}
+{"city": 2, "country": 1}
+{}
+{"village": 1, "shire": 1, "city": 1, "state": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 5, "county": 1, "state": 1}
+{"country": 1}
+{"city": 1}
+{"city": 1, "state": 3, "country": 1}
+{"country": 1, "city": 1}
+{}
+{}
+{}
+{"city": 2, "state": 1}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"city": 2}
+{}
+{}
+{}
+{"city": 1, "district": 1}
+{"county": 1, "city": 1}
+{}
+{"city": 3, "country": 2}
+{}
+{"country": 1}
+{}
+{}
+{"country": 1}
+{"country": 1}
+{"country": 1}
+{"country": 1}
+{}
+{}
+{"city": 2, "province": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{"country": 1, "city": 1}
+{"island": 3, "film": 1}
+{"country": 2}
+{"island": 2, "film": 4}
+{"street": 1}
+{"country": 1}
+{"village": 1, "city": 1, "country": 2}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"country": 2, "city": 2, "film festival": 2, "event": 1}
+{}
+{}
+{}
+{"state": 1, "country": 1, "county": 2}
+{"country": 1}
+{}
+{"city": 2, "country": 1}
+{"country": 1}
+{"city": 2, "country": 3}
+{}
+{"city": 2, "county": 1, "country": 1}
+{"village": 1, "county": 2, "state": 1, "country": 1}
+{"country": 1}
+{"city": 1}
+{}
+{}
+{"county": 1}
+{"county": 2}
+{"city": 1, "county": 3, "state": 1, "country": 1, "village": 1, "street": 1}
+{"county": 3, "title": 3, "earl": 1}
+{"county": 1, "country": 1}
+{"county": 3, "museum": 1}
+{}
+{"city": 2, "country": 2}
+{"city": 3}
+{"city": 1}
+{"country": 1, "city": 1}
+{}
+{}
+{}
+{"state": 1, "country": 1}
+{"state": 5, "city": 3}
+{"city": 1, "state": 1, "country": 1}
+{}
+{"city": 3, "country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"country": 1}
+{}
+{}
+{}
+{"country": 1, "city": 1}
+{}
+{}
+{}
+{"state": 1, "country": 1}
+{}
+{}
+{"city": 2, "country": 1}
+{}
+{}
+{}
+{}
+{"county": 3, "title": 4}
+{"county": 2, "country": 1}
+{"city": 1, "country": 1}
+{"county": 2, "city": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 1}
+{"country": 1, "city": 2}
+{}
+{"country": 2}
+{}
+{"county": 4, "duke": 4, "city": 3, "state": 2}
+{"county": 2, "city": 2, "duchy": 1}
+{"city": 1}
+{}
+{}
+{"city": 2, "castle": 1}
+{"city": 1}
+{"principality": 1, "duchy": 1}
+{"castle": 1, "county": 2}
+{"country": 1}
+{}
+{"city": 1}
+{"city": 2, "state": 2, "country": 1}
+{"country": 1}
+{}
+{}
+{}
+{"city": 1}
+{"city": 1}
+{}
+{"island": 1, "sea": 1}
+{"county": 1, "region": 1, "city": 1, "oblast": 2}
+{}
+{"country": 3, "city": 2}
+{"country": 6, "city": 4, "sea": 6, "mountain": 6, "strait": 4}
+{"sea": 1, "festival": 1}
+{}
+{"sea": 3}
+{}
+{"country": 1, "city": 1}
+{"country": 1}
+{}
+{"city": 5, "country": 4, "state": 1, "county": 1}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{"country": 1}
+{}
+{"county": 1, "state": 1}
+{"state": 1}
+{"district": 1, "state": 1}
+{"mountain": 1, "city": 1, "state": 3, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"city": 1, "state": 1}
+{}
+{}
+{"city": 2}
+{}
+{"country": 1, "city": 1, "institution": 1}
+{"country": 5}
+{}
+{}
+{}
+{}
+{"village": 1, "county": 2, "city": 1, "state": 1, "country": 1}
+{}
+{}
+{"city": 1}
+{}
+{}
+{}
+{}
+{"state": 1}
+{}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 2, "country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"city": 1}
+{}
+{}
+{"country": 2, "state": 2}
+{}
+{"city": 5, "county": 3, "duchy": 4}
+{}
+{"city": 2, "country": 1}
+{"city": 1, "county": 1}
+{"country": 44}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{"university": 1, "state": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{}
+{"county": 1, "country": 2}
+{"county": 3, "city": 2, "village": 1, "abbey": 2, "duchy": 1}
+{"county": 1, "duchess": 1, "baron": 1}
+{"country": 2, "city": 1}
+{"country": 1, "county": 1}
+{"city": 2, "country": 1}
+{"county": 1, "country": 1}
+{}
+{}
+{"city": 1}
+{"city": 2, "country": 2}
+{}
+{}
+{"country": 1}
+{}
+{"city": 1}
+{}
+{"city": 2, "state": 2}
+{}
+{}
+{}
+{"city": 1, "county": 1, "state": 1, "country": 1}
+{}
+{}
+{"city": 1, "country": 3}
+{"city": 2, "kingdom": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{"country": 1}
+{"island": 1, "city": 2, "fort": 5, "lake": 3, "river": 1, "province": 1, "country": 1}
+{"country": 1}
+{"city": 4, "country": 2, "territory": 1, "river": 1}
+{"state": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"country": 1}
+{"county": 1, "country": 1}
+{}
+{}
+{"city": 2, "country": 1}
+{"city": 2, "country": 1}
+{"city": 3, "school": 2, "championship": 3, "dealership": 1}
+{}
+{"city": 1, "country": 1}
+{"school": 1, "theater": 2, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{"theater": 1}
+{"country": 1}
+{}
+{"precinct": 1, "film": 1, "country": 1}
+{}
+{"country": 2}
+{"city": 2, "country": 3}
+{"country": 2}
+{}
+{"city": 5, "country": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 2}
+{}
+{"airport": 1, "city": 1, "province": 1, "country": 1}
+{"airport": 1, "city": 2, "county": 1, "state": 1, "country": 1}
+{"city": 1, "state": 1}
+{"airfield": 1, "county": 1, "country": 1}
+{"airport": 1, "city": 2, "county": 1, "state": 1, "country": 1}
+{"airport": 1, "village": 1, "county": 1, "state": 1, "country": 1}
+{"airport": 1, "village": 1, "city": 1, "region": 1, "country": 1}
+{"airport": 1, "county": 1, "state": 1, "country": 1}
+{"city": 3, "state": 2, "country": 1, "street": 1}
+{"city": 2, "state": 1}
+{"country": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 2, "county": 1, "state": 2, "country": 1}
+{"county": 1, "state": 1, "country": 1}
+{"county": 1}
+{"county": 1, "country": 1}
+{"country": 1}
+{"city": 2}
+{"county": 1}
+{}
+{}
+{"city": 1, "state": 1}
+{"city": 2, "state": 1, "country": 1}
+{}
+{}
+{"country": 1, "city": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "town": 1, "county": 1, "duke": 3, "princess": 2}
+{"country": 1}
+{"country": 1}
+{"country": 3, "city": 3, "island": 3, "county": 1, "state": 1}
+{"country": 1}
+{}
+{}
+{}
+{"country": 1}
+{"street": 1, "city": 1, "country": 1}
+{}
+{"country": 1}
+{}
+{}
+{"country": 3}
+{}
+{}
+{}
+{}
+{}
+{"city": 3, "country": 1}
+{"country": 2, "city": 2, "state": 1}
+{"city": 1, "county": 1, "state": 1}
+{}
+{"city": 1, "country": 2}
+{"country": 1}
+{"country": 1, "city": 2, "state": 2, "village": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"state": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 2}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"country": 1}
+{"river": 1, "country": 1}
+{"river": 1, "d\u00e9partement": 1, "country": 1, "hamlet": 1, "city": 1}
+{}
+{}
+{"country": 1}
+{"state": 1}
+{"country": 1, "city": 1, "county": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{}
+{}
+{"city": 1, "country": 2}
+{"city": 3, "country": 2}
+{"county": 5, "city": 2, "village": 1, "kingdom": 1, "monastery": 1}
+{"city": 5, "county": 3, "kingdom": 3, "court": 1}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{"city": 3, "state": 3, "county": 1}
+{}
+{"street": 1, "city": 2, "county": 1, "state": 2, "country": 1}
+{"country": 1}
+{"city": 2, "state": 1}
+{"state": 2}
+{}
+{}
+{"district": 1, "province": 1, "country": 1}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{"city": 2, "state": 2}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 2}
+{}
+{"country": 1}
+{}
+{"city": 1, "country": 1, "empire": 2}
+{"city": 5, "county": 1, "state": 1, "country": 1, "cathedral": 3, "island": 1}
+{}
+{"county": 1, "kingdom": 2, "city": 1, "state": 1, "country": 1}
+{"county": 1, "state": 1, "country": 1}
+{"county": 1, "country": 1}
+{"city": 3, "county": 1, "kingdom": 1}
+{"country": 1, "state": 1, "church": 2}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{"city": 1}
+{}
+{"country": 1}
+{}
+{"theatre": 1, "city": 1}
+{"beach": 1, "city": 3, "country": 3}
+{"city": 3, "country": 2}
+{}
+{}
+{"city": 2, "state": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"country": 2, "city": 1}
+{}
+{"county": 1, "country": 1}
+{"city": 3}
+{}
+{"country": 1}
+{}
+{}
+{}
+{"city": 1}
+{}
+{"kingdom": 3, "princess": 1, "dynasty": 2, "peninsula": 1}
+{"county": 2, "country": 3}
+{"county": 3, "state": 1}
+{"village": 1, "county": 4, "city": 4}
+{"county": 3}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"university": 2, "city": 2, "state": 1, "county": 1}
+{"country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"county": 1, "country": 1}
+{"city": 2}
+{"city": 1, "duchy": 2}
+{"county": 5, "state": 1, "country": 1, "city": 1, "castle": 1}
+{"country": 1}
+{"country": 1, "title": 1}
+{"city": 3, "country": 3, "state": 1, "county": 0, "village": 0, "street": 0}
+{}
+{"city": 2, "county": 1, "country": 1}
+{"city": 1, "country": 1}
+{"dynasty": 1, "emperor": 3}
+{"country": 1}
+{}
+{}
+{}
+{"state": 1, "country": 1}
+{}
+{"city": 1, "county": 1}
+{}
+{"city": 1, "state": 1}
+{}
+{}
+{"city": 2}
+{"city": 2, "country": 1}
+{"island": 1}
+{"city": 1}
+{}
+{"city": 1}
+{"city": 1, "state": 1}
+{}
+{}
+{}
+{"city": 1}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{"city": 1, "country": 3}
+{"city": 1, "country": 1}
+{"village": 1, "country": 1}
+{"city": 2, "province": 2, "country": 1}
+{}
+{}
+{"country": 1}
+{"country": 1}
+{"town": 1, "city": 1, "region": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "county": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1}
+{"city": 1}
+{}
+{}
+{}
+{"city": 2}
+{}
+{"city": 3, "state": 1, "country": 1}
+{"city": 1}
+{"city": 1, "state": 1}
+{"county": 2, "duchy": 2}
+{}
+{}
+{}
+{"country": 1, "city": 1}
+{}
+{}
+{"river": 1, "state": 1, "country": 1}
+{"river": 1, "state": 1, "country": 1}
+{"river": 1, "state": 1, "country": 1}
+{"river": 1, "state": 1, "country": 1}
+{"river": 3, "state": 1, "country": 1}
+{"river": 1, "state": 1, "country": 1}
+{"river": 1, "state": 1, "country": 1}
+{"river": 1, "state": 1, "country": 1}
+{"river": 1, "state": 1, "country": 1}
+{"river": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"city": 2}
+{}
+{}
+{"state": 1}
+{"country": 1}
+{"empire": 2, "country": 1}
+{"city": 8, "county": 1, "state": 1, "country": 1, "village": 1, "street": 0}
+{"city": 1}
+{}
+{}
+{}
+{}
+{"state": 1}
+{"city": 1, "county": 1}
+{"city": 1, "state": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "county": 1, "state": 1, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"city": 2, "country": 1}
+{"city": 1, "state": 1, "country": 1}
+{"country": 2}
+{"county": 1}
+{"county": 1, "ducal house": 1, "house": 1}
+{"city": 1, "county": 1, "state": 1, "country": 1, "island": 1, "territory": 2, "kingdom": 1}
+{"country": 1}
+{"city": 2}
+{}
+{"city": 1}
+{"mountain": 1, "country": 1}
+{}
+{"city": 2}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1}
+{}
+{}
+{"city": 3, "country": 2, "suburb": 1, "cemetery": 1}
+{}
+{"country": 1}
+{}
+{}
+{}
+{"city": 2, "county": 1, "duchy": 2}
+{"city": 2}
+{"city": 2}
+{"county": 2, "duchy": 2}
+{"city": 2, "county": 1, "state": 3}
+{"city": 2}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{"city": 2, "county": 3, "state": 3, "country": 1}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1, "island": 1, "town": 1, "state": 1}
+{}
+{}
+{"street": 0, "village": 0, "city": 1, "county": 0, "state": 0, "country": 0, "studio": 1}
+{}
+{}
+{}
+{"city": 1}
+{"city": 2, "country": 2}
+{"country": 1}
+{}
+{}
+{"county": 3, "state": 2, "city": 2, "village": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"upazila": 1, "city": 1, "county": 1, "country": 1}
+{}
+{"city": 2, "town": 1}
+{"country": 1}
+{}
+{"city": 1, "country": 1}
+{"province": 1, "country": 1}
+{}
+{"village": 1, "state": 1}
+{}
+{"city": 1, "state": 1, "university": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 2}
+{"street": 1, "village": 2, "city": 1, "county": 0, "state": 2, "country": 1}
+{"state": 1}
+{}
+{}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{"city": 3, "state": 2, "county": 0, "country": 0, "village": 0, "street": 0}
+{"state": 1, "country": 1}
+{"city": 2, "state": 2}
+{}
+{}
+{}
+{}
+{}
+{"city": 2}
+{"city": 1, "country": 1}
+{"city": 2, "country": 1}
+{"country": 1}
+{"country": 1}
+{"city": 1, "country": 1, "state": 1}
+{"city": 2}
+{"country": 1}
+{"country": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{"city": 1}
+{}
+{"city": 1, "country": 1}
+{"country": 2}
+{}
+{"city": 4, "province": 1, "country": 1, "state": 1}
+{"street": 1}
+{}
+{"city": 2, "province": 1, "country": 1}
+{}
+{}
+{"country": 1}
+{"street": 1, "district": 1, "city": 1, "railway station": 1}
+{}
+{"theater": 1, "city": 1}
+{"stream": 1, "state": 1}
+{"city": 2, "county": 1, "country": 1}
+{"city": 3, "county": 1, "country": 1}
+{"country": 2}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{"country": 1}
+{"city": 1, "island": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 2, "country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{"city": 2, "country": 1, "county": 1, "state": 1}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1}
+{"country": 1, "city": 2, "college": 1, "law school": 1}
+{"city": 1, "country": 1}
+{"village": 1, "county": 1, "state": 1, "country": 1}
+{"city": 1}
+{"community": 1, "town": 1, "county": 1, "state": 1, "country": 1}
+{}
+{"state": 1}
+{}
+{}
+{"village": 1, "country": 1}
+{}
+{}
+{"country": 1}
+{}
+{"county": 1}
+{"county": 1}
+{"county": 2, "state": 1, "country": 1, "park": 3}
+{"country": 1}
+{}
+{}
+{}
+{"city": 1}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "county": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"country": 1, "city": 1}
+{"city": 1}
+{}
+{"city": 1, "country": 1}
+{"museum": 1, "library": 1, "manufacture": 1}
+{}
+{"city": 1, "country": 1}
+{"city": 1}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1, "university": 3}
+{}
+{"city": 2, "country": 1, "state": 2, "observatory": 3}
+{}
+{}
+{"city": 2, "country": 1, "region": 2}
+{}
+{"country": 1, "state": 1}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{"province": 5, "palace": 1, "ministry": 2}
+{"city": 1}
+{"city": 3, "county": 1}
+{}
+{"county": 5, "city": 3, "state": 1, "country": 1, "village": 1, "street": 0}
+{"city": 3, "county": 1, "castle": 1}
+{"city": 5, "county": 5, "town": 1}
+{"country": 2}
+{}
+{}
+{"village": 1, "city": 4, "county": 1}
+{"city": 1, "county": 1}
+{"village": 3, "county": 4, "city": 1, "state": 1, "country": 1}
+{}
+{"village": 1, "county": 1}
+{}
+{}
+{}
+{"village": 1, "city": 1, "county": 1, "state": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{"country": 1}
+{"city": 1, "state": 1}
+{}
+{"county": 1, "country": 1}
+{}
+{}
+{"city": 1, "province": 1, "country": 1, "street": 1}
+{"country": 1, "city": 1}
+{}
+{}
+{"city": 2, "state": 1}
+{}
+{"city": 1, "county": 1, "country": 1}
+{}
+{"city": 2, "duke": 3}
+{"city": 3, "county": 2, "duke": 4}
+{"city": 3, "duke": 5}
+{"county": 3, "duke": 4, "city": 2, "country": 1}
+{"city": 2, "county": 1, "duchy": 3, "region": 1}
+{"duchy": 5, "city": 5, "river": 1, "kingdom": 1}
+{"city": 3}
+{"duchy": 2}
+{"county": 3}
+{"city": 3, "duke": 3, "bishop": 1}
+{"city": 1, "university": 1}
+{}
+{"country": 1}
+{"village": 1, "county": 1, "country": 1}
+{"county": 3, "city": 1, "state": 1}
+{"county": 4, "city": 1, "country": 2}
+{"city": 1, "country": 1}
+{"county": 1, "country": 1}
+{"county": 2, "city": 1, "state": 1, "country": 1}
+{}
+{"county": 3, "title": 5}
+{"county": 3}
+{"city": 1}
+{"rural locality": 1, "district": 1, "oblast": 1, "country": 1}
+{"rural locality": 1, "district": 1, "oblast": 1, "country": 1}
+{"rural locality": 1, "district": 1, "oblast": 1, "country": 1}
+{"rural locality": 1, "district": 1, "state": 1, "country": 1, "street": 5}
+{"rural locality": 1, "district": 1, "oblast": 1, "country": 1}
+{"rural locality": 1, "district": 1, "oblast": 1, "country": 1}
+{"rural locality": 1, "district": 1, "state": 1, "country": 1, "street": 8}
+{"rural locality": 1, "district": 1, "oblast": 1, "country": 1}
+{"rural locality": 1, "district": 1, "oblast": 1, "country": 1}
+{"rural locality": 1, "district": 1, "state": 1, "country": 1, "street": 34}
+{"country": 1, "city": 1}
+{}
+{"city": 1, "state": 1, "country": 1}
+{"country": 2, "city": 2, "state": 2, "county": 0, "village": 0, "street": 0}
+{"city": 1, "province": 1, "country": 1}
+{"country": 1, "city": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"city": 2, "country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "state": 1}
+{"city": 1, "country": 1}
+{"island": 1, "state": 1}
+{"city": 1, "state": 1, "country": 1}
+{"country": 1}
+{"country": 2}
+{"city": 1, "county": 1, "duchy": 2}
+{}
+{}
+{}
+{"city": 5, "country": 1}
+{"city": 1, "country": 2}
+{"city": 3}
+{"state": 1, "city": 1, "hospital": 1}
+{"estate": 1, "city": 1}
+{"state": 1}
+{"country": 1}
+{"country": 3, "estate": 1, "city": 1, "county": 1}
+{}
+{}
+{}
+{}
+{"city": 2, "state": 2}
+{}
+{}
+{}
+{"city": 3, "state": 3}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{"country": 1}
+{}
+{"city": 2}
+{"city": 3}
+{"city": 1, "county": 1, "country": 1}
+{}
+{}
+{"city": 2, "province": 2, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 2}
+{"city": 1, "province": 1, "country": 1}
+{}
+{}
+{"city": 1, "country": 1, "state": 1}
+{}
+{"country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"creek": 1, "tributary": 1, "river": 1, "state": 2}
+{"county": 1, "state": 1, "country": 1, "place": 1}
+{"creek": 4, "region": 1, "city": 1}
+{"state": 1, "country": 1}
+{"hamlet": 2, "county": 2, "state": 1, "country": 1, "village": 1}
+{"village": 1, "city": 1, "state": 1}
+{"community": 1, "county": 1, "state": 1, "country": 1, "city": 1}
+{"river": 1, "state": 1, "country": 1}
+{"river": 1, "state": 2, "country": 1}
+{"river": 3, "country": 1}
+{"city": 2}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{"county": 1}
+{"county": 1, "state": 1, "country": 1}
+{"castle": 1, "city": 1, "county": 1, "duchy": 1}
+{"county": 1, "margraviate": 1}
+{"city": 2, "county": 1, "state": 1}
+{"city": 2, "county": 1, "state": 1, "country": 1}
+{"city": 2, "county": 2, "state": 1, "country": 1}
+{}
+{}
+{}
+{"country": 2}
+{"country": 3}
+{}
+{}
+{}
+{"city": 1, "state": 1}
+{"country": 1}
+{}
+{}
+{"city": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"country": 1}
+{}
+{"city": 2, "country": 2, "state": 1, "village": 1}
+{}
+{"city": 2, "country": 2, "kingdom": 1, "county": 1}
+{"city": 4, "country": 2, "state": 2}
+{}
+{"city": 2, "country": 2}
+{"city": 1, "state": 1, "country": 1}
+{"city": 2, "country": 2}
+{"county": 1, "state": 1, "country": 1}
+{"country": 2, "city": 2, "county": 1, "region": 1}
+{"city": 1, "state": 1, "country": 1}
+{"country": 1}
+{"city": 1, "country": 1, "county": 1}
+{"cottage": 1, "city": 1, "region": 1}
+{"country": 1}
+{"state": 2, "country": 1, "region": 2}
+{"state": 3, "country": 1}
+{"state": 1}
+{"city": 5, "county": 2, "state": 4, "country": 1, "university": 1, "park": 1}
+{"river": 1, "county": 1, "state": 1}
+{"river": 1, "state": 1, "country": 1}
+{"city": 1, "county": 1, "country": 1}
+{"river": 1, "state": 1, "country": 1}
+{"river": 1, "state": 1, "country": 1}
+{"river": 1, "state": 1, "country": 1}
+{"river": 1, "county": 1, "country": 1, "lake": 1, "sea": 1}
+{"river": 1, "state": 1, "country": 1}
+{"river": 1, "state": 1, "country": 1}
+{"river": 2, "city": 1, "country": 1}
+{"city": 2}
+{"city": 3}
+{"country": 1}
+{"city": 3, "country": 1}
+{"city": 1, "county": 1, "village": 1, "state": 1}
+{"county": 2, "title": 5}
+{}
+{"city": 1, "country": 1}
+{"castle": 1}
+{"city": 1, "county": 1, "country": 1}
+{}
+{}
+{"county": 2, "country": 2}
+{"country": 1, "county": 2, "title": 2}
+{"city": 3, "county": 2, "state": 2, "country": 2}
+{"village": 1, "city": 1, "county": 1, "country": 1}
+{"city": 2}
+{"city": 1, "country": 1}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{"state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"city": 1}
+{"city": 2}
+{}
+{}
+{}
+{}
+{}
+{"city": 1}
+{"county": 2, "dynasty": 1, "century": 1}
+{}
+{"city": 2, "county": 1, "state": 2, "country": 1}
+{"city": 1, "region": 1}
+{"country": 1}
+{"city": 1}
+{"country": 1, "city": 2}
+{"county": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"country": 1, "state": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{}
+{"city": 2}
+{"castle": 1, "county": 1}
+{"county": 1, "title": 2}
+{"city": 1, "country": 1, "county": 1}
+{"street": 0, "village": 0, "city": 0, "county": 1, "state": 0, "country": 1}
+{"county": 1}
+{"county": 2, "city": 1, "country": 1, "castle": 1}
+{}
+{"city": 2, "county": 2, "castle": 2, "barony": 1, "state": 1}
+{"county": 3}
+{}
+{}
+{}
+{}
+{"city": 3, "county": 2, "state": 1, "country": 1}
+{"county": 1}
+{}
+{"street": 1, "city": 1, "county": 1, "state": 1, "country": 1}
+{"house": 2, "castle": 1, "county": 2, "village": 1}
+{"city": 1, "country": 1}
+{}
+{}
+{"city": 1, "county": 1, "country": 1, "state": 1}
+{"county": 1, "country": 1}
+{"country": 1}
+{"country": 1}
+{}
+{"country": 1}
+{"country": 1, "city": 1}
+{"country": 1}
+{}
+{"country": 1}
+{"county": 1, "country": 1}
+{"castle": 1, "duke": 2, "region": 1}
+{"county": 2, "duke": 3, "lady": 1}
+{"region": 1, "country": 1, "county": 1, "city": 1}
+{"county": 3, "city": 2, "castle": 1, "battle": 1}
+{"region": 1, "country": 1}
+{"city": 1, "country": 1}
+{"country": 1}
+{"state": 1}
+{"city": 1, "state": 1, "country": 1}
+{}
+{}
+{}
+{"city": 1, "country": 1}
+{"palace": 1, "kingdom": 1, "country": 1, "city": 1}
+{"city": 4}
+{}
+{}
+{"city": 1}
+{"city": 2}
+{"state": 1}
+{}
+{}
+{"country": 1}
+{}
+{}
+{"city": 2}
+{"city": 2, "country": 1}
+{"country": 1}
+{"county": 4, "church": 1, "battle": 1}
+{"county": 5, "city": 1, "country": 1}
+{}
+{"county": 2}
+{"county": 4, "city": 1, "country": 1, "state": 1, "commune": 2}
+{"city": 1, "county": 3, "country": 1, "state": 1}
+{"county": 3, "duchy": 2, "country": 2, "battle": 1, "castle": 3}
+{"county": 2, "country": 1}
