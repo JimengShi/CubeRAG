@@ -1,2 +1,33 @@
-# CubeRAG
-CubeRAG
+# MultiCube-RAG
+
+<!-- <div align="left">
+<img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/hypercube_rag.jpg" alt="hypercuberag" width="1000"/> 
+</div> -->
+
+
+### Organization
+
+- `QA`: saves the question-answering pairs
+- `corpus`: saves the original corpus
+- `hypercube`: constructs and saves hypercube
+- `evaluation`: computes evaluation scores
+- `utils`: helper functions
+- `qa_rag_wikimultihop.py`: script to run MultiCube-RAG for wikimultihop dataset
+
+
+### Environment
+```
+conda create --name multicube python==3.10
+conda activate multicube
+
+pip install -r requirements.txt
+```
+
+### Run the MultiCube-RAG
+
+The following script takes the wikimultihop dataset and GPT-4o-mini as an LLM base.
+
+```
+python qa_rag_wikimultihop.py --data wikimultihop --model gpt-4o-mini --retriever hypercube --save true
+```
+
