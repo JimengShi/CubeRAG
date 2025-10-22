@@ -40,5 +40,5 @@ Parameter descriptions:
 
 
 <div align="left">
-<img src="https://github.com/JimengShi/CubeRAG/blob/main/assets/multicube_example.pdf" alt="multicube-rag" width="1000"/> 
+<img src="https://github.com/JimengShi/CubeRAG/blob/main/assets/multicube_example.png" alt="multicube-rag" width="1000"/> 
 </div>
