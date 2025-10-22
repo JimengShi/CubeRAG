@@ -5,7 +5,7 @@ Each subquery can flexibly select the most suitable retriever to fetch the most 
 
 ## MultiCube-RAG for Iterative Reasoning and Retrieval
 <div align="center">
-<img src="https://github.com/JimengShi/CubeRAG/blob/main/assets/iterative_multicube_rag.png" alt="iterative-multicube-rag" width="600"/> 
+<img src="https://github.com/JimengShi/CubeRAG/blob/main/assets/iterative_multicube_rag.png" alt="iterative-multicube-rag" width="500"/> 
 </div>
 
 
