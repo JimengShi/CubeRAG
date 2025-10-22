@@ -1,8 +1,8 @@
 # MultiCube-RAG
 
-<!-- <div align="left">
-<img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/hypercube_rag.jpg" alt="hypercuberag" width="1000"/> 
-</div> -->
+In our work, the core idea to address multi-hop questions is `divide and conquer` by decomposing the complex multi-hop query into multiple simpler one-hop subqueries.
+
+Each subquery can flexibly select the most suitable retriever to fetch the most relevant knowledge from an external database, facilitating iterative reasoning and retrieval. 
 
 
 ### Project Structure
@@ -41,4 +41,9 @@ Parameter descriptions:
 ### MultiCube-RAG Example
 <div align="left">
 <img src="https://github.com/JimengShi/CubeRAG/blob/main/assets/multicube_example.png" alt="multicube-rag" width="1000"/> 
+</div>
+
+### MultiCube-RAG for Iterative Reasoning and Retrieval
+<div align="left">
+<img src="https://github.com/JimengShi/CubeRAG/blob/main/assets/iterative_multicube_rag.png" alt="iterative-multicube-rag" width="1000"/> 
 </div>
