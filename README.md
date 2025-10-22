@@ -25,9 +25,15 @@ pip install -r requirements.txt
 
 ### Run the MultiCube-RAG
 
-The following script takes the wikimultihop dataset and GPT-4o-mini as an LLM base.
+For example, the following script takes the wikimultihop dataset and GPT-4o-mini as an LLM base.
 
 ```
 python qa_rag_wikimultihop.py --data wikimultihop --model gpt-4o-mini --retriever hypercube --save true
 ```
 
+Parameter descriptions:
+
+--data: dataset name
+--model: llm name
+--retriever: retriever method
+--save: if saving the final output or not
