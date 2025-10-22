@@ -33,7 +33,7 @@ python qa_rag_wikimultihop.py --data wikimultihop --model gpt-4o-mini --retrieve
 
 Parameter descriptions:
 
---data: dataset name
---model: llm name
---retriever: retriever method
---save: if saving the final output or not
+- `--data`: dataset name
+- `--model`: llm name
+- `--retriever`: retriever method
+- `--save`: if saving the final output or not
