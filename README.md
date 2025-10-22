@@ -5,7 +5,7 @@
 </div> -->
 
 
-### Organization
+### Project Structure
 
 - `QA`: saves the question-answering pairs
 - `corpus`: saves the original corpus
