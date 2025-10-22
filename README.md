@@ -3,8 +3,13 @@
 In our work, the core idea to address multi-hop questions is `divide and conquer` by decomposing the complex multi-hop query into multiple simpler one-hop subqueries.
 Each subquery can flexibly select the most suitable retriever to fetch the most relevant knowledge from an external database, facilitating iterative reasoning and retrieval. 
 
+## MultiCube-RAG for Iterative Reasoning and Retrieval
+<div align="left">
+<img src="https://github.com/JimengShi/CubeRAG/blob/main/assets/iterative_multicube_rag.png" alt="iterative-multicube-rag" width="800"/> 
+</div>
 
-### Project Structure
+
+## Project Structure
 
 - `QA`: saves the question-answering pairs
 - `corpus`: saves the original corpus
@@ -14,7 +19,7 @@ Each subquery can flexibly select the most suitable retriever to fetch the most 
 - `qa_rag_wikimultihop.py`: script to run MultiCube-RAG for wikimultihop dataset
 
 
-### Environment
+## Environment
 ```
 conda create --name multicube python==3.10
 conda activate multicube
@@ -22,7 +27,7 @@ conda activate multicube
 pip install -r requirements.txt
 ```
 
-### Quick start on wikimultihop
+## Quick start on wikimultihop
 
 For example, the following script takes the wikimultihop dataset and GPT-4o-mini as an LLM base.
 
@@ -37,12 +42,9 @@ Parameter descriptions:
 - `--retriever`: retriever method
 - `--save`: if saving the final output or not
 
-### MultiCube-RAG Example
+## MultiCube-RAG Example
 <div align="left">
 <img src="https://github.com/JimengShi/CubeRAG/blob/main/assets/multicube_example.png" alt="multicube-rag" width="1000"/> 
 </div>
 
-### MultiCube-RAG for Iterative Reasoning and Retrieval
-<div align="left">
-<img src="https://github.com/JimengShi/CubeRAG/blob/main/assets/iterative_multicube_rag.png" alt="iterative-multicube-rag" width="800"/> 
-</div>
+
