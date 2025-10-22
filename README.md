@@ -37,3 +37,8 @@ Parameter descriptions:
 - `--model`: llm name
 - `--retriever`: retriever method
 - `--save`: if saving the final output or not
+
+
+<div align="left">
+<img src="https://github.com/JimengShi/CubeRAG/blob/main/assets/multicube_example.pdf" alt="multicube-rag" width="1000"/> 
+</div>
