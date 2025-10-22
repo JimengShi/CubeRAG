@@ -1,7 +1,6 @@
 # MultiCube-RAG
 
 In our work, the core idea to address multi-hop questions is `divide and conquer` by decomposing the complex multi-hop query into multiple simpler one-hop subqueries.
-
 Each subquery can flexibly select the most suitable retriever to fetch the most relevant knowledge from an external database, facilitating iterative reasoning and retrieval. 
 
 
