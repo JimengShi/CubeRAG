@@ -4,8 +4,8 @@ In our work, the core idea to address multi-hop questions is `divide and conquer
 Each subquery can flexibly select the most suitable retriever to fetch the most relevant knowledge from an external database, facilitating iterative reasoning and retrieval. 
 
 ## MultiCube-RAG for Iterative Reasoning and Retrieval
-<div align="left">
-<img src="https://github.com/JimengShi/CubeRAG/blob/main/assets/iterative_multicube_rag.png" alt="iterative-multicube-rag" width="800"/> 
+<div align="center">
+<img src="https://github.com/JimengShi/CubeRAG/blob/main/assets/iterative_multicube_rag.png" alt="iterative-multicube-rag" width="600"/> 
 </div>
 
 
