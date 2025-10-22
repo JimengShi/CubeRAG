@@ -23,7 +23,7 @@ conda activate multicube
 pip install -r requirements.txt
 ```
 
-### Run the MultiCube-RAG
+### Run the MultiCube-RAG on wikimultihop
 
 For example, the following script takes the wikimultihop dataset and GPT-4o-mini as an LLM base.
 
