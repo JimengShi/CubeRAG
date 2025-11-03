@@ -32,6 +32,10 @@ pip install -r requirements.txt
 For example, the following script takes the wikimultihop dataset and GPT-4o-mini as an LLM base.
 
 ```
+CUDA_VISIBLE_DEVICES=0
+
+export OPENAI_API_KEY="sk-"
+
 python qa_rag_wikimultihop.py --data wikimultihop --model gpt-4o-mini --retriever hypercube --save true
 ```
 
