@@ -14,6 +14,7 @@ Each subquery can flexibly select the most suitable retriever to fetch the most 
 - `QA`: saves the question-answering pairs
 - `corpus`: saves the original corpus
 - `hypercube`: constructs and saves hypercube
+- `gpt_extraction`: extract entities along hypercube dimensions
 - `evaluation`: computes evaluation scores
 - `utils`: helper functions
 - `qa_rag_wikimultihop.py`: script to run MultiCube-RAG for wikimultihop dataset
