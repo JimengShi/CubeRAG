@@ -37,7 +37,7 @@ CUDA_VISIBLE_DEVICES=0
 
 export OPENAI_API_KEY="sk-"
 
-python qa_rag_wikimultihop.py --data wikimultihop --model gpt-4o-mini --retriever hypercube --save true
+python run_cube_rag.py --data wikimultihop --model gpt-4o-mini --retriever hypercube --save true
 ```
 
 Parameter descriptions:
@@ -46,6 +46,7 @@ Parameter descriptions:
 - `--model`: llm name
 - `--retriever`: retriever method
 - `--save`: if saving the final output or not
+
 
 ## MultiCube-RAG Example
 <div align="left">
