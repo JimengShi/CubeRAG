@@ -37,17 +37,18 @@ export OPENAI_API_KEY="sk-"
 ```
 
 ### Step 2: Construct cube by extracting entities
+For example, the following script takes the hotpot dataset and GPT-4o-mini as an LLM base.
+
 ```
-c
-python run_cube_rag.py --data wikimultihop --model gpt-4o-mini --retriever hypercube --save true
+cd gpt_extraction
+python joint_extract_hotpot.py
 ```
 
-For example, the following script takes the wikimultihop dataset and GPT-4o-mini as an LLM base.
-
+### Step 3: Cube-based QA
 ```bash
 CUDA_VISIBLE_DEVICES=0
 
-python run_cube_rag.py --data wikimultihop --model gpt-4o-mini --retriever hypercube --save true
+python run_cube_rag.py --data hotpotqa --model gpt-4o-mini --retriever hypercube --save true
 ```
 
 Parameter descriptions:
