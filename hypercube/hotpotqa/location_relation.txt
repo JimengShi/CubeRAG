@@ -1,0 +1,9811 @@
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"near": 1, "a few miles east of": 1}
+{}
+{"located in": 1, "next to": 1, "along the length of": 1}
+{}
+{"located on": 1, "located in": 1, "is a part of": 1}
+{"found in": 1}
+{"located in": 1, "heading west to": 1}
+{"near": 1, "part of": 1}
+{"located in": 1, "garrisoned in": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 3, "partially in": 1}
+{}
+{"located in": 1}
+{"is a part of": 1, "located in": 1}
+{"part of": 1, "landing for": 1, "affiliated with": 1}
+{}
+{"located in": 1, "south of": 1}
+{}
+{"located in": 1, "is a part of": 1}
+{"emigrated from": 1, "located at": 1, "located in": 1}
+{}
+{"born in": 1, "settled in": 1, "near": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1, "at": 1}
+{"during the california gold rush": 1}
+{}
+{}
+{"comes to": 1}
+{}
+{}
+{"located in": 1, "next to": 1, "as an extension of": 1}
+{"located in": 1, "through": 2, "city limits": 1, "city proper": 1}
+{"located in": 1, "runs from": 1, "traverse": 1, "starts as": 1}
+{"located in": 1, "around": 1, "bypass": 1, "serves as": 1}
+{"located in": 1, "begins at": 1, "goes north to": 1, "comprises": 1, "forms": 1}
+{"located on": 1, "located in": 2, "travels east to": 1, "comprises": 1, "occupying": 1}
+{"located in": 1, "serves": 1, "begins at": 1, "terminating at": 1}
+{"located entirely within": 1, "begins at": 1, "continues north": 1, "is at": 1, "comprises": 1, "forming": 1, "prohibited from using": 1}
+{"on the north and west sides of": 1, "around": 1}
+{"runs from": 1, "junction with": 1, "located in": 1}
+{}
+{}
+{}
+{"native to": 1, "invasive species in": 1, "along": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"played for": 1}
+{}
+{}
+{"held in": 1}
+{"located at": 1}
+{"born in": 1, "played in": 1}
+{"lies on": 1, "south from": 1, "north from": 1}
+{"is a part of": 1}
+{"located in": 1, "nearby at": 1}
+{"on the borders of": 1, "centred on": 1}
+{"flows through": 1, "located in": 1, "leads up to": 1, "joining": 1}
+{"located in": 1, "covers about": 1, "south of": 1, "includes": 2, "reflecting the popularity of": 1}
+{"in": 1, "just north of": 1}
+{"located in": 1}
+{"located in": 1, "located approximately 5 mi north west of": 1, "to the west of": 1, "between": 1, "falls within": 1}
+{"located in": 1, "north of": 1, "flows through": 1, "dividing": 1}
+{"located in": 1}
+{"based at": 1, "is the mother church of": 1, "seat of": 1}
+{"located in": 1}
+{"located in": 1, "on the site of": 1}
+{"situated six miles from": 1, "situated thirteen miles from": 1}
+{"located in": 1}
+{}
+{"is a part of": 1, "borders": 1}
+{"located in": 1, "approximately eight miles northwest": 1, "approximately 14 miles northeast of": 1}
+{"is the mother church of": 1, "is the seat of": 1}
+{}
+{}
+{"found in": 1, "in cities": 3}
+{"headquartered in": 1}
+{}
+{}
+{}
+{"on the mexico\u2013california border": 1, "located in": 1}
+{}
+{}
+{"held at": 1, "located near": 1}
+{"located at": 1, "near": 1}
+{"held at": 1}
+{}
+{"near": 1}
+{"located at": 1}
+{"located at": 1}
+{"located at": 1, "held at": 1}
+{}
+{"in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"premiered at": 1, "located in": 1}
+{"based in": 1}
+{}
+{"located in": 1}
+{}
+{"in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released in": 2}
+{"located at": 1}
+{}
+{"in": 1}
+{"for the golden state warriors": 1, "at washington state university": 1}
+{"located in": 2}
+{}
+{"in san antonio": 1}
+{"for the golden state warriors": 1}
+{"located in": 0}
+{}
+{}
+{}
+{"": 0}
+{"located in": 1, "immigrated to": 1}
+{"located in": 1}
+{}
+{"in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1, "concentrated in": 1, "home to": 1, "fully occupied by": 1}
+{"located at": 1, "links": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "sits at": 1}
+{"located in": 1}
+{"near": 1, "is a part of": 1}
+{"located in": 3, "underneath": 1, "south of": 1}
+{"located at": 1, "is a part of": 1}
+{"located at": 1, "in the zone of": 1, "near": 1, "has a direct link to": 1}
+{"located south of": 1, "is located in": 2, "is a part of": 1}
+{"located in": 1}
+{"born in": 1, "grew up in": 1}
+{"located in": 1}
+{"based in": 1}
+{"of": 1}
+{}
+{"located in": 1, "located at": 1, "is a part of": 1}
+{"located in": 1}
+{"based in": 1, "located in": 1}
+{"based in": 1, "from": 1}
+{"affected": 1, "formed from": 1, "down through": 1, "spread throughout": 1}
+{"is a barrier to": 1, "forms a series of": 1}
+{"located in": 1, "runs through": 1}
+{"is a part of": 1, "lies to its south and west": 1}
+{}
+{"located in": 1, "part of": 1, "to its west": 1}
+{"part of": 3, "located in": 1, "separated from": 1}
+{}
+{"located in": 1, "located 15.8 km southeast by east of": 1, "on the boundary between": 1}
+{"located in": 1, "on": 2, "next to": 1, "southernmost tip": 1, "start at": 1}
+{}
+{"near": 1, "about an hour away from": 1, "less than an hour from": 1}
+{"located at": 1, "before being relocated to": 1}
+{"located at": 2, "is a part of": 1}
+{"located at": 1, "is the oldest at": 1, "has only been at": 1}
+{"located at": 1}
+{"located at": 1}
+{"located at": 1, "is a part of": 1}
+{"located at": 1}
+{"located just west of": 1, "at the corner of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{"formed in": 1}
+{"from": 1}
+{"founded in": 1}
+{}
+{"located in": 1}
+{}
+{"from": 1, "in": 1}
+{"native of": 1, "played college football at": 1}
+{}
+{}
+{}
+{}
+{"for the kansas city chiefs": 1}
+{}
+{}
+{}
+{"based in": 1}
+{"located at": 1, "on the campus of": 1}
+{"located in": 1, "on the south side of": 1, "operated by": 1}
+{"located in": 4, "operates as": 1}
+{}
+{"located in": 1}
+{"located in": 2, "located at": 1, "is a part of": 1}
+{"located in": 1, "is a part of": 1}
+{"is a part of": 1}
+{"located in": 1}
+{}
+{"active career in": 1}
+{"located at": 1}
+{"located northwest of": 1}
+{}
+{"located in": 1, "in a wing of": 1}
+{"located at": 1}
+{"located in": 1, "located at": 1}
+{"located in": 1, "very close to": 1}
+{}
+{"located in": 1}
+{"located in": 1, "from the collection of": 1}
+{"located in": 1}
+{}
+{"located in": 1, "situated right under": 1}
+{}
+{"filmed entirely in": 1}
+{"located in": 1}
+{"located on": 1, "in": 2, "near": 1}
+{"located in": 1}
+{"located in": 1, "between": 1, "adjacent to": 1}
+{}
+{}
+{"near": 1}
+{"held in": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"in": 1, "from": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "stands on": 1, "about 7 mi north west of": 1}
+{"situated at": 1, "south of": 2, "east of": 2, "just to the west of": 1, "just to the south": 1}
+{"situated on": 1, "north-west of": 1}
+{"located in": 1, "south of": 1, "lies at": 1}
+{"located in": 1, "about 10 mi east of": 1, "includes": 1, "adjacent": 1}
+{"on the eastern border of": 1, "overlooking": 1, "located in": 1}
+{"situated 5 mi west of": 1, "adjoins": 1, "at the west of": 1}
+{"is located in": 1}
+{"located in": 1, "sited on": 1, "runs through": 1, "east of": 1}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{"premiered at": 1}
+{}
+{"was the opera house in": 1}
+{"located in": 1}
+{}
+{"is the flag carrier airline of": 1, "based on": 1, "at its main hub at": 1, "at": 2}
+{"located in": 1, "operates its main hub at": 1, "a secondary hub out of": 1}
+{"surrounded but did not include": 1, "was a county in": 1}
+{"based in": 1, "located at": 1}
+{}
+{}
+{"stretched from": 1}
+{"based in": 1, "is a part of": 1}
+{"headquartered near": 1, "located in": 1, "is a part of": 1}
+{"located in": 1, "hosted in": 1}
+{"located in": 1}
+{"located in": 1, "at": 1}
+{"located in": 1}
+{"located in": 2, "taking place on": 1, "at": 2}
+{"located in": 1}
+{"located within": 1}
+{"took place at": 1}
+{"located in": 2, "took place at": 2}
+{"took place at": 1}
+{"located at": 1}
+{"from": 1}
+{"moved to": 1}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"to meet": 1, "in Australian military and aviation circles": 1}
+{}
+{}
+{}
+{"assigned to": 1}
+{"located in": 1}
+{"located in": 1, "skirting": 1, "includes": 1}
+{}
+{}
+{"located at": 1, "in": 2}
+{}
+{"located in": 1, "located at": 1}
+{"held in": 3, "designated a": 1}
+{}
+{}
+{"from": 1, "in": 2}
+{"located in": 1, "part of": 1}
+{"located within": 1, "overlooks": 1}
+{"in the north of": 1, "above the roof of": 3, "from the basement of": 3}
+{"located in": 1}
+{"located in": 1, "in": 1}
+{"in": 3, "during": 1}
+{"was near": 1}
+{"located in": 1, "next to": 1}
+{"situated in": 1, "next to": 1}
+{"located in": 1, "between": 1, "to its east": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{}
+{}
+{"based in": 1}
+{"based in": 1}
+{}
+{"for sale in": 1, "available on": 1}
+{"based in": 1}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{"located in": 1, "is a part of": 1}
+{}
+{"located at": 1}
+{"using": 1}
+{"born in": 1, "educated at": 1, "for a newspaper in": 1}
+{}
+{"in": 2, "from": 3}
+{"serving children across": 1}
+{"took his stage name from": 1}
+{"born in": 1}
+{}
+{"first hawaiian champion": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located at": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "located at": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"from": 1, "in office since": 1}
+{"located in": 1, "on board": 1}
+{}
+{"from": 1, "at": 1}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "makes up": 1, "is a part of": 1, "is known as": 1}
+{"coterminous with": 1, "county seat of": 1, "located in": 1}
+{"born in": 1, "moved to": 1}
+{"located in": 1, "located at": 1}
+{"located in": 1, "anchors": 1}
+{"went to": 1, "came back to": 1}
+{}
+{"performed in": 1}
+{"part of": 1, "located in": 1, "surpassed by": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "moved from": 1}
+{"located in": 1, "located at": 1}
+{"based in": 1, "located in": 1}
+{}
+{"serves as": 1}
+{"is the official residence of": 1, "located in": 1, "overlooks": 1}
+{"found in": 1, "located in": 1}
+{"located in": 1, "extends for": 1, "follows the southern shore of": 1, "serves as the northern terminus of": 1, "is part of": 1}
+{"located in": 1, "located at": 1}
+{"located in": 1, "owns and operates": 1}
+{"produced at": 1, "performed in": 1, "located in": 1}
+{"born in": 1}
+{"located at": 1}
+{"came to": 1, "went back to": 1}
+{"located in": 1, "set in": 1}
+{"born in": 1, "widespread across": 1}
+{"located at": 1}
+{}
+{}
+{"located at": 1}
+{"under the la muse section in": 1}
+{}
+{}
+{"located in": 1, "surrounding areas": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1, "located at": 1}
+{"located in": 2}
+{"located in": 2, "belongs to": 1}
+{}
+{"located in massachusetts": 1, "located at brass door restaurant": 1, "headed south": 1}
+{}
+{"located about an hour from": 1, "has several years of advantage over": 1}
+{}
+{"located near": 1, "located in": 1, "north of": 1}
+{}
+{}
+{"located in": 2, "owned by": 1}
+{"located in": 1, "headquarters are held": 1, "is represented by": 1}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{"located in": 1, "organization of": 1}
+{"located in": 1, "on what is now": 1}
+{"located in": 1}
+{"located in": 1}
+{"located at": 1}
+{"located in": 1}
+{"home arena of": 1}
+{"based out of": 1, "was": 1}
+{"based in": 1, "located in": 1}
+{}
+{}
+{"located in": 1}
+{"is the official radio broadcaster of": 1}
+{"headquarters in": 1}
+{"located at": 1}
+{"located near": 1}
+{}
+{"located in": 1}
+{"is a part of": 1}
+{}
+{}
+{"part of": 1, "worldwide": 1}
+{}
+{}
+{}
+{}
+{}
+{"airs on": 1, "in some countries": 1}
+{"on": 3}
+{"created for": 1, "co-producer": 1}
+{}
+{"located in": 1, "in the suburbs of": 1}
+{"released in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"aired on": 1}
+{"located in": 1}
+{}
+{"based out of": 1}
+{}
+{"located at": 1}
+{"located in": 1, "located at": 1, "is a part of": 1}
+{}
+{}
+{}
+{"native country": 1}
+{"from": 1, "plays inter-county for": 1}
+{"located in": 1}
+{"about": 1}
+{}
+{"from": 1, "with": 1}
+{}
+{"located in": 1, "in the parish of": 1}
+{"based in": 1, "in": 1}
+{"located in": 1, "brought up in": 1}
+{"from": 1}
+{"held in": 1}
+{"located in": 1}
+{"located in": 1}
+{"emigrated to": 1}
+{"located at": 1}
+{"came to france": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"settled in": 1, "toured": 1}
+{}
+{"born at": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located at": 1, "part of": 1}
+{"located in": 1, "in present-day": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "throughout": 1}
+{}
+{}
+{}
+{"plays for": 1, "in": 1}
+{}
+{}
+{}
+{}
+{"plays for": 1, "is a part of": 1}
+{}
+{}
+{}
+{"plays for": 1}
+{"is a port of entry into": 1, "crossed the dam into": 1}
+{}
+{}
+{"headquartered at": 1}
+{}
+{}
+{"located in": 1, "home to": 1}
+{"located in": 1, "located at": 1}
+{"located in": 1, "part of": 1}
+{}
+{"from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "in": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"aired in": 1}
+{}
+{"aired in": 1}
+{}
+{"aired in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "with a cleveland mailing address": 1}
+{"founded in": 1, "offices in": 1}
+{"headquartered on": 1, "located in": 1}
+{}
+{"located in": 1, "on the grounds of": 1}
+{}
+{"is in": 2, "headquartered in": 2}
+{}
+{"on the outskirts of": 1, "in": 3}
+{}
+{}
+{}
+{"topping in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"premiered in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located at": 1, "in": 1}
+{"named after": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "on the island of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located along": 1, "lies between": 1}
+{"located in": 1, "lies along": 1, "southwest of": 1, "part of": 1}
+{"located in": 1}
+{"located in": 1, "lies along": 1, "part of": 1, "southwest of": 1}
+{"southeast of": 1, "further east in": 1}
+{"located in": 2, "located at": 1, "next to": 1}
+{"is a city in": 1, "is the county seat of": 1}
+{"located in": 1, "lies along": 1, "north of": 1, "part of": 1}
+{"located in": 1, "north of": 2, "east of": 1, "west of": 1}
+{"is a part of": 1, "is also the county seat of": 1}
+{"located in": 1}
+{}
+{"located in": 1, "north of": 1, "southeast of": 1}
+{"in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"playing for": 1}
+{"playing for hc astana": 1}
+{"located in": 1}
+{"hosted in": 1}
+{"located in": 1}
+{"is the national": 1, "at the international ice hockey federation's world junior hockey championship division i": 1}
+{"located in": 1}
+{"in": 2}
+{}
+{"located in": 1}
+{"toured": 1}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{"north of ireland football club is a part of": 1, "located in": 1}
+{"located in": 1, "near": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "located at": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "raised in": 1, "part of": 1}
+{"located at": 1, "is a part of": 1}
+{"located in": 1, "is a part of": 1}
+{"situated in": 1}
+{}
+{"from": 1}
+{}
+{"based in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 2, "headquartered in": 1}
+{"headquartered in": 1}
+{}
+{}
+{"based in": 1}
+{}
+{}
+{"located in": 1, "moved with": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"preceding": 1}
+{"located in": 1, "completed": 1}
+{"home of": 1, "last held": 1}
+{"located at": 1, "located in": 1}
+{"home of": 1}
+{"home of": 1}
+{"located at": 1}
+{"home of": 1}
+{"home of": 1}
+{"home of": 1}
+{"located at": 1}
+{"located at": 1, "renamed to": 1}
+{}
+{"located at": 1, "members of": 1}
+{"located in": 1, "members of": 1}
+{"located in": 1, "played at": 3}
+{}
+{"part of": 1, "based in": 1}
+{"represented": 1, "played their home games at": 1, "participated in": 1, "joining": 1}
+{"located in": 1, "first games in": 1}
+{}
+{}
+{"represented the university of tennessee": 1, "located in tennessee": 1}
+{"located in": 1, "between": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"located at": 1, "served as the head football coach at": 3}
+{"from": 1}
+{"located in": 1, "home town of": 1}
+{}
+{}
+{"from": 2, "located in": 1}
+{}
+{"from": 1, "located in": 1}
+{}
+{"from": 1, "located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located on": 1, "located in": 1}
+{"located in": 1, "first to run": 1}
+{"located at": 1}
+{"replaced": 1}
+{"located in": 1, "is the home field of": 1}
+{"located in": 1, "across the lake": 1, "less than one mile from": 1, "separated": 1}
+{"located at": 1, "built over": 1}
+{"is a part of": 1}
+{"located at": 1, "is a part of": 1, "replaced": 1}
+{"located in": 1, "next to": 1, "is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"off the 680 freeway": 1, "on the way to": 1, "along the road": 2, "to the address": 1}
+{"travelling from": 1}
+{}
+{}
+{"southwest of": 2, "northwest of": 1, "located in": 1, "connects to": 1}
+{"established by": 1, "located in": 1}
+{"located in": 1, "near": 1}
+{"subcamp of": 1, "located in": 1}
+{"located in": 1, "around": 1}
+{"located in": 1, "during the german occupation of": 1}
+{}
+{}
+{}
+{}
+{}
+{"published in": 2}
+{}
+{}
+{}
+{}
+{"located at": 1, "within": 1}
+{}
+{"held in": 2, "in the center of": 1}
+{"based in": 1}
+{}
+{}
+{"located in": 1}
+{"north of": 1, "behind": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"in service": 1, "under licence in": 1, "drawn into": 1}
+{"located at": 2}
+{"located at": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "is one of": 3}
+{}
+{}
+{}
+{"located in": 1, "in": 3}
+{}
+{}
+{"from gujarat": 1, "in the history of the gujarat legislative assembly": 1}
+{"from": 1, "since": 2}
+{}
+{}
+{"from": 2, "in": 1}
+{}
+{"from": 1}
+{"located in": 1}
+{"is a part of": 2}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "moved with": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "part of": 1}
+{"located at": 1, "short of": 1, "below": 2}
+{"from": 1, "to": 1, "near": 1}
+{"southeast of": 1}
+{"from": 1, "to": 1, "with a stop at": 1, "about 60 mi south of": 1}
+{"between": 1, "located at": 1}
+{"located in": 1, "crashed into": 1}
+{"from": 1, "to": 1, "short of": 1}
+{"offshore from": 1, "located in": 1}
+{}
+{"residing in": 1, "located in": 1, "raised in": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"from": 1, "in": 2}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 2}
+{"based in": 1}
+{"located in": 1, "incorporated into": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"grew up in": 1, "located in": 1}
+{}
+{"borders": 5, "belong to": 1, "located in": 1}
+{"lies in": 1, "located about": 1, "originating here": 1}
+{"located in": 1, "west of": 1, "about 7 km east of": 1}
+{"located within": 1, "located at": 1, "far from": 1, "northeast of": 1, "south of": 1, "a part of": 1}
+{"located in": 3, "located at": 1, "to the north": 1, "to the left": 1, "on the south eastern side": 1}
+{"separates": 1, "is part of": 1}
+{"east of": 2, "along the border with": 1, "in the vicinity of": 1}
+{}
+{"is a part of": 1}
+{}
+{"born in": 1, "taught at": 1, "located in": 1}
+{}
+{"located on": 1, "located in": 1, "border with": 1}
+{"neighbouring": 1, "separated": 1, "located near": 1}
+{"adjacent to": 1, "runs through": 1, "on the polish side of the border": 1}
+{"located in": 1}
+{}
+{"located in": 1, "is in": 1, "lives between": 1}
+{"located in": 2}
+{"located in": 1}
+{}
+{"located in": 1, "in": 1}
+{"located in": 1, "home of": 1}
+{"located at": 1, "home of": 1}
+{"located in": 1, "is composed of": 1}
+{}
+{}
+{"transferred from": 1, "located at": 1, "staged at": 1}
+{}
+{"operated in": 1}
+{"encompasses": 1, "centered on": 1, "projects into": 1, "is more extensive than": 1, "includes": 1, "is tightly linked with": 1}
+{"located near": 1}
+{}
+{"located in": 1, "located on": 1, "border with": 1}
+{}
+{"located in": 3, "named after": 1, "connects": 1, "belongs to": 1}
+{"shared international borders with": 1, "part of": 1, "occupied by": 1}
+{"located in": 1, "between": 1, "formed by": 1, "situated in": 1}
+{"spoken in": 1, "belongs to": 1, "included": 1}
+{"located about 5 km east of": 1, "on the east bank of": 1, "north of its confluence with": 1, "included within the historical region known as": 1}
+{"separating": 1, "located along": 1, "located at": 1, "divided into": 1, "flow counterclockwise from": 1, "back to": 1}
+{"in": 1, "at": 1}
+{"located on": 1, "located at": 1, "south of": 1, "from": 2, "along": 1, "next to": 1}
+{"located along": 1}
+{"located in": 1}
+{"located along": 1, "located in": 3, "next to": 1}
+{"located in": 1, "located along": 1, "accessible via": 1, "south of": 1, "north / northwest": 1}
+{"located along": 1, "part of": 1, "under the suzerainty of": 2}
+{"located on": 1, "located along": 1, "divides the area of": 1}
+{"located in": 1, "goes through": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "with": 1}
+{"near": 1, "in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{"for": 1, "at": 1}
+{"located in": 2}
+{"located in": 1}
+{"located in": 1, "home to": 1}
+{}
+{}
+{"founded in": 2, "located in": 1, "part of": 1}
+{}
+{"untouched by the war": 1}
+{"in": 3, "at": 1, "under the command of": 2}
+{}
+{"part of": 1}
+{"king of sweden": 1, "located in sweden": 1}
+{}
+{"located between": 1}
+{"situated on": 1, "to the south": 1}
+{"situated on": 1, "between": 1, "past the station is now": 1}
+{"located in": 1, "within": 1}
+{"located on": 1, "between": 1, "for": 1}
+{"ran between": 1, "via": 1}
+{"situated in": 2, "adjacent to": 1}
+{"between": 1, "served": 1}
+{"between": 1, "to": 1}
+{"between": 1, "near": 1}
+{"located in": 1, "stretches from": 1, "downstream in": 1, "just east of": 1, "near": 2}
+{}
+{"located in": 1, "borders": 1, "separating": 1}
+{}
+{"located in": 1, "located west-southwest of": 1, "lies mostly between": 1}
+{}
+{"southwest of": 1, "located in": 1, "located at": 1}
+{"based in": 1, "providing": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "used alongside": 1}
+{"located in": 1}
+{}
+{"located in": 1, "part of": 1}
+{"located in": 1, "in opposition to": 1}
+{}
+{"located in": 1}
+{}
+{"after the norman conquest": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located at": 1, "is a part of": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"during": 1}
+{"located in": 1, "displayed at": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"working at": 1}
+{}
+{}
+{"set in": 1, "located in": 1}
+{"located in": 1}
+{"working for": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "is a part of": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"animated in": 1}
+{"located in": 1}
+{}
+{"operating in": 1}
+{}
+{}
+{"tributary of": 2, "northern beginning of": 1, "extends to": 1, "located in": 1}
+{"located in": 1, "forms at": 1, "flows to": 1, "borders by": 1}
+{"tributary of": 1, "located in": 1}
+{"located in": 1, "flows through": 2, "joins the river from": 1, "enters the river from": 1, "extends from": 1}
+{"originates north and west of": 1, "flows to the southwest along the base of": 1, "drains into": 1, "flows south toward": 1, "flows into": 1, "takes a westward course where": 1, "is a part of": 1, "continues west to": 1, "enters": 1}
+{"located in": 1, "flows down to": 1, "joining the missouri": 1, "opposite cow creek": 1, "north of the river": 1, "south bank of the missouri": 1, "upstream from the fred robinson bridge": 1}
+{"located in": 1, "begins southeast of": 1, "south of": 1, "joins": 1, "upstream of": 1, "downstream of": 1}
+{"tributary of": 1, "located in": 1}
+{"bred in": 1}
+{"tributary of": 2, "joined by": 1, "just below": 1, "near": 2, "connects via": 1}
+{"southwest of": 1, "located in": 1}
+{"located in": 1, "located about": 2, "home to": 1, "north of": 1, "west of": 1, "south of": 1}
+{"located in": 1, "outside of": 1}
+{"located near": 1}
+{"located in": 1, "from grand encampment": 1, "over the continental divide": 1}
+{"section of": 1, "located in": 1, "service town for": 1, "swallowed them up": 1}
+{"located at": 2, "is a part of": 1}
+{}
+{"located in": 1, "in": 1, "in northern": 1}
+{"near": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 2}
+{"first in": 1}
+{"located in": 1, "in": 1}
+{}
+{}
+{}
+{}
+{"first in": 1, "later in": 1}
+{}
+{}
+{"tied with": 1, "located in": 1, "moved ashore": 1}
+{"located between": 1, "moved northward": 1}
+{"under the purview of": 2}
+{"located near": 1}
+{}
+{}
+{}
+{"moved ashore near": 1, "toward": 1}
+{"made landfall over": 1, "located in": 1}
+{"developed off": 1, "striking": 1, "moving over": 1}
+{"lives in": 1}
+{}
+{}
+{"runs from": 1, "west of": 1, "ends at": 1}
+{}
+{}
+{"based in": 1}
+{"located in": 0}
+{"located in": 1, "located at": 1, "is a part of": 1}
+{"located in": 1, "near": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"represented": 1, "includes": 1}
+{}
+{"located in": 1}
+{}
+{"hometown of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 3}
+{"located in": 1, "located at": 1}
+{}
+{"located in": 1, "at": 2}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1, "home of": 1}
+{}
+{"born in": 1, "located in": 1}
+{"under": 1, "concurrently": 1}
+{"located in": 1, "first talking statue in the world": 1}
+{"born in": 1, "moved to": 1, "returned to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"broadcast on": 1}
+{}
+{"broadcasting worldwide on": 1}
+{}
+{"located on": 2}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{"over": 2, "near": 1, "located in": 1, "added to": 1}
+{"carrying": 1, "over": 1}
+{"located at": 1, "located in": 1, "next to": 1, "is a part of": 1}
+{"is located in": 1, "is selected to be": 1, "led to": 1, "is a part of": 1}
+{"located on": 1, "located in": 1, "part of": 1}
+{"near": 1, "on": 1, "southeast of": 1, "in": 1}
+{"located in": 1, "approximately 40 mi west of": 1, "50 mi east of": 1, "40 mi north of": 1}
+{"located in": 1, "northeast of": 1, "span": 1}
+{"located east of": 1, "over": 2, "between": 1, "in": 1}
+{"located in": 1, "next to": 1}
+{"near": 2, "between": 1, "on the site": 1, "in": 3}
+{"located in": 1, "references adjacent": 1}
+{"is a tributary of": 1, "serves as part of the boundary between": 1, "is formed by the confluence of": 1, "enters it east-southeast of": 1, "reaches the potomac at": 1, "is part of": 1}
+{"located in": 1, "part of": 1}
+{"at the mouth of": 1, "on the fairfax county side": 1, "in prince william county": 1}
+{"located at": 1, "moved to": 1}
+{"from": 1, "located in": 1}
+{"located in": 1, "part of": 1}
+{"divided into": 1, "governs": 1}
+{"serves as the boundary between": 1, "originates from": 1, "flows south to": 1}
+{}
+{"headquarters established in": 1}
+{}
+{"linked up with": 2, "located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "located at": 1, "is a part of": 1}
+{}
+{"published in": 1}
+{}
+{}
+{}
+{}
+{}
+{"filming took place in": 1}
+{}
+{}
+{}
+{"based in": 1, "fall under": 1}
+{}
+{"located to the southwest of": 1, "sits side by side with": 1}
+{"located in": 1}
+{"based in": 3}
+{"based in": 1}
+{"based in": 1, "hosted": 1}
+{"make up": 1, "is one of": 1}
+{"of the kenyan national side": 1, "of the kenyan premier league": 1}
+{"based in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1, "within": 1}
+{}
+{}
+{}
+{"located in": 1, "stationed in": 1}
+{}
+{"located in": 1}
+{}
+{"is the state branch of": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"screened in": 1, "located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"relocate from": 1, "for filming": 1}
+{"relocated to": 1}
+{}
+{"located at": 1, "located in": 2, "is the only": 1}
+{"ran from": 1, "ending at": 1}
+{"located in": 1}
+{"located in": 1, "south of": 1, "north until": 1, "east to": 1}
+{"located in": 1, "on": 1, "in": 1}
+{"southwest of": 1, "east of": 1}
+{"located at": 1, "located less than": 1}
+{"located in": 1, "close to": 1, "covers": 1}
+{"located in": 1, "running from": 1, "ran from": 1, "west of": 1, "from": 2, "between": 1}
+{"east of": 3, "north of": 1, "west of": 2, "south and east of": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"part of": 5, "located at": 2}
+{"last played for": 1, "is a part of": 1, "located in": 1}
+{}
+{}
+{"located in": 3, "located at": 1, "is a part of": 1, "is situated": 1}
+{"located at": 1, "between": 1}
+{"located in": 1, "in the fairfield area of": 1}
+{"located in": 1, "forms a cross country connection from": 1, "to": 1, "creating a circuitous bypass of": 1}
+{"west of": 1, "north of": 1, "east of": 1, "corresponds to": 1}
+{"located in": 1, "on": 1, "west of": 2, "south west of": 1}
+{"west of": 1, "located in": 1, "corresponds to": 2}
+{"located in": 1}
+{"located on": 1, "located in": 1, "between": 1}
+{"based in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"published in": 1}
+{}
+{}
+{}
+{"moved to": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located at": 1}
+{"centered on": 1, "in": 2}
+{"part of old city": 1, "located in hyderabad": 1}
+{"most live in": 1, "continue in": 1}
+{"originally from": 1, "principally live in": 1, "located in": 1}
+{}
+{"primarily in": 1}
+{"is a part of": 1}
+{"down the east coast of": 1, "nearby": 1}
+{"located in": 1, "within": 2}
+{"located in": 1, "near": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "south of": 1, "part of": 1}
+{}
+{}
+{"located in": 1, "attended": 1}
+{}
+{"headquartered in": 1}
+{}
+{"headquartered in": 1, "offices in": 1}
+{}
+{}
+{"branches across": 1}
+{"headquartered in": 1}
+{"based in": 1}
+{"is headquartered in": 1}
+{"on": 2}
+{}
+{}
+{"located in": 1, "is a part of": 1}
+{}
+{}
+{}
+{"from": 1}
+{"located in": 1}
+{"through": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"from the state of": 1, "in the united states": 2}
+{}
+{}
+{}
+{}
+{}
+{"located in": 2}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located at": 1}
+{"located in": 1}
+{"aired on": 1}
+{}
+{"located in": 1}
+{"is a part of": 1}
+{"located in": 1, "near": 1}
+{}
+{"located in": 1}
+{"born in": 1, "studied at": 1, "for the royal shakespeare company": 1, "for cheek by jowl": 1, "for the open air theatre": 1}
+{}
+{"born in": 1, "connects": 1}
+{}
+{"broadcast in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"set in": 1}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"launched from": 1}
+{"first mission to fly around": 1}
+{"located adjacent to": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "was at": 1}
+{"located near": 1, "located in": 1}
+{"located in": 1, "in the chicago area": 1}
+{}
+{"arrived in": 1, "associated with": 1}
+{}
+{"prior to": 1}
+{"located in": 1, "moved to": 1}
+{"located at": 1, "in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"in": 1}
+{"located in": 1, "straddles the border with": 1}
+{"adjacent to": 1}
+{"located in": 1}
+{"part of": 1, "situated close to": 1, "between": 1}
+{"headquartered in": 1, "based in": 3}
+{}
+{"governed by": 1, "includes": 1, "is a part of": 1}
+{"located in": 1}
+{"north of": 1, "near to": 1, "on the eastern fringe of": 1}
+{"located in": 1, "lies": 1, "part of": 1, "near": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"aired in": 1, "shown at": 1}
+{}
+{}
+{"based in": 1}
+{}
+{"premiered at": 1}
+{}
+{"born in": 1}
+{}
+{}
+{}
+{}
+{}
+{"for the sixth sunday after trinity": 1, "written for performances in leipzig": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located on": 1, "located in": 2, "is a part of": 1}
+{}
+{"in": 3}
+{"is based in": 1, "is a part of": 1}
+{"located in": 1}
+{"native to": 1, "in": 2}
+{"found in": 1}
+{}
+{"in": 1}
+{"located in": 1}
+{"among people in local places in": 1, "in": 1}
+{}
+{}
+{}
+{"located at": 1}
+{"available in": 2}
+{"located in": 1, "headquarters and main factory in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "within": 1}
+{"located in": 1, "moved to": 1}
+{}
+{"located in": 1, "predominantly nationalist": 1}
+{"located in": 1}
+{"located in": 1, "as part of": 1}
+{"come predominantly from": 1}
+{"goes from": 1, "goes through": 1, "connects with": 1, "partly built on": 1, "traverses": 1}
+{"located in": 1, "extend across": 1}
+{"located in": 1, "between": 1, "on": 2, "past": 1, "through": 1, "managed by": 1}
+{"is a part of": 1, "belongs to": 1}
+{"north of": 1, "located in": 3, "located entirely in": 1}
+{"located in": 2, "extends into": 1, "share a boundary with": 1}
+{"northern terminus is at": 1, "southern terminus is located near": 1}
+{"located at": 1, "part of": 2, "next to": 1}
+{"is a classification of": 1, "are essentially identical to": 1, "may be open for": 1}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{"based in": 1}
+{}
+{"located in": 1, "partner organizations of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"is situated in": 1}
+{"located in": 1, "where the quartet was finished": 1}
+{}
+{"located in": 1, "is a part of": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "housed in": 1}
+{"located in": 1, "in the southeast": 1}
+{}
+{"located in": 2}
+{"located in": 1, "close to": 1}
+{"located in": 1}
+{"located in": 1}
+{"located at": 1, "is a part of": 1}
+{}
+{"located in": 1}
+{"from": 1}
+{"from": 1}
+{}
+{}
+{"based in": 1}
+{"located in": 1, "based in": 1}
+{"located in": 1, "is known as": 1}
+{"from": 1}
+{}
+{}
+{"entered the uk charts": 1, "made the charts in some other european areas": 1}
+{}
+{"commuted between": 1, "lives in": 1, "works in": 1}
+{}
+{"located at": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "came into": 1}
+{"located in": 1, "starts at": 1, "continues in": 1}
+{}
+{}
+{}
+{"native to": 1}
+{}
+{}
+{}
+{"native to": 1, "planted as a street tree in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"voyage to": 1}
+{"lived near": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{"located on": 0}
+{}
+{"released in": 1}
+{}
+{}
+{"in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "next to": 1}
+{}
+{}
+{}
+{}
+{"dependency of turkey": 1}
+{}
+{}
+{}
+{}
+{"included among": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "in the basement of": 1, "gay bathhouse": 1}
+{"located in": 1, "bounded by": 3, "centered on": 1, "between": 2}
+{"located at": 1, "located in": 1}
+{"located in": 1, "stretches from": 1, "crosses": 1, "does not exist between": 1, "continues and terminates in": 1}
+{"located at": 1, "was a part of": 1}
+{"located at": 1, "between": 1, "gay bathhouse": 1}
+{"located in": 1, "on": 2, "next to": 1}
+{"located at": 2, "located in": 1}
+{"is a neighborhood of": 1, "on the border of": 1, "described as being on": 1, "described as part of": 1, "goes no farther north than": 1}
+{"abuts": 1, "faces": 1, "separate": 1, "connect": 1, "servicing": 1, "separates": 1}
+{"located in": 1}
+{}
+{"from": 1}
+{}
+{"from": 1}
+{}
+{"from": 1}
+{"from": 1}
+{"from": 1}
+{"in": 2}
+{"located in": 2, "part of": 1, "next to": 1}
+{"located on": 1, "zoned for": 1, "sits on": 1, "is part of": 1}
+{"near": 1, "east of": 1, "within": 1}
+{}
+{"less than 2 mi from": 1}
+{"is a part of": 1, "home to": 1}
+{"located in": 2}
+{"located at": 1, "part of": 1, "co-located with": 1, "northeast of": 1, "southeast of": 1}
+{"located in": 1, "serves": 1}
+{"located in": 1, "within the city limits of": 1, "next to": 1}
+{}
+{"is the official": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 2, "throughout": 1}
+{"located at": 1, "is a part of": 1}
+{}
+{"next to": 1, "located in": 1, "adjacent to": 1, "part of": 2}
+{"located in": 1}
+{}
+{"located in": 1, "northeast corner of": 1}
+{}
+{"travel to india": 1, "located in srinagar": 1, "located in bhagalpur": 1}
+{"located in": 1, "in": 1}
+{}
+{"located in": 1}
+{"located in": 1, "make way for": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "at": 1}
+{"located at": 1, "home stadium of": 1}
+{"located in": 1, "in": 1}
+{"located in": 1}
+{}
+{"located in": 1, "is a part of": 1}
+{}
+{}
+{"in": 1, "against": 3}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "part of": 1}
+{"located in": 1, "part of": 1}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{"near": 1, "close to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"based in": 1, "located at": 1}
+{"based in": 1}
+{}
+{}
+{}
+{"located in": 1, "headed to": 1}
+{"located in": 1}
+{}
+{"located in": 1, "part of": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"headquartered in": 1, "located in": 1}
+{"worldwide": 1, "in the united states": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{"located in": 1, "in and around": 1}
+{"broadcast on": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"endemic to": 1, "found in": 1, "live in": 1, "around": 1}
+{}
+{}
+{"native to": 1, "found in": 1}
+{"restricted in": 1, "grows in": 1}
+{}
+{}
+{"endemic to": 1, "located in": 1}
+{}
+{}
+{"born in": 1, "died in": 1}
+{}
+{"resident of": 1, "located in": 1, "located at": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "located at": 1}
+{}
+{"monarch of the three kingdoms of": 1}
+{}
+{}
+{}
+{"based in": 1, "held land at": 1}
+{"of": 3, "in": 3}
+{}
+{}
+{}
+{"part of": 1, "in": 2}
+{"located at": 1, "organized by": 1}
+{}
+{}
+{}
+{}
+{"part of": 1, "in front of": 1}
+{}
+{}
+{"located at": 1}
+{"established in": 1, "in different part of": 1}
+{"located in": 1, "is a part of": 1}
+{"operated in": 1, "part of": 1}
+{"connect": 1, "is operated by": 1, "parallels": 1}
+{}
+{}
+{"located in": 1}
+{"operated in": 1, "from": 1, "to": 1, "across": 1, "with": 1}
+{}
+{"from": 1, "part of": 1}
+{"located at": 1, "part of": 1, "into": 1, "north through": 1}
+{"based in": 1}
+{"based in": 1, "located in": 1}
+{"based in": 1, "located in": 1}
+{"based in": 1}
+{"based in": 1}
+{"located in": 1, "belongs to": 1}
+{}
+{"based in": 1, "located at": 1, "shared by": 1}
+{"based in": 1, "located in": 1}
+{"based in": 1, "located in": 1}
+{}
+{"located on": 2, "located at": 1}
+{"headquarters in": 1, "offices in": 1}
+{"located in": 1}
+{"located across": 1, "located at": 1}
+{"located in": 1}
+{"located in": 1, "member of": 1}
+{"located within": 1, "located in": 1}
+{"located in": 3, "based in": 1}
+{}
+{}
+{}
+{}
+{"headquartered in": 1}
+{}
+{}
+{}
+{}
+{}
+{"made in": 1}
+{"represented": 1}
+{"located at": 1}
+{"located in": 1, "with home games at": 1}
+{"represented": 1, "played their home games at": 1}
+{"represents": 1, "located in": 1, "play their home games at": 1}
+{"based in": 1, "plays its home games at": 1}
+{}
+{"located in": 1, "adjacent to": 1, "home to": 1}
+{"represents": 1, "located at": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located at": 1}
+{}
+{"located in": 1, "lies": 1, "south west of": 1, "by road": 1}
+{"located in": 1, "overlies": 1, "overlain by": 1, "restricted to": 1, "similar in age and type to": 1}
+{"just south of": 1, "just north along": 1, "near": 1}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{"at the base of": 1}
+{"is the longest river in": 1, "primary watershed for": 1}
+{"located in": 1, "to the east of": 1, "to the west of": 1}
+{"located in": 1, "owned and managed by": 1, "drains into": 1, "flows into": 1, "main tributaries include": 1}
+{"located in": 1, "within": 1}
+{"borders on": 3, "located in": 1}
+{"located in": 1, "flows on": 1, "emptying into": 1}
+{"located in": 1}
+{"located on": 1, "comprises territory around": 1, "on the iran-afghan border": 1, "in what is nowadays southwestern region of afghanistan": 1}
+{"located in": 1, "to the north-east of": 1}
+{"tributary to": 1, "rises on": 1, "flows through": 1, "part of": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located on": 1, "located at": 1}
+{"located in": 1, "built on the site of": 1}
+{"located at": 1, "associated with": 1}
+{"located in": 1}
+{"located in": 1, "part of": 1}
+{"located in": 1, "is a part of": 1}
+{"located at": 1, "is a part of": 1}
+{"borders": 1, "part of": 1, "situated on": 1, "southwest of": 1}
+{"located at": 1, "connected to": 1}
+{"located in": 1, "part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"used in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located at": 2}
+{"located in": 1}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{"located in": 1}
+{"located in": 1, "part of": 1}
+{"premiered at": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1, "in": 1}
+{"from": 2, "in": 1}
+{}
+{"located in": 1, "located at": 1}
+{"lives in": 1, "located in": 1, "moved to": 1}
+{"located at": 1}
+{}
+{"located at": 1}
+{"located at": 1, "is a part of": 1}
+{}
+{"located on": 1, "located in": 1}
+{}
+{"located near": 1, "located in": 1}
+{"located in": 1, "historical industries": 1, "main industry": 1}
+{"within": 2, "in": 2}
+{"located in": 1, "is in": 1}
+{"located in": 1, "serving the towns of": 1, "nearby": 1, "population of around 2,600": 1}
+{"located at": 1, "is a part of": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "is part of": 1}
+{}
+{"located in": 1}
+{}
+{"from": 2, "at": 2}
+{}
+{"held in": 1}
+{"located in": 1, "hosted the tournament": 1}
+{}
+{}
+{}
+{"in": 1, "for": 1}
+{"located in": 1, "on campus": 1}
+{"represented": 1, "located at": 1, "played their home games on": 1}
+{"located in": 1, "is a part of": 1}
+{"represented in": 1, "played at": 1}
+{"located in": 1, "played at": 1}
+{"located in": 1, "played its home games at": 1}
+{"represented Texas Tech University": 1, "played home games on the university's campus": 1, "located in Lubbock, Texas": 1}
+{"located in": 1, "on the university's campus": 1}
+{}
+{"located in": 1, "on the university's campus": 1}
+{}
+{}
+{"in": 3, "at": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"returned to england from": 1, "time in malta": 1, "time in rome": 1, "move to monaco": 1}
+{"living in": 1, "settled in": 1}
+{}
+{}
+{}
+{"located in": 1, "at": 1}
+{}
+{}
+{"located in": 1, "played in": 1}
+{}
+{}
+{}
+{"located at": 1}
+{"located in": 1, "alma mater of": 1}
+{}
+{}
+{}
+{"located at": 1}
+{"part of": 1}
+{}
+{}
+{"located in": 2, "located at": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"born into": 1}
+{}
+{}
+{"located in": 2}
+{"located at": 1}
+{"located in": 1, "located at": 1}
+{"located at": 1}
+{"is a part of": 1}
+{}
+{"is a part of": 1, "located in": 1}
+{"located at": 1, "is a part of": 1}
+{}
+{"located near": 1, "not within": 1, "south of": 1, "to the north": 1}
+{"located in": 1}
+{"based out of": 1}
+{}
+{"based at": 1}
+{}
+{"based at": 1, "attached to": 1, "assigned to": 1}
+{"located in": 1, "south of": 1}
+{"located in": 1}
+{"based at": 1, "attached to": 1}
+{}
+{"lives on": 1}
+{}
+{"located in": 1}
+{}
+{"located at": 1}
+{}
+{}
+{"distributed through": 1, "co-production between": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"from": 1}
+{"located in": 1, "in a french-german co-production": 1}
+{}
+{}
+{}
+{"located in": 1, "located at": 1}
+{}
+{}
+{"in": 1}
+{}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{"located in": 1, "under the administration of": 1, "traverses": 1}
+{"located in": 1, "located at": 1, "is one of": 1, "is a part of": 1}
+{"is a part of": 1, "located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "next to": 1}
+{"lies to the north": 1}
+{"located on": 1, "located in": 1}
+{}
+{}
+{}
+{"part of": 1, "2000 census": 1}
+{"located in": 1, "on the west side of": 1, "home to": 3}
+{"part of": 1}
+{"located in": 1, "part of": 1, "located on": 1}
+{"part of": 1, "home to": 1}
+{"part of": 1, "2010 census": 1}
+{"part of": 1, "sub-locality of": 1}
+{"located in": 1, "county seat of": 1, "part of": 1}
+{"located in": 1, "part of": 1, "accessible by car from": 1}
+{"located in": 1, "located on": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{"located in": 1, "located at": 1}
+{}
+{"located near": 1, "located in": 1, "is a part of": 1}
+{}
+{}
+{"located in": 1}
+{"located at": 1, "located in": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "is a part of": 1}
+{"played at": 1}
+{}
+{"located in": 1}
+{"played in": 1}
+{"located at": 1}
+{"played at": 1}
+{"located in": 1}
+{}
+{"played at": 1}
+{"played for": 2}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"from": 1}
+{"from": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"from": 1}
+{"from": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located on": 1, "located in": 1, "is a part of": 1}
+{"located in": 1}
+{"located at": 1}
+{"located in": 1}
+{"located in": 1, "nearby": 1}
+{"set in": 1, "located in": 1}
+{"of foumban": 1, "in foumban": 1}
+{"is a section of": 1, "runs along": 1, "becomes": 2, "is joined by": 1, "to the west": 1, "to the east": 1, "to the north": 1, "to the south": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "from": 1}
+{"just south of": 1}
+{"located in": 1}
+{"located in": 1, "to the south-west of": 1, "to the north-east of": 1, "to the north": 1, "to the north-west of": 1}
+{"north of": 1, "north-west of": 1, "near": 1}
+{"located in": 1, "north of": 1, "further south": 1}
+{"located on": 1, "located in": 1, "north-east of": 1, "slightly north of": 1}
+{"located in": 1, "north of": 1, "on the right bank of": 1}
+{"located in": 1, "on the border with": 1, "along the western border of": 1, "on the border to": 1}
+{}
+{"based in": 1, "member of": 1, "played at": 1}
+{"based in": 1, "located at": 1}
+{"born in": 1, "died in": 1}
+{"from": 1, "in": 2}
+{"based in": 1, "home stadium to use": 1, "use to play in": 1}
+{}
+{"located at": 1}
+{"located in": 1, "played in": 1}
+{}
+{"from": 1, "to": 1}
+{"played for several italian clubs": 1, "located in italy": 1}
+{}
+{}
+{"bids for": 4}
+{"is a part of": 1}
+{}
+{"held in": 1, "located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"forms part of": 1, "located in": 1}
+{}
+{}
+{"a part of": 1}
+{"between schools in": 1, "crosses": 1}
+{"between": 1}
+{"between": 1}
+{"of": 2}
+{"members of": 1}
+{}
+{}
+{"from": 1}
+{}
+{"located in": 1, "a suburb of": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{"located on": 1, "located in": 1, "next to": 1}
+{"operating in": 1}
+{"located in": 1}
+{}
+{"located in": 1, "took place at": 1}
+{"from": 1, "in": 4}
+{"located in": 1, "lies completely in": 1}
+{"located at": 1, "near": 1, "over": 1, "next to": 1}
+{"located in": 1}
+{"across the hudson river from": 1, "located atop": 1, "partly in": 2}
+{"located on": 1}
+{"located in": 1}
+{"aired on": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "between": 1, "around": 1, "on the edge of": 1}
+{"located in": 3, "within walking distance of": 1, "is a part of": 1}
+{"exclusive to": 1, "located in": 1, "adjacent to": 1}
+{"centered on": 1, "between": 1, "was once the site of": 1}
+{"runs from": 1, "home to": 1, "located in": 1, "connects": 1}
+{"centered at": 1, "located in": 1}
+{"near": 1, "surrounding": 1}
+{"centered on part of": 1, "located in": 1}
+{"located in": 1, "bordered by": 1, "extends for": 1}
+{"is a part of": 1, "located in": 1, "home to": 1, "running through": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"in": 2}
+{}
+{}
+{}
+{"written in": 1}
+{}
+{"headquarters located in": 1}
+{}
+{"of": 1}
+{}
+{"self-exile from": 1}
+{}
+{}
+{}
+{"is based in": 1, "has locations in": 1, "headquarters in": 1}
+{"retired from": 1, "serves as a member of": 1}
+{}
+{}
+{}
+{}
+{"located in": 2}
+{"based at": 1, "south of": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 3}
+{"from": 1}
+{}
+{"based in": 2, "located in": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"born in": 1, "grew up in": 1, "moved to": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"aired on": 1}
+{"located in": 1}
+{"located in": 1}
+{"lives in": 1}
+{}
+{"located in": 1}
+{}
+{"associated with": 1, "located in": 1}
+{}
+{"located in": 1, "throughout": 1}
+{}
+{}
+{"located in": 1}
+{"born in": 1, "considers its suburb": 1}
+{"to the": 1, "to visit the": 1}
+{"launched from": 1, "located in": 1}
+{"aboard": 1}
+{"located at": 1}
+{"involved in the project": 1}
+{}
+{"part of": 1, "docked to": 1, "landed in": 1}
+{"prior to": 1, "docking to": 1}
+{"found from": 1}
+{}
+{"found in": 1, "primarily in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"native to": 1}
+{}
+{"located in": 1, "near": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1, "in": 1}
+{"at": 1}
+{}
+{"located in": 2}
+{}
+{"located in": 1}
+{}
+{"held in": 1, "held outside": 1}
+{}
+{"located at": 1}
+{"located at": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"endemic to": 1, "live in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "based outside of": 1}
+{}
+{}
+{}
+{"is a part of": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{"within the bounds of": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"born in": 1, "raised in": 1}
+{"from": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"opened its doors": 1}
+{"located at": 1}
+{}
+{}
+{"located in": 1, "located at": 1, "is a part of": 1, "next to": 1}
+{"located in": 1, "at": 1, "opened its doors": 1}
+{"is a part of": 1, "located in": 1, "connecting": 1}
+{"located in": 1, "located at": 1, "part of": 1}
+{"situated at": 1, "across the street from": 1, "one block south of": 1}
+{"located at": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "home to": 1, "incorporated into": 1}
+{}
+{"located in": 1, "located at": 1}
+{"located in": 1, "attended": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"is headquartered in": 1}
+{"based in": 1, "operating in": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "located at": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"based in": 1}
+{"based in": 1}
+{"is a part of": 1}
+{}
+{"located in": 1}
+{}
+{"located at": 1}
+{"flee from": 1}
+{"located at": 1, "in the west end of": 1}
+{}
+{}
+{"worked at": 1, "located in": 1}
+{}
+{"in": 1, "of": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"part of": 1}
+{"in": 1}
+{"located in": 2, "located about": 1, "located on": 1}
+{"situated on": 1, "located in": 1, "chose to site": 1}
+{"located in": 1, "located at": 1, "part of": 1}
+{"located in": 1, "next to": 1, "outside the walls": 1}
+{"located in": 1, "in": 1}
+{"covering": 1, "located in": 1}
+{"located in": 1, "in": 1, "owned by": 1}
+{"situated on": 1, "in": 2, "on the southern side of": 1}
+{"located in": 1, "adjacent to": 1, "between": 1}
+{"located in": 1, "on the site of": 1, "flanking": 1}
+{"located in": 1}
+{"of": 2, "for": 1}
+{"located in": 1}
+{"for": 1, "to represent": 2}
+{"located in": 1, "encompasses": 1}
+{"located in": 1, "covering": 1}
+{"located in eastern massachusetts": 1, "part of massachusetts": 1}
+{"for": 2, "from": 3}
+{"for": 1}
+{"for": 1, "from": 1, "to": 2}
+{"available in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "near": 2}
+{}
+{}
+{"originated in": 1, "refers to": 1}
+{"native to": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located at": 1, "associated with": 1}
+{}
+{"on": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"on the charts": 1}
+{}
+{}
+{}
+{}
+{}
+{"based in": 1, "located at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"where they played": 1}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{"located in": 1}
+{"located at": 1}
+{"employed by": 1}
+{"located in": 1}
+{}
+{"based in": 1}
+{"located in": 2}
+{"based in": 1}
+{"located in": 1, "part of": 1}
+{}
+{"is a part of": 1}
+{"based in": 1, "part of": 1}
+{"located in": 1, "branches in": 1}
+{}
+{"in": 2}
+{"relocated to": 1}
+{}
+{}
+{}
+{"born in": 1, "noticed in": 1}
+{"south of": 1, "with its neighbor": 1, "making each individually identifiable": 1}
+{}
+{}
+{}
+{}
+{"serving": 1, "located at": 1, "adjacent to": 1}
+{"is situated next to": 1, "is linked underground to": 1, "is linked underground with": 1}
+{"located in": 1, "between": 1}
+{"located in": 1, "occupying": 1}
+{"is 2 miles se of": 1, "located in": 1, "is a part of": 1}
+{"located along": 1, "sits on": 1}
+{"on": 1, "located on": 1}
+{"located in": 1}
+{"located in": 1, "connecting": 1, "together": 1}
+{"located in": 1, "located on": 1, "south of": 1, "between": 1}
+{"located in": 2, "near": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a title in": 1, "located in": 1}
+{"from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"from": 1}
+{"released in": 1}
+{"in": 5, "with": 1}
+{"from": 1, "in": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"closer to": 1, "than to": 1}
+{"southeast of": 1}
+{"located in": 2, "south of": 1, "northwest of": 1}
+{"located on": 1, "northwest of": 1, "closer to": 1}
+{"located on": 1, "is the district headquarter": 1, "is 162 km from": 1, "is 177.1 km away": 1}
+{"located in": 1, "located at": 1, "is a part of": 1, "next to": 1}
+{"located in": 1, "suburb of": 1}
+{"located in": 1}
+{"located in": 1, "southeast of": 1, "northeast of": 1}
+{"based at": 1, "located at": 2, "near": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"theater of the United States' War on Drugs": 1}
+{"in response to": 1, "in cuernavaca": 1, "in over 40 mexican cities": 1}
+{"located in": 1, "claimed by": 1}
+{"in aceh": 3}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located at": 2, "is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "near": 1}
+{"located in": 1, "largest urban shopping centre in": 1}
+{}
+{"located in": 1, "located on": 1}
+{}
+{"located in": 1, "in the neighbourhood of": 1}
+{"located in": 1, "linked to": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 2, "located at": 1, "is a part of": 1}
+{"located in": 1, "on": 1, "in": 1}
+{}
+{}
+{"located at": 1, "part of": 1}
+{"overlooking": 1, "located at": 1}
+{"located in": 1}
+{"oversee the american continental army's administration": 1}
+{"located at": 1}
+{"located in": 1, "18 miles northwest of": 1}
+{}
+{"located at": 1}
+{}
+{}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located to": 1, "located at": 1, "serves": 1}
+{}
+{"located in": 1, "near": 1, "together with": 1}
+{"located in": 1, "in downtown": 1}
+{"in": 5, "of": 5}
+{"operating on": 1, "in": 1}
+{"located in": 1}
+{"at": 1, "of": 1}
+{"on": 2, "in": 1}
+{"located at": 1, "in": 2}
+{"located within": 1, "located at": 1, "in": 1}
+{"capital of": 1, "located in": 1}
+{"located in": 1, "on the former site of": 1}
+{"located in": 1}
+{"located in": 1}
+{"is located in": 1, "is part of": 1, "is adjacent to": 1, "meets with": 3, "runs from": 1, "converges into": 1, "turns into": 1, "is known as": 1}
+{"located at": 1}
+{"located in": 1, "near": 1, "in": 1}
+{"based in": 1}
+{"located in": 1, "moving its roster to": 1}
+{"located in": 1}
+{"located in": 1, "is a part of": 1}
+{"located at": 1, "part of": 1}
+{"located in": 1}
+{"located at": 3, "is a part of": 1}
+{"located in": 1, "occupied": 1}
+{"located in": 1}
+{"located at": 1, "near": 1, "adjacent to": 1}
+{"located at": 2}
+{}
+{}
+{"near": 1}
+{}
+{}
+{}
+{"between": 1, "in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"spoken by": 1, "located on": 1, "located in": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 2, "near": 2}
+{}
+{}
+{"based in": 1}
+{"located in": 1}
+{}
+{"located at": 1}
+{"located at": 1}
+{"based in": 1, "home park is": 1}
+{}
+{"located in": 1, "home team": 1}
+{"based in": 1, "located in": 1}
+{"located at": 1}
+{}
+{"opened in": 1}
+{}
+{"born in": 1, "died in": 1}
+{}
+{}
+{"located in": 1, "aired on": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{"relocated to": 1, "is a part of": 1}
+{}
+{"located in": 1, "host": 1}
+{"located in": 1}
+{}
+{"located at": 1, "of": 1}
+{"located in": 1}
+{}
+{}
+{"located at": 1}
+{}
+{"based in": 1, "located in": 1}
+{"located at": 1}
+{"based in": 2, "headquartered in": 1}
+{}
+{}
+{"in": 2, "of": 1}
+{"based in": 1}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 2}
+{"for koch records nashville": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{"part of": 1, "located in": 1}
+{"located in": 1, "due east of": 1, "from": 1, "in": 1, "through": 1, "in neighbouring": 1}
+{"across": 1}
+{"located in": 1, "held in": 1}
+{"located in": 1, "south of": 1, "in its metropolitan area": 1}
+{"is a part of": 1, "conterminous with": 1}
+{"located in": 1, "is a part of": 1, "population": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"produced in": 1, "distributed in": 2}
+{}
+{"located in": 1}
+{"adjacent to": 1}
+{}
+{"part of": 1, "inside": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"based in": 1, "primarily in": 1}
+{"based in": 1, "moved to": 1}
+{"next to": 1, "at": 1}
+{}
+{}
+{}
+{"located in": 1, "activities in": 1}
+{}
+{"located in": 1, "through": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"near": 2}
+{}
+{}
+{}
+{}
+{}
+{"situated in": 1, "west of": 1, "south of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"in": 1}
+{"located in": 1}
+{"based in": 1, "located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"in": 1}
+{"plays for": 1}
+{}
+{"plays in": 1}
+{"located in": 1, "coming to": 1}
+{"located at": 1, "member of": 1}
+{"represented in": 1, "played at": 1}
+{"at": 3, "under": 1}
+{"located at": 1, "located in": 1}
+{}
+{"located on": 1}
+{"located in": 1, "located at": 1, "is a part of": 1}
+{}
+{"represented": 1, "played at": 1}
+{}
+{"to the land of": 1, "somewhere in the plain east of": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "located on": 1}
+{"licensed to": 1, "serves": 1}
+{"located to": 1, "located in": 1}
+{"located to": 1, "serves": 1}
+{"surrounding": 1, "comprises": 1, "is a part of": 1}
+{"located to": 1, "serves": 2}
+{"located to": 1, "serves": 1}
+{"licensed to": 1, "located in": 1, "shared with": 1, "one mile west of": 1}
+{"located in": 1, "south of": 1, "part of": 1}
+{"located to": 1, "comprising": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"between": 1, "into an alliance with": 1}
+{"settled in": 1, "emigrated to": 2}
+{}
+{}
+{}
+{"east of": 1, "situated in": 1}
+{"dominated": 1, "under": 1, "in": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1, "located at": 1}
+{}
+{"located at": 1}
+{"confluence of": 1}
+{}
+{"located in": 1, "under": 1}
+{}
+{"part of": 2}
+{}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"via": 1}
+{"located at": 1}
+{}
+{"based in": 1}
+{}
+{}
+{"travelling around on": 1, "performing a secret show in": 1}
+{}
+{"located in": 1}
+{"published worldwide": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "home ground of": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"based in": 1, "located in": 1}
+{"set in": 1}
+{"filmed on location in": 1}
+{}
+{"located in": 1}
+{}
+{"broadcast on": 1}
+{}
+{}
+{"produced by bbc scotland": 1}
+{}
+{}
+{"in": 1}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "in": 1}
+{}
+{}
+{}
+{}
+{"bound from": 1}
+{"returned to": 1}
+{}
+{"located in": 1, "on the return voyage": 1}
+{}
+{"located near": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1, "over": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"situated in": 1, "connected": 1}
+{}
+{}
+{"endemic to": 1, "covers most of": 1}
+{"located in": 1}
+{}
+{}
+{"endemic to": 1, "ranges widely across": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"set across": 1, "released in": 2}
+{}
+{"located in": 1, "shot in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located east of": 1, "adjacent to": 1}
+{}
+{"worked on broadway": 1}
+{"is a part of": 1}
+{}
+{"located in": 1}
+{"located to the south of": 1, "located in": 1, "bounded to the west by": 1, "bounded to the north by": 1, "bounded to the south by": 1, "bounded to the east by": 1}
+{"situated between": 1, "is seven kilometers from": 1, "has three beaches": 1}
+{}
+{}
+{"located at": 1, "in": 1}
+{"province of": 1, "mentioned in": 2}
+{}
+{}
+{"held at": 1, "located at": 1}
+{"located in": 1, "on the outskirts of": 1}
+{"sunk off the island of": 1}
+{"located in": 1}
+{"returned to": 1, "served as governor of": 1}
+{"located in": 1, "returned to": 1}
+{"located in": 1, "moves to": 2}
+{}
+{"from": 2, "in": 3}
+{}
+{}
+{"located in": 2}
+{"located in": 1, "known as": 1}
+{"broadcast on itv": 1}
+{"of": 1, "in": 2}
+{}
+{"located at": 1}
+{"located at": 1, "near": 1}
+{"situated in": 1, "located in": 1, "north-west of": 1, "south-east of": 1, "remains as a seat of": 1}
+{}
+{"situated on": 1, "opposite": 1, "near": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1}
+{}
+{"located just outside": 1, "designated a unesco world heritage site": 1}
+{"located in": 1, "near": 5}
+{"headquartered in": 1}
+{}
+{}
+{"at their factory": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1, "throughout": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"is a part of": 1, "based in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"born in": 1}
+{"located in": 2, "located at": 1}
+{}
+{"in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{"located next to": 1}
+{"located next to": 1}
+{"located in": 1, "in the north of": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "in the southern part of": 1, "population": 1}
+{"located in": 1, "near": 1, "overlooking": 1, "located at": 1}
+{"based in": 1, "located in": 1, "located at": 1, "belongs to": 1}
+{"located in": 1}
+{"situated in": 1, "managed by": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"influenced by": 1, "from": 5, "at the heart of": 1}
+{}
+{"based out of": 1, "located in": 1}
+{"in": 2}
+{}
+{}
+{"located at": 1, "located in": 1}
+{}
+{"grew up in": 1, "moved to": 1, "located at": 1}
+{"located in": 1}
+{"set in": 1, "filmed in": 1}
+{}
+{}
+{"born in": 1}
+{"based in": 1, "located in": 1}
+{"from": 1, "in": 1}
+{"located in": 1, "owned": 3}
+{"located in": 2, "located 46 km south-west of": 1}
+{"is a part of": 1}
+{"beside": 1, "in": 1}
+{"located in": 1, "successor to": 1}
+{"is a part of": 1, "located in": 1}
+{}
+{"of": 4, "in": 4}
+{"adjoins": 1, "near": 1}
+{"located in": 1, "stands to the north": 1, "acquired from": 1}
+{"located between": 1, "next to": 1}
+{"located at": 1, "is a part of": 1}
+{"within": 1, "at": 4}
+{"located between": 1, "across from": 1, "behind": 1}
+{}
+{"located at": 1, "located on": 1, "part of": 1}
+{"located at": 2, "is a part of": 1, "next to": 1}
+{"found at": 1, "located in": 1}
+{"located in": 1, "at": 1}
+{"near": 1}
+{"located in": 1}
+{"from": 1}
+{"located at": 1}
+{"located in": 1}
+{}
+{}
+{"off": 1, "in": 1}
+{}
+{"located in": 1, "between": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"return to": 1, "spending in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "carved into": 1}
+{"located in": 1, "located roughly 80 miles northeast of": 1, "part of": 1, "located entirely within": 1, "located partially within": 1}
+{"located at": 1, "is a part of": 1}
+{"located at": 1, "in the middle of": 1}
+{"located in": 1, "surrounded by": 1}
+{}
+{}
+{"is a part of": 1}
+{}
+{"in": 2}
+{"encompassed": 1, "to the west of": 1, "to the east": 1}
+{}
+{"located in": 1, "circumnavigates": 1}
+{"of": 3, "located in": 1}
+{}
+{}
+{"controlled": 1, "located in": 1}
+{"is a division of": 1}
+{"located in": 1}
+{"located at": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"was a part of": 1}
+{"north to": 1, "inside the campus of": 1}
+{}
+{"rulers of the subah of bengal": 1, "took over the charge of bengal": 1}
+{"north of": 1, "in response": 1}
+{}
+{"located just opposite to": 1, "near": 1}
+{"located in": 1, "part of": 1}
+{}
+{"is in": 1, "throughout": 1}
+{}
+{"is located in": 1, "is headquartered in": 1}
+{}
+{"near": 1, "under": 1}
+{"based in": 1}
+{"located on": 1, "next to": 1, "at the mouth of": 1, "along the creek": 1, "at the present cemetery": 1, "at the new town site": 1}
+{"located in": 1}
+{"located in": 1}
+{"located at": 1, "is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"takes place in": 1}
+{}
+{"held at": 1}
+{"headquarters was originally in": 1, "had its headquarters in": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "part of": 1}
+{"located at": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "serving": 1}
+{"located in": 1, "part of": 1}
+{"located in chicago": 1, "located in boston": 2, "located in berkeley": 1, "located in newark": 1}
+{"located in": 1}
+{}
+{"licensed to": 1, "part of": 1}
+{"in": 2, "after": 1}
+{"located in": 1}
+{"located in": 1, "serving": 1}
+{"located in": 1}
+{}
+{"from": 1}
+{}
+{}
+{"from": 2, "located in": 1}
+{"from": 1}
+{"from": 2, "located in": 1}
+{"from": 1}
+{}
+{}
+{"of the company": 3}
+{"based in": 1}
+{}
+{"under the government of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released in": 1, "filmed in": 1}
+{}
+{}
+{"located in": 1, "located on": 1}
+{"located in": 4, "located within": 1, "one block west of": 1}
+{"based in": 1}
+{"located in": 1, "straddles the border between": 1, "encircles the western side of": 1}
+{"located in": 1, "home to": 2}
+{"next to": 1}
+{"based in": 1, "located in": 1, "at": 1}
+{"located in": 3, "part of": 1}
+{"located at": 1, "to the south of": 1, "to the north is": 1}
+{"located on": 1, "bordered by": 1, "stands on": 1, "is a part of": 1}
+{"located in": 1}
+{"located in": 1, "next to": 1, "east of": 2, "west of": 1}
+{}
+{"located in": 1, "from": 1, "south of": 1}
+{"located in": 1, "stationed in": 1, "returned to": 1}
+{"located in": 1, "adjacent to": 1, "crossed back into": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "runs from": 1, "operates out of": 1, "between": 3}
+{"attended": 1}
+{"located in": 1}
+{}
+{"held for": 1, "located in": 1}
+{"located in": 1}
+{"from": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "on": 2}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"first in": 1, "until": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"lived and worked in": 1, "migrating to": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"made at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"formed in": 1}
+{"located in": 1}
+{"based in": 1}
+{"across": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"from": 1, "following the death of": 1}
+{"from": 1, "located in": 1}
+{}
+{"from hawaii": 1, "located in hawaii": 1}
+{"from": 1, "located in": 1, "seat of": 1}
+{"from": 1, "based in": 1}
+{"from": 3, "in the history of": 1}
+{"from the commonwealth of kentucky": 1, "in kentucky history": 1}
+{"located in": 1, "is a part of": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1, "north of": 1, "east of": 1}
+{}
+{}
+{"of": 2}
+{"working under": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"brought to new york city by": 1}
+{}
+{"worldwide": 1, "in the united kingdom": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "from": 1}
+{"born in": 1, "worked in": 1, "lives in": 1}
+{"located in": 1}
+{"born in": 1}
+{}
+{"at": 2}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "away from": 2}
+{"located in": 1}
+{"exported worldwide": 1}
+{"is": 4, "far from": 3, "away": 1, "distance from": 2}
+{}
+{}
+{"is a part of": 1}
+{"located in": 1, "within": 1}
+{"located in": 1, "located at": 1, "northwest of": 1}
+{"located in": 1, "is the older of": 1}
+{"is five miles northwest of": 1, "owned by": 1, "city-owned": 1}
+{"three miles south of": 1, "in": 1}
+{"located in": 1, "northwest of": 1, "city-owned": 1}
+{"located south of": 1, "located three nautical miles from": 1}
+{"located in": 1, "over": 1}
+{"west of": 1, "located in": 1}
+{"located in": 1}
+{"located in": 1, "bounded by": 1, "to the north": 1, "to the west": 1, "to the east": 1, "to the south": 1}
+{"located in": 1}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{"is a part of": 1, "is located in": 1, "is located at": 1}
+{}
+{}
+{}
+{"native to": 1, "suitable for": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "occupied by": 1}
+{"located on": 1, "adjacent to": 1, "between": 1}
+{"located in": 1, "facing": 1}
+{"located in": 1, "after": 1}
+{"located at": 1, "home to": 1}
+{"located at": 1, "between": 1}
+{"located in": 1, "tallest building in": 2}
+{"located at": 1, "in": 2, "nearby": 1}
+{"home to": 1, "tallest building in": 3, "located in": 1}
+{"is a part of": 1, "overlooks": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"located at": 1, "near": 1}
+{}
+{}
+{}
+{"developed in": 1}
+{"located in": 1, "is a part of": 1}
+{}
+{"located in": 1}
+{"located in": 1, "is a part of": 1, "was relocated to": 1}
+{"between": 1, "part of": 1, "located across": 1, "extending from": 1}
+{"located in": 1, "north of": 1, "formerly occupied by": 1}
+{"located in": 1}
+{"based in": 1}
+{"is headquartered in": 1, "is in": 1}
+{"located in": 1, "north of": 1, "next to": 1, "west of": 1}
+{"occupying most of": 1, "between": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1, "located at": 1}
+{}
+{"dedicated to a major city in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"in": 1}
+{}
+{}
+{"moved from": 1, "site of": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"around": 1}
+{}
+{}
+{}
+{"located in": 1, "controlled": 1}
+{}
+{}
+{"built for": 1, "participated in": 1}
+{}
+{}
+{"built for": 1}
+{"located in": 1}
+{"located in": 1, "around": 1}
+{}
+{}
+{}
+{"based in": 1}
+{"based in": 1}
+{}
+{"located in": 1, "part of": 1}
+{}
+{}
+{"located in": 1}
+{"within": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"near": 1}
+{}
+{"passed through": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1, "traveled through": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"is the location of": 1, "was named a national historic landmark in": 1}
+{"located in": 1, "moved to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"widespread through": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"registered in": 1}
+{"located in": 1, "during the soviet occupation of estonia": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 3, "located on": 1}
+{}
+{"located in": 1, "north of": 1}
+{"located at": 1}
+{"located in": 1, "on the shore of": 1}
+{}
+{}
+{}
+{}
+{"based in": 1}
+{}
+{"from": 1}
+{"based in": 1}
+{"located in": 1}
+{}
+{"from": 1, "based in": 1}
+{"located in": 1}
+{"in": 1}
+{}
+{}
+{}
+{}
+{}
+{"originating from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "based in": 2}
+{}
+{"located on": 1, "located in": 1, "to the west of": 1, "next to": 1}
+{"flowing west north west between": 1, "west of": 1}
+{"located in": 1}
+{"located at": 1, "is a part of": 1}
+{"located in": 1}
+{"located in": 1, "home to": 1}
+{"located in": 1}
+{"located centrally on campus": 1, "adjacent to": 1}
+{"along the pacific coast states of": 1, "included": 1}
+{}
+{}
+{"located at": 1, "in": 1}
+{}
+{}
+{}
+{"based in": 1}
+{"filmed in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"following the end of": 1}
+{}
+{}
+{}
+{"licensed to stuart": 1, "located in florida": 1, "on florida's east coast": 2}
+{"licensed to": 1, "located in": 2, "located north of": 1}
+{"located in": 1, "serves": 1}
+{}
+{"serves the": 1, "home of": 1}
+{"located at": 1, "moved to": 1}
+{"located in": 1}
+{"based in": 1, "owned by": 1}
+{}
+{"is a part of": 1}
+{"located in": 1}
+{"located in": 1, "part of": 1}
+{"located in": 1}
+{"in": 2, "on": 1}
+{}
+{"located in": 1, "renamed": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "in their stores": 1}
+{}
+{}
+{"known in japan as": 1}
+{}
+{"located in": 1}
+{"set in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located at": 1}
+{"located in": 1, "operating out of": 1}
+{}
+{"headquartered at": 1}
+{"located in": 1, "just north of": 1, "approximately 50 mi north of": 1}
+{"is a part of": 1}
+{"in china": 1}
+{"from": 1}
+{"located in": 1}
+{"broadcast on": 1}
+{}
+{"part of": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"domination of": 1}
+{}
+{}
+{}
+{}
+{"near": 1}
+{}
+{"located in": 1, "near": 1, "south of": 1}
+{"located in": 2}
+{}
+{}
+{}
+{"located in": 1, "include": 1}
+{"located in": 1}
+{"at": 2, "of": 2}
+{}
+{"based out of": 1}
+{"located in": 1, "is a part of": 1}
+{}
+{"based in": 2, "relocating from": 1, "played their home games in": 1}
+{"located at": 1, "back in": 1}
+{"located at": 1, "is a part of": 1}
+{"located in": 1}
+{"located in": 1, "after": 1}
+{"located in": 1, "played on": 1}
+{"located in": 1, "home park of": 1}
+{"located in": 1, "bounded on": 1}
+{"located at": 1, "part of": 1}
+{"located in": 1, "next to": 1}
+{}
+{"began on": 1, "located in": 1}
+{"distributed in": 2}
+{}
+{}
+{}
+{"takes place in": 1}
+{}
+{"is a part of": 1}
+{"set in": 1}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{"governed by": 1}
+{}
+{}
+{}
+{"located at": 1, "where he played": 1}
+{"played at": 1}
+{}
+{"located in": 1, "attended": 1}
+{"located at": 1}
+{"located in": 1, "adapted for": 1, "surrounded by": 1}
+{"born in": 1, "located at": 1, "is a part of": 1}
+{"played for": 1, "is a part of": 1}
+{"located in": 1}
+{"located in": 1}
+{"between": 1}
+{"located in": 1, "has important historical connections for": 1}
+{"located in": 1}
+{"located in": 1, "surround": 1, "east of": 1}
+{"located at": 1, "on the site of": 1}
+{"located in": 1, "home to": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "in": 2}
+{"located near": 1}
+{"located in": 1}
+{"located in": 1, "in southern end of": 1}
+{}
+{"located in": 1, "is a part of": 1}
+{}
+{"originated in": 1, "comarca of": 1, "located in": 1}
+{"located in": 1, "moved from": 1}
+{"originating in": 1}
+{"located in": 1, "part of": 2, "southern boundary": 1, "under the control of": 1}
+{"originated from": 1, "located in": 1}
+{"from": 1, "spread around": 1, "was in": 1, "existed at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1, "intersection of": 1}
+{}
+{"located in": 1, "runs through": 1, "serves": 1, "utilizes": 1, "across the street from": 1, "at the intersection of": 1}
+{"located in": 1, "raised on": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "under the wing of": 1}
+{}
+{"bounded by": 1, "west of": 1, "north to": 1, "east to": 1, "back to": 1}
+{"located at": 1, "is to the northwest": 1, "is to the northeast": 1, "is to the southeast": 1, "is to the southwest": 1}
+{"located at": 1, "next to": 2}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "located at": 1}
+{"situated 11 km west of": 1, "is a tehsil of": 1}
+{"located in": 1, "near": 1}
+{}
+{}
+{}
+{"co-produced by": 5}
+{}
+{}
+{"filming was conducted in": 1, "released in": 1}
+{"located at": 1}
+{}
+{}
+{}
+{"living in": 1, "working in": 1}
+{}
+{"located in": 1}
+{"is a part of": 1}
+{}
+{"part of": 1, "located in": 1}
+{"located in": 1}
+{"from": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"from": 1, "in": 2, "at": 1, "near": 1}
+{"located in": 1, "at": 1}
+{"based in": 1, "located in": 1, "in": 1}
+{"from": 1, "in": 1}
+{}
+{"from": 1}
+{"located in": 1, "located at": 1, "is a part of": 1}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"endemic to": 1}
+{}
+{}
+{}
+{}
+{"found in": 1}
+{"endemic to": 1}
+{}
+{"found in": 1, "grows on": 1}
+{"endemic to": 1}
+{"situated in": 1, "above": 1}
+{"located in": 1}
+{"situated above": 1, "near": 1, "on a pass that separates": 1}
+{"located on": 1, "above": 1}
+{"northeastern black sea coast": 1, "between the towns of tuapse and new athos": 1}
+{"located in": 1, "on a hill above": 1}
+{"located in": 1, "south of": 1, "on the left bank of": 1}
+{"located just north of": 1, "inside": 1}
+{}
+{"situated in": 1, "protected as": 1}
+{}
+{}
+{"during his southern exile": 1}
+{}
+{"from which conservatory": 1, "located in": 1}
+{"located in": 2}
+{}
+{}
+{"located in": 1}
+{"conducted in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1, "just outside": 1}
+{}
+{"located at": 1, "nearby": 1}
+{"located in": 2, "based in": 1, "located at": 1}
+{"located in": 1, "close to": 1}
+{"near": 1, "on which": 1}
+{}
+{"set in": 1}
+{}
+{}
+{}
+{}
+{"took place in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"filmed in": 1, "on location": 1}
+{}
+{}
+{}
+{}
+{"crossing": 1, "located in": 1, "between": 1, "outside": 1}
+{"located in": 3, "of": 1}
+{}
+{}
+{}
+{"located in": 1, "located at": 1}
+{}
+{}
+{"return to": 1}
+{}
+{}
+{"owned": 1}
+{}
+{"located 1 km east of": 1, "located 2 km south-east of": 1}
+{"located in": 1, "part of": 1}
+{}
+{"located at": 1}
+{}
+{"located in": 1}
+{}
+{"seated at": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"based in": 1, "located at": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located on": 1, "bordered by": 1, "connected by": 1, "across": 1}
+{"located in": 1, "between": 1}
+{"located on": 1, "across from": 1, "located in": 1}
+{"headquartered in": 1}
+{"located in": 1, "home to": 1}
+{"located in": 1}
+{"located at": 1, "sits on": 1, "formed by": 1, "grazing": 1}
+{"located in": 1, "near": 1}
+{"located on": 1, "located in": 1}
+{}
+{}
+{"is a part of": 1}
+{"born in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 2}
+{"located in": 1}
+{}
+{}
+{"native of": 1}
+{"located in": 1, "returned to": 1}
+{}
+{"in the south and east of": 1}
+{"in": 3}
+{"located in": 1, "near": 1, "from": 1}
+{"located in": 1, "near": 1}
+{"located on": 1, "located at": 2, "is a part of": 1}
+{}
+{"located in": 1, "part of": 1, "located just south of": 1}
+{"located in": 1, "located near": 2}
+{"located in": 1, "as the park headquarters": 1}
+{"on the south rim of": 1, "located in": 1}
+{"between": 1, "connects": 2, "access": 1, "to reach": 1}
+{"southwest of": 1}
+{}
+{}
+{"located in": 1}
+{"based in": 1}
+{"location of": 1, "located in": 1}
+{"surrounding": 1}
+{}
+{"located in": 1, "at": 1}
+{}
+{"surrounding": 1}
+{"part of": 2, "located in": 1, "traversed by": 1, "named after": 1}
+{"located in": 2, "part of": 1}
+{"is a suburb within": 1, "located in": 1}
+{"part of": 2, "located in": 1}
+{"located north of": 1, "within": 1, "on the site": 1}
+{}
+{"located east of": 1, "bordering": 1, "part of": 1, "located in": 1, "south of": 2, "north of": 1}
+{"located in": 1, "within": 1, "on": 1}
+{"located in": 2}
+{"part of": 3, "located in": 1, "split between": 1}
+{}
+{"from": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"from": 1}
+{}
+{"located at": 1, "is a part of": 1}
+{"located in": 2, "at": 1}
+{"located in": 1, "throughout": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "has two major campuses in": 1}
+{"is the basketball department of": 1, "basked in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"based in": 1, "in the vicinity of": 1}
+{}
+{"located in": 1}
+{"located at": 1}
+{}
+{}
+{"is a part of": 1}
+{"signed to": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"from": 1, "based in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{"born in": 1}
+{"born in": 2}
+{}
+{}
+{}
+{"born in": 1}
+{}
+{}
+{}
+{}
+{"at the end of": 1}
+{}
+{"located in": 1}
+{}
+{"near the end of": 1, "located in": 1}
+{"south and southwest of": 1, "near the conclusion of": 1}
+{}
+{"located in": 1, "next to": 1}
+{"located in": 1, "south": 1, "east of": 2, "30 miles to the south": 1}
+{"located in": 1}
+{"located in": 1, "controlled state that existed in": 1}
+{}
+{"located in": 1, "part of": 1}
+{}
+{"closer to the capital": 1, "on the streets of": 1}
+{"was a farming area in": 1, "located in": 1}
+{"part of": 1, "in exile": 1}
+{"located in": 1, "is a part of": 1}
+{"in": 1, "from": 2}
+{}
+{"located in": 1}
+{}
+{"located in germany": 1}
+{"lives in": 1}
+{"a district of": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"held at": 1, "located in": 1}
+{"held at": 1, "located in": 1}
+{"from": 1, "in": 1}
+{"located in": 1, "headquarters in": 1}
+{"located at": 1, "of": 1}
+{"located at": 1}
+{"located in": 1}
+{"located at": 1, "in": 1}
+{"held at": 1, "located in": 1}
+{"held at": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1, "part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "released in": 1}
+{}
+{"located in": 1}
+{}
+{"released in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "moved to": 2}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"held at": 1}
+{"located in": 1}
+{"held on": 1, "located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"held at": 1}
+{}
+{}
+{}
+{"located in": 1, "housed within": 1, "under": 1}
+{}
+{}
+{}
+{}
+{"on the internet": 1}
+{}
+{"headquartered in": 1}
+{"located in": 1, "located on": 1, "is a part of": 1}
+{"based in": 2, "based at": 1}
+{"headquarters in": 1}
+{}
+{"across": 2, "located in": 1}
+{}
+{}
+{"located north of": 1, "located on": 1}
+{"is located in": 1}
+{"based on": 1, "located in": 1}
+{"located on": 1, "located in": 1}
+{"located in": 1, "part of": 1}
+{}
+{"located on": 1, "offshore of": 1, "at": 3, "in": 5, "next to": 1}
+{"located on": 1, "surrounding it are": 1}
+{"located at": 1, "is a part of": 1}
+{"located in": 2, "is a part of": 1}
+{"part of": 1}
+{"situated in": 1, "overlooking": 1, "covers": 1, "north of": 1}
+{"located in": 1}
+{"located at": 1}
+{"located in": 1, "between": 1}
+{"part of": 1, "located in": 1}
+{}
+{"located in": 1, "was sent to": 2}
+{"located in": 1, "is now": 1}
+{"located in": 1, "located at": 1}
+{"located at": 1, "located in": 1}
+{"located in": 1}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"set in": 1, "now the australian state of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"border between central african republic and democratic republic of the congo": 1, "border between democratic republic of the congo and republic of congo": 1, "located at": 1}
+{}
+{}
+{"links": 1, "bypasses": 1, "able to ascend": 1}
+{"located in": 1, "serves as the border between": 1, "flows into": 1, "joins": 1}
+{"south of": 1, "part of": 1, "stretches from": 1, "between": 1}
+{"across": 1, "at": 1}
+{"borders with": 2, "is bordered by": 1, "located in": 1}
+{"by": 1, "on": 1, "is a part of": 1}
+{"borders with": 2, "located in": 1}
+{}
+{}
+{"released first in": 1, "later released in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"set in": 1}
+{}
+{}
+{}
+{"released in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"throughout": 1, "in": 1, "at": 1}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"plays for": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1, "next to": 1}
+{}
+{"located in": 1}
+{}
+{"moved from": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in lan xang": 1, "located in lan na": 1, "led to civil war": 1, "was exiled to pegu": 1, "was installed in vientiane": 1}
+{}
+{}
+{"reigned over": 1}
+{}
+{"located in": 1}
+{}
+{"between": 1}
+{"located in": 1}
+{"of": 3, "in": 1}
+{}
+{"located in": 1, "in the london production of": 1}
+{}
+{"located in": 1, "native to": 1}
+{"located at": 1, "transferred to": 1}
+{"filmed at": 1, "chosen from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"from": 1}
+{}
+{"in": 2}
+{"located in": 2}
+{"adjacent to": 1}
+{}
+{"located in": 2, "constituted the city limits of": 1}
+{"located in": 1}
+{"located at": 1, "bound by": 1, "occupy": 1, "sits on": 1}
+{"located in": 1, "in": 3, "also in": 1}
+{"located in": 1, "part of": 1}
+{}
+{"educated at": 1, "located in": 1, "part of": 1}
+{"located in": 1}
+{"born in": 1, "located in": 1}
+{"located in": 1}
+{"came from": 1, "located in": 1}
+{"ambassador to": 1}
+{"located in": 1}
+{"in": 3, "at": 2, "while": 1}
+{}
+{}
+{}
+{}
+{"based in": 1, "located at": 1}
+{}
+{}
+{}
+{"took place on": 1, "held since": 1}
+{}
+{"located in": 2, "based in": 2}
+{}
+{}
+{}
+{}
+{"about 55 km from": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "in the grounds of": 1}
+{"separated from": 1, "located in": 1}
+{}
+{"located in": 1, "is a part of": 1}
+{"based in": 1, "located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"somewhere in": 1}
+{}
+{}
+{"based in": 1}
+{"located in": 1, "located at": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{"located at": 1}
+{}
+{"recorded in": 1}
+{"located in": 1, "members of": 1}
+{"located in": 1, "members of": 1}
+{"born in": 1, "with": 2}
+{"located on": 1, "home of": 1}
+{}
+{}
+{"located at": 2, "is a part of": 1}
+{"located in": 1, "members of": 1}
+{}
+{"located in": 1, "members of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"chosen as a symbol of": 1}
+{}
+{}
+{}
+{"found in": 1}
+{"popular across": 1, "in some latin american markets": 1}
+{"manufactured by": 1, "distributed by": 2}
+{}
+{}
+{}
+{}
+{"based in": 1}
+{}
+{"located in": 1}
+{"entrance to narnia": 1}
+{}
+{"located at": 1}
+{"located in": 1}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{"takes place in": 1, "located in": 1}
+{"located in": 1}
+{"located in": 4, "runs from": 1, "through": 1, "to": 1, "called": 3, "known as": 2}
+{"is a part of": 1}
+{"located in": 1, "between": 1}
+{"located on": 1, "in": 2}
+{"north of": 1}
+{"based in": 2, "moving to": 1, "located in": 1}
+{"located within": 1, "located at": 2, "passes into": 1}
+{"located in": 1, "county seat": 1, "south side of": 1}
+{"located on": 1, "borders": 1, "still in use as a school in": 1}
+{"carries over": 1, "near": 1}
+{}
+{}
+{"born in": 1}
+{}
+{"located in": 1, "is a part of": 1}
+{"located at": 1, "perched atop": 1}
+{"off the eastern coast of": 1, "approaches": 1}
+{"located in": 1, "is a part of": 1, "nearby": 1}
+{"located mostly in": 1, "extend into": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is the site of": 1, "annual event": 1}
+{"located in": 1, "over": 1}
+{"inside the story": 1, "during the 17th century": 1}
+{"located in": 1}
+{"located in": 1, "developed by": 1}
+{"located in": 1, "nestled in": 1}
+{"located in": 1, "moved from": 1, "to": 1}
+{"located in": 2}
+{"located on": 1}
+{"based in": 1}
+{"located near": 1}
+{"situated in": 1, "located at": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"located at": 2}
+{}
+{"located at": 1, "is a part of": 1}
+{}
+{"located in": 1}
+{}
+{"held in": 1}
+{}
+{}
+{"located in": 1}
+{"publication of": 1}
+{}
+{"near the location of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"adjacent to": 1}
+{"located in": 1, "south of": 1, "northern border": 1}
+{"located in": 1, "to the northeast": 1, "south of": 1, "across": 1, "to the middle of": 1}
+{"located in": 1, "part of": 1}
+{"located in": 1, "bypasses": 1, "providing direct access": 1, "county seat of": 1}
+{"is adjacent to": 1, "is a part of": 1}
+{"is a part of": 1}
+{"is a city in": 1, "located in": 1}
+{"lies on": 1, "north of": 1, "entirely in": 1, "extends into": 1, "operates": 1, "on the nevada side of": 1}
+{"part of": 1}
+{}
+{}
+{"from": 1}
+{}
+{}
+{"has offices in": 1}
+{"set in": 1}
+{}
+{}
+{"part of": 1, "located in": 1}
+{}
+{"located at": 1, "play at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"based in": 1, "located in": 1}
+{"located in": 1}
+{"operates in": 1}
+{"based in": 1, "headquartered in": 1}
+{"based in": 1}
+{"located in": 1}
+{"located throughout": 1, "headquartered in": 1}
+{"located in": 1}
+{"located in": 2, "share a building with": 1}
+{"located on": 1, "located in": 1}
+{"located in": 3, "shared with": 1}
+{"located in": 1, "current home at": 1, "part of": 1}
+{"located in": 1}
+{"based in": 1}
+{}
+{"located in": 1, "north of": 1}
+{"located in": 1}
+{"located in": 1, "finished in a tie with": 1}
+{}
+{"located in": 1, "home of": 1, "to": 2}
+{}
+{"located in": 1}
+{}
+{"located at": 1}
+{"located in": 1, "located at": 1}
+{}
+{"heard by": 1, "appealed to": 1}
+{"is a part of": 1}
+{"related to": 1}
+{}
+{}
+{}
+{"at sea": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"based in": 1}
+{"based in": 1}
+{"plays for": 1}
+{"located in": 1}
+{"based in": 1}
+{"based in": 1, "named after": 1}
+{"located in": 1}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{"moved to": 1}
+{}
+{}
+{}
+{"from": 1}
+{}
+{"located in": 1}
+{"located in": 1, "offices in": 1}
+{"is a part of": 1, "headquartered at": 1}
+{"headquartered in": 1}
+{"headquartered in": 1, "offices in": 1}
+{"located in": 1, "is a part of": 1}
+{}
+{"headquartered in": 1}
+{}
+{"headquartered in": 1, "where they were developed": 1}
+{"located in": 1, "opened at": 1}
+{}
+{"to be released under its own label": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "neighbouring": 1}
+{}
+{}
+{}
+{"located near": 1, "working at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 2, "is a part of": 2}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "near": 1}
+{"located near": 1, "about a mile east of": 1}
+{"located north of": 1, "located east of": 1, "located southwest of": 1}
+{"situated in": 1, "south-south-east of": 1, "to the north-north-west": 1, "prior to": 1}
+{}
+{}
+{}
+{"in": 1}
+{"published in": 1}
+{"based in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located on": 1, "may be in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "from here": 1}
+{"located at": 1, "is a part of": 1}
+{"located in": 1}
+{"in commemoration of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"published in": 2}
+{"located in": 1, "near": 1, "in the heart of": 1}
+{}
+{}
+{"in": 2}
+{"located in": 1}
+{}
+{}
+{"under": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "through": 1}
+{"located at": 1}
+{}
+{"attended": 1, "played at": 1, "served at": 1, "died in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"native to": 1, "located in": 1}
+{}
+{}
+{"had a farm in": 1}
+{"located in": 1, "under the direction of": 1}
+{"located in": 1, "to celebrate the marriage of": 1}
+{"located in": 1, "at": 3}
+{"located in": 1}
+{"located in": 1}
+{}
+{"at": 5, "in": 5}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located at": 1}
+{"located at": 1, "took place at": 1}
+{"within": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"founding document of": 1, "located in": 1}
+{"located south of": 1, "located in": 1}
+{"located in": 1, "connects": 3, "runs": 1}
+{}
+{"located in": 1}
+{"near": 1}
+{"located 35 km south of": 1, "is one of only three international airports in": 1, "main operating base of": 1}
+{"connects": 1, "managed by": 1, "serves": 1, "crosses": 1, "runs parallel to": 1}
+{"located in": 1, "to the northeast of": 1}
+{"located in": 1, "located at": 1}
+{"located beneath": 1, "is a part of": 1}
+{"from": 1, "staged at": 1, "located at": 1, "played outside": 1}
+{"located on": 1, "located in": 1, "separates": 1, "runs from": 1, "through": 1, "to": 1, "are on": 1, "are nearby": 1}
+{"located in": 1, "played in": 1}
+{"located in": 1, "played at": 1}
+{"located at": 1, "in": 1}
+{"based in": 1}
+{"from": 1, "located in": 1}
+{"used for": 1, "located in": 1}
+{"located in": 1, "is a part of": 1}
+{"from": 1, "located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "located at": 1}
+{}
+{}
+{"located in": 1}
+{"headquarters is in": 1}
+{"located in": 1, "available in": 1}
+{}
+{"telecast on": 1}
+{}
+{}
+{}
+{"located in": 1, "distributed by": 1}
+{}
+{}
+{}
+{"located in": 2, "part of": 1}
+{}
+{"underneath": 1, "to the city of david": 1}
+{"based out of": 1, "outside of": 1}
+{"located in": 1}
+{"based in": 1, "in the eastern part of": 1}
+{"located within": 1, "built on land in": 1}
+{"situated on": 1, "part of": 1, "bounded by": 1, "to the south": 1, "to the west": 1, "to the north": 1, "to the east": 1}
+{"located in": 1}
+{}
+{"occupied": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"kept in": 2}
+{}
+{}
+{"aired on": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"of": 1}
+{}
+{}
+{"performed in": 2, "toured": 1, "interstate venues": 1}
+{}
+{"from": 1, "sent to": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"based in": 1}
+{"transferred from": 1, "located in": 1}
+{"located in": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "commands": 1}
+{}
+{"operated by": 1}
+{"located in": 1, "preserved at": 1}
+{"discovered during": 1}
+{"located in": 1, "near": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "in the heart of": 1}
+{"based in": 1}
+{"located in": 1}
+{}
+{}
+{"headquartered in": 1}
+{}
+{}
+{"is a region in": 1, "forms the traditionally conceptualized": 1, "resembles a boot": 1}
+{"was a museum in": 1, "located in": 1}
+{"located in": 1}
+{}
+{"endemic to": 1}
+{"carries over": 1, "located in": 1}
+{"endemic to": 1, "located in": 1}
+{"is at the very south of": 1, "is connected by": 1, "is surrounded by": 1}
+{"found in": 1}
+{"extends": 1, "gives": 1}
+{}
+{}
+{}
+{"from": 1}
+{}
+{}
+{}
+{}
+{"southwest of peru": 1, "south coast of peru": 1}
+{}
+{"located in": 1, "connects with": 1, "across": 1}
+{"located in": 1, "on the west side of": 1, "to the east of": 1, "to the west": 1}
+{"located in": 1, "neighbouring": 1, "within": 1}
+{"in": 2, "of": 1}
+{"located at": 1}
+{"situated in": 1, "located primarily in": 1, "neighbors": 1, "is part of": 1}
+{"is a part of": 1, "located in": 1}
+{"located in": 3, "located west of": 1, "located east of": 1}
+{"located in": 1}
+{"located in": 1, "under the administration of": 1, "borders": 4}
+{}
+{}
+{}
+{}
+{}
+{"based in": 2, "from multiple locations globally": 1}
+{"based in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"located at": 1, "is part of": 1}
+{"located in": 1}
+{"part of": 1}
+{"located in": 1, "part of": 1}
+{"located at": 1, "is a part of": 1}
+{"between": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{"located in": 1, "taller than": 1}
+{}
+{"located in": 1}
+{}
+{"based in": 1}
+{}
+{"located in": 1}
+{"located in": 1, "north of": 1}
+{"is from": 1}
+{"from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"headquartered in": 1}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{"set in": 1}
+{}
+{"located in": 1, "serving the boston area": 1}
+{"across": 1, "in": 5, "for": 1, "at": 3, "part of": 1, "held primarily in": 1, "planned for": 1}
+{}
+{}
+{}
+{"is east of": 1, "in close proximity to": 1}
+{"located in": 1, "in close proximity to": 1}
+{}
+{"bounded by": 1, "located in": 1, "connects": 1}
+{"located in": 1, "located about 23 mi north of": 1, "between": 1}
+{"located in": 2, "located at": 1, "next to": 1}
+{}
+{"located in": 1, "located at": 1, "part of": 1}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"produced by": 1}
+{}
+{"located in": 1, "part of": 1}
+{}
+{}
+{}
+{"from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"east of": 1, "located at": 1}
+{}
+{"located in": 1, "adjoining": 1}
+{"located in": 1, "near": 1}
+{}
+{"located in": 1, "adjacent to": 1, "outside": 1, "transferred to": 1, "acquired at no cost in": 1}
+{"serving": 1, "encompasses": 1, "exists without": 1}
+{"held in": 2}
+{"located four miles northwest of": 1, "located in": 1}
+{"located in": 1, "based in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"aired in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"located on": 1, "adjacent to": 1}
+{"located on": 1, "located in": 1}
+{"located in": 1, "adjacent to": 2}
+{"located in": 1}
+{"is a part of": 1}
+{"located inside": 1, "located across": 1}
+{"located in": 1}
+{"located at": 1, "southern end of": 1}
+{"located at": 1, "occupied": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "place of publication was": 1}
+{}
+{}
+{}
+{}
+{"endemic to": 1, "type locality of": 1}
+{}
+{"located at": 1}
+{}
+{"located in": 1}
+{"based at": 1, "responsible for": 1, "located at": 1}
+{"located in": 1, "adjacent to": 1, "separated from": 1, "located at": 1}
+{"based in": 1, "stationed throughout": 1}
+{"stationed at": 1}
+{"located at": 1, "in": 1}
+{"based at": 1, "located in": 1, "stationed in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1, "in charge of": 1}
+{}
+{}
+{"located at": 1}
+{"located in": 1}
+{"located near": 1}
+{}
+{"over": 1, "in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"near": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tributary to": 1, "situated in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1, "played at": 1}
+{"represents": 1, "located in": 1}
+{}
+{}
+{"located at": 1}
+{"located in": 1, "part of": 1}
+{"located near": 1, "part of": 2, "to the south": 1}
+{"located in": 2, "part of": 1, "northwest of": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1}
+{"is a part of": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "located on": 1, "west-southwest of": 1}
+{}
+{"part of": 2, "located in": 1, "to the south": 1}
+{}
+{"located in": 1}
+{"located at": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"centred on": 1, "covering": 1}
+{"cover part of": 1, "sorted at": 1}
+{"part of": 1, "covering much of": 1, "located in": 1}
+{"around": 1, "covers": 1, "except for": 1, "part of": 1}
+{"located in": 1, "covering": 1}
+{"is a part of": 1, "situated in": 1, "located in": 1}
+{}
+{"located in": 1, "includes": 1}
+{"located in": 1, "cover parts of": 1}
+{"postcode area": 1, "postcode districts": 1, "around": 1, "includes": 1}
+{}
+{"head of government of thailand": 1}
+{}
+{"located in": 1, "part of": 1}
+{}
+{"in the government of": 1, "when southern rhodesia became": 1}
+{}
+{"of pakistan": 3}
+{}
+{"facing": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"sold in": 1}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{"was a star with": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "played their home games at": 1, "bought it for": 1}
+{"located in": 1}
+{"located in": 1}
+{"for the minnesota timberwolves": 1, "for apple valley high school": 1}
+{"for the": 1, "of the": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"for": 1}
+{"located in": 1, "administered by": 1, "faces": 1, "connected to": 1}
+{"located in": 1}
+{"is situated over": 1}
+{"facing": 1, "administered by": 1}
+{}
+{"located in": 1, "connects": 1}
+{}
+{"now a district in": 1}
+{}
+{}
+{"meet on": 1}
+{}
+{"in": 1}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{"located on": 1, "located at": 1}
+{"extended along": 1}
+{"is a part of": 1, "about 40 mi from": 1}
+{}
+{"located on": 1, "migrated south from": 1, "moved west from": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "county seat of": 1, "lies along": 1, "terminating at": 1, "near": 1}
+{}
+{"located in": 2, "located on": 1}
+{"declared as a tongue-in-cheek secession of": 1, "northward to": 1, "being referred to as": 1}
+{"under construction in": 1, "in": 1, "in the same location": 1}
+{"in": 5, "of": 2}
+{"located at": 1, "located on": 1, "is a part of": 1}
+{"located in": 1, "at its northern terminus": 1, "at its southern terminus": 1}
+{"located in": 1, "is a part of": 1}
+{"southern extension of florida's turnpike": 1, "located in": 1, "transitions into": 1}
+{"located in": 1, "is a part of": 1}
+{"located at": 1, "part of": 1}
+{"located in": 1, "ranks": 1}
+{}
+{"of the italian navy": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1, "from their bases in": 1, "during the passage of": 1}
+{"based in": 1}
+{"located in": 1, "across": 1}
+{}
+{"known variously around the world as": 1, "in": 2}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "is a part of": 1}
+{"representing": 1}
+{"located at": 1, "is a part of": 1}
+{"based in": 2, "located in": 1}
+{"played in": 2, "returned to": 1}
+{}
+{"from": 1, "in": 1, "held in": 1, "before arriving in": 1}
+{"based in": 1, "located in": 1}
+{}
+{"based in": 1}
+{"based in": 1, "plays at": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located at": 1, "in or near": 1}
+{}
+{"distributed nationwide by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"lay between": 1, "located in": 1}
+{}
+{}
+{}
+{"southwest of": 1, "runs through": 1, "close by to the north": 1, "nestling on the northern edge of": 1}
+{"located in": 1, "extends into": 1, "is a part of": 1}
+{"located in": 1, "is a part of": 1}
+{"adjacent to": 1}
+{"located in": 1, "overlapping into": 1, "lies in": 1}
+{"southwest of": 1, "designated as critical habitat for": 1, "defined as census tract": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "flows south through": 1, "near": 2, "part of": 1}
+{"located in": 1, "is a part of": 1}
+{"south of": 1, "east of": 1, "flows through": 1, "near to": 1}
+{"near": 1}
+{}
+{}
+{"belonging to": 1, "located in": 1}
+{"located in": 1, "belong to": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"from": 1}
+{}
+{}
+{"located at": 1, "exhibited alongside": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "between": 1}
+{}
+{"located at": 1, "in preparation for": 1}
+{}
+{"located at": 1, "on behalf of": 1}
+{"from": 1, "to": 1}
+{"from": 1, "at": 1}
+{"based on the grounds of": 1, "located in": 1, "main base is": 1}
+{}
+{"located on": 1}
+{}
+{"from": 1, "to": 1, "with an intermediate stop in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "played their home games at": 1}
+{"located at": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"held at": 2, "located in": 1, "next to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"airs on": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"evicted from": 1, "located in": 1}
+{"aired on": 1}
+{"aired on": "fox network", "is from": "united states"}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"headquartered in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"from": 1}
+{}
+{}
+{}
+{"located in": 0}
+{}
+{}
+{"located in": 1}
+{"held at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "depicts": 1}
+{"is from": 1}
+{}
+{}
+{"from": 1}
+{}
+{}
+{"located in": 1, "to complete his law degree": 1}
+{}
+{"along the": 1}
+{"located in": 1, "is a part of": 1}
+{"located at": 1}
+{"located in": 1}
+{"located in": 1, "renamed in": 1}
+{}
+{}
+{}
+{}
+{}
+{"signed to": 1}
+{}
+{}
+{"via": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"endemic to": 1, "limited to": 1}
+{"native to": 1, "located in": 1}
+{}
+{"located at": 1}
+{}
+{"located within": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "near": 1}
+{}
+{}
+{"center of mexico": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "turned into a highly cultivated region": 1}
+{}
+{"under offa's control": 1, "under mercian control": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"of": 3}
+{"located in": 2, "at": 1}
+{"located in": 1, "in": 1}
+{"located in": 1, "native": 1}
+{"located in": 1, "preceded by": 1}
+{"from": 1, "located in": 1, "chief of": 1}
+{"located in": 1, "spent childhood traveling the world": 1}
+{"located in": 2, "called": 1}
+{"is from": 1}
+{"located in": 1}
+{"licensed to": 1, "located in": 1, "located at": 1, "is a part of": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"set primarily in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{"based in": 1, "from": 1}
+{}
+{"located in": 1}
+{}
+{"living in": 1}
+{}
+{}
+{"located in": 1, "lived in": 1, "extradited to": 1}
+{"located in": 1, "specifically renovated for": 1}
+{"located at": 1}
+{}
+{}
+{"located in": 1, "first city in its region": 1, "only the second in west asia": 1}
+{"located in": 1}
+{"located in": 1}
+{"plays for liga super side": 1, "represented malaysia u-23 team": 1}
+{"located in": 1, "in": 1}
+{"located in": 1, "home venue of": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "moved to": 1}
+{}
+{}
+{}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"filmed in": 1}
+{"located in": 1, "section of": 1}
+{"located on": 1, "built on the grounds of": 1, "between": 1}
+{"running along": 1, "part of": 2, "south of": 1}
+{"located in": 1, "runs north-south": 1, "becomes": 2, "terminates": 1, "replaced": 1}
+{"located in": 1, "located on": 1, "just north of": 1, "across from": 1}
+{"located in": 1, "at the former site of": 1, "just north of": 1}
+{}
+{"located in": 1, "part of": 1, "longest lasting amusement park": 1}
+{"located in": 1, "in the heart of": 1}
+{"located at": 1, "built on": 1, "longest lasting amusement park": 1}
+{"located in": 1, "travelled around": 1}
+{"near": 1, "at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"during": 1}
+{}
+{}
+{"endemic to": 1, "ranging from": 1, "to": 2, "operating out of": 1}
+{"located in": 1, "is a part of": 1}
+{"on the border of": 1, "within": 2, "split between": 1, "sits on": 1, "straddles": 1}
+{"located near": 1, "located in": 2}
+{}
+{"located in": 1, "to the south of": 1}
+{"located in": 1, "north of": 1, "south west of": 1}
+{}
+{"located in": 1}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"from": 1}
+{}
+{"located between": 1, "homebase of": 1, "is a part of": 1}
+{"is a part of": 1}
+{"located in": 1, "tied with": 1, "built on": 1}
+{}
+{"located on": 1, "part of": 1, "next to": 1}
+{"located in": 1, "runs parallel to": 2}
+{"located in": 1, "stands on": 1, "between": 1}
+{"located in": 1, "bound by": 1, "adjacent to": 1}
+{}
+{"located in": 1}
+{}
+{"plays at club level for": 1, "played for": 2, "in": 2}
+{"located in": 1}
+{"plays for": 1, "on loan from": 1}
+{}
+{}
+{}
+{"in and around": 1}
+{"in the path of": 1}
+{"in the state of": 1, "in the countryside": 1}
+{"based at": 1}
+{"in": 1}
+{"located in": 1, "near": 2}
+{}
+{"based in": 1}
+{"located in": 1, "played outside": 1}
+{"located in": 1, "played at": 1, "played outside": 1}
+{}
+{"located in": 1}
+{"located in": 1, "was with": 1}
+{}
+{"played for": 1}
+{}
+{"plays for": 1}
+{}
+{"based in": 1}
+{}
+{"of the same court": 1}
+{}
+{}
+{}
+{}
+{"based in": 1}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{"located in": 1}
+{"located at": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "in her home city": 1}
+{"situated in": 1, "located": 1, "bordered to the west by": 1, "to the north by": 1, "to the east by": 1, "to the south by": 1}
+{}
+{}
+{}
+{}
+{}
+{"native habitat is in": 1, "growing mixed with": 1}
+{}
+{}
+{}
+{}
+{}
+{"in": 3, "at": 1}
+{"held in": 1}
+{}
+{"located in": 1}
+{"first state to vote in": 1}
+{"held in": 1, "camped around": 1}
+{"between nations around or very close to": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"from": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"split between": 1}
+{}
+{"in": 3, "of": 1}
+{"based in": 1}
+{"representing district 24": 1, "located in historic downtown": 1}
+{"came to new england with": 1, "is a part of": 1, "followed him there": 1}
+{"located in": 1, "includes": 1, "stretches": 2, "borders with": 2, "serves as": 1, "created using": 1, "moved to": 1}
+{"cuts through": 1, "maintained by": 1, "splits from": 1, "running to": 1, "traverses": 1}
+{"located in": 1, "county seat of": 1, "home to": 1}
+{"located in": 1, "encompassed all settlements from": 1, "governed at": 1}
+{"connecting": 1, "is at": 2, "is a former routing of": 1}
+{"located at": 1, "located on": 2}
+{"between": 2, "near": 2, "owned by": 1, "connected to": 2}
+{"close to": 1, "intersecting with": 1, "continues as": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"originally aired on": 1}
+{}
+{}
+{}
+{"separated from": 1}
+{"located in": 1, "in direct competition with": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "located on": 1, "near": 1}
+{}
+{}
+{"located at": 2, "located in": 2}
+{"located in": 1, "southeast of": 1, "moved southwest in": 1}
+{"located in": 1}
+{"located at": 2, "located in": 1, "straddling": 1}
+{"located in": 1, "near": 1}
+{"located within": 1, "centered around": 1, "part of": 1, "near": 1}
+{"located in": 1, "between": 1, "historic area": 1}
+{"located within": 1, "on the south side of": 1, "located in": 1}
+{"located in": 1, "located north of": 1, "located across from": 1, "located on": 1}
+{"located in": 1, "as a distribution hub": 1}
+{"located in": 1, "played in": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "previously hosted": 1}
+{"located in": 1}
+{"located in": 1, "located at": 1}
+{"located in": 1, "played outdoors in": 1}
+{"in": 1}
+{}
+{}
+{}
+{"aired on": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"based in": 1}
+{"located in": 1}
+{}
+{"toppled": 1}
+{}
+{"manufactured outside of europe": 1, "used as inspiration for the design": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "home of": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"is a part of": 1, "located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"relocated from": 1}
+{}
+{}
+{}
+{"based on": 1, "to the city": 1}
+{}
+{}
+{"within": 1, "among": 1}
+{}
+{}
+{}
+{"located north of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "named in his honor": 1}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "below": 1}
+{}
+{"located at": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"of": 3}
+{}
+{"is the former mayor of": 1, "of honduras": 1}
+{"held at": 1, "hosted by": 1}
+{"located in": 1, "of": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located at": 1}
+{"located in": 1}
+{"held at": 1}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{"located in": 1, "toured outside": 1}
+{"located in": 1}
+{}
+{"born in": 1, "located in": 1}
+{}
+{"raised in": 2, "grew up in": 1}
+{"located in": 1, "on the campus of": 1}
+{}
+{}
+{"located in": 1, "within the oversight of": 1}
+{}
+{"located in": 1, "located at": 1}
+{"located in": 2}
+{"located in": 1, "in": 1}
+{"located at": 1, "in": 1}
+{"located in": 1, "remained in": 1, "led to it relocation to": 1}
+{}
+{}
+{"presented by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{"in": 1}
+{"located at": 1}
+{"located in": 1, "from": 1}
+{"is a part of": 1, "located in": 1}
+{"belonging to": 1, "native of": 1, "located in": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "part of": 1}
+{}
+{}
+{}
+{"played home games at": 1}
+{"based in": 1, "located in": 1}
+{"played at": 1, "due to": 1}
+{"located at": 1, "in": 1}
+{"adopted home province": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"from oklahoma": 1}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"settled in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1, "televised from": 1}
+{}
+{}
+{}
+{}
+{}
+{"from": 1}
+{}
+{"through": 1}
+{"of": 2}
+{}
+{}
+{"from": 1}
+{}
+{}
+{}
+{}
+{"located in west africa": 1}
+{}
+{"plays for": 1}
+{}
+{"located in": 1, "plays for": 1}
+{}
+{}
+{"playing for": 1, "located at": 1}
+{}
+{"located at": 2, "played for": 2}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{"n/a": 0}
+{}
+{}
+{"located in": 1, "located at": 1}
+{}
+{"transmitted by": 1}
+{}
+{}
+{}
+{"banned in": 1}
+{"located at": 1}
+{"during imprisonment in": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "based in": 1}
+{}
+{"located in": 1, "based in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{"moved to": 1, "settling near": 1, "is listed on": 1}
+{}
+{}
+{}
+{}
+{"from": 1, "of": 2}
+{"located south of": 1, "adjacent to": 1}
+{"prior to": 1, "during": 1}
+{"located at": 1, "sponsored by": 1}
+{}
+{"located at": 1, "near": 1, "is a part of": 1}
+{"located along": 1, "near": 1, "connects to": 1}
+{"located in": 1}
+{"located at": 1}
+{"located on": 1, "near": 1}
+{"located at": 1, "is a part of": 1}
+{}
+{"located at": 1}
+{}
+{}
+{"produced by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 2, "carries": 1}
+{"situated on": 1, "flows from": 1, "flows northeastward down": 1, "terminate near": 1}
+{"spanning the": 1, "located in": 1, "is the first highway crossing of": 1, "is also the only example of": 1}
+{"located in": 1, "is at": 1, "is in": 1, "on": 2, "next to": 1}
+{"located in": 1, "terminus at": 1, "near": 2}
+{"located in": 1, "runs from": 1, "contribute to": 1, "followed the dominion land survey": 1, "north of": 1, "northeast of": 1, "east of": 1, "on the canada \u2013 united states border": 1}
+{"in": 2, "from": 1, "along": 1, "near": 1}
+{"is a part of": 1, "carried by": 1, "northern terminus is": 1, "southern terminus is": 1}
+{"spanning": 1, "located in": 1, "south of": 1, "next to": 1}
+{"located in": 1, "operates": 3, "serves as": 1, "bisected by": 1}
+{"located at": 1}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 2}
+{}
+{}
+{}
+{"moved from": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"to the northeast": 1, "to the west": 2, "to the south": 1, "to the east": 1, "to the north": 1}
+{}
+{"located at": 1, "moved to": 1}
+{}
+{}
+{}
+{"in": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "formed by": 1, "connect": 1, "merging": 1, "turns left": 1, "turning right": 1}
+{}
+{"located in": 1, "connects to": 2, "north of": 1}
+{"located in": 1, "part of": 1}
+{"runs for": 1, "located in": 1, "serving as": 1, "is a part of": 1, "is at": 1}
+{"running south from": 1, "broken into two parts by": 1, "connected by": 1, "located in": 1}
+{"located in": 1, "connecting to": 1}
+{"located in": 1, "at its junction with": 1, "to": 2}
+{"connects to": 1, "serves as a boundary of": 1}
+{"crossing through": 1, "connects": 1, "serves": 1, "located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 2, "on the left bank of": 1, "on the right bank of": 1}
+{"located on": 1, "located in": 2}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"living as non-resident keralites in different parts of the world": 1}
+{}
+{}
+{"based in": 1}
+{"based in": 1, "has a representative office in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"filmed in": 1}
+{"located in": 0}
+{}
+{}
+{}
+{"born in": 1, "raised in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"on display at": 1}
+{"received in": 1, "sent from": 1}
+{"is a part of": 1, "two miles away from": 1, "next to": 1}
+{"located at": 1}
+{}
+{"located in": 1}
+{}
+{"located at": 1}
+{"located 25 mi northwest of": 1, "near the confluence of": 1}
+{}
+{"sits on": 1, "situated off": 1}
+{"off": 1, "occupied by": 1}
+{"located in": 1, "lies about": 1}
+{}
+{"located on": 1, "within": 2, "on the eastern side of": 1, "on the western side of": 1}
+{"linked to": 1, "at low tide": 1}
+{"lying on": 1, "located in": 1, "short distance from": 1}
+{"off the northern coast of": 1, "south of": 1, "located at": 1, "can be reached on foot from": 1}
+{"lying off": 1, "joined to": 1, "to the west of": 1, "to the east coast of": 1}
+{"is a part of": 1, "off the coast of": 1, "adjacent to": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"recorded in": 1}
+{"located on": 1}
+{"located at": 1, "located in": 1}
+{"located in": 1}
+{}
+{"located at": 1}
+{}
+{"located at": 1, "is a part of": 1}
+{"located within": 1, "located in": 1}
+{"located in": 1, "located at": 1}
+{}
+{"west-northwest of": 1, "eastward amid": 1, "in a southerly direction": 1}
+{"made landfall on": 1, "located in": 1}
+{"to the northeast of": 1, "to affect": 1, "to the south-east of": 1}
+{}
+{"east-southeast of": 1, "northeast of": 1, "over": 1}
+{"located in": 1, "in the southern hemisphere": 1}
+{"located in": 1, "made landfall on": 2, "turned northward into": 1}
+{"about 60 km southeast of": 1, "crossing the country": 1, "turning to the south": 1}
+{"to the northeast of": 1, "in northern": 1, "near": 1, "over": 3, "towards": 2, "on the French territory": 1, "on": 2}
+{"located in": 1, "in": 1, "from out of": 1}
+{"from": 1, "located in": 1}
+{}
+{}
+{"located in": 1, "located at": 1}
+{"located in": 1}
+{"served for": 1, "located in": 1}
+{"member of": 1, "of": 1}
+{"located in": 1}
+{"brought to texas": 1, "interred at olivewood cemetery": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"from": 1, "near the site of": 1}
+{}
+{"in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"on": 1}
+{"on": 1}
+{}
+{}
+{}
+{}
+{"on": 1}
+{"released in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"native to": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "connected to": 1}
+{"located in": 1, "at": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "part of": 1}
+{}
+{}
+{"at": 1}
+{"north of": 1, "along with": 1}
+{"lying between": 1, "in the northeast of": 1, "in": 1}
+{"part of": 1}
+{"located to the west of": 1, "is a part of": 1}
+{}
+{"lie close south of": 1, "near the west end of": 1}
+{"off the coast of": 1, "outside the golden gate": 1, "south of": 1, "visible from": 1, "part of": 1}
+{"between": 1, "is a part of": 1}
+{"lying between": 1, "on the north coast of": 1, "applied to a feature on": 1, "in company with": 1}
+{}
+{}
+{"based in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "located at": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"head of the company's product development division-3": 1}
+{"held in": 1, "venue began to expand to include": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{}
+{"distributed in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1, "in the gramercy section of": 1}
+{"born in": 1, "grew up in": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"from kealakekua": 1, "from hawaii": 1}
+{}
+{"from": 1}
+{"located in": 1}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{"located in": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"offered by": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"available all over": 1}
+{"located in": 1}
+{}
+{"located in": 1, "part of": 1, "located to the southeast of": 1}
+{"in the south of": 1, "in the interior of": 1, "between": 1, "via": 1}
+{"located south of": 1, "part of": 1}
+{"located at": 2, "with": 1, "in": 1}
+{"located at": 2, "successor to": 1}
+{"located in": 1, "assigned to": 1, "more than 3000 miles south-east": 1}
+{"located approximately": 1, "southeast of": 2}
+{"located at": 1}
+{"is named in": 1}
+{}
+{"located at": 1, "as members of": 1}
+{"located at": 1}
+{"played in": 1, "with": 1}
+{}
+{}
+{"based in": 1, "as a member club of": 1}
+{}
+{"located in": 1}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"born in": 1, "raised in": 1, "located in": 1}
+{"following on": 1}
+{"located in": 1, "in": 1}
+{}
+{}
+{"from": 1, "in": 1, "at": 3}
+{}
+{"located in": 1}
+{}
+{}
+{"held in": 1}
+{"held at": 1}
+{"held in": 1, "located in": 1}
+{"located in": 1}
+{"located at": 1, "in conjunction with": 1, "based in": 1}
+{"located in": 1}
+{"located in": 1}
+{"held in": 1}
+{"located in": 1}
+{"mostly in": 1, "north of": 1, "south of": 1, "county seat of": 1, "runs through": 1}
+{"located at": 1, "in": 1}
+{}
+{}
+{}
+{"performed by": 1}
+{}
+{}
+{"excluding": 1}
+{}
+{}
+{}
+{"out of": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is based on": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{"compete in": 1}
+{"located in": 1}
+{"located in": 1, "spreads over": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1, "located at": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1}
+{"located in": 1, "suburb of": 1}
+{"located in": 1}
+{"located in": 1, "part of": 1, "south of": 1}
+{}
+{"located at": 1, "is a part of": 1}
+{"located in": 1, "responsible for leading": 1}
+{}
+{"set in": 1, "owned and run by": 1, "located in": 1, "near": 1, "stands in": 1}
+{"near": 1}
+{"headquartered at": 1, "having more than 22 branches in": 1}
+{"located in": 1, "started for": 1}
+{"located in": 1}
+{"located in": 1, "travelled to": 2}
+{"located in": 1, "part of": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located at": 1}
+{"located at": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"exclusively at": 1}
+{"based in": 1}
+{}
+{}
+{"located in": 1, "through the whole country": 1}
+{}
+{"from": 1, "around": 2}
+{"located in": 1}
+{"based in": 1}
+{"through their merchandiser": 1, "from the official g&p records website": 1}
+{"hosted in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"represented": 1, "for": 1}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"aired on": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 2, "at the end of the lease in": 1}
+{"located in": 1}
+{}
+{"broadcast in the united kingdom": 1, "broadcast in the usa": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"lived in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"throughout": 1}
+{}
+{"based in": 1, "located in": 1, "used as a backdrop for": 1}
+{}
+{"signing of paris agreement": 1}
+{"located in": 1}
+{"located in": 1, "located at": 1}
+{"located in": 1, "part of": 1}
+{}
+{"located in": 1, "near": 1}
+{}
+{}
+{}
+{"located in estonia": 1, "extending eastwards through latvia into northern russia": 1, "about 110 km east of tallinn": 1}
+{"along the east and west forks of": 1, "in central and southern": 1, "in the valley of": 1}
+{}
+{"is based in": 1}
+{}
+{}
+{}
+{}
+{}
+{"from": 1, "located at": 1}
+{}
+{}
+{}
+{"located in": 1, "located at": 1}
+{"located in": 1, "60 mi from": 1}
+{"located at": 1, "is a part of": 1}
+{"located in": 1}
+{"located at": 1}
+{}
+{"located at": 2}
+{"ran races in": 1}
+{}
+{"located at": 1}
+{"located between": 1, "adjacent to": 1, "northwest of": 1}
+{"located in": 1, "on the university's campus": 1}
+{"located in": 1}
+{"located in": 1}
+{"represented in": 1, "located at": 1}
+{"located in": 1}
+{"located in": 1, "played at": 1}
+{"located in": 1, "played at": 1}
+{"located in": 1, "during halftime of": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1, "near by": 1}
+{"located near": 1, "opens into": 1}
+{"located in": 1, "located at": 2, "is a part of": 1}
+{"located in": 1, "located on": 1, "is 7 km from": 1, "adjacent to": 1}
+{"located in": 1}
+{}
+{"located in": 1, "located near": 1, "between": 1}
+{"located in": 1, "in its place": 1}
+{}
+{}
+{}
+{"from": 1}
+{}
+{}
+{"from": 1}
+{}
+{}
+{}
+{}
+{}
+{"found in": 1, "at higher altitudes": 1, "in and around": 1}
+{}
+{}
+{}
+{}
+{"member of the dahlia genus": 1, "occurring at elevations of 1500": 1}
+{"located in": 1, "on display in": 1, "in": 5}
+{}
+{"stationed at": 3, "assigned to": 1, "integrated operationally with": 1, "last stationed at": 1}
+{"is a part of": 1, "located at": 1}
+{"assigned to": 1, "at": 1}
+{"part of": 1}
+{}
+{"located at": 1, "part of": 1}
+{}
+{"west of": 2, "located in": 1}
+{}
+{"located at": 1, "on the university's campus": 1}
+{"located in": 1, "is a member of": 1}
+{"located at": 1}
+{"represents": 1, "plays at": 1}
+{"located at": 1, "located in": 1}
+{"located at": 1, "as a member of": 1}
+{"head coach of": 3, "at": 2}
+{"located on": 1, "adjacent to": 1}
+{"located at": 1, "as a member of": 1}
+{"located at": 1, "as a member of": 1}
+{}
+{"located in": 1, "is from": 1}
+{"located in": 1}
+{"located in": 1}
+{"of the buffalo bills": 3, "in the afl": 1, "in the nfl": 1}
+{"at home": 1, "on the road": 1}
+{"located in": 2, "is a part of": 1, "next to": 1}
+{"located in": 1}
+{"located in": 1}
+{"member club of": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"active in": 1}
+{"located in": 1, "located at": 1}
+{}
+{}
+{"located at": 1}
+{}
+{"located in": 1, "of": 1}
+{"located in": 1, "produced in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"in": 1}
+{}
+{}
+{}
+{"based in": 1}
+{}
+{"plays for": 1, "captain of": 1}
+{"based in": 1}
+{"based in": 1}
+{"based in": 1}
+{"played for": 6}
+{}
+{"capital of": 1, "contained": 1}
+{"part of": 1, "includes": 1}
+{"located in": 1, "on the right bank of": 1, "on the left bank of": 1}
+{"current capital of": 1, "former capital of": 1}
+{"is a city in": 1, "bordered on the east by": 1, "northeast of": 1, "located in": 1}
+{"from the district of": 1}
+{"located in": 1, "near": 1}
+{"located in": 1, "equivalent in territorial terms to": 1}
+{"located in": 1, "part of": 1}
+{"located in": 1, "about": 1, "next to": 1}
+{"based in": 1}
+{"based in": 1, "located in": 1}
+{"based in": 1, "located in": 1}
+{"situated on": 1, "within the borough of": 1}
+{"based in": 1}
+{}
+{"located on": 1, "located in": 1}
+{"based in": 1, "located in": 1}
+{"located in": 1}
+{"located at": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "specifically for": 1}
+{}
+{"located at": 1}
+{}
+{}
+{"took place at": 1}
+{}
+{"appeared in": 1, "located in": 1}
+{"located in": 1, "having a higher population density than": 1}
+{}
+{"lying on": 1, "is a part of": 1}
+{"headquartered in": 1}
+{"located on": 1, "borders": 1, "part of": 2}
+{"situated in": 1, "about 45 km from": 1, "about 125 km from": 1}
+{"located in qatar": 1, "held in abu dhabi": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "in": 1}
+{"originating in": 1}
+{"near": 1}
+{"overlooking": 1, "part of": 1}
+{"located in": 1, "near": 1}
+{}
+{}
+{"located in": 1, "named for": 1}
+{}
+{}
+{"lived near": 1, "located at": 1}
+{}
+{"in": 2, "to": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 2}
+{"represented": 1, "from": 3, "to": 1}
+{"represented in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"based in": 1, "located in": 1}
+{"represented": 1, "played at": 1}
+{}
+{"native of": 1, "in the houston, texas area": 1, "for the philadelphia phillies": 1}
+{"located in toronto": 1}
+{}
+{"based in": 1, "located in": 1, "relocated from": 1, "next to": 1}
+{}
+{"across": 1}
+{}
+{}
+{"located in": 1}
+{"from": 1}
+{"located in": 1, "regulars on the folk scenes in": 1}
+{}
+{}
+{}
+{"at": 2}
+{"located in": 1, "is a part of": 1}
+{"located on": 1, "located in": 1}
+{"in and around": 1}
+{"crossing": 1, "separating": 1, "side of the bridge": 2}
+{"located in": 1, "northeast of": 1}
+{"was the seat of": 1, "located in": 1}
+{"separating": 1, "side of the water": 1, "gave the strait its": 1}
+{"seat is at": 1}
+{"located in": 1, "located on": 1}
+{"located at": 1, "captured in": 1}
+{}
+{}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"based in": 1}
+{}
+{"located in": 1}
+{"is a part of": 1}
+{"located in": 1}
+{}
+{"located in": 1, "in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"from": 1}
+{}
+{}
+{"located in": 1}
+{"from": 1}
+{"from": 1, "is well known for": 1}
+{}
+{}
+{"native to": 1, "grows in": 2}
+{"is endemic in": 1}
+{}
+{}
+{"is in": 1, "grows in": 1}
+{"along": 1}
+{}
+{}
+{"endemic to": 1, "grows on": 1}
+{}
+{"next to": 2, "east of": 1, "adjacent to": 1}
+{"located in": 1, "between": 1, "close nearby": 1, "south": 1, "away from": 1}
+{"located at": 1, "is a part of": 1}
+{"located near": 1, "just six kilometers away from": 1, "located in": 1, "in western part of the city": 1}
+{}
+{"is a part of": 1, "located at": 1}
+{"located in": 1, "connected to": 1, "under": 1}
+{"north of": 1}
+{"is a part of": 1, "runs from": 1, "continues on to": 1, "near": 1}
+{"located in": 1, "on the frankston line": 1}
+{"in": 1}
+{}
+{}
+{"located in": 1, "where": 1}
+{"located in": 1, "capital of": 1}
+{"located in": 1}
+{"located in": 1}
+{"situated in": 1}
+{}
+{}
+{"located in": 1, "cover": 1, "are subdivisions of": 1}
+{"is a group of": 1}
+{"north of": 1, "east of": 1, "at the confluence of": 1}
+{"located in": 1, "covering": 1}
+{"born in": 1, "located at": 1}
+{}
+{}
+{"located in": 1, "across the country": 1}
+{"located in": 2, "located 45 mi southeast of": 1}
+{"located in": 1, "played for": 2}
+{"located in": 1}
+{}
+{"based in": 1, "located in": 1, "moved to": 1}
+{"located in": 1}
+{"located in": 1}
+{"located at": 1, "located in": 2, "next door to": 1}
+{"located across the street from": 1, "west of": 1, "as part of": 1}
+{"located in": 2, "from": 1, "to": 1}
+{"located at": 1, "is a part of": 1}
+{"is a part of": 1, "located in": 1}
+{"located at": 1}
+{"located at": 1, "located in": 1, "in the heart of": 1}
+{"located in": 1, "near": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"in us open history": 1}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{"located in": 1, "part of": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"of": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "control of": 1}
+{}
+{}
+{}
+{}
+{"located on": 1}
+{"located at": 1}
+{"set in": 1, "located in": 1}
+{"north of": 1, "located in": 1}
+{"located in": 1, "housed within": 1}
+{"from": 1, "located in": 1}
+{"is in": 1, "northeast of": 1}
+{"located in": 1, "near": 1}
+{"located off": 1, "east of": 1, "running north-south": 1, "separated from": 1, "between": 1}
+{"located in": 1, "near": 1}
+{"northeast of the central business district of pensacola": 1, "located in": 1}
+{"located at": 1, "is in": 1}
+{"located in": 3, "places at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1, "sold alongside": 1}
+{"located in": 1, "divided into": 1}
+{}
+{"from": 1}
+{"located on": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{"based in": 1}
+{}
+{"governor of": 1}
+{}
+{}
+{"located on": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1, "located at": 1, "is a part of": 1}
+{"located in": 1, "is a part of": 1}
+{}
+{}
+{}
+{"located in": 1, "part of": 1}
+{"located in": 1, "at a distance of": 1, "is a part of": 1}
+{}
+{}
+{"located at": 1, "located in": 1}
+{"located at": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"is a component of": 1, "comprises": 1, "maintained through": 1}
+{"of": 2, "along with": 1}
+{"part of": 2, "maintained through": 1}
+{"is a part of": 1}
+{"located at": 1}
+{"part of": 1}
+{"part of": 1, "headquartered in": 1}
+{"is a part of": 1}
+{}
+{"part of": 1, "located in": 1}
+{"bounded by": 1, "includes": 1}
+{"located in": 1, "lies at": 1, "on the western periphery of": 1}
+{"located in": 2, "is located on": 1, "is a part of": 1}
+{"is a tributary of": 1, "meets near": 1, "meets": 1, "located in": 1}
+{"was born in": 1, "arrived in": 1, "located in": 1, "opened on": 1, "remained in": 1}
+{"located near": 1, "in": 2}
+{}
+{"located on": 1, "off the shore of": 1}
+{"located on": 1, "between": 1}
+{}
+{}
+{}
+{"managed under": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"joining with": 1, "is the name of": 1}
+{"native to": 1, "occur in": 1, "portion of": 1}
+{"surrounding the main river": 1, "joining with the th\u00e1i b\u00ecnh river system": 1, "creates the red river delta": 1, "protected by a great dyke system": 1}
+{"flows from": 1, "marks the beginning of": 1}
+{"located in": 2, "located north of": 1, "is a part of": 1}
+{"near": 1, "adjacent": 1}
+{"located in": 1}
+{"located in": 1, "is a part of": 1}
+{"is one of": 1, "joining with": 1, "creates": 1}
+{"occur in": 1, "related to": 1}
+{}
+{}
+{"east of": 1, "north-northeast of": 1}
+{"located in": 1}
+{"northeast of": 1}
+{"close to": 1, "located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"from": 1, "made their debut on": 1}
+{"located in": 1}
+{}
+{"born in": 1, "moved back to": 1, "located in": 1}
+{}
+{"located in": 1, "from": 1}
+{"migrate from": 1}
+{"located in": 1}
+{"partially shot in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "a suburb of": 1}
+{"located in": 1}
+{"located in": 1}
+{"based in": 1, "located in": 1, "part of": 1}
+{"located in": 1, "owned by": 1}
+{"based in": 1, "located in": 1}
+{"located in": 1, "same arena as": 1}
+{"playing as the frontcourt of": 1}
+{"based in": 1, "played in": 1, "returned to": 1, "located in": 1}
+{}
+{}
+{"for the san antonio spurs": 1, "in san antonio": 1}
+{}
+{}
+{}
+{}
+{"in": 1}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{"from": 1, "in": 2}
+{"published in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{"located in": 2}
+{}
+{"set in": 1, "located in": 1}
+{}
+{"located at": 1, "under": 1}
+{"of the arizona state sun devils baseball team": 2, "there": 1}
+{"head coach of": 1, "at": 2, "on the staffs of": 1}
+{"represented": 1, "played their home games at": 1}
+{"located in": 1}
+{"located at": 1, "located in": 1}
+{"located in": 1, "now": 2}
+{}
+{"represented": 1, "played their home games at": 1}
+{"known at": 1, "now called": 1, "at": 3}
+{"located in": 1, "released in": 1}
+{"not released in": 1}
+{}
+{"located in": 1}
+{}
+{"in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located between": 1, "ran parallel to": 1, "across from": 2, "past": 3, "took its name from": 1}
+{"located in": 1, "adjacent to": 1}
+{"based in": 1}
+{"is a station on": 1, "use the station as a transfer point between": 1, "in the vicinity of": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located on": 1, "near": 1}
+{"close to": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"above": 1}
+{}
+{}
+{"worked mainly for": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "held by": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"belonging to": 1}
+{}
+{}
+{"located in": 1, "broadcast around the world": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"based in": 1, "located in": 1}
+{}
+{"part of": 1, "located in": 1, "located at": 1}
+{"located in": 1, "included": 1, "covered": 1}
+{"based in": 1, "included": 1}
+{"located in": 1, "near": 1, "from": 3, "to": 3}
+{"located in": 1, "covers": 1, "has been slowly moving west": 1}
+{}
+{"located in": 1, "was named after": 1}
+{}
+{"located in": 1, "taking in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "in the basement of": 1}
+{"located in": 1}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "moved to": 1}
+{"grew up in": 1, "attended": 1, "is a current resident of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"based in": 1}
+{}
+{}
+{"held at": 1}
+{"held at": 1}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"for the twins": 1}
+{"primarily with": 1, "with whom": 2}
+{"located in": 1, "drains an area of": 1}
+{"native to": 1, "found in": 1, "seen in": 1}
+{"endemic to": 1, "surrounding forests of": 1}
+{}
+{}
+{}
+{}
+{"found in": 2, "located in": 1}
+{"endemic to": 1}
+{}
+{"located in": 1, "on the border with": 1}
+{"located across the border": 1, "is a part of": 1}
+{"connects": 1, "on the border with": 1}
+{"located in": 1, "borders": 1, "under the administration of": 1, "southernmost county-level division of": 1}
+{"located 24.5 km northeast of": 1, "is a hub for": 1}
+{"located in": 1, "covers much of": 1, "extending to": 1, "divided in two by": 1, "used to refer to": 1}
+{}
+{"borders": 1, "looks out to": 1, "locates on": 1}
+{"based in": 1, "spans": 1}
+{"based in": 1, "connects": 1}
+{"located in": 1}
+{"located in": 2, "taking over": 1}
+{"based in": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1, "operates in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"broadcast on": 1}
+{"located in": 1, "directly above": 1}
+{"located in": 1, "above": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located inside of": 1}
+{"located in": 1}
+{"located in": 1, "situated in": 1}
+{"located in": 1, "part of": 1}
+{"is a part of": 1}
+{"located in": 1, "near": 1}
+{"located in": 1, "in the former city of": 1}
+{"located in": 1, "is the only": 1, "second in": 1}
+{"located by": 1, "is part of": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "played for": 2}
+{}
+{"played for": 1, "located in": 1}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{"located in": 1, "located at": 1}
+{"located along": 1, "located in": 1, "closer to": 1}
+{"one of the national symbols of lithuania": 1}
+{}
+{"located in": 1, "mobilized into": 1}
+{}
+{}
+{"located in": 2}
+{}
+{"overlooking": 1, "immediately north of": 1, "located in": 1, "along the northern shoreline of": 1}
+{"is a river in": 1, "rises in": 1, "flows across": 1, "to the east of": 1, "flows through": 1, "forms a steep-sided valley": 1}
+{"northwest of": 1, "flows around": 1, "to the north are": 1}
+{"built along the shore of": 1, "located in": 1}
+{"located near": 2, "lies south of": 1}
+{"located in": 1, "lies at": 1, "is a part of": 1, "to the immediate south": 1}
+{"rising in": 1, "discharges to": 1, "south of": 1, "drains the area to": 1, "situated in": 1}
+{"based in": 1, "located in": 1, "leading to": 1, "stretching from": 1}
+{"across": 1, "near": 1, "in": 2, "between": 1, "at": 1, "of": 3}
+{"situated immediately west of": 1, "slightly to the west of": 1}
+{}
+{"located in": 1, "at": 1}
+{}
+{"northeast of": 1, "near": 2, "within": 2}
+{}
+{"is a part of": 1}
+{}
+{"located in": 1}
+{"located at": 1}
+{}
+{}
+{}
+{"broadcast by": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"aired on": 1}
+{}
+{}
+{"located in": 1, "around": 4}
+{}
+{"in": 1}
+{}
+{}
+{"located in": 1}
+{"born in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"from": 1, "at": 2}
+{"born in": 1, "part of": 1}
+{"located in": 1, "part of": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "stands on": 1, "opposite": 1}
+{"based in": 1, "sold in": 1, "located in": 1}
+{"is a part of": 1, "located in": 1, "is open on": 1}
+{"based in": 1, "in which they show": 1}
+{"located at": 1, "based on": 1}
+{"based in": 1, "located at": 1}
+{"located on": 1, "located in": 1}
+{"located in": 1, "has stores in": 1}
+{"located on": 1, "between": 1}
+{"located in": 1, "between": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"born in": 1, "resides in": 1}
+{"born in": 1, "lives in": 1}
+{}
+{}
+{}
+{}
+{"from iraq": 1}
+{"at": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"of the oireachtas": 1}
+{}
+{"located in": 1}
+{"in": 3}
+{}
+{"located in": 1}
+{}
+{}
+{"for the los angeles kings": 1, "from z\u00fcrich": 1}
+{}
+{"located at": 1}
+{"hailing from": 1}
+{}
+{}
+{}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"from": 1}
+{"from": 1}
+{"located in": 1, "adjacent to": 1}
+{"located at": 1, "is a part of": 1}
+{"is a part of": 1, "located in": 2}
+{"located in": 2, "operating in": 1}
+{"located in": 1, "on-site from": 1}
+{"located in": 1, "part of": 1}
+{"located in": 1, "broadcast from": 2}
+{"housed in": 1, "located in": 1}
+{"located in": 2}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "is a part of": 1}
+{"bounded by": 1, "used for": 1}
+{"located in": 1, "bounded by": 1}
+{"located in": 2, "located just to the south of": 1}
+{"located at": 1, "stands on": 1, "to the east": 1, "near": 1}
+{}
+{"located at": 1, "around": 1}
+{"bounded by": 1, "bordered by": 1, "located between": 1}
+{"is one of the most important centers and junction points of": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1, "part of": 1}
+{}
+{"located in": 1, "formerly used for": 1, "next to": 1}
+{}
+{"based in": 1}
+{"was the last": 1, "was the first": 1}
+{}
+{}
+{"director of a state agency in arizona": 1}
+{"located in": 1, "based in": 1}
+{}
+{}
+{"located outside": 1}
+{}
+{}
+{}
+{"on the border of": 1, "in": 3, "of": 3}
+{"surrounding": 1, "is a part of": 1}
+{}
+{"is a part of": 1, "is the capital of": 1}
+{"launched from": 1, "located in": 1}
+{}
+{"northeast of": 2, "northwest of": 2}
+{"is a part of": 1, "separated by a pass from": 1, "to the west": 1, "has a face": 1}
+{"located in": 1, "within the territory of": 1}
+{"lies about 4 km east of": 1, "in the heart of": 1, "north of": 1}
+{"located on": 1, "located in": 1, "next to": 1}
+{"across": 1, "in": 2}
+{"located in": 1, "near": 1}
+{"part of": 1}
+{}
+{"east of": 1, "north of": 1, "visible from": 1, "part of": 1, "near": 2}
+{"easternmost point of": 1, "located about 3 km east of": 1, "projects into": 1}
+{"located at": 1, "is a part of": 1}
+{"located in": 1, "sits on": 1}
+{}
+{"located at": 1, "is a part of": 1}
+{"located in": 1, "part of": 1, "along": 1}
+{"located in": 2}
+{"located at": 1, "located in": 1, "is a part of": 1}
+{"located in": 1, "is a part of": 1}
+{}
+{"located on": 1, "located in": 1, "just down the road to": 1}
+{"located at": 1, "located in": 1}
+{"located in": 1}
+{"located in": 1, "is a part of": 1}
+{}
+{"representing": 1}
+{}
+{"located in": 1, "part of": 1}
+{"born in": 1, "located in": 1, "served as": 1}
+{}
+{"raised and educated in": 1, "located in": 1, "returned to": 1}
+{"located at": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "alongside": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located at": 1}
+{}
+{"in": 1}
+{}
+{"in": 1}
+{}
+{"located in": 1}
+{"located in": 1, "occupy it in accordance with": 1}
+{"registered in": 1, "located at": 1}
+{}
+{}
+{}
+{"located in": 1, "near": 1}
+{}
+{}
+{}
+{}
+{}
+{"served in": 1}
+{"exhibited at": 2, "located in": 1}
+{"produced in": 1}
+{}
+{"from new york-to-paris": 1, "on the paris side of the atlantic": 1}
+{"between": 1, "over": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"exclusively to": 1, "located in": 1}
+{"exclusively to": 1}
+{}
+{"located in": 1}
+{}
+{"born in": 1}
+{"located in": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located within": 1, "about 21 km from": 1, "northeastern suburb of": 1, "nearby": 1, "east of": 1}
+{"is a part of": 1, "located in": 1}
+{"is a part of": 1, "located at": 1}
+{"located in": 3, "northeast of": 1, "east of": 1}
+{"covers": 1, "added to": 1, "is the commercial and cultural hub of": 1}
+{"located in": 1, "part of": 1, "county seat of": 1}
+{"located in": 1, "located directly across": 1}
+{"located in": 1, "suburb of": 1, "traversed by": 1, "south of": 1}
+{"based in": 1, "play their home games at": 1}
+{"suburb of": 1, "part of": 1}
+{}
+{"located in": 1, "crosses": 1}
+{"located in": 1, "situated in": 1, "lies within": 1, "administered as": 1}
+{"located in": 1}
+{}
+{"is a part of": 1}
+{"centered in": 1, "located in": 1, "extending to": 1}
+{"connect": 1, "is a part of": 1, "will be completely in": 1}
+{"near": 1, "across": 1, "in": 1, "under": 1}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "situated between": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"based in": 1, "home of": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"lived in": 2, "taught at": 1}
+{"is from": 1}
+{}
+{"set at": 1}
+{}
+{}
+{}
+{"located on": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "served": 1}
+{"located in": 1, "is a part of": 1}
+{"serving the region around": 1, "located in": 1}
+{"extending from": 1}
+{"located in": 1, "next to": 1, "off": 1}
+{"operating in": 1, "running from": 1, "located in": 1}
+{"located in": 1, "enters": 1, "continues through": 1}
+{"located on": 2, "located between": 1, "located in": 1}
+{"located in": 1, "ran from": 1, "to the west": 1}
+{"linked with": 1, "connected both sides of": 1, "extended its lines to": 1, "located near": 1}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"is headquartered in": 1}
+{"on the banks of": 1}
+{"located at": 1, "near": 1}
+{"located in": 1}
+{}
+{"located at": 1}
+{}
+{"located in": 1, "near": 1, "adjacent to": 1}
+{"located in": 1}
+{"formerly at": 1, "currently at": 1}
+{"located in": 1}
+{}
+{}
+{"born at": 1, "died at": 1}
+{"located at": 1}
+{}
+{}
+{}
+{"from": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"set in": 1}
+{}
+{"covers": 1, "is located at": 1}
+{"covers most of": 1, "located at": 1}
+{"located in": 1, "detached from": 3, "made into": 1}
+{"centering on": 1, "covering large areas of": 1, "covering small parts of": 1}
+{"located in": 1, "part of": 1}
+{"covering": 1, "includes": 1}
+{"located in": 1, "is in": 1}
+{"located in": 1, "is a part of": 1}
+{}
+{"located in": 1}
+{}
+{"based out of": 1, "host facility was": 1}
+{}
+{}
+{"signed in": 1}
+{}
+{"from": 1, "located in": 1}
+{}
+{"located on": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"aired on": 1}
+{"during the korean war": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{"aired on": "amc", "located in": "united states"}
+{"aired on": 1}
+{"aired on": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "connecting": 1}
+{"located in": 1, "runs from": 1, "heads into": 1, "joins": 1, "turns west onto": 1}
+{"runs from": 1, "connects": 1}
+{"located in": 1, "runs through": 1, "connecting": 1}
+{"located in": 1, "to the west": 1, "to the east": 1}
+{"is a part of": 1, "starts at": 1}
+{"located in": 1, "home to": 1, "county seat of": 1}
+{"located in": 1, "located along": 1, "pass through": 1}
+{"is a part of": 1, "located in": 1}
+{"runs between": 1, "passes through": 1, "runs generally parallel to": 1}
+{}
+{}
+{}
+{"located at": 1, "located in": 1}
+{"from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"playing to a blue collar crowd every night": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 2, "at": 1}
+{"located in": 1}
+{}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "situated at": 1, "right in front of": 1}
+{"situated in": 1, "just off of": 1}
+{"located on": 1, "located in": 1, "is a part of": 1}
+{}
+{"located in": 1}
+{"located inside": 1, "located in": 2, "is a part of": 1}
+{}
+{}
+{"from": 1}
+{"located at": 1}
+{}
+{}
+{}
+{"from": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located at": 1}
+{}
+{"part of": 1, "in": 1, "work in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"suburb to the east of": 1, "part of": 1, "neighbouring": 1, "around it": 1}
+{"is a suburb of": 1}
+{"part of": 1, "located in": 1}
+{"is a suburb of": 1}
+{"is a suburb of": 1, "located in": 1}
+{"borders": 1, "located in": 1}
+{"is a suburb of": 1, "stretching from": 1, "to": 1, "on the northeast": 1, "along the numbered avenues towards": 1}
+{"is a suburb of": 1, "adjacent to": 1, "part of": 2, "running through": 1}
+{"located in": 1, "covering": 1}
+{"bounded on the northwest by": 1, "bounded on the east by": 1, "bounding the north and south": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"is based in": 1}
+{}
+{"based in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"based in": 1}
+{"located in": 1}
+{"headquarters are in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "first in the u.s.": 1}
+{"located in": 1}
+{"lives in": 1, "filmed in": 1, "part of": 1}
+{"located in": 2}
+{}
+{}
+{"based in": 1}
+{}
+{}
+{}
+{"originating in": 1}
+{}
+{}
+{}
+{}
+{"from": 1}
+{}
+{"originally from": 1, "used in": 2}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "operates in": 1}
+{}
+{"located in": 1}
+{"in france": 1, "in the u.s.": 1}
+{"born in": 1, "raised in": 1}
+{"located in": 1, "located at": 1}
+{"located in": 1}
+{}
+{"starting in": 1, "finishing in": 1}
+{}
+{"in": 1}
+{}
+{"starting in": 1, "ending in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"native of": 1, "president of": 2, "located in": 1, "located at": 1}
+{"from": 1, "of": 2}
+{}
+{"located at": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"for": 1, "with": 1}
+{}
+{}
+{"attended": 1}
+{}
+{}
+{"located at": 1, "part of": 1, "joined": 1}
+{}
+{}
+{"headquartered in": 1}
+{}
+{"in": 5, "where it stayed there for eight weeks": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located at": 1, "north from": 1, "terminus of": 1}
+{"located in": 1, "near": 1, "south of": 1}
+{"just south of": 1}
+{"located in": 1}
+{"located next to": 1}
+{"between": 2, "part of": 1}
+{"next door to": 1, "just east of": 1}
+{"running from": 1, "via": 3, "shares much of its track with": 1}
+{"located in": 1, "located at": 2, "near": 1}
+{"located in": 1, "located at": 3, "is a part of": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"aired on": 1, "located in": 1}
+{"located in": 1}
+{"aired on": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{"ran from": 1, "through": 1}
+{"based in": 1, "located in": 1}
+{"part of": 1}
+{"outside of": 1}
+{"located between": 1}
+{}
+{"in": 1}
+{"located in": 1, "of": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"norwegian version of": 1, "part of": 1}
+{"endemic to": 1}
+{"distributed mainly in": 1, "extending into": 1}
+{"located in": 1}
+{}
+{}
+{"living primarily in": 1, "centered in": 1}
+{"endemic to": 1, "located in": 1}
+{"member of": 1, "citizen of": 1}
+{"headquartered in": 1}
+{}
+{"headquartered in": 1}
+{"headquartered in": 1}
+{}
+{"suburb of": 1}
+{"headquartered in": 1}
+{}
+{"headquartered in": 1, "operates in": 1}
+{}
+{"comprises parts of": 1, "located in": 1}
+{}
+{}
+{"located in": 1, "includes": 1}
+{}
+{"served in the new jersey general assembly": 1, "located in new jersey": 1, "located in union county": 1, "located in essex county": 1}
+{}
+{"for the 68th district": 1}
+{"member of the pennsylvania house of representatives for the 105th district": 1}
+{"from": 1}
+{"from the city of": 1, "of the city's": 1}
+{"born in": 1, "graduated from": 1}
+{}
+{"born in": 1, "living in": 1}
+{"born in": 1, "left for": 1}
+{}
+{}
+{"from the era of the weimar republic": 1}
+{"located in": 1, "located at": 1, "is a part of": 1}
+{"located in": 1}
+{}
+{"located in": 1, "at the ground": 5}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1, "from": 2}
+{}
+{"lived in": 1, "reached": 1}
+{}
+{}
+{}
+{"north and west of": 1, "south of": 1}
+{"located in": 1, "is a part of": 1}
+{"is in": 2, "located in": 1}
+{"based at": 1, "located in": 1}
+{"located on": 1, "in": 1}
+{"located in": 1}
+{"based in": 1}
+{"is located in": 1}
+{"located in": 1, "located west of": 1}
+{"is a part of": 1, "located in": 1}
+{"between": 1, "in": 1}
+{"located at": 1}
+{}
+{}
+{"shot on location in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"born in": 1, "played for": 1}
+{}
+{}
+{"held in": 1}
+{"located in": 1}
+{"from": 1, "is a part of": 1}
+{"located in": 1, "part of": 1}
+{}
+{}
+{"located at": 1, "located in": 1}
+{}
+{"located in": 1, "part of": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{"in": 1}
+{"located in": 1}
+{"kingdom of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located near": 1, "south of": 1, "north of": 1}
+{"located in": 1, "part of": 1}
+{}
+{}
+{"located in": 1, "at": 1}
+{}
+{"located in": 1}
+{"in": 5, "from": 3}
+{"held in": 1, "located in": 1}
+{"located in": 1}
+{"located in": 1, "is a part of": 1}
+{}
+{"is the national team of": 1}
+{"from the canton of nidwalden": 1, "in switzerland": 1, "in his home race at adelboden": 1, "in the slalom in wengen": 1, "in kitzb\u00fchel": 1}
+{"located in": 1}
+{"held in": 1}
+{}
+{}
+{}
+{"spent one season with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"represented the university of florida": 1}
+{"located in": 1}
+{"located in": 1, "located at": 1, "next to": 1}
+{"located in": 1, "above the town of": 1, "above sea level": 1}
+{}
+{"located in": 1}
+{"north of": 1, "adjacent to": 1}
+{"located in": 1, "in what would later become": 1}
+{}
+{"located in": 1}
+{"located in": 2, "west of": 1, "on site": 1}
+{"located in": 1, "located along": 1}
+{"located in": 1, "forms its western boundary": 1}
+{"located in": 1, "belongs to": 1}
+{"is a city in": 1, "county seat of": 1, "extending into": 1, "anchors contained": 1}
+{"located in": 1, "formed its northern boundary": 1}
+{"located in": 1, "along": 1, "is the county seat of": 1}
+{}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "located near": 1}
+{"located at": 1, "occupied since": 1}
+{"located in": 1, "lies along": 1, "is a part of": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 3, "based in": 2}
+{"located in": 1}
+{}
+{"located on": 2, "near": 1, "first put on tap": 1}
+{}
+{"served as ambassador to": 1}
+{}
+{}
+{}
+{"moved to": 1, "located in": 1}
+{"located on": 1, "located in": 1}
+{"part of": 1}
+{}
+{"live from": 1}
+{}
+{}
+{}
+{}
+{"from": 2, "shown on": 1}
+{}
+{"located in": 1}
+{}
+{"named after": 1, "located in": 1}
+{}
+{}
+{}
+{"member of": 1, "located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "located at": 1}
+{}
+{"born in": 1, "located at": 1}
+{}
+{"located in": 1}
+{"located in": 1, "moved his base of operations to": 1}
+{"based in": 1, "from": 1}
+{}
+{"based in": 1, "located in": 1}
+{}
+{"located in": 1, "straddles both counties": 1}
+{"located in": 1, "is a part of": 1}
+{}
+{"located in": 1, "part of": 1}
+{"a campus of": 1, "member-school of": 1}
+{"located north of": 1}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "forced to flee to": 1, "returned to": 1}
+{"from": 1, "to": 1}
+{"located at": 1, "on the estate of": 1}
+{"located in": 1, "over the border in": 1, "on the european continent": 1, "on scottish soil": 1}
+{"took place at": 1}
+{"located in": 3, "of": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "grew up in": 1}
+{}
+{}
+{}
+{}
+{"based in": 1}
+{"located in": 1}
+{"manufactured in": 1, "located in": 1, "sold in": 1}
+{}
+{"located in": 1, "main contractor for manufacture of": 1, "took on": 1}
+{}
+{}
+{}
+{}
+{"is a city in": 1}
+{"county seat of lincoln county": 2, "location of the lincoln county courthouse": 1}
+{"located east of": 1, "located five nautical miles from": 1}
+{"located between": 1, "is located in": 1, "on the outer edge of": 1}
+{"is a part of": 1, "along with": 2}
+{"northeast of": 1}
+{"located at": 1, "owned by": 1, "made up of": 1, "east of": 1, "between": 1}
+{}
+{"located nearby": 1, "is northwest of": 1, "is a part of": 1}
+{}
+{"from": 1}
+{}
+{"located in": 1}
+{"in the chicago area": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located at": 1, "as part of": 1}
+{"on the vicinity of": 1}
+{"stands in for": 1}
+{}
+{"located in": 1}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{}
+{"from": 1}
+{}
+{"located in": 1}
+{"from": 1, "signed to": 1}
+{}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"headquartered at": 1, "located in": 1}
+{}
+{}
+{"for the china women's national ice hockey team": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "in": 1, "based on": 1, "in neighbouring": 1}
+{"located in": 1, "is located in": 1}
+{"north-east of": 1, "located in": 1}
+{}
+{"constituting the south side of": 1, "is the largest electoral division in": 1, "covers a portion of": 1}
+{"located in": 1, "includes": 2, "stretches from": 1, "to": 2}
+{"located in": 1, "in": 1}
+{"located within": 1, "located at": 1, "south-east of": 1}
+{"located at": 1}
+{}
+{"located in": 1, "played at": 1}
+{}
+{"located in": 1, "played at": 1}
+{"located in": 1, "played its home games at": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1, "played its home games at": 1}
+{}
+{"located in": 1}
+{}
+{"of the Allied invasion of": 1, "from Nazi control": 1}
+{}
+{}
+{"located at": 1, "next to": 1}
+{}
+{"easternmost landing site": 1, "along the normandy coast": 1}
+{"located in": 1, "at": 2}
+{}
+{"located in": 1}
+{"set on a passenger liner": 1}
+{}
+{}
+{}
+{"working in": 1, "around": 1}
+{"located in": 1}
+{}
+{"shot in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"capital city of": 1, "county seat of": 1, "borders": 1, "part of": 1}
+{"located in": 1, "sits on": 1, "included statistically within": 1}
+{"located in": 1, "set among": 1}
+{"part of": 1}
+{"county seat of union county": 1, "located in new jersey": 1}
+{"located in": 1}
+{"located along": 1, "defines the west central boundary of": 1, "comprises the northern portion of": 1, "comprises the southern portion of": 1}
+{"is a city in": 1, "is a county seat of": 1, "adjoining city of": 1}
+{"located in": 1, "county seat of": 1}
+{"located in": 1, "part of": 1, "southeast of": 1, "north of": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located at": 1, "in": 1}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "stretches from": 1, "northward through": 1, "through": 2, "westward to": 1}
+{"exile in": 1, "located on": 1, "located in": 1}
+{}
+{}
+{"of": 5, "in": 1}
+{"located in": 2, "at": 2}
+{}
+{}
+{"of montana's state government": 1}
+{"located at": 1}
+{}
+{"located in": 1, "is a part of": 1}
+{"located in": 1}
+{"located in": 1}
+{"in japan": 2}
+{"located on the grounds of": 1}
+{"headquartered in": 1}
+{}
+{"headquartered in": 1, "located in": 1}
+{}
+{"headquartered in": 1}
+{"located in": 1}
+{"head office in": 3, "subsidiary in": 2}
+{}
+{}
+{"to be released in": 1}
+{}
+{"in": 2}
+{"located in": 1, "to be released in": 1}
+{"located in": 1}
+{}
+{}
+{"in": 1}
+{}
+{"located east of": 1, "along": 1}
+{"located in": 1, "near": 1}
+{"near": 1, "adjoining": 1}
+{"located near": 1}
+{"near": 1, "located in": 1}
+{"located on": 1, "west of": 1}
+{"located in": 1, "part of": 1}
+{"located in": 2, "located at": 1}
+{"located in": 1, "near": 1}
+{"southeast of": 1, "adjacent to": 1}
+{"king of": 1, "located in": 1, "took control of": 1}
+{"located in": 1, "controlled by": 1}
+{"located in": 3, "of": 3}
+{"located in": 1, "split between": 1}
+{}
+{"located in nepal": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "served": 3}
+{"based at": 1, "located in": 1}
+{}
+{"located in": 1}
+{"from": 3, "to": 3}
+{}
+{"located at": 1, "on the grounds of": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "moved to": 1}
+{"located in": 1, "joined": 1}
+{"managing": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"represented in": 1, "located in": 1, "next to": 1}
+{"located in": 1}
+{"representing": 1, "located in": 1}
+{}
+{}
+{}
+{"among turkish communities abroad": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"based in": 1, "core market in": 1}
+{"located in": 1}
+{"located in": 1}
+{"set largely in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"centered on": 1, "included lands in": 1}
+{}
+{}
+{"modern eastern": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1, "located in": 1}
+{}
+{}
+{"located in": 1}
+{"home village of": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"alongside": 1, "located in": 1}
+{}
+{"located in": 1}
+{"southernmost of": 1, "lying about": 1, "south of": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"from": 1}
+{}
+{}
+{}
+{}
+{"based in": 1}
+{"from": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"across": 1, "in": 1}
+{}
+{"located in": 1, "visited": 1}
+{"visited": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "at his family's winery": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is made up of": 1, "features": 1, "is displayed in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "in his hometown": 1}
+{"located on": 1, "to the south of": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "at": 1}
+{"located in": 1, "adopted": 1}
+{"located in": 1}
+{}
+{"located at": 3, "located in": 1}
+{"located in": 1}
+{"located on": 1}
+{"near": 2, "at": 2}
+{"located in": 1, "is a part of": 1}
+{"based in": 2, "also based out of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 2}
+{}
+{}
+{}
+{}
+{"located in": 2}
+{"located in": 2}
+{}
+{}
+{}
+{}
+{}
+{"invasion of the moon by": 1}
+{}
+{}
+{"displacement of the native american cultures there": 1}
+{}
+{}
+{"is located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1, "home base is": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"born in": 1, "located in": 1}
+{}
+{}
+{"on the border": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located 60 km from": 1, "nestled in": 1}
+{"purchased by": 1, "located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1, "part of": 1}
+{"ruled": 1, "in exile": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{"lived in": 1}
+{}
+{}
+{}
+{}
+{"located around": 1}
+{"born in": 1, "located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located on": 1}
+{"headquartered in": 1, "located at": 1, "a part of": 1}
+{}
+{}
+{}
+{}
+{"born in": 1, "grew up in": 1, "lives in": 1}
+{"located in": 1}
+{"lives in": 1}
+{}
+{}
+{"capital of": 1, "located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1, "inside": 1}
+{"located at": 1, "is a part of": 1}
+{"based in": 1, "near": 3, "in": 6, "across from": 1, "located near": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "occupies": 1, "renovated for its use": 1}
+{"now known as": 2}
+{"located in": 1}
+{"located in": 1}
+{}
+{"in orbit": 2}
+{}
+{}
+{"based in": 1, "in downtown": 1}
+{"located in": 1}
+{}
+{"launched from": 1, "located in": 1}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{"located at": 1, "is a part of": 1}
+{"of": 2, "in": 1}
+{}
+{"located in": 1}
+{"based in": 1, "formed in": 1}
+{"located in": 1}
+{}
+{}
+{"is a part of": 1, "is a refuge for": 1}
+{"located in": 1, "borders on": 2, "adjacent to": 1}
+{"located in": 1, "is conjoined to": 1, "lies at": 1, "at its south": 1}
+{"south of": 1, "located in": 1}
+{"located on": 1, "part of": 2, "across": 1}
+{"south of": 1}
+{"situated in": 1, "bordered by": 1, "located along": 1, "divided by": 1, "contains": 1}
+{"south of": 1, "managed by": 1}
+{"is an area of": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1, "in": 1}
+{"among the repertoire of": 1}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"between": 1}
+{"located in": 1}
+{"based in": 1, "located at": 1}
+{}
+{"located in": 1}
+{"champion of": 1, "located in": 1}
+{"moving to": 1}
+{}
+{"from": 1}
+{}
+{"headquartered in": 1, "located in": 1}
+{}
+{"located in": 1, "common destination being": 1}
+{"located in": 1}
+{}
+{"located in": 3, "is a part of": 1}
+{"based in": 1, "located in": 1}
+{"located in": 1}
+{"located in": 1, "of": 1}
+{}
+{}
+{"based in": 1, "hosted": 1}
+{"based in": 1, "except for": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"headquarters in": 1, "stores in": 1, "market leader in": 1}
+{"located in": 1, "part of": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located at": 1}
+{"located in": 1}
+{"located at": 1}
+{"located in": 1}
+{}
+{}
+{"inhabiting": 1, "living in": 1, "found in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"all over the country": 1}
+{"in nigeria": 2}
+{"published in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"based in": 1, "play their home games at": 1}
+{}
+{"based in": 1, "located at": 1, "moved to": 1, "settling at": 1, "returned to": 1}
+{}
+{"based in": 1}
+{"plays its games in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 2, "located at": 1, "is a part of": 1}
+{"located in": 1, "between": 1, "near": 1, "belonged to": 1}
+{"located in": 1, "part of": 1, "about 67 km west of": 1}
+{"located in": 1, "part of": 1}
+{"located at": 1, "is a part of": 1}
+{}
+{"located in": 1, "located at": 1, "is a part of": 1}
+{"located in": 1, "beneath": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"born in": 1, "moved to": 2, "settled in": 1, "published in": 1}
+{"located in": 1, "attached to": 1}
+{"occupying": 1, "near": 1, "between": 1}
+{"in": 1}
+{"located in": 1, "inside": 1, "atop": 1}
+{}
+{"located in": 1, "is a part of": 1}
+{"located at": 1, "across the street from": 1}
+{"located between": 1, "west of": 1, "adjacent to": 1, "in": 1}
+{"located near": 1, "fronting": 1, "on the banks of": 1, "on the east side of": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "at": 1}
+{}
+{"born in": 1}
+{}
+{}
+{"plays for": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"independence from": 1, "occupying some lands": 1}
+{"located in": 1}
+{}
+{"located in": 1, "arrived in": 1, "from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{}
+{"part of": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{"part of": 1, "located in": 1}
+{"located in": 1}
+{}
+{"of canada": 1, "in quebec": 1}
+{"grew up in": 1, "moved to": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{"living in": 1, "raised in": 1, "graduated from": 1, "performed at": 1}
+{"plays for": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"co-managed in": 1}
+{}
+{"formed by": 1}
+{}
+{}
+{}
+{}
+{"from": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"released in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"governing body in": 1}
+{"on": 2, "in": 1}
+{"traced to": 2}
+{}
+{}
+{"located in": 1, "moved to": 1, "is a part of": 1}
+{"located in": 1}
+{"based in": 1}
+{}
+{}
+{"native to": 1, "found in": 2, "endemic to": 1}
+{"located in": 1, "is a part of": 1}
+{"is a part of": 1, "belongs to": 1, "defined as": 1}
+{"bordered by": 1, "connects with": 1, "isthmian portion of": 1}
+{"located in": 1, "near the border": 1, "as far north as": 1, "next to": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"held in": 1, "located in": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1, "across the country": 1, "through the city's center": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "part of": 1}
+{}
+{"located in": 1, "in present-day": 1}
+{"located in": 1}
+{}
+{"located in": 1, "centred at": 1}
+{"located in": 1, "part of": 1}
+{"located in": 1}
+{"located in": 1, "belongs to": 1}
+{"located at": 1, "located in": 1, "a few blocks away": 1}
+{"located in": 1}
+{"located at": 1}
+{"located in": 1, "connected by": 1, "located mainly in": 1}
+{}
+{"located in": 1, "sister bakery to": 1, "part of": 1}
+{"located in": 1, "adjacent to": 1}
+{"based in": 1}
+{"located in": 1, "broadcast on": 1}
+{"took place in": 1}
+{}
+{"across": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "in collaboration with": 1}
+{"in": 1, "based in": 1}
+{}
+{}
+{}
+{"located across": 1, "located in": 1}
+{}
+{"situated near": 1, "looking over": 1, "across to": 1}
+{}
+{"born in": 1}
+{"located in": 1, "near": 1}
+{"located in": 1}
+{"located in": 1}
+{"played with": 3, "arrived at": 1}
+{"located in": 1, "on the southwest coast of": 1}
+{"located in": 1, "on the east coast of": 1}
+{"located in": 1, "on the west coast of": 1}
+{"located in": 1, "on the west coast of": 1}
+{"located in": 1, "on": 1}
+{"located in": 1, "off the west coast of": 1}
+{"based in": 1, "operated from": 1, "known in": 1, "extended throughout": 1, "engaged in": 1}
+{"located in": 1, "on the west coast of": 1}
+{"located in": 1, "located at": 1}
+{"located in": 1, "on the west coast of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"in": 1}
+{"located in": 1}
+{"in": 3, "under": 1}
+{"located in": 1}
+{"in": 5, "on the road": 1}
+{"located in": 1, "located at": 1, "is a part of": 1}
+{"located in": 1, "moved to": 1}
+{"played with": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "moved to": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "south of": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"between": 1, "to the southeast": 2, "at the summit of": 1, "overlooks": 1, "immediately east of": 1}
+{"from": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{}
+{"moving to": 1}
+{"located in": 1}
+{}
+{"occur around": 1, "located at": 1}
+{}
+{}
+{}
+{"based in": 1}
+{}
+{"based in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"in": 1, "at": 1}
+{"located in": 1, "located at": 1}
+{"in": 1}
+{"located in": 1, "in": 2}
+{"located in": 1, "first settled at": 1, "was named after": 1}
+{"in": 1}
+{"grew up in": 1, "resides in": 1, "located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"is a transport hub in": 1, "is roughly 310 m away from": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1, "west of": 2, "between": 1}
+{}
+{"throughout": 1, "in and around": 1}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"set in": 1, "on bbc two": 1}
+{"marketed in": 1}
+{}
+{}
+{}
+{}
+{"located on": 1, "located in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located at": 1, "located in": 1, "on the former property of": 1}
+{"hosted by": 1, "adopted in": 1}
+{}
+{"located in": 1}
+{}
+{"based in": 1, "located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "passes into": 1, "part of": 1}
+{}
+{"of": 1, "against": 1}
+{"located in": 1, "was not only": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"present day": 1, "into one indivisible territory": 1}
+{}
+{"in": 1, "on loan from": 1}
+{}
+{"from": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"member of": 2}
+{"member of the scottish team": 2}
+{}
+{}
+{}
+{}
+{"located in": 1, "is a part of": 1}
+{}
+{"funded by": 1}
+{"located at": 1}
+{"located in": 1}
+{}
+{"nationwide": 1}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"first arab state to host": 1}
+{"host country for the 2018 fifa world cup": 1}
+{"bidding to bring": 1, "first asian nation to compete in": 1}
+{"hosting": 1}
+{"hosting": 1}
+{}
+{"host": 1}
+{"in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "is a part of": 1}
+{"located in": 1, "located at": 1}
+{}
+{}
+{"from": 1}
+{"from": 1, "located in": 1}
+{"located in": 1, "visited": 1}
+{"located in": 1, "run through": 1}
+{"located in": 1, "located at": 1}
+{"based in": 1, "on selected dates in": 1}
+{"located in": 1, "in": 1}
+{}
+{"based in": 1, "visiting": 1}
+{"located in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"in": 1}
+{}
+{"takes place in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"set in": 1}
+{}
+{}
+{}
+{"located on": 1, "runs parallel with": 1, "defined as between": 1, "stretches from": 1, "north of": 1, "south of": 1}
+{"located at": 1}
+{"living in": 1, "extends north into": 1, "located in": 1, "in the area of": 1, "in the south": 1, "in the extreme north": 1}
+{"located on": 1, "located in": 1, "is on": 1, "is in": 1}
+{"located at": 2, "is a part of": 1}
+{"located at": 2, "located in": 1}
+{"located at": 1, "is a part of": 1}
+{"near": 1, "northward from": 1}
+{"at": 1, "in": 1}
+{"part of": 1, "includes": 1, "north of": 1, "to its east": 1, "to its west": 1}
+{"exclusive to": 1, "produced at": 1}
+{"located in": 1}
+{"located in": 1}
+{}
+{}
+{"based in": 3}
+{"located in": 1}
+{"based in": 1}
+{}
+{"located in": 1, "off": 1, "right off": 1, "part of": 1, "in": 3, "accessible by": 1}
+{"located in": 1, "part of": 1, "to": 3}
+{"located in": 1, "runs east from": 1, "becomes": 1, "signed as part of": 1, "designated as": 1, "travels along": 1, "stretching from": 1}
+{"is located mainly in": 1, "is at": 1, "is adjacent to": 1}
+{"located in": 1}
+{"from": 2, "in": 1}
+{"located in": 1}
+{"held by": 1, "located in": 1}
+{"located in": 1, "is a part of": 1}
+{}
+{}
+{"produced by": 1}
+{"produced by new theatres ltd. calcutta": 1}
+{}
+{}
+{}
+{"for": 1}
+{"located in": 2}
+{"produced by": 1}
+{"located at": 1, "is a part of": 1}
+{"located at": 1, "near": 1, "operates from": 2}
+{"located at": 1, "near": 1}
+{"north of": 1, "by road": 1, "on the southern border of": 1}
+{"north of": 2, "west of": 1, "located in": 1}
+{"located from": 1, "part of": 2}
+{"located at": 2, "comprises": 1}
+{"headquartered at": 1, "based at": 2, "located in": 1}
+{}
+{"headquartered at": 1, "located in": 1, "based at": 1}
+{}
+{}
+{}
+{}
+{"based in": 1, "with offices in": 1}
+{}
+{}
+{}
+{"available in": 1, "included in": 1}
+{"in particular": 1}
+{}
+{"located in": 1}
+{"published in": 1, "has readers throughout": 1}
+{"located in": 1}
+{"published by": 1}
+{}
+{"located in": 1}
+{"based in": 1, "located on": 1, "located in": 2}
+{"from": 1}
+{}
+{"from": 2, "descended from": 1, "counterpart to": 1}
+{"originated in": 1, "bred in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"after the liberation of": 1}
+{}
+{"located in": 1, "head coach at": 2}
+{"located at": 1}
+{}
+{}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{"lord of": 1, "hereditary castellan of": 1, "sheriff of the county": 1}
+{"located in": 1}
+{}
+{"located in": 1, "of": 3}
+{"located in": 1, "inherited from": 1}
+{"returned to": 2, "under house arrest": 1}
+{"based in": 1, "located in": 1}
+{}
+{"located in": 1, "belongs to": 1}
+{"part of": 1, "across": 1, "linked": 1}
+{"is an": 1, "produced": 1}
+{"plays its home matches at": 1}
+{"in": 2}
+{"located in": 1}
+{"playing in away soil": 1}
+{"born in": 1, "grew up in": 1, "posted to": 1}
+{"in": 2}
+{"born in": 1, "located at": 1}
+{}
+{}
+{"is 3 km west of": 1, "about 25 km from": 1}
+{"located 2 nm from": 1, "part of": 1}
+{"located one nautical mile southwest of": 1, "located in": 1}
+{"located in": 1}
+{"is a part of": 1, "run today as": 1}
+{"is the main police force for": 1, "located in": 1}
+{"serving": 1, "to the east": 1}
+{"located in havana": 1}
+{"located in": 1, "next to": 1}
+{"from northern peru": 1, "located in": 1}
+{"northeast of": 1, "overlooks": 1}
+{"is in": 1}
+{}
+{"in": 2, "among": 1}
+{}
+{"located in": 1}
+{"located in": 1, "on the site of": 1}
+{"located in": 1, "make up": 1}
+{"located in": 2, "located at": 1}
+{"located in": 1, "northeast of": 1}
+{"located in": 1}
+{"from": 1, "in": 1}
+{}
+{"based in": 1, "from": 3, "located in": 1}
+{"from": 1}
+{"located in": 2, "based in": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{"located in": 1, "encompassing": 1}
+{}
+{"located in": 1, "break with": 1}
+{"settled down on": 1, "located in": 1}
+{}
+{"located in": 1, "part of": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"based in": 1}
+{}
+{"on the front lines in": 1}
+{}
+{}
+{"located at": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located at": 1}
+{}
+{}
+{"stocked in": 1}
+{}
+{"published in": 1}
+{}
+{}
+{"located in": 1}
+{"based in": 1}
+{}
+{}
+{"located in": 1}
+{"located at": 1}
+{}
+{}
+{"of": 2}
+{"based in": 1}
+{}
+{}
+{"was an anglo-saxon kingdom in": 1}
+{}
+{}
+{}
+{"in": 1}
+{"located in": 1, "based in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{"located in": 1}
+{"based in": 1}
+{"from": 1, "located in": 1, "next to": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"for european release": 1}
+{"located in": 1, "across": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"made in": 1, "filmed in": 1}
+{}
+{}
+{"located in": 1, "devoted to": 1}
+{}
+{}
+{"from": 1}
+{}
+{"located on": 1}
+{"located in": 1, "at": 1}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{"based in": 1}
+{"located at": 1}
+{}
+{"located in": 1, "came from": 1, "moved to": 1}
+{"settled in": 1, "located at": 1}
+{"based in": 1, "located in": 1}
+{}
+{"located in": 1, "located at": 1}
+{"headquartered in": 1}
+{}
+{"located in": 1, "founded in": 1}
+{}
+{}
+{"located in": 1, "is a part of": 1}
+{"is a part of": 1}
+{}
+{"located at": 1}
+{"located in": 1}
+{"located at": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{"located at": 1, "in": 1}
+{"of": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "relocate to": 1}
+{}
+{}
+{}
+{}
+{"held at": 1}
+{}
+{}
+{}
+{}
+{}
+{"during the washington d.c. tryout": 1}
+{}
+{}
+{}
+{}
+{}
+{"at": 2}
+{}
+{"banned in": 1}
+{}
+{}
+{}
+{"located at": 1, "located in": 1}
+{}
+{"located at": 1}
+{"based in": 1, "located at": 1, "located in": 1, "is a part of": 1}
+{}
+{}
+{}
+{"based in": 1, "located south of": 1}
+{}
+{}
+{}
+{"native of": 1}
+{}
+{}
+{"located in": 1, "held in": 2}
+{}
+{"lives on": 1}
+{"located on": 1}
+{"located in": 1}
+{"in": 1}
+{"located at": 1, "in": 1}
+{"located in": 1, "migrating to": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located at": 1}
+{}
+{}
+{}
+{}
+{"endemic to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"native to": 1}
+{}
+{"native to": 1}
+{"endemic to": 1, "located at": 1}
+{"native to": 1, "found in": 1}
+{"native to": 2, "found only in": 1}
+{"found in": 1, "separating the ranges of": 1}
+{}
+{}
+{"found in": 1, "native to": 1, "vicinity of": 1}
+{"located in": 1}
+{"is a part of": 1, "located in": 1}
+{"located in": 1, "part of": 1}
+{"located in": 1, "adjacent to": 1}
+{"based in": 1}
+{"located in": 1, "is a part of": 1}
+{"located in": 1}
+{"located in": 2, "located on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "seated on": 1, "cutting off from": 1}
+{}
+{}
+{}
+{"located at": 1, "after problems recording at": 1}
+{}
+{"taking place in": 1}
+{"located in": 1, "is a part of": 1, "branched off into": 1}
+{}
+{"located on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "corresponds to": 1, "extended from": 1}
+{"located in": 1}
+{"occupied in": 1, "located in": 1, "northern part of": 1, "northernmost hundred in": 1}
+{"from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"held in": 1}
+{"played for": 1, "affiliated with": 1}
+{}
+{}
+{}
+{"located in": 1, "part of": 1}
+{}
+{"located in": 1, "is a part of": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "located at": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "moved to": 1}
+{"located at": 1}
+{"coast of": 1, "around": 1}
+{}
+{"on the campus of": 1, "across the street from": 1, "at the end of": 1}
+{}
+{"located at": 1, "dominates": 1, "next to": 1, "in": 1}
+{"in front of": 1, "is now home to": 1}
+{"located on": 1, "located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"from": 1}
+{"from": 1, "area of": 1}
+{}
+{}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1, "brought up in": 1}
+{}
+{"located in": 1}
+{}
+{"located in": 1}
+{}
+{"is within": 1}
+{"located in": 1, "after the foundation": 1}
+{"features": 1, "arrives in": 1}
+{}
+{}
+{"in charge of": 1, "during the last years of": 1, "after the territory's capture by": 1}
+{"of paraguay": 2, "in uruguay": 1}
+{"located in": 1}
+{"born in": 1, "served in": 1}
+{}
+{}
+{"located at": 1, "into exile": 1}
+{}
+{"between": 1, "located in": 1}
+{"situated in": 1}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "near": 5, "flows into": 2, "forms the border between": 1}
+{"on": 3, "in": 3}
+{"located near": 1, "borders": 1, "flows through": 1, "beside": 1}
+{"located in": 3, "in": 3, "on": 1, "in the western part of": 1, "in the southwestern part of": 1}
+{"located in": 1, "flows into": 2, "east of": 1, "southwest of": 1, "part of": 1, "through": 3, "next to": 1, "does not touch": 1}
+{"situated at": 1, "within": 1, "in": 3}
+{"located in": 1, "partly owned by": 1}
+{"located in": 1, "flows through": 1, "crossing the border into": 1, "joins": 1}
+{"flows north east from": 1, "into": 1, "located in": 1}
+{}
+{"located in": 1, "using it as their home stadium": 1}
+{"in the top division": 1}
+{"in the top division": 1}
+{"located in": 1, "home tie against": 1, "away game against": 1}
+{}
+{"based in": 1}
+{"located in": 1}
+{"in": 1}
+{"located in": 1}
+{}
+{}
+{}
+{}
+{"located in": 1, "was at": 1}
+{"located in": 1, "located at": 1}
+{"located in": 1, "located at": 1}
+{"located in": 1, "moved to": 1}
+{"located in": 1, "located at": 1, "is a part of": 1}
+{"located in": 1, "located at": 1, "is a part of": 1}
+{}
+{"located in": 1, "dispatches for": 1}
+{}
+{}
+{}
+{"located in": 1}
+{}
+{"located in": 1, "part of": 1}
+{"located at": 1}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"located in": 1}
+{"located in": 1, "near": 1}
+{"located in": 1, "part of": 1}
+{"away from": 1, "on the slopes of": 1}
+{"located at": 1, "part of": 1}
+{}
+{"located in": 1}
+{"located in": 1}
+{"based in": 1}
+{"located in": 1}
+{"located in": 1, "stationed in": 1}

@@ -1,0 +1,9811 @@
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{}
+{"is from": 1}
+{"is indian": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is british": 1}
+{"is from": 1}
+{"british": 1}
+{}
+{}
+{"swedish": 2}
+{}
+{}
+{}
+{"is from": 1}
+{"german": 1}
+{"canadian": 2}
+{"united kingdom": 1}
+{"United Kingdom": 1, "British": 2}
+{"of Northern Ireland": 3, "of the United Kingdom": 1}
+{"non-native americans": 1, "alaskan natives": 1, "sami people": 1}
+{"united kingdom": 1}
+{"is from": 1}
+{"us": 1, "spain": 1, "uk": 1, "italy": 1}
+{"is from": 1}
+{"united kingdom": 1}
+{"spanish": 3}
+{"scottish": 2}
+{"scottish": 1}
+{"united states": 1}
+{"united states": 5, "england": 1}
+{"scottish": 1}
+{"Scotland": 1}
+{"scottish": 1}
+{"scottish": 1}
+{"is from scotland": 1, "is from england": 1}
+{"united states": 1}
+{"united states": 1}
+{"is from": 1}
+{"is from": 1}
+{"united states": 1}
+{}
+{"norwegian": 1}
+{"canadian": 1}
+{"is from": 1}
+{"norwegian": 1}
+{"hungarian-american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is iranian": 1}
+{}
+{"is from": 1}
+{}
+{"russian-born american": 1, "is from": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{"american": 1}
+{"american": 1}
+{"in europe": 1, "in the us": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"in the united states": 1}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"tropical america": 1}
+{}
+{}
+{"test nations": 1}
+{"is from": 1}
+{"is from": 1}
+{"odi full-status teams": 2, "test nations": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from wales": 1}
+{"is from": 2}
+{}
+{}
+{"english": 1}
+{"is from": 1}
+{"english": 1}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{"church of england": 1}
+{}
+{"is from": 1}
+{"england": 1, "united kingdom": 1}
+{"is from england": 1}
+{"church of england": 1, "england": 1}
+{}
+{"church of england": 1}
+{}
+{}
+{"is from the united states": 1}
+{"europeans": 1}
+{"in some countries": 2, "in india": 1, "in greece": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"american": 1}
+{"briton": 1, "dane": 1, "frenchman": 1}
+{"japanese": 1}
+{"brazil": 1}
+{}
+{}
+{"japan": 1}
+{}
+{"is from china": 1}
+{"is from": 1}
+{"is italian": 1}
+{"welsh": 1}
+{"is from": 1}
+{"china": 1, "japan": 1}
+{"is from": 1}
+{"is from": 1}
+{"french": 1, "belgian": 1, "irish": 1}
+{"is irish": 1}
+{}
+{"is from japan": 2}
+{"is from": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{}
+{"is american": 1}
+{"american": 1}
+{"american": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is an american": 1}
+{}
+{"is from": 1}
+{"is from": 0}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 0}
+{"is from": 2}
+{"is american": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"brazil": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"singapore": 2}
+{}
+{"singapore": 2}
+{"is from": 3}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is an american": 1, "of french-canadian heritage": 1}
+{"australian": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"australian": 2}
+{}
+{}
+{"austrian": 1}
+{"albanian": 1}
+{}
+{}
+{}
+{}
+{}
+{"denmark": 1}
+{"united states": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"swiss": 1}
+{}
+{"is american": 1}
+{"british": 1, "american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{"is american": 1}
+{"is an american": 1}
+{"american": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is american": 1}
+{"hungarian": 1}
+{"is an american": 1}
+{"american": 2}
+{"is canadian": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"american": 1}
+{}
+{"american": 1}
+{"united states": 1}
+{"united states": 1}
+{"canadian": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"philippines": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from germany": 1, "is from austria": 1}
+{"italian": 1}
+{"is from": 1}
+{"is italian": 1}
+{"is from": 1}
+{"is from": 1}
+{"french": 1}
+{"native of italy": 1, "italian": 1}
+{"is from italy": 1}
+{"is from italy": 1}
+{"is from": 1}
+{"russia": 1}
+{}
+{"egyptian": 1}
+{"is from": 1}
+{"russian": 2}
+{"from russia": 1, "from abroad": 1}
+{"russian": 1}
+{"is from": 1}
+{"russian": 2}
+{"is english": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{}
+{"is from": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from iceland": 1}
+{}
+{"chinese": 2}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"united kingdom": 1, "england": 1}
+{}
+{"is from": 1}
+{}
+{"english": 1}
+{}
+{}
+{}
+{"french": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"is italian": 1}
+{}
+{"french": 1, "scottish": 1}
+{"of the united kingdom": 1, "in the uk": 2}
+{"is from": 2}
+{"republic of china": 1}
+{"indian": 1}
+{"is from": 1}
+{"republic of china": 1}
+{"is from": 1}
+{"is from taiwan": 1}
+{"malaysian": 1}
+{"from the republic of china": 1, "competing under the name of chinese taipei": 1}
+{"united states": 1}
+{"is from": 1}
+{"united states": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"is from the united states": 1}
+{"is an american": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{}
+{"united states": 1}
+{"is from": 1}
+{"is a french": 1, "is on display at the united states'": 1}
+{}
+{"is from": 1}
+{"united states": 1}
+{"canadian": 1}
+{"is from spain": 1}
+{}
+{"british": 1, "from england": 1}
+{"is from spain": 2}
+{"german": 3}
+{"british": 1, "from england": 1}
+{}
+{"is italian": 1}
+{"is from": 1}
+{"is from": 1}
+{"english": 1}
+{"is from": 1}
+{}
+{"Turkish": 1, "Greek": 1}
+{"is from": 1}
+{"bulgarian": 1, "turkish": 1}
+{"is from": 2}
+{"is from": 1}
+{"is from": 1}
+{"indian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"english": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"french": 2, "english": 1, "irish": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"jewish origin": 1, "soviet": 1}
+{"is from": 1}
+{"russian": 1}
+{"ukrainian": 1, "soviet": 1, "russian": 1}
+{"soviet": 1, "american": 1}
+{"is from": 1}
+{"soviet": 1}
+{"russian": 2}
+{"soviet": 1}
+{"based in": 1}
+{"american": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{"is from pakistan": 1, "is from british india": 1}
+{}
+{"british": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is english": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{}
+{}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"costa rican-born": 1, "african-american": 1}
+{"is from": 1}
+{"is from saudi arabia": 1}
+{"nasa's": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"from ireland": 1}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{}
+{"filipino-american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is ugandan": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 2}
+{"is british": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{}
+{"is from": 1}
+{"is from the united states": 1, "is from europe": 1}
+{"american-born": 1, "spanish": 1, "italian": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"italian": 2}
+{"is italian": 1}
+{"italian": 1}
+{"is from": 1}
+{"is from": 1}
+{"italian": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is australian": 1}
+{"is english": 1}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"united states": 1}
+{"is indian": 1}
+{"is from": 1}
+{"is from": 1}
+{"united states": 1}
+{"is from massachusetts": 1}
+{"japanese": 2}
+{"national and international": 1}
+{}
+{}
+{"american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is an": 1, "come from": 1}
+{}
+{"is canadian": 1}
+{"is from sweden": 1}
+{"is american": 1}
+{"estonian": 1}
+{"is an american": 1}
+{}
+{"estonian": 1}
+{"estonian": 2}
+{"canadian": 1}
+{"estonian": 2}
+{"estonian": 2}
+{"american": 1}
+{"based in": 1}
+{"is irish": 2}
+{"is indian": 1}
+{"united kingdom": 3}
+{"solomon islands": 2}
+{"is from": 2}
+{"british": 2}
+{"greek": 2}
+{}
+{"irish": 2}
+{"irish": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is american": 1}
+{"is an american": 1}
+{"is from": 1}
+{"british-american": 1}
+{"is british": 1}
+{"chinese": 2}
+{"american": 2}
+{"is from": 1}
+{"chinese american": 1}
+{"is a british": 1}
+{"chinese-american": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"japanese": 1}
+{"is from": 1}
+{"french": 1}
+{}
+{"french": 1}
+{"is from denmark": 1, "is from russia": 1}
+{"is from": 1}
+{"french": 1}
+{}
+{"is from": 1}
+{"is irish": 1}
+{"is from": 1}
+{"irish": 2}
+{"irish": 1}
+{"is from": 1}
+{"irish": 3}
+{"irish": 1}
+{"republic of ireland": 1}
+{"is irish": 1}
+{"is irish": 1}
+{}
+{"is from": 1}
+{"slovene": 1, "serbian": 1}
+{"is from": 1}
+{"is from": 1}
+{"russian-born": 1, "french": 1}
+{"is from tunisia": 1}
+{"is from lebanon": 1}
+{"german-born": 1, "is from": 1}
+{"is greek": 1}
+{"is from": 1}
+{"is from": 2, "of british and indian descent": 1}
+{"is from": 1}
+{"is indian": 1}
+{"is from india": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"hindi": 1, "indian": 1}
+{"is from": 1}
+{"in the united states": 1, "in developed countries": 1}
+{"eastern": 1, "western": 1, "us": 2, "european": 1}
+{"american": 1}
+{}
+{}
+{"is from the united states": 1, "is from europe": 1}
+{"jewish": 3}
+{"is from": 1}
+{"u.s.-ireland": 1, "american": 2}
+{"is from": 1}
+{"is from": 1}
+{"norwegian": 1}
+{"is from": 1}
+{"norwegian": 2}
+{"is danish": 1}
+{"is from": 1}
+{"is norwegian": 1}
+{"is norwegian": 1, "is of albanian descent": 1}
+{"is from": 1}
+{"into the united states": 1, "from mexico": 1}
+{"is from": 1}
+{"american": 1}
+{"is an american": 1}
+{"burkina faso": 1}
+{"malagasy": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"south korea": 1}
+{"is american": 1}
+{"english": 1}
+{"is american": 1}
+{"english": 1}
+{"american": 1}
+{"american": 1}
+{"english": 1}
+{"american": 1}
+{"american": 1}
+{"english": 1, "united states": 1, "united kingdom": 1}
+{"english-born": 1, "native england": 1, "australian": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is german": 1}
+{}
+{}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is indian": 1}
+{"is indian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"american": 1}
+{"is an american": 1}
+{"is an american corporation": 1}
+{"canadian": 1}
+{}
+{"is american": 1}
+{"commonwealth of kentucky": 1}
+{"american": 1}
+{"is american": 1}
+{"united states": 1}
+{"canadian": 1}
+{"is an american brand": 1, "is a european brand": 1}
+{"us": 2, "uk": 2}
+{"american": 1}
+{"is from": 1}
+{"british": 2}
+{"is from sweden": 1}
+{"ghanaian": 1}
+{}
+{"english": 1}
+{}
+{"american": 1}
+{"is american": 1}
+{"internationally co-produced": 1, "co-production of france, poland and the united states": 1}
+{"british-american": 1}
+{"is italian": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{}
+{"kazakh": 1}
+{"is american": 1}
+{"is from": 1}
+{"canadian": 1}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{"french": 1, "from guadeloupe": 1}
+{"brazilian": 1}
+{"is american": 1}
+{"american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is an american": 1}
+{"united states": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"united states": 1}
+{"united states": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"anglo-indian": 1}
+{"is australian": 1}
+{"is from": 1}
+{"is from": 2}
+{"is from": 1}
+{"roman": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from kazakhstan": 1}
+{"is from": 6}
+{"is from": 1}
+{"is from": 1}
+{"ukrainian": 2}
+{"is from": 1}
+{"norwegian": 2}
+{"is from": 1}
+{"is from": 1}
+{"dutch": 1, "scottish": 1}
+{"malaysians of ceylonese origin": 1, "sri lankan descent": 1}
+{}
+{"hutu": 1, "tutsi": 1}
+{"is from the netherlands": 1}
+{"is from": 1}
+{"is from": 1}
+{"irish": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 2}
+{"is american": 1}
+{}
+{"scottish": 1, "uk": 1}
+{"is from": 1}
+{"is from": 1}
+{"swiss": 1}
+{"swiss": 2}
+{"swiss": 1, "american": 1}
+{"is from": 1}
+{"is a swiss": 1}
+{"swiss": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"swiss": 1, "american": 1}
+{"is from": 1}
+{}
+{"is british": 1}
+{"is english": 1}
+{}
+{"american": 1}
+{}
+{"is from italy": 1}
+{}
+{"is american": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{}
+{}
+{"is from": 1}
+{"is american": 1}
+{}
+{}
+{"is from canada": 2}
+{}
+{"is from": 1}
+{"is from tennessee": 1}
+{}
+{}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"is american": 1}
+{"is american": 1}
+{"black": 2, "republican": 3, "white": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"u.s.": 1}
+{"german": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is a scottish-australian": 1}
+{"is from": 1}
+{"is from denmark": 1}
+{"is from denmark": 2}
+{}
+{"america": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is american": 1, "is canadian": 1}
+{"american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"egyptians": 2}
+{"lithuanian jewish": 1}
+{}
+{}
+{"lithuanian": 1}
+{}
+{"hungarian": 1, "lithuanian": 1}
+{"is from sweden": 2}
+{"german": 1, "poland": 1}
+{"us": 1, "uk": 1}
+{}
+{}
+{}
+{"arabic": 2}
+{"is from uk": 1, "is from usa": 1}
+{"is from": 1}
+{"afghan": 1}
+{}
+{}
+{"confederate": 1, "union": 1}
+{"is from": 1}
+{}
+{"united states": 2}
+{"american": 1}
+{"is american": 1}
+{}
+{"union": 1, "confederate": 1}
+{"is from": 1}
+{"united states": 1}
+{}
+{"is an italian": 1}
+{"british": 1}
+{"yugoslav": 3, "british": 1}
+{"british india": 1}
+{}
+{"british": 1}
+{}
+{"is a british": 1}
+{"is from": 2}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{"is from albania": 1}
+{"is american": 1}
+{"belarusian": 3}
+{"ghanaian": 1}
+{"in the united kingdom": 1}
+{"is from": 1}
+{"from gujarat": 1}
+{"is from": 1}
+{"is from": 1}
+{"indian": 1}
+{}
+{"indian": 1}
+{"from gujarat": 1}
+{"is from": 1}
+{"is from": 1}
+{"bangladesh": 1, "canada": 1, "singapore": 1, "hong kong": 1, "japan": 1, "india": 1, "pakistan": 1, "nepal": 1, "south africa": 1, "ireland": 1, "new zealand": 1, "australia": 1, "united states": 1}
+{"is from": 1}
+{"of Nepal": 4}
+{"is from": 1}
+{"united states": 3}
+{"united states": 2}
+{"is from": 1}
+{"united states": 4}
+{"is from": 1}
+{"is from": 3}
+{"nepal": 1}
+{"people's republic of china": 1, "japan": 1}
+{"is from": 1}
+{"is from": 2}
+{"is from": 1}
+{"national": 1}
+{}
+{"is from": 1}
+{}
+{"is an american": 1}
+{"is american": 1}
+{"is american": 1}
+{"american": 1}
+{}
+{"from new zealand": 1}
+{"is american": 1}
+{}
+{"american": 1}
+{"american": 1}
+{"is american": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"nationality is american": 1}
+{"is irish": 1}
+{"american": 1}
+{"czech": 2, "polish": 3}
+{}
+{"pakistan": 1}
+{}
+{"pakistani": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"german": 1}
+{"austrian": 1}
+{"austrian": 2, "hungarian": 2}
+{"belarus": 2, "poland": 2, "russian": 1, "belarusian": 1}
+{"is from": 1}
+{}
+{"is from": 1, "come from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"usa": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from britain": 1}
+{}
+{}
+{"greek": 1}
+{"turkmen": 1}
+{"basque": 2}
+{"polish": 1, "german": 1}
+{}
+{"saudi arabia": 3}
+{}
+{}
+{"slovene": 2}
+{}
+{"albania": 1, "bosnia and herzegovina": 1, "croatia": 1, "italy": 1, "montenegro": 1, "slovenia": 1}
+{"is from": 1}
+{"greek": 1}
+{}
+{"maltese": 1}
+{"is in": 1, "is located in": 1}
+{"is from": 1}
+{"german": 2, "prussian": 4}
+{"portuguese": 1}
+{"is from": 1}
+{"american": 1, "brazilian": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{"american": 1}
+{"american": 1}
+{"is american": 1}
+{"is american": 1}
+{"roman": 2}
+{}
+{"is from ancient rome": 1}
+{"roman": 3}
+{"is american": 1}
+{"is from": 1}
+{"roman": 1}
+{"is georgian": 1}
+{"ancient rome": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from massachusetts": 1}
+{}
+{}
+{"german": 1}
+{"german": 1}
+{"swedish": 2, "finnish": 1}
+{"swedish": 1}
+{"germany": 1}
+{"scottish": 1, "danish": 2, "swedish": 2}
+{"iranian": 1}
+{"finnish": 2, "swedish": 2, "german": 1}
+{"is from sweden": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"english": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"united states": 1}
+{}
+{"syrian": 1}
+{"american": 1}
+{"belgium": 1}
+{"is from denmark": 1}
+{"is from": 1}
+{"united kingdom": 2}
+{"central europe": 1}
+{}
+{"is from scotland": 1}
+{"great britain": 1, "denmark": 1}
+{"British": 2}
+{"is from": 1}
+{"is from great britain": 1}
+{"is from": 2}
+{"german": 1}
+{"german": 1, "italian": 1}
+{"is from": 1}
+{"is from": 1}
+{"french": 2, "english": 3}
+{"french": 4, "english": 2}
+{}
+{}
+{"of french origin": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"egyptian-born": 1, "armenian american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is an american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"american": 1}
+{"irish": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{}
+{"is an american": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{}
+{}
+{"is from ireland": 1}
+{"united states": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{"is american": 1}
+{}
+{"jamaican": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"united states": 1}
+{}
+{}
+{"american natives": 1}
+{}
+{"united states": 1}
+{"american": 1}
+{"canadian": 1}
+{"british-australian": 1}
+{"mongolian": 3}
+{"canadian": 1}
+{"canadian": 1}
+{"from england": 1}
+{"zambia": 1}
+{"is from": 2}
+{"united states": 1}
+{"is from": 1}
+{}
+{"american": 2, "german": 3}
+{}
+{"german": 2}
+{"france": 1}
+{"welsh": 1}
+{"american": 3, "english": 2, "uk": 1, "spanish": 1}
+{"german": 1, "polish": 1}
+{"english": 1}
+{}
+{"german": 4}
+{"barbadian": 1}
+{"american": 1}
+{"is from barbados": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{"barbadian": 1, "american": 1}
+{"american": 1}
+{"swedish": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1, "canada": 1}
+{"is from": 1}
+{"us": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 0}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is a filipina": 1, "is from america": 1, "is from the philippines": 1}
+{"american": 2}
+{"is from": 1}
+{}
+{"british": 1, "in the united kingdom": 1, "in the united states": 1, "in canada": 1}
+{}
+{"is from": 1}
+{"is english": 1}
+{"is from": 1}
+{"north america": 1, "europe": 1}
+{}
+{}
+{}
+{"is from denmark": 1}
+{"is from": 1}
+{"united states": 1, "u.s. government": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"denmark": 1}
+{"norwegian": 1}
+{"serbian": 3, "yugoslav": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from india": 1}
+{"is from": 1}
+{"is from": 1}
+{"is a hindi language": 1}
+{}
+{"is from": 1}
+{"is in the united kingdom": 1}
+{"is from": 1}
+{"united kingdom": 1, "ireland": 1}
+{"united states": 1}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{"u.s.": 1}
+{"united states": 1}
+{"united states": 1}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"is an american": 1}
+{}
+{}
+{}
+{"united states": 3}
+{"united states": 3}
+{"allies": 1}
+{"german": 3, "american": 3, "soviet": 1, "french": 1}
+{"united states": 1}
+{"united states": 2, "french": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"united states": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"australian": 1}
+{"is american": 1}
+{"english": 1}
+{"is from": 1}
+{"irish": 1}
+{"based in": 1}
+{"based in": 3}
+{}
+{"irish": 3}
+{}
+{"is from": 1}
+{"irish": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{"australian": 1}
+{"australian": 3}
+{"is australian": 1}
+{"is australian": 1}
+{"australian": 4}
+{"is australian": 1}
+{"is from": 1}
+{"is a green party in the australian state of queensland": 1, "member of the federation of the australian greens": 1}
+{"is australian": 2}
+{"is australian": 2}
+{"is an english australian": 1}
+{"is from": 1}
+{"is australian": 1}
+{"is from australia": 1}
+{"is australian": 1}
+{"is australian": 1}
+{"is from": 1}
+{"is from australia": 1}
+{"is from australia": 1}
+{"is from": 1}
+{"spanish": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{"is from": 1}
+{"u.s.": 2}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is cameroonian": 1}
+{}
+{"is from": 1}
+{"canadian": 3}
+{}
+{"united states": 2}
+{"is american-australian": 1, "is australian": 1}
+{"is from": 1}
+{"U.S. government": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"australian": 1}
+{"australia": 1}
+{"australian": 1}
+{"australian": 1}
+{"is from": 1}
+{"is from australia": 1}
+{}
+{}
+{"greek": 1}
+{"american-british": 1}
+{"is from": 1}
+{"is american": 1}
+{"british-american": 1}
+{"klingon": 3}
+{}
+{"is from": 1}
+{"is from": 1}
+{"french": 2}
+{"is from poland": 1}
+{"is from": 1}
+{"italian": 2}
+{"is from": 1}
+{"glaswegian": 1, "scottish": 1}
+{"american": 1}
+{"is italian": 1}
+{"african american": 1}
+{"afrodescendant": 1}
+{"from uttar pradesh": 1, "from india": 1}
+{"indigenous people of the americas": 1}
+{"native american": 1}
+{"United States": 2}
+{"u.s. states": 1}
+{"u.s.": 1}
+{"seminole indians": 1, "united states navy": 1, "miccosukee": 1}
+{"native american": 1, "federally recognized": 2}
+{"black indians": 1}
+{"is from": 1}
+{}
+{"english": 3}
+{"is american": 1}
+{"united states": 2}
+{"swedish": 3}
+{"united states": 1}
+{"united states": 1}
+{"american": 1}
+{"is american": 1}
+{"india-based": 1}
+{}
+{"is from": 1}
+{"is from india": 1}
+{"based in": 1}
+{}
+{"is from": 2}
+{}
+{"Canadian": 2}
+{"is an american": 1}
+{"is american": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{}
+{}
+{}
+{"is from": 2}
+{}
+{"is an american": 1}
+{"is from": 1}
+{}
+{"is from": 2}
+{"is american": 1}
+{"is from": 2}
+{"germany": 1, "sweden": 1}
+{}
+{"sweden": 1, "czechoslovakia": 1, "united states": 1}
+{}
+{}
+{"us": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"american": 1, "swiss": 1, "west german": 1}
+{"american": 1, "austrian": 1}
+{"american": 1}
+{}
+{}
+{"is from": 1}
+{"based in chicago": 1}
+{"is finnish": 1}
+{"australian": 1, "british": 1, "chinese-australian": 1}
+{"united states": 3}
+{}
+{"is american": 1}
+{"united states": 1}
+{"is american": 1}
+{"polish": 1}
+{"american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from the united states": 1}
+{"is from the united states": 1}
+{"is american": 1}
+{"united states": 1}
+{"is from england": 1}
+{"is from": 1}
+{"soviet": 1, "united states": 1}
+{}
+{"is an english": 1}
+{"american": 1}
+{"is from": 1}
+{"uk": 1}
+{"is from": 1}
+{}
+{}
+{"british": 1}
+{"is from": 1}
+{"british": 2}
+{"is from": 1}
+{"is british": 1}
+{"is irish": 1}
+{"is american": 1}
+{}
+{}
+{"united states": 1}
+{"chinese": 2}
+{}
+{"is from": 1}
+{"united states": 1}
+{"united states": 2}
+{"united states": 1}
+{"chinese": 1}
+{"is from": 1}
+{"united states": 1}
+{"american": 1, "english": 1}
+{"english": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"united kingdom": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 2}
+{}
+{"english": 1}
+{"is from": 1}
+{"from around the world": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"american": 1}
+{"is british": 1}
+{"is from": 1}
+{"is from": 1}
+{"is australian": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from japan": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"english-language": 1, "german": 1}
+{"is from": 1}
+{"is irish": 2}
+{"swedish": 2}
+{"italian": 1, "german": 1}
+{}
+{"german": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is american": 1}
+{}
+{"american": 1, "japan": 2}
+{}
+{"english": 1}
+{"uk": 1, "us": 1}
+{"english": 1}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"serbian": 2}
+{"is from": 2}
+{"is a professional chinese": 1}
+{"is chinese": 1}
+{"native to china": 1, "in china": 2}
+{"south indian": 1}
+{"chinese": 1}
+{"is from": 1}
+{"dutch": 1, "netherlands": 1}
+{}
+{}
+{}
+{}
+{}
+{"united states": 2, "canada": 1, "china": 1}
+{"french-reunionais": 1, "malagasy": 3}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"american": 2}
+{"american": 3}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is american": 2}
+{"is from": 1}
+{"from orlando, florida": 1}
+{"is from": 1}
+{"is english": 1}
+{"is from": 1}
+{"is from": 1}
+{"armenian": 2, "russian": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"British": 1}
+{}
+{"northern irish": 1}
+{"sri lankan": 2}
+{"north korean": 1, "us": 1}
+{"qing dynasty": 1}
+{"roman catholic": 1}
+{"u.s.": 2}
+{"Sri Lankan": 3}
+{"russian": 2, "ukrainian": 1, "baltic states": 1}
+{"pennsylvania": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"in the u.s.": 1}
+{}
+{}
+{"is from": 2}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"austrian": 2}
+{"austrian": 1}
+{"slovenian": 1, "austrian": 1}
+{"austrian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 2}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{"hungarian": 1}
+{"hungarian": 1}
+{"hungarian": 1}
+{"hungary": 1}
+{}
+{"british": 1}
+{"eastern european": 1, "romanian": 1, "arabic": 1, "north african": 1}
+{"english": 2}
+{"is hungarian": 1}
+{"is english": 1}
+{"is a dutch national museum": 1}
+{"dutch": 1}
+{"dutch": 3}
+{"is a dutch museum": 1, "is a german/dutch cooperation": 1}
+{"is from": 1}
+{"is dutch": 1}
+{"is from": 1}
+{"the netherlands": 1}
+{"dutch": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"english": 1}
+{}
+{"is from": 1}
+{}
+{"from brazil": 1, "from ivory coast": 1}
+{"is from": 1}
+{}
+{"is scottish": 1, "is american": 1}
+{}
+{}
+{"is scottish": 1}
+{"scottish": 1}
+{"is from": 0}
+{"american-scottish": 1}
+{"is scottish": 1}
+{"is scottish": 1}
+{"russian": 1}
+{"british": 1, "swedish": 1}
+{"american": 1, "soviet": 1}
+{"british": 1}
+{"is english": 1}
+{}
+{"swedish": 1}
+{"is from": 1}
+{"soviet russian": 1}
+{"swedish": 3, "british": 1}
+{"british": 2}
+{"is british": 1}
+{"is from": 1}
+{"is from": 1}
+{"british": 1}
+{"is british": 1}
+{"is from": 1}
+{"is from great britain": 1, "is from england": 1}
+{"is from": 1}
+{"is irish": 1}
+{}
+{"saudi arabia": 1, "yemen": 1, "oman": 1, "egypt": 1}
+{}
+{}
+{}
+{}
+{"chinese": 1}
+{"african": 1, "arabia": 1}
+{"is from": 1}
+{"africa": 1, "eurasia": 1, "united states": 1, "mexico": 1, "canary islands": 1, "southern europe": 1, "asia": 1, "texas": 1, "california": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{}
+{}
+{"is from": 1}
+{"american": 1}
+{"is american": 2}
+{"is american": 1}
+{"french-american": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is british": 1}
+{"walt disney": 1}
+{}
+{}
+{}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 2}
+{}
+{"south korean": 1}
+{"american": 1}
+{}
+{"azerbaijan": 2, "germany": 1, "montenegro": 1, "armenia": 1, "poland": 1}
+{"is american": 1}
+{"is from canada": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"ottoman": 2}
+{"ottoman": 3}
+{"ottoman": 2}
+{"ottoman": 3}
+{"ottoman": 2}
+{"ottoman": 3}
+{"ottoman": 2}
+{"ottoman": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"from london": 1, "from new york city": 1}
+{}
+{}
+{"serbian": 1, "former yugoslav": 1}
+{"from belgrade": 1, "former yugoslav": 3}
+{"serbian": 1, "yugoslav": 1}
+{"serbian": 1, "yugoslav": 2}
+{"serbian": 1, "former yugoslav": 1}
+{"serbian": 1, "former yugoslav": 1}
+{"serbian": 2, "former yugoslav": 2}
+{"yugoslav": 3}
+{"serbian": 1, "former yugoslav": 1}
+{"american": 1}
+{"united states": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is american": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"from england": 2}
+{"is from": 1}
+{}
+{"is an american": 1}
+{}
+{"is american": 1}
+{}
+{"american": 1, "french": 1}
+{"american": 1}
+{"american": 1}
+{}
+{"white": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{}
+{"from romania": 1}
+{"is from france": 1}
+{}
+{"is from france": 1}
+{"is from": 1}
+{"is from the united states": 1}
+{"from uruguay": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from england": 1}
+{"english": 2}
+{"estonian": 1}
+{"afghan": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 2}
+{"is from": 1}
+{"is from": 1}
+{}
+{"french": 1, "polish": 2}
+{"is from": 1}
+{"is american": 1}
+{"is polish": 1, "is french": 1}
+{"is from": 1}
+{"is an american": 1}
+{}
+{"is from": 2}
+{}
+{"is italian": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"united kingdom": 1}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"united states": 1}
+{"south korea": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{"is american": 1}
+{"is american": 1}
+{}
+{"american": 1}
+{"american": 1}
+{"confederate": 4}
+{"american": 1}
+{"united states": 1, "u.s. army": 2}
+{}
+{"is from": 1}
+{"china": 1}
+{"is from": 1}
+{}
+{"is endemic to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from taiwan": 1, "is from the united states": 1}
+{"venezuelan": 1}
+{"is from": 1}
+{"is from": 1}
+{"german": 1}
+{"is from germany": 1, "German composer": 1}
+{"is from": 1}
+{"is from": 1}
+{"catholic": 1, "protestant": 1}
+{"english": 1}
+{"english": 1, "scottish": 1}
+{"is irish": 1}
+{"is from": 2}
+{"of ireland": 3, "irish": 2}
+{"is from": 1}
+{"of england": 1, "of scotland": 1, "of ireland": 1}
+{"is from": 1}
+{"scottish": 1, "english": 1, "irish": 1}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"is from nepal": 1}
+{}
+{"united states": 1}
+{}
+{"is american": 1}
+{}
+{}
+{"was a federally chartered railroad": 1, "backed with government land grants": 1}
+{"is from": 1}
+{}
+{}
+{"is danish": 1}
+{"danish": 1}
+{"bahraini": 3}
+{"danish": 1}
+{"is danish": 1}
+{"is danish": 1}
+{"is danish": 1}
+{"is danish": 1}
+{"is danish": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"located outside the United States": 1}
+{"chinese": 2}
+{"is from": 2}
+{"is from": 1}
+{"french": 1}
+{"united states": 1}
+{"from india": 1, "from africa": 1, "from the middle east": 1}
+{}
+{"japanese": 1}
+{"is american": 1}
+{}
+{"is a swiss manufacturer": 1}
+{}
+{"is a british": 1}
+{"is from": 1}
+{"is chinese": 1}
+{}
+{"swiss": 1}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"american": 1}
+{"french": 1}
+{"is from western europe": 1}
+{"is american": 1}
+{"french": 3}
+{"french": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is french": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"u.s.": 1}
+{}
+{}
+{}
+{"is american": 1}
+{"australian": 1}
+{}
+{}
+{}
+{}
+{"lesotho": 1, "south africa": 1}
+{"is from": 1}
+{"spanish": 1, "english": 1, "usa": 1}
+{}
+{"afghanistan": 1}
+{}
+{"from china": 1}
+{}
+{}
+{"is english": 1}
+{"is american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{}
+{"american-canadian": 1}
+{}
+{"german": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"german": 1}
+{}
+{"german": 2}
+{}
+{"german": 1}
+{"is indian": 1}
+{"is from india": 1}
+{"is from": 1}
+{"is from punjab": 1}
+{"punjabi": 1}
+{"punjabi": 2, "indian": 1}
+{"is indian": 1}
+{"is indian": 1, "is punjabi": 1}
+{"is from": 1}
+{"is indian": 1}
+{}
+{}
+{}
+{}
+{}
+{"in countries where it is used": 1, "in europe": 1, "in australia": 1}
+{}
+{}
+{"in australia": 1}
+{"mayans": 1, "mexico": 1, "central america": 1}
+{}
+{"united states": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is japanese": 1}
+{"is from nigeria": 1}
+{}
+{"is from russia": 1}
+{}
+{"is austrian": 1}
+{"is japanese": 2}
+{"barbadian": 2}
+{"is from japan": 1}
+{"english-born": 1, "australian citizen": 1, "british-born": 1}
+{"is from australia": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"united states": 1}
+{"united states": 1}
+{}
+{}
+{}
+{"united states": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from venezuela": 1}
+{"is from": 1}
+{"argentina": 1, "brazil": 1}
+{"is ecuadorian": 1}
+{"brazil": 2, "argentina": 1}
+{"south american": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{"is american": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"swedish": 1}
+{"is english": 1}
+{"english": 1}
+{}
+{}
+{"is from england": 1}
+{"is italian": 1, "is english": 1}
+{"is from": 1}
+{"american": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is from": 0}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is an american": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"jewish": 2}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"united states": 1}
+{"united states": 1}
+{"united states": 1}
+{"united states": 1}
+{"united states navy": 1}
+{"is from": 1}
+{"is from": 1}
+{"united states": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 2}
+{"is from": 1}
+{"is from": 1}
+{"is a british": 1}
+{"is american": 1}
+{"is american": 1}
+{"romanian": 1, "argentinan": 1, "united states": 1, "uk": 1, "france": 1, "germany": 1, "italy": 1}
+{}
+{"united states": 1}
+{"is from": 1}
+{"is american": 1}
+{"german": 2, "french": 2}
+{"american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"australian": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"from columbus, ohio": 1}
+{"chinese": 1}
+{"chinese": 1}
+{"chinese": 1}
+{"italian": 1, "sicilian": 2, "greek": 1}
+{"frankish empire": 1}
+{"greek": 1}
+{"iranian": 2}
+{"italian": 1, "sicilian": 1, "greek": 1}
+{"greek": 1}
+{"island's": 1}
+{"greek": 3}
+{"is from": 1}
+{"greek": 1}
+{}
+{}
+{"united states": 1}
+{}
+{"united states": 1}
+{}
+{}
+{"united states": 1}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"austrian-born american": 1}
+{}
+{"is from": 1}
+{"israeli": 1, "mizrahi": 1, "u.s.-israeli": 1}
+{"is from": 1}
+{"is from north america": 1}
+{}
+{}
+{"is from": 2}
+{"national squad": 1}
+{"is from": 2}
+{"is from": 4}
+{"is from": 1}
+{"independent nation": 1}
+{}
+{"is from": 1}
+{"is an american": 1}
+{}
+{}
+{"is american": 1}
+{}
+{"dutch": 1, "israeli": 1}
+{}
+{"american": 1}
+{"dutch": 1}
+{"american": 1}
+{"is from sweden": 1}
+{"british": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is british": 1}
+{"american": 1}
+{"african americans": 1}
+{"is from": 1}
+{"is from mexico": 1}
+{"is from": 1}
+{"american": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"czech": 1, "german": 2}
+{"british": 1}
+{"of the bamum": 2}
+{}
+{"german": 2}
+{"american": 1}
+{"american": 2}
+{"american": 1}
+{"is from": 1}
+{"american": 1}
+{"japanese": 1}
+{"german": 1}
+{"german": 1}
+{"imperial japanese army": 1}
+{"german": 2, "polish": 2}
+{"canadian": 2}
+{"indian": 1, "british": 1, "german": 1}
+{"german": 1}
+{"german": 3, "british": 2}
+{"British": 2, "German": 2}
+{}
+{"german": 2, "french": 2}
+{"german": 2}
+{"german": 3, "austro-hungarian": 1, "romanian": 1}
+{"is from": 1}
+{"english": 1}
+{"welsh": 1}
+{"from russia": 1}
+{"is from": 1}
+{"is scottish": 1}
+{"is from": 2}
+{"is from": 1, "national representative": 1}
+{"is american": 2}
+{"is from": 2}
+{"is italian": 1}
+{"is a former spanish": 1, "of catalan ethnicity": 1}
+{"is one of the most successful national football teams": 1, "come from": 1}
+{"countries": 1}
+{"is from": 3}
+{"is from argentina": 1}
+{"is from australia": 2}
+{"is from": 1}
+{"scottish": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{}
+{"english": 1, "german": 1}
+{"united states": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"is from": 1}
+{}
+{"from": 1}
+{}
+{"is from": 1}
+{"is an american": 1}
+{"is american": 1}
+{"is from portugal": 1, "is from france": 1, "is from america": 1}
+{"is from": 1}
+{"from seattle, washington": 1}
+{}
+{"is from": 1}
+{"japan": 1}
+{}
+{"based in": 1}
+{"is from": 1}
+{"united states": 2}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"irish": 1, "united states": 1, "united kingdom": 1}
+{"is from": 1}
+{"is from": 3}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{}
+{"is american": 1}
+{"is american": 1}
+{"is from the united states": 1}
+{}
+{"is from": 1}
+{}
+{"american": 1}
+{}
+{"toronto": 2}
+{}
+{"American": 1, "British": 2}
+{}
+{"is from": 1}
+{}
+{}
+{"finnish": 2}
+{"is from finland": 1}
+{}
+{"is from": 1, "of irish descent": 1}
+{"is from": 1}
+{}
+{"finnish": 1}
+{"is from finland": 1}
+{"is from": 1}
+{"is irish": 1}
+{"irish": 1}
+{}
+{"is from": 1}
+{"international": 1}
+{"irish": 1}
+{}
+{"irish": 2}
+{"is irish": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"african-american": 2}
+{}
+{}
+{"is an american": 1, "owned by finnish": 1}
+{"is a german": 1}
+{"albanian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is japanese": 1}
+{"is american": 1, "is canadian": 1}
+{"is from": 1}
+{"is canadian": 1}
+{"danish": 1, "swedish": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from the united states": 1}
+{"jewish": 1}
+{"is from": 1}
+{"is american": 1}
+{"south korean": 1}
+{"is an american": 1, "english": 1}
+{"united states": 1}
+{"iranian": 2}
+{}
+{"is from": 1}
+{}
+{"south sotho": 1, "lesotho": 1, "south africa": 1}
+{}
+{"is from": 1}
+{"worldwide": 1}
+{}
+{}
+{"is american": 1}
+{}
+{"is from": 3}
+{}
+{"national aeronautics and space administration": 1}
+{"nations involved": 1}
+{"is from": 1}
+{"kazakhstan": 1}
+{}
+{}
+{}
+{"tropical africa": 1}
+{}
+{}
+{"united kingdom": 1, "germany": 1}
+{}
+{}
+{"native to the americas": 1, "known from sichuan, china": 1}
+{"british": 1}
+{"irish": 1}
+{"australian": 1}
+{"united kingdom": 1, "us": 1, "canada": 1}
+{"scandinavian countries": 1}
+{"is from": 1}
+{}
+{"american english": 1, "australian english": 1, "british english": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"czech republic": 1, "slovakia": 1, "sweden": 1, "finland": 1, "russia": 1, "canada": 1}
+{"is from": 1}
+{"is from": 1}
+{"Italian": 2}
+{"is from japan": 2}
+{"japanese": 1}
+{"ukrainian": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{}
+{}
+{"new zealand": 2}
+{}
+{}
+{"antigua and barbuda": 4}
+{"is from": 2}
+{"australia": 1}
+{}
+{}
+{"pakistani": 3}
+{"south australian": 1}
+{"bhutanese": 1}
+{}
+{"british virgin islands": 5, "united kingdom": 1}
+{}
+{"not native to the united states": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"southern california": 1}
+{"is american": 1}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{"in the united states": 1, "internationally": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"american": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is from": 4}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is a public liberal arts college": 1}
+{"american": 1}
+{"is from": 1}
+{"united states": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from memphis, tennessee": 1}
+{"south american": 3}
+{}
+{"is american": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"is japanese": 1}
+{"is an american": 1}
+{}
+{}
+{"is american": 1}
+{}
+{"jamaican-american": 1, "from the united states": 1}
+{"japanese": 2}
+{"japanese": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"japanese": 1}
+{"japanese": 1}
+{"is from japan": 1}
+{"is from": 1}
+{}
+{"british": 2}
+{"united kingdom": 1}
+{"american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"scottish": 1}
+{}
+{}
+{"is from": 1}
+{"american": 1}
+{"rwandan": 3, "tutsi": 2, "hutu": 2, "pygmy batwa": 1}
+{}
+{"rwandan": 2, "hutu": 2, "tutsi": 1}
+{"from rwanda": 1}
+{"rwandan": 1}
+{"Rwandan": 3}
+{"rwandan": 1, "burundian": 1}
+{"Rwandan": 2}
+{"indian": 3}
+{"is from england": 1}
+{"british": 1}
+{"is from": 1}
+{"is from": 1}
+{"is english": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"english": 1}
+{"from illinois": 2}
+{"united states": 1}
+{"is from": 1}
+{"is from": 1}
+{"u.s.": 1}
+{"united states": 1}
+{"from massachusetts": 3}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"jamaican": 3}
+{"local cuisines of the african great lakes region": 1, "southern africa": 1}
+{"chinese": 1, "buddhist": 1}
+{}
+{"south asian": 1, "united kingdom": 1}
+{"scottish": 1}
+{"chinese": 1}
+{}
+{"from belgium": 1}
+{}
+{"is from": 1}
+{}
+{"new zealander": 1}
+{"is from brazil": 1}
+{"american": 1}
+{"maryland": 1}
+{"american": 1}
+{"is from": 2}
+{"is from": 1}
+{"is a danish": 1}
+{"hispanic-american": 1}
+{"is from": 1}
+{"is from": 0}
+{"is from": 1}
+{"is american": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is a british": 1}
+{}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"british": 1}
+{"is british": 1}
+{"american": 1}
+{"british": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"south korean": 1}
+{"from the united states": 1, "from latin america": 1, "from spain": 1}
+{"south korean": 2, "african american": 1}
+{"is from india": 1}
+{"french": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is german": 1}
+{}
+{"dutch": 2}
+{}
+{"is from": 1}
+{"belgian-origined": 1}
+{"dutch": 1, "flemish": 1}
+{"is from": 1}
+{"is from": 1}
+{"german": 1}
+{"is from": 1}
+{"french-italian": 1}
+{"american": 1}
+{"is from france": 1}
+{"united kingdom": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from england": 1}
+{"hindi": 1}
+{"is from": 2}
+{"is from": 2}
+{"is from": 1}
+{"bengali indian": 1}
+{"is from bollywood": 1}
+{}
+{"dutch": 2}
+{"is from": 1}
+{"american": 1}
+{"is american": 1}
+{"american": 1}
+{"lao": 3}
+{"american": 1}
+{"is english": 1}
+{}
+{"mexican": 1}
+{"is italian": 1}
+{}
+{"is german": 1}
+{"american": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{"english": 2}
+{"taiwanese": 2}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 2}
+{"russian american": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from south africa": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"from queens": 1}
+{}
+{"mexican": 3, "u.s.": 1}
+{"mexican": 3}
+{"is from": 1}
+{"indonesian": 2}
+{"iraqi": 2, "kurdish": 2}
+{"mexican": 3}
+{"mexican": 3}
+{}
+{"british colonies": 1, "american indian tribes": 1}
+{"Qatari": 1, "Bahraini": 1}
+{}
+{"is american": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1, "of serbian origin": 1}
+{"american": 1}
+{"german-american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"british": 1}
+{"is from": 1}
+{"is english": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"is american": 1}
+{"virginia": 3, "commonwealth of virginia": 1}
+{"american": 1, "french": 1, "british": 2}
+{"american": 2, "british": 1}
+{"american": 1, "british": 1}
+{"american": 1}
+{"is from": 1}
+{"american": 2}
+{"national army of the thirteen colonies": 1, "independent united states": 1}
+{"american": 1}
+{"israeli": 1}
+{"american": 1}
+{"is from new york": 1}
+{}
+{"is american": 1}
+{}
+{}
+{"is american": 1}
+{"is from": 1}
+{}
+{"indian": 1}
+{"united states": 2}
+{"german": 3, "republic of ireland": 1}
+{"canadian": 1, "british": 1, "indian": 1}
+{"somalia": 2}
+{"japanese": 1}
+{"japanese": 1, "united states": 2, "united kingdom": 1}
+{"canadian": 3}
+{"pakistani": 4, "u.s": 1}
+{"British": 1, "American": 1, "German": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{"southern united states": 1}
+{}
+{"is from": 1}
+{}
+{"is from sweden": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{"british": 1}
+{}
+{"british": 2}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{"soviet": 1}
+{"indigenous": 1}
+{"mexican": 1, "egyptian": 1}
+{"is somali": 1}
+{"is from": 1}
+{"ethiopian": 1}
+{"is from": 1}
+{"is iraqi": 1}
+{}
+{"moroccan": 3}
+{}
+{"u.s.": 1}
+{}
+{}
+{}
+{"united states": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"spanish-born mexican": 1}
+{}
+{"is from": 1}
+{"puerto rican": 2, "mexican": 3}
+{"is from the united kingdom": 1}
+{"american": 2}
+{"venezuelan-american": 1, "mexican": 1}
+{"is from": 1}
+{"is mexican": 1}
+{"is a mexican": 1}
+{"is australian": 2}
+{"is from": 1}
+{"is from": 2}
+{"pakistani": 2}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is australian": 2}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"city of baltimore": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"american": 2}
+{}
+{"is american": 1}
+{"u.s": 1, "american": 1}
+{"is an american": 1}
+{"is an american company": 1, "in canada": 1}
+{"is an american": 1}
+{"is from": 1}
+{}
+{"mexican": 1}
+{"norwegian": 1}
+{}
+{"german": 2}
+{"is an american": 1}
+{"is from japan": 2}
+{"american": 1}
+{"norwegian": 2}
+{"is from": 1}
+{}
+{}
+{"canadian": 1}
+{}
+{"united kingdom": 1}
+{"is american": 1}
+{"mississippians": 1}
+{"u.s.": 1}
+{"is from": 1}
+{"canadian": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"northern irish": 1}
+{"is from": 1}
+{"is english": 1}
+{"is from": 2}
+{"is from": 1}
+{"is from the uk": 1, "is from the usa": 1}
+{"is american": 1}
+{}
+{"united states": 1}
+{}
+{"is from": 2}
+{"united states": 1}
+{"is from south korea": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"new zealand": 1}
+{"british virgin islands": 1, "belize": 1}
+{"english": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is endemic to": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"is from": 1}
+{"is danish": 1}
+{}
+{"is from": 1}
+{"australian": 2}
+{"in america": 1}
+{"is canadian": 1}
+{"white man": 2, "african american": 2, "united states": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is from": 2}
+{"south korean": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{}
+{"american": 1}
+{"argentine": 1}
+{"is mexican": 1}
+{"mexican": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"mexican": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from mexico": 1}
+{"american": 1}
+{}
+{}
+{}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{}
+{"israel": 1}
+{"islamic tradition": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"israelites": 1}
+{"arabic": 2}
+{}
+{"islam": 1, "muslims": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"united states": 1}
+{"united states": 1}
+{"united states": 1}
+{"united states": 1}
+{"us": 1, "uk": 2}
+{}
+{"is scottish": 1}
+{"english": 1, "uk": 3}
+{}
+{}
+{"is from": 1}
+{"welsh": 1}
+{"british": 1}
+{"is australian": 1}
+{"french": 2, "german": 3}
+{"kashubians": 3, "united states": 1, "canada": 1, "brazil": 1}
+{"french": 2}
+{}
+{"belgian": 1}
+{}
+{"prussian": 1, "german": 2, "french": 1}
+{"is from": 2}
+{"french": 2}
+{"french": 1}
+{"is from": 1}
+{"from iowa": 1}
+{"union army": 1}
+{}
+{"confederate": 2}
+{"confederate": 3, "south carolina": 3}
+{}
+{"confederate": 3}
+{}
+{"is from": 1}
+{}
+{}
+{"is american": 1}
+{"south korean": 2}
+{}
+{"is american": 1}
+{}
+{"indigenous": 1}
+{}
+{"is american": 1}
+{}
+{"english": 1}
+{}
+{"is english": 1}
+{"from": 1}
+{}
+{}
+{"is english": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"english": 2}
+{}
+{"trinidad and tobago": 3}
+{}
+{"is from": 1}
+{}
+{}
+{"is english": 1}
+{"swedish": 2}
+{}
+{"is scottish": 1}
+{"is british": 1}
+{"scottish": 1}
+{"is a british": 1}
+{"is an english": 1}
+{"is scottish": 1}
+{"is scottish": 1}
+{"is scottish": 1}
+{}
+{}
+{"united kingdom": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"western christian": 1, "eastern christian": 1, "dutch": 1, "german": 1, "polish": 1, "ukrainian": 1, "american": 1}
+{"is american": 1}
+{"american": 1, "italian-american": 1}
+{}
+{}
+{}
+{"american": 1, "english": 1}
+{"is from australia": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{}
+{"from poland": 1, "from ukraine": 1, "from eastern europe": 1}
+{"scandinavian": 2, "norwegian": 1, "american": 1}
+{"is american": 2}
+{"american": 1}
+{"is from the united states": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"native american": 1, "european": 2, "american": 2, "canadian": 1, "mexican": 2, "spanish": 1}
+{}
+{}
+{"native to Australia": 1}
+{"australian": 1}
+{}
+{"australian": 1}
+{}
+{"australian": 1}
+{"native to africa": 1}
+{}
+{}
+{"is from": 1}
+{"american": 1, "italian": 1}
+{"telugu": 1}
+{"is from canada": 1}
+{"tamil": 1}
+{"is from": 1}
+{"american": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"swiss": 1}
+{"swiss": 1}
+{"is from switzerland": 1}
+{"is from": 1}
+{"from paszab, hungary": 1, "roma": 1}
+{"is from": 1}
+{}
+{"swiss": 3}
+{"is from": 1}
+{"is from spain": 1}
+{"is english": 1}
+{"french": 1, "spanish": 1}
+{"is an american": 1}
+{"is from": 1}
+{}
+{"spanish": 1}
+{"american": 1}
+{}
+{"is from": 1}
+{"roman": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is a roman": 1}
+{"is from": 1}
+{"german": 1}
+{"american": 1, "african-american": 2}
+{"is from": 2}
+{"african american": 2}
+{"is from": 1}
+{"is from": 1}
+{"from aberdeen": 1}
+{"british": 1}
+{"is from the united kingdom": 1}
+{"is irish": 1}
+{}
+{}
+{"british": 1}
+{"is from": 1}
+{}
+{"australian": 1}
+{"is from": 1}
+{}
+{"united states": 2}
+{"is from north carolina": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"european union": 1, "australia": 1, "new zealand": 1, "canada": 1, "ireland": 1}
+{"is from": 2}
+{"japanese": 1, "thai": 2, "indonesian": 2}
+{"is from": 1}
+{"commonwealth": 2}
+{"is from": 1}
+{"is from": 1}
+{"is an american": 1}
+{"american": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{"russian": 1}
+{"german": 2}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"south korean": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"french": 2}
+{"french": 1}
+{"french": 1}
+{"is from": 1}
+{"french": 1}
+{"french": 1}
+{"is a cameroonian": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"hong kong": 2}
+{"is from": 1}
+{"united kingdom": 2, "uk": 2}
+{"is from": 1}
+{"is from hong kong": 1, "is from new york": 1}
+{"chinese": 1}
+{}
+{"lithuanian": 2}
+{"black": 3}
+{"is swedish": 1}
+{"german": 2}
+{"german": 1}
+{"palestinian": 1, "arab": 1, "israeli": 2}
+{"canada": 3}
+{"china": 2}
+{"is from": 1}
+{}
+{"is british": 1}
+{"anglo-irish": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is welsh": 1}
+{"is from": 1}
+{"is from": 1}
+{"is based in": 1}
+{"is irish": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{}
+{}
+{}
+{"is from the united kingdom": 2}
+{}
+{"is from england": 1}
+{}
+{}
+{}
+{"is a part of": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"hainanese": 1, "from singapore": 1}
+{"is from": 2}
+{}
+{"icelandic": 1}
+{}
+{"australian": 1}
+{"is from": 1}
+{"singapore": 3}
+{}
+{}
+{}
+{"is from": 1}
+{"india": 1, "pakistan": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is an american": 1}
+{}
+{"is american": 1}
+{"united states": 2}
+{"u.s.": 1}
+{"is american": 1}
+{"united states": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{}
+{"england": 1}
+{"new zealand": 2}
+{}
+{"english": 1}
+{"is from": 1}
+{"is from england": 1}
+{"United States": 1}
+{"is from": 1}
+{"american": 1}
+{"is thai": 1}
+{"from birmingham uk": 1, "uk": 2}
+{}
+{"english": 1}
+{}
+{"in canada": 1}
+{}
+{"american": 1}
+{"us": 1}
+{}
+{}
+{"is from": 1}
+{"argentine": 2}
+{"spanish": 1}
+{}
+{"argentine": 1}
+{"chilean": 1}
+{"is from": 1}
+{"argentine": 1}
+{"paraguayan": 2}
+{"georgian-born": 1, "soviet": 2}
+{"hindu": 2, "muslim": 1}
+{"bengal": 3}
+{"from pakistan": 1}
+{"of bengal": 3, "of orissa": 1}
+{"yazidi": 1, "kurdish": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"international": 1, "privately held": 1}
+{"is from": 1}
+{"is from bermuda": 1, "is from ohio": 1, "is from the u.s.": 1, "is from canada": 1, "is from the uk": 1}
+{"u.s.-based": 1}
+{}
+{"is american": 1}
+{}
+{"american": 1, "united states": 2}
+{"canadian-born": 1}
+{"is australian": 1}
+{"american": 2}
+{"united states": 1}
+{"american": 1}
+{"american": 1}
+{"austrian": 1}
+{"american": 1}
+{"israeli-american": 1}
+{"french": 1, "american": 1}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{"is from": 1}
+{"from turkey": 1}
+{"is from": 1}
+{"is english": 1}
+{"is american": 1}
+{"united states": 1}
+{}
+{}
+{}
+{"is american": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"u.s.": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"arizonian": 1}
+{"iranian-american": 1}
+{"american": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"south korean": 1}
+{"south korean": 1}
+{"south korean": 1}
+{"south korean": 1}
+{"south korean": 2}
+{"south korean": 1}
+{"is from south korea": 1}
+{"south korean": 1}
+{"south korean": 1}
+{"south korean": 2}
+{"new american": 1, "french": 1}
+{"united kingdom": 1, "spain": 1, "south africa": 1}
+{"is based in": 1}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"in the U.S.": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is an american": 1}
+{"is from": 1}
+{"canadian": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is chinese": 1}
+{"chinese": 2}
+{"is from": 1}
+{"is from": 2}
+{"iranian": 1}
+{"is from china": 1}
+{"is australian": 1, "of cantonese descent": 1}
+{"is from": 1}
+{"chinese": 2}
+{"is from": 2}
+{"is from": 2}
+{"is from": 1}
+{"british": 1}
+{"british-irish": 1}
+{}
+{"is british": 1}
+{}
+{"uk": 1}
+{"is from": 1}
+{"is from": 1}
+{"greek": 2, "italian": 1}
+{"is from": 2}
+{"italian": 2}
+{"is italian": 1}
+{"italian": 1}
+{"is from": 1}
+{"italian": 3}
+{"is from": 2}
+{"is italian": 1}
+{"is italian": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"french": 2, "czech-born": 1}
+{"argentine": 1, "french": 1}
+{"welsh": 1}
+{"argentine": 1}
+{"is from": 1}
+{"french": 3}
+{"argentine": 1}
+{"french": 2, "italian": 1}
+{"french-language": 1}
+{"french": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"dominican republic": 1}
+{"dominican": 1}
+{"dominican": 1}
+{"is from": 1}
+{"dominican": 1}
+{"is from": 1}
+{"cuban-born": 1}
+{"is from": 1}
+{"is from": 1}
+{"canadian": 2}
+{"from yugoslavia": 1}
+{"american": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"national consciousness": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1, "is japanese": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"north korean": 2}
+{"south korean": 1}
+{"is from north korea": 1}
+{"American": 2, "South Korean": 1, "North Korean": 3, "British": 1}
+{"korean": 3}
+{"north korean": 2}
+{"korean": 2, "north korean": 1, "south korean": 1}
+{"north korean": 3}
+{"filipino": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"canadian": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from canada": 1}
+{}
+{"west germany": 1}
+{"german": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1, "of polish descent": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 2}
+{"indian": 1}
+{"is an american": 1}
+{"in north america": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"united states": 1}
+{}
+{}
+{"united states": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"north american": 1, "us": 1}
+{"is from": 1}
+{"united states": 1}
+{}
+{"is from": 1}
+{}
+{"united states": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{"united kingdom": 2}
+{"english": 1, "american": 1}
+{}
+{}
+{"german": 1, "french": 1}
+{"is american": 1}
+{"american": 1}
+{"is from france": 1, "is from germany": 1, "is from italy": 1, "is from belgium": 1, "is from portugal": 1, "is from canada": 1, "is from australia": 1, "is from new zealand": 1, "represents members outside countries": 1}
+{}
+{"united states": 1}
+{}
+{}
+{}
+{}
+{"italian": 1}
+{"is from": 1}
+{}
+{}
+{"is irish": 1}
+{"is from": 1}
+{"northern irish": 2}
+{"is from": 1}
+{"is irish": 1}
+{"is irish": 1}
+{"is american": 1}
+{"kenyan": 1}
+{"uk": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"united states": 1}
+{}
+{}
+{"american": 2, "german": 1}
+{"is american": 1}
+{"american": 1}
+{"is american": 1}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{"is from": 2}
+{"american": 3, "filipino": 3, "japanese": 3}
+{"is from": 1}
+{"is from": 2}
+{"japanese": 2}
+{"is from": 1}
+{"is from": 1}
+{"japanese": 2}
+{"japanese": 3}
+{"American": 1, "Japanese": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from spain": 1}
+{"of flemish origin": 1, "based in lisbon": 1}
+{"is from": 1}
+{"is from": 1}
+{"spanish": 2, "portuguese": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"in europe": 1, "in north america": 1, "in the united states": 1}
+{"lithuanian": 1, "international": 1}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{"united states": 1}
+{"u.s.": 1}
+{"is from": 1}
+{"is from": 1}
+{"russian-born american": 1}
+{"is from": 1}
+{"u.s.": 1}
+{"is from the united states": 1}
+{"u.s.": 1}
+{"pisan origins": 1}
+{"italian": 1, "french": 1}
+{}
+{"is italian": 1}
+{"is italian": 1}
+{"italian": 1, "french": 1}
+{"italian": 1}
+{"is italian": 1}
+{"italian": 2}
+{"is english": 1}
+{}
+{}
+{}
+{"korean": 3}
+{}
+{}
+{"native to costa rica": 1}
+{}
+{"finish": 1}
+{}
+{}
+{"hungarian": 1}
+{}
+{}
+{}
+{"is from berlin": 1, "is from new york city": 1}
+{}
+{}
+{"estonian": 1, "swedish": 1}
+{"in germany": 1}
+{"is from": 3}
+{"burkina faso": 2}
+{"is from": 1}
+{"is from": 1}
+{}
+{"international": 1}
+{"in the united states": 1}
+{"is from": 1}
+{}
+{}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"from pennsylvania": 1}
+{"based in": 1}
+{"is from": 1}
+{"american": 1}
+{"from chapel hill, north carolina": 1}
+{"is from": 1}
+{"american": 1}
+{}
+{"is american": 1}
+{"german": 1}
+{"german": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{}
+{}
+{"is american": 1}
+{"is American": 1}
+{"is american": 1}
+{"is american": 2}
+{}
+{"is from": 1}
+{"is from": 1}
+{"libyan": 1}
+{}
+{}
+{"iranian": 1}
+{}
+{}
+{}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{"is ugandan": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"chinese": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is english": 1}
+{"is an american": 1}
+{"is from": 2}
+{"is from": 1}
+{"american": 1, "german": 1}
+{"is from united states": 1}
+{"u.s.": 1}
+{"united states": 1}
+{"is american": 1}
+{}
+{"lithuanian": 1}
+{}
+{"nigerien": 1}
+{"is from": 1}
+{"british": 1}
+{"is from canada": 1}
+{"is from": 1}
+{"black person": 2, "first black person": 1}
+{"african-american": 2}
+{"black person": 1, "britain": 1}
+{"is from zimbabwe": 1}
+{"jamaican-born american": 1}
+{"black": 3}
+{"african-american": 1}
+{"american": 1, "japanese": 1, "european": 1, "australian": 1, "german": 1, "canadian": 1}
+{"is american": 1}
+{"japanese": 1}
+{"is from japan": 1}
+{}
+{"is from japan": 2}
+{"is american": 1}
+{}
+{}
+{"is japanese": 1}
+{"italian": 2}
+{}
+{}
+{}
+{"canadian": 3, "american": 1, "japanese": 2}
+{"is from": 1}
+{}
+{"is from": 1}
+{"chinese": 1}
+{"chinese-american": 1}
+{"is from": 1}
+{"is from vietnam": 1}
+{"is from": 1}
+{"german": 2}
+{"is from": 1}
+{"is from": 2}
+{"german": 2}
+{"is from": 1}
+{"is from": 1}
+{"german": 2}
+{"german": 2}
+{"is from": 2}
+{"is from": 2}
+{}
+{"french": 2, "habsburg": 2, "italian": 1}
+{}
+{}
+{}
+{"usa": 2, "uk": 1}
+{}
+{}
+{"southerner": 1, "union": 1}
+{"united states": 3}
+{}
+{"is american": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from south africa": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"american": 2}
+{"danish": 2}
+{"is from": 1}
+{"american": 1, "united kingdom": 1}
+{"is from": 2}
+{}
+{"american": 1}
+{"is american": 1, "is danish": 1}
+{"american": 1}
+{"scottish-born": 1}
+{"german": 1, "west german": 1}
+{"united states": 2}
+{"is from": 1}
+{"is from": 2}
+{"united states": 3}
+{"united states": 2}
+{"united nations": 3}
+{"united states": 3}
+{"united states": 2}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is armenian": 1}
+{"is american": 1}
+{"is from": 1}
+{"united states": 1, "canada": 1, "mexico": 1, "south america": 1, "spain": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"united states": 1}
+{"u.s.": 1}
+{"is from": 1}
+{}
+{"british": 1}
+{"florida": 2}
+{"greek": 1}
+{}
+{}
+{"united states": 1}
+{"is from": 2}
+{}
+{"is from": 1}
+{"german": 1, "spanish": 1}
+{"spanish": 1}
+{"is from": 1}
+{"galician": 1, "spanish": 1}
+{"galician": 1, "spanish": 1, "portuguese": 1}
+{"ecuadorian": 2}
+{"spanish": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{"united states": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from england": 1}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"from austria": 1}
+{}
+{}
+{}
+{"english": 1}
+{"southern india": 1}
+{"is from": 2}
+{}
+{}
+{}
+{"is from": 5}
+{"is from": 1}
+{"is british": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"japanese": 1}
+{"european": 1, "belgian": 4}
+{"is from": 1}
+{"is from": 2}
+{"is from": 2}
+{"is from": 2}
+{}
+{"is english": 1}
+{"is from": 1}
+{"russian": 1}
+{"russian": 1}
+{}
+{"american": 1}
+{"american": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 2}
+{"is from": 1}
+{"is from new jersey": 1}
+{"is from": 2}
+{"is from": 1}
+{"from czechoslovakia": 1}
+{}
+{"czechoslovak-born": 1, "west german": 2}
+{}
+{}
+{}
+{"east german": 3, "german democratic republic": 1, "gdr": 1}
+{}
+{"indonesian": 1}
+{}
+{}
+{}
+{"mexico": 1, "south america": 1, "caribbean": 1, "australia": 1, "china": 1, "south africa": 1, "tonga": 1}
+{"japanese": 1, "chinese": 1, "taiwanese": 1}
+{}
+{"asian": 1}
+{"is from": 1}
+{"indonesian": 1}
+{"croatian": 1}
+{"is from": 1}
+{"croatian": 1}
+{"bosnian": 1}
+{"greek": 1, "georgian": 1, "byzantine": 2}
+{"serbian": 1, "albanian": 1}
+{"bulgarian": 1}
+{"greek": 1}
+{}
+{}
+{}
+{"russian": 2}
+{"russian": 1}
+{"russian": 2, "french": 1, "polish": 1, "lithuanian": 1}
+{"is from": 2}
+{"is from": 2}
+{"is from": 1}
+{"is russian": 2}
+{"persian": 1, "muslims in the caucasus": 1}
+{"russian": 2}
+{"united states": 1, "australia": 1}
+{}
+{"united states": 1}
+{"is from": 1}
+{}
+{}
+{"united states": 1}
+{"is from": 1}
+{"is from": 1}
+{"north america": 2}
+{"emirati": 1}
+{"is from": 1}
+{"is from": 1}
+{"indian-american": 1}
+{"indian": 3, "bengali": 1, "tamil-american": 1, "hollywood": 1}
+{"bangladeshi": 1}
+{}
+{"is from": 1}
+{"is from": 2}
+{}
+{"is from": 1}
+{"american": 1, "canadian": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"is irish": 1}
+{"is irish": 1}
+{"is an american": 1}
+{}
+{"is irish": 1}
+{"is american": 1}
+{"south korean": 2}
+{"is american": 1}
+{}
+{"is from": 1}
+{"british": 1, "anglo-irish": 1}
+{}
+{}
+{"is english": 1}
+{}
+{"is scottish": 1}
+{"english": 1, "scottish": 1}
+{"is british": 1}
+{}
+{"is from": 1}
+{"is an american": 1}
+{"israeli": 2}
+{"american": 2}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"african-american": 3}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"nigerian": 1}
+{"catholic": 1, "english": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"greek": 1}
+{"is american": 1}
+{"from the mende ethnic group": 1}
+{"sierra leone": 3}
+{"is a sierra leonean": 1}
+{"sierra leonean": 1}
+{"sierra leone": 2, "liberia": 1}
+{"sierra leonean": 1}
+{"is a sierra leonean": 1}
+{}
+{"mende ethnic group": 1}
+{"sierra leonean": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is american": 1}
+{}
+{"american": 1}
+{"is american": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"australian": 1}
+{"is from": 1}
+{"australian": 1}
+{"australian": 1}
+{"is from": 1}
+{"is from": 1}
+{"australia": 1}
+{"australian": 1}
+{"is australian": 1, "have indigenous backgrounds": 1}
+{"australian": 1}
+{"is from": 1}
+{"american": 1}
+{"canadian": 1}
+{"is from": 1}
+{"japan": 1}
+{"canadian": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is canadian": 1}
+{}
+{"dutch": 1}
+{"is from": 1}
+{"is from": 1}
+{"canadian": 1}
+{"is from": 1}
+{"is an american": 1}
+{"lebanese": 1}
+{"is from": 1}
+{"is from": 1}
+{"in North America": 1}
+{"in north america": 1}
+{}
+{"north america": 1}
+{"north america": 2}
+{"poland": 1}
+{"france": 1, "india": 1, "north america": 1, "europe": 1, "russia": 1, "south asia": 1}
+{"canadian": 1, "american": 1, "mexican": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is italian": 1}
+{}
+{"is from": 1}
+{"is an american": 1}
+{"german": 1}
+{"british": 2}
+{"is an american": 1}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is japanese": 1}
+{"is american": 1}
+{"american": 2}
+{"is from": 1}
+{"american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is japanese": 1}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"union": 2, "confederate": 3}
+{"american": 2}
+{"united states": 1}
+{"united states": 1}
+{"american": 1}
+{"from virginia": 3, "from england": 1}
+{"confederate states army": 1, "union army": 1}
+{}
+{"is from": 1}
+{"cambodian": 2}
+{"is from": 1}
+{"is cambodian": 1, "is chinese cambodian": 1}
+{"is from cambodia": 1}
+{"nationalist": 1}
+{"cambodian": 1}
+{"is cambodian": 1}
+{"is from": 1}
+{"cambodian": 2}
+{"is a german": 1}
+{}
+{"u.s.a.": 1}
+{"is from germany": 3}
+{"is german": 1}
+{"is from": 1}
+{"is german": 1}
+{}
+{"is german": 1}
+{"american": 1}
+{"from tamaulipas": 1, "from mexico": 1}
+{"from mexico": 1, "from venezuela": 1}
+{"is from": 1}
+{"from mexico": 2, "from the united states": 1, "venezuelan": 1}
+{"from yucat\u00e1n": 1, "is afro-mexican": 1}
+{}
+{"from nayarit": 2}
+{"mexican": 1}
+{"mexican": 1}
+{"from jalisco": 2, "of the mexican republic": 1}
+{}
+{"australian": 1}
+{}
+{"is from": 1}
+{}
+{"united kingdom": 1}
+{"british": 1}
+{}
+{}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"american": 1, "australian": 1}
+{"is from": 1}
+{"american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"from the united states": 1}
+{"is from": 1}
+{"welsh-born": 1, "british": 1}
+{}
+{}
+{"is from uk": 1}
+{"montenegrin": 1, "serbian": 1}
+{"is from": 1}
+{"is from": 1}
+{"russian": 1}
+{"is from japan": 1}
+{"germany": 1}
+{"is from": 1}
+{"qatar": 1}
+{}
+{"australian": 1}
+{"italian": 1}
+{"irish": 2}
+{}
+{"canadian": 1}
+{"is from india": 1}
+{}
+{"is from": 2}
+{"is from": 1}
+{}
+{"norman": 2}
+{}
+{"is an american": 1}
+{"confederate": 1}
+{"is from": 1}
+{"american": 1}
+{"irish-american": 1}
+{"united states": 1, "world": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is a U.S. based company": 1}
+{}
+{"u.s.": 1}
+{"scottish": 1}
+{}
+{"united states": 1}
+{"is from": 2}
+{"is from": 1}
+{"is from": 1}
+{"united kingdom": 1}
+{"new zealand": 2}
+{}
+{"is from": 1}
+{"is from": 1}
+{"united states": 3}
+{"puerto rican": 2}
+{"is american": 1}
+{"is from": 1}
+{"irish-american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is indian": 2}
+{"american": 1}
+{"is australian": 1}
+{"american": 1}
+{"is australian": 1}
+{"is from": 1}
+{"is from": 1}
+{"australian": 1}
+{"malayalam": 1}
+{"south korean": 1}
+{"south korean": 1}
+{"south korean": 1}
+{}
+{"south korean": 1}
+{"anglo-french": 1}
+{"south korean": 1}
+{"south korean": 1}
+{}
+{"central african republic": 1, "democratic republic of the congo": 2, "republic of congo": 1}
+{"is from": 1}
+{"democratic republic of the congo": 1, "republic of the congo": 1}
+{"republic of congo": 1}
+{}
+{"belgian": 1}
+{"democratic republic of congo": 1}
+{"angolan": 1}
+{"democratic republic of the congo": 2}
+{"angolan": 1}
+{"is american": 1}
+{"is indian": 1}
+{"united kingdom": 1, "usa": 1}
+{"american": 1}
+{"is from": 1}
+{"is american": 1}
+{"czech": 2, "french": 1, "japanese": 1, "slovak": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{"english": 1}
+{}
+{}
+{"american": 1}
+{"is american": 1}
+{}
+{"american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"indo-canadian": 1}
+{"south korean": 1}
+{"is from": 1}
+{}
+{}
+{"is from india": 1}
+{"british": 2}
+{"american": 1}
+{"argentinian": 1}
+{"swedish": 1, "american": 1}
+{"swedish": 2}
+{"swedish": 1, "american": 1}
+{}
+{"is from sweden": 1}
+{"is from": 1}
+{"swedish": 1, "american": 1}
+{"swedish": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"german": 2}
+{"german": 1}
+{"german": 1}
+{"german": 1}
+{}
+{"german": 1, "spanish": 1}
+{}
+{"german": 2}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is a zimbabwean": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from lan xang": 1, "is from lan na": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 2}
+{"italian": 2}
+{"is from": 1}
+{"of savoy": 3}
+{"is australian": 1}
+{"is english": 1}
+{"is welsh": 1}
+{"is american": 1}
+{"is english": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"english": 1}
+{"canadian": 1, "chinese": 1, "indonesian": 1}
+{"is american": 1}
+{}
+{"american": 2, "british": 1}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"african-american": 1}
+{}
+{"american": 1}
+{}
+{"is from": 1}
+{}
+{"american": 1}
+{"united states": 2}
+{"is an american": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is an american family": 1}
+{"is from": 1}
+{"all-american": 2}
+{"american": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{}
+{"first russian formula one team": 1, "is from canada": 1, "is from india": 1}
+{"in england": 1}
+{"is from china": 1}
+{"national colour of the netherlands": 1, "auto racing colour of the netherlands": 1}
+{"chinese": 1, "renault": 1, "mclaren": 1, "toyota": 1, "minardi": 1, "jordan": 1}
+{"is from england": 3}
+{"anglo-russian": 1, "is from": 1}
+{}
+{}
+{"japanese": 1}
+{"is from": 1}
+{"hindu": 1}
+{}
+{"is a german fairy tale": 1}
+{"french brazilian": 1}
+{"yoruba": 2, "afrocuban": 1}
+{"is regarded as the holy protectress of russia": 1}
+{"portuguese": 2, "galician": 1}
+{"british": 1}
+{"is from": 1}
+{"american": 1}
+{"is english": 1}
+{"is from": 1}
+{"is from": 1}
+{"canadian": 2, "quebec": 1, "ontario": 1}
+{"is from": 1}
+{"american": 1, "australian": 1, "korean": 1, "english": 1}
+{"belgian": 2}
+{"south korean": 2}
+{}
+{"is american": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 2}
+{"is american": 1}
+{"is from": 1}
+{"american": 1, "australian": 1}
+{"is american": 1}
+{}
+{}
+{"is an american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"italian": 1}
+{"is from": 1}
+{"is from": 1}
+{"african": 1}
+{"is an american": 1}
+{}
+{}
+{}
+{"is from peru": 1}
+{"in the uk": 1, "in the republic of ireland": 1, "originated in france": 1}
+{}
+{"u.s.": 1, "latin america": 1}
+{"united states": 1}
+{"west germany": 1, "united states": 1}
+{"brazilian": 2}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"is english": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 3}
+{"united states": 1}
+{"united states": 1}
+{}
+{}
+{"is from": 1}
+{"is angolan": 1}
+{"is from": 1}
+{}
+{"canadian": 1}
+{}
+{}
+{"scandinavians": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"native": 1}
+{"is from": 1}
+{"is from": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"nationality is italian": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"european": 1, "british": 1}
+{}
+{"argentine": 1, "danish": 1}
+{}
+{}
+{"is from": 1}
+{"u.s.": 1}
+{"is from": 1}
+{"frenchman": 1, "american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{"is from": 1}
+{"us": 1}
+{}
+{"from france": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{"united states": 1}
+{"united states": 1}
+{"is from mexico": 2, "is latin": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"canadian": 1}
+{"hungarian": 4, "austrian": 1, "russian": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"english": 1, "spanish": 1}
+{}
+{}
+{}
+{}
+{"eastern canada": 1, "atlantic canada": 1}
+{"norwegian": 1, "american": 2}
+{"u.s.": 1, "canada": 1, "australia": 1}
+{"is american": 1}
+{"is from": 1}
+{"is a filipino chain": 1}
+{"u.s.": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 2}
+{"west virginia": 4, "southern ohio": 1, "eastern kentucky": 1, "southwestern virginia": 1, "panama city": 1, "charleston": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"american-style": 1}
+{"is from": 1}
+{"is from": 2}
+{"is from": 1}
+{}
+{}
+{"is american": 1}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"united states": 2}
+{"united states": 1}
+{"is from": 1}
+{"is from": 2}
+{"united states": 3}
+{"from the ryukyu islands": 1, "u.s.": 2}
+{"of hispanic heritage": 1, "latina": 1, "roman catholic": 1}
+{"of Canada": 1}
+{"is american": 1}
+{"is from": 2}
+{"is australian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"colorado's": 1}
+{"is from": 1}
+{"is from": 1}
+{"is australian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1, "is russian": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{}
+{"is an american": 1}
+{}
+{"american": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{}
+{"is american": 1}
+{}
+{"is italian": 1}
+{"american": 1}
+{}
+{"is from scotland": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"pakistani-american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"greek": 1, "ancient greeks": 1}
+{}
+{"is from": 1}
+{}
+{"pashtun": 2}
+{"u.s. army": 1, "native american": 1}
+{"native american": 1}
+{"native american": 1, "shawnee": 1}
+{"native americans": 1}
+{"berber": 1}
+{"american": 1, "native american": 2}
+{"united states": 1}
+{"native americans": 2, "united states": 2, "british": 1}
+{}
+{}
+{"is russian": 1}
+{"brazilian": 1}
+{}
+{"is from italy": 1}
+{"is from": 1}
+{"german": 2}
+{"brazilian": 1}
+{}
+{"english": 1}
+{"egyptian-american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1, "uk": 1}
+{"is from japan": 1}
+{"is british": 1}
+{"is british": 1}
+{"english": 1}
+{"is english": 1}
+{"is american": 1}
+{"british": 2}
+{"is from uk": 1, "is from us": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"australian": 1}
+{"australian": 3}
+{"is from": 1}
+{"is from": 1}
+{"south korean": 1}
+{"is from": 1}
+{"is australian": 1}
+{"is australian": 1}
+{"scottish-australian": 1, "australian": 2}
+{"american": 1}
+{}
+{}
+{"is american": 1}
+{"dutch": 1}
+{"is from": 1}
+{"dutch": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"united states": 1, "mexico": 1}
+{}
+{"southeastern united states": 1}
+{}
+{"native to the americas": 1, "native to the caribbean": 1}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"french": 1}
+{"is from": 1}
+{"italian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"english": 2, "french": 1, "german": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"korea": 1}
+{"is from": 1}
+{"southeast asian": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"from ireland": 1}
+{"irish": 1}
+{"is from": 1}
+{"is from dublin": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from japan": 1}
+{"is an american": 1}
+{"is japanese": 1}
+{"is american": 1}
+{}
+{"is a japanese": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"american": 1, "italian": 1}
+{}
+{"native language": 1}
+{"is from": 1}
+{}
+{"indian-american": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{"is from": 2}
+{"from the uk": 1}
+{"of judah": 1}
+{}
+{"is from": 1}
+{"cape verdean": 1}
+{"israeli": 2}
+{}
+{"is from": 1}
+{"english": 2}
+{"jewish": 2}
+{"gaelic": 1}
+{"dutch": 2}
+{}
+{"french": 1}
+{"is from": 2}
+{"kurdish": 2}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is filipino": 1}
+{"is american": 1}
+{"is from the philippines": 1}
+{"is an american": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is from the united kingdom": 1}
+{}
+{"is from": 1}
+{}
+{"american": 1}
+{"based in bristol": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"british-american": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"anglo-saxon": 2}
+{"maharashtra": 2}
+{"anglo-saxon": 2}
+{}
+{"is from": 1}
+{"anglo-saxon": 2}
+{}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{"united states": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"finnish": 1}
+{"canadian": 1}
+{}
+{"is australian": 1}
+{}
+{}
+{}
+{}
+{"united states": 3, "canada": 2, "united kingdom": 2}
+{}
+{}
+{"italian": 1}
+{"italian": 1}
+{}
+{"italian": 2}
+{"is from": 1}
+{"dutch": 1}
+{"guatemalan": 3}
+{"cuban": 1}
+{"belgian": 1}
+{"scottish": 1, "english": 1, "australian": 1, "north american": 1}
+{"from cuba": 1}
+{"is from": 1}
+{"peruvian": 3}
+{"romanian": 2}
+{"southern china": 1}
+{"chinese": 1}
+{"Chinese": 3, "Samoan": 3}
+{"chinese": 2}
+{"chinese": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"javanese": 1}
+{"southern china": 1}
+{}
+{}
+{}
+{}
+{"is an american": 1}
+{"is from": 1}
+{"is based in": 1}
+{}
+{}
+{}
+{"united states": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{}
+{}
+{"native americans": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 2}
+{"united states": 1}
+{"is from hong kong": 1}
+{"hong kong": 2}
+{"hong kong": 1}
+{"is from": 1}
+{"is from hong kong": 1}
+{"is from": 1}
+{}
+{"is from hong kong": 1}
+{"is from": 1}
+{"hong kong": 1}
+{}
+{"is american": 1}
+{}
+{}
+{}
+{}
+{"is from": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is an american": 1}
+{}
+{"is american": 1}
+{}
+{}
+{}
+{"is american": 1}
+{}
+{"american": 1}
+{"irish-american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{"is an american": 1}
+{}
+{"united states": 2}
+{"is from": 1}
+{"is from": 1}
+{"united states": 2}
+{"is from": 1}
+{"is british": 1}
+{"is from": 1}
+{"is english": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is english": 1}
+{"britain": 1, "english": 1}
+{}
+{}
+{}
+{"northern irish": 1}
+{"is german": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{"is swiss-italian": 1}
+{}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 2}
+{"is american": 1}
+{}
+{"is from": 1}
+{}
+{"united states": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is american": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{}
+{"is american": 1}
+{"american": 1}
+{"american": 1}
+{"american-canadian": 1}
+{}
+{"Japanese": 2}
+{"chinese": 2, "japanese": 1}
+{"is from": 1}
+{"is from": 1}
+{"imperial japanese": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is japanese": 1}
+{"united states": 1}
+{}
+{}
+{"french": 1}
+{"is from": 1}
+{}
+{"dutch": 1}
+{}
+{}
+{}
+{"is from": 2}
+{"is a former british": 1}
+{"is from": 1}
+{"is from the united states": 1}
+{}
+{"american": 1}
+{}
+{"sami": 2}
+{"endemic to new zealand": 1}
+{}
+{"is from": 1}
+{"united states army": 1}
+{"united states": 1}
+{"united states": 1}
+{"united states": 1}
+{"united states": 2}
+{}
+{"united states": 3}
+{"united states": 1}
+{"united states": 1}
+{"belgian": 3}
+{"is from australia": 1}
+{"is from canada": 1}
+{"uk": 1, "australian": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{"is american": 1}
+{}
+{}
+{"is from": 1}
+{"united states": 1}
+{"uk": 1}
+{}
+{"united states": 1}
+{"is from": 1}
+{"is from": 1}
+{"south asia": 1, "middle east": 1, "japan": 1, "pacific islands": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"mediterranean": 1, "northern african": 1}
+{"united states": 1, "japan": 1}
+{"greeks": 1, "romans": 1}
+{}
+{"hindi": 1}
+{"british": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"italian": 1, "french": 1}
+{"is from": 1}
+{"malaysian": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is pakistani": 1}
+{"pakistani": 2, "kenyan": 2}
+{"united states": 1}
+{}
+{"united states": 1}
+{"united states": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"united states": 1}
+{"swedish": 1}
+{"of germany": 1}
+{"israeli": 2}
+{"is from": 1}
+{"is english": 1}
+{"american": 1}
+{"norwegian": 3}
+{"from any country": 1}
+{"danish": 6}
+{"swedish": 2}
+{}
+{}
+{"english": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"is from thailand": 1}
+{"is from": 2}
+{"is arab": 1}
+{"is from malaysia": 2}
+{"is from zimbabwe": 3}
+{"is from": 2}
+{"is from pakistan": 2}
+{"is from": 1}
+{"is from": 2}
+{"is american": 1, "is english": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"southeastern united states": 1}
+{"is an american": 1}
+{"united states": 1, "canada": 1, "mexico": 1, "united kingdom": 1, "europe": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is canadian": 1}
+{"is canadian": 1}
+{"is from": 1}
+{"is canadian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1, "of albanian origin": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"dominican-american": 1, "dominican republic": 2}
+{"is from": 1}
+{"from the dominican republic": 2}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"chinese": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"from south dakota": 1}
+{"is american": 1}
+{}
+{"american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"cree": 1, "chippewa-cree": 1}
+{"native american": 1}
+{"american indian": 1}
+{"chippewa": 2}
+{"descendants of cree": 1, "descendants of chippewa": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"american indian descent": 1}
+{"from the united states": 1}
+{"is from": 1}
+{"united states": 3, "american": 2}
+{}
+{"is from": 3}
+{"united states": 1}
+{}
+{}
+{}
+{}
+{}
+{"italian": 3}
+{"of the italian republic": 1}
+{"italian": 1}
+{"italian": 2}
+{"italian": 3}
+{"is american": 1}
+{"french": 1, "german": 2, "austro-hungarian": 1, "italian": 1, "spanish": 1, "croatian": 1}
+{"italian": 2}
+{"italian": 3, "british": 1}
+{"new york city-based": 1}
+{"is an american": 1}
+{"paris-based": 1}
+{"worldwide": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{"northern ireland": 3}
+{"northern ireland": 3, "republic of ireland": 1}
+{"is irish": 1}
+{"is from northern ireland": 1, "is from republic of ireland": 1}
+{"northern irish": 2}
+{"is from": 1}
+{"northern ireland": 2, "republic of ireland": 1}
+{"northern ireland": 3}
+{"from northern ireland": 1}
+{"is from": 1}
+{"is from": 1}
+{"austrian": 2, "german": 1}
+{"is from": 1}
+{"is from china": 1}
+{"is from": 2}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{}
+{}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{}
+{}
+{"american": 1}
+{"is from": 1}
+{"country rock": 1}
+{}
+{"united states": 2}
+{"is from": 1}
+{"is from": 1}
+{}
+{"hawaiian": 3}
+{"is from": 1}
+{"united states": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"is american": 1}
+{"american": 1}
+{"usa": 1}
+{"is from": 1}
+{"swiss": 1, "french": 1}
+{"is from": 1}
+{"is hungarian": 1}
+{"is from": 1}
+{"is from": 1}
+{"from france": 1, "from germany": 1}
+{"is from": 1}
+{"belgian": 1, "dutch-born": 1}
+{"is french": 1}
+{"french": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"of african descent": 1}
+{"american": 1}
+{}
+{"is from": 1}
+{"south korean": 1}
+{"is from": 1}
+{"is from": 1}
+{"south korean": 1}
+{"is from": 1}
+{"is from": 1}
+{"south korean": 1}
+{"south korean": 1}
+{"is from": 1}
+{"south korean": 1}
+{"venezuelan": 1}
+{}
+{}
+{"argentine": 1, "spanish": 1}
+{"american": 1, "mexican": 1}
+{"is from": 1}
+{}
+{"venezuelan": 3}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"asylum in the ecuadorian embassy in britain": 1}
+{"is from": 1}
+{"is from the united states": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{"is from": 1}
+{}
+{"u.s.": 1}
+{}
+{}
+{"is american": 1}
+{"is a U.S. multinational": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"greek": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1, "american": 1, "chinese-american": 1}
+{}
+{"indonesian": 3}
+{"american": 1}
+{"is from": 1}
+{}
+{"latvian": 1}
+{"is australian": 1}
+{"french": 1}
+{"serbian": 1}
+{"brazilian": 1}
+{"is from": 1}
+{"australian": 1}
+{"is from": 1}
+{"russian": 1}
+{"australian": 1}
+{"australian": 1}
+{"is from": 1}
+{"australian": 1}
+{"australian": 2}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is australian": 1}
+{}
+{"is from": 2}
+{"is from": 1}
+{"is from tunisia": 1}
+{"american": 1}
+{"spanish": 2}
+{}
+{"is american": 1}
+{"american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"indian": 1, "nepalese": 1, "pakistani": 1, "bangladeshi": 1, "sri lankan": 1, "maldivian": 1}
+{}
+{"is from": 1}
+{"is australian": 1}
+{"perth-born": 1}
+{"american": 1}
+{"american": 1}
+{"is australian": 1}
+{"is australian": 1}
+{"american": 1}
+{"english-born australian": 1}
+{"is from": 1}
+{"is a mexican-american": 1}
+{}
+{"is from": 1}
+{"mexican": 3}
+{"american": 4}
+{"american": 2}
+{"american": 1}
+{}
+{"american": 2}
+{"american": 2}
+{"is an american": 1}
+{"is from burma": 1, "is from myanmar": 1}
+{}
+{"of mercia": 3}
+{"of northumbria": 1}
+{"of kent": 2}
+{}
+{"is from northumbria": 1}
+{"of northumbria": 3}
+{}
+{"is from": 1}
+{"canadian": 2}
+{"irish": 1}
+{"is from montreal": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"canadian": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{}
+{"is from": 1}
+{}
+{"new york-based": 1}
+{}
+{"is american": 1}
+{"american": 1}
+{}
+{}
+{"is from pakistan": 1}
+{"american": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{"qatar": 1}
+{"is from": 1}
+{"is from thailand": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is a malaysian": 1}
+{"nations in the asia": 1}
+{"is from qatar": 1}
+{"is american": 1}
+{"is american": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is italian": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from france": 1}
+{"is american": 1}
+{"is from france": 1, "is from spain": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{"american": 1}
+{}
+{}
+{}
+{}
+{"is from uk": 1}
+{"american": 1}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"is from": 2}
+{}
+{"is canadian": 1}
+{"is from": 1}
+{"italian": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"in the u.s.": 1}
+{"australia": 1}
+{"australia": 1}
+{"australian": 1}
+{}
+{"is from": 1}
+{"australasian": 1}
+{"is from": 1}
+{"australian": 1}
+{"australian": 1}
+{"samoan australian": 1}
+{"british": 1}
+{"is from": 1}
+{"mexican-american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"roman catholic": 1}
+{}
+{}
+{}
+{"is scottish": 1}
+{"is polish": 1}
+{"is from": 1}
+{"is from finland": 1}
+{"fijian": 1}
+{"is from": 1}
+{}
+{"sikh": 2}
+{"is a japanese film": 1, "is korean": 1}
+{"iraqi": 1, "united states": 1}
+{"American": 2}
+{"indian": 2}
+{"united states": 2}
+{"is from": 1}
+{"soviet union": 1}
+{"is a united states army": 1}
+{"american": 1}
+{"united states": 1, "canada": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is albanian": 1}
+{}
+{"new york-based": 1}
+{"is from": 1}
+{"united states": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 2}
+{"is from": 1}
+{"british-australian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"from australia": 1}
+{"is australian": 1}
+{"nigerian": 1}
+{"welsh": 1}
+{"arabized berber": 1}
+{"french": 2, "walloon": 3, "dutch": 3}
+{"australian": 2}
+{"not english": 1, "u.s.": 1}
+{}
+{}
+{}
+{"is from sweden": 1, "is from france": 1, "is from italy": 1, "is from switzerland": 1}
+{"nations participating": 1}
+{"around the world": 1, "more than 200 nations": 1}
+{"japanese": 2}
+{"french": 1}
+{"from tunisia": 1}
+{"is from": 1}
+{}
+{"from all over the nation and world": 1}
+{}
+{"is from": 1}
+{"english": 2}
+{"is from": 1}
+{"english": 1}
+{"is english": 1}
+{"english": 1}
+{"english": 1}
+{"is english": 1}
+{"english": 1}
+{"American": 1}
+{"middle east": 1}
+{"is from taiwan": 1}
+{"is a japanese company": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"irish": 1}
+{"irish": 2, "uk": 2}
+{"based in california": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{"united states": 1}
+{}
+{}
+{}
+{"united states": 1}
+{}
+{"is american": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"japanese": 1}
+{"is from": 1}
+{"is from japan": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"u.s.": 1}
+{"american": 2}
+{}
+{}
+{}
+{"united states": 1}
+{"american": 1}
+{}
+{"american": 2}
+{}
+{}
+{"korea": 1}
+{}
+{"is from": 1}
+{"south korean": 1}
+{"south korean": 1}
+{"south korean": 1}
+{"south korean": 1}
+{}
+{"south korean": 1}
+{"is from": 1}
+{"kingdom of thailand": 1, "thailand": 2}
+{"french": 1, "italian": 1, "romanian": 1, "mexican": 1, "irish": 1}
+{"french": 2}
+{"slavic nations": 1}
+{"is from france": 2}
+{"hungarian": 1}
+{"is from": 1}
+{"french": 1}
+{"dutch": 1}
+{"irish": 2}
+{"is from": 1}
+{}
+{}
+{"is from": 3}
+{"is from sri lanka": 1}
+{"sri lankan": 2}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is american": 1}
+{}
+{}
+{}
+{}
+{"united states": 2}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{}
+{}
+{"is swedish": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"of america": 1}
+{}
+{"united states": 2}
+{"is japanese": 1}
+{"austrian-born american": 1}
+{"georgian": 2, "american": 1}
+{"is from": 1}
+{"austrian": 1}
+{}
+{"is from new zealand": 2}
+{"united states": 2}
+{}
+{"is from honduras": 1}
+{"democratic party": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 2}
+{"is from": 1}
+{"thai": 1}
+{"is from fiji": 3, "is from south africa": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"is english": 1}
+{"is from": 1}
+{"from watts": 1, "from california": 1, "from united states": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1, "heritage is": 1}
+{}
+{"italian": 1}
+{}
+{"is from": 1}
+{"is a nigerian": 1}
+{"irish-born": 1}
+{"is from": 1}
+{"united states": 1}
+{"is american": 1}
+{"is from mexico": 1}
+{"is from": 1}
+{}
+{"is from india": 1}
+{"is from": 1}
+{}
+{}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"Indian": 1}
+{"is from": 1}
+{"macau": 1}
+{"is from": 1}
+{"australian": 2}
+{"is from": 1}
+{"is from": 1}
+{"australia": 1}
+{"canadian": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is american": 1}
+{}
+{"is italian": 1}
+{"is italian": 1}
+{}
+{"is italian": 1}
+{"is italian": 1}
+{"italian": 1}
+{"is from": 1}
+{"is icelandic": 2}
+{"british-american": 1}
+{"is icelandic": 1, "is spanish": 1}
+{"is american": 1}
+{"is american": 1}
+{"from south wales": 1}
+{"us": 1}
+{"united states": 2}
+{}
+{"is american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from france": 1, "is from america": 1}
+{"american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{"american": 1, "british": 1, "nigerian": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{"is australian": 1}
+{"gdr": 1, "east germany": 1}
+{"is irish": 1}
+{"is australian": 1}
+{"is from": 1}
+{"is from": 1}
+{"estonian": 2}
+{"is from": 1}
+{"senegal": 2}
+{"guinea-bissau": 2, "republic of guinea-bissau": 1}
+{}
+{"nigeria's": 1}
+{"is from": 1, "of mauritian descent": 1}
+{"is from": 1}
+{"nigerien": 2}
+{"from ghana": 1}
+{"from ghana": 1, "from mauritania": 1}
+{"senegalese": 1}
+{"is english": 1}
+{"scottish": 2}
+{"is japanese": 1}
+{"is from": 2}
+{"is from australia": 1}
+{"is australian": 1}
+{"is english": 1}
+{"is american": 1}
+{"is american": 2}
+{"is from": 1}
+{"is from": 1}
+{"english-irish": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is british": 1}
+{"irish": 1}
+{"american-born british": 1}
+{"is british": 1}
+{"is from": 1}
+{"is english": 1}
+{}
+{"british": 1}
+{"is irish": 1}
+{"is from": 1}
+{}
+{}
+{"is american": 1}
+{}
+{"is american": 1}
+{"in the united states": 1}
+{}
+{"is from": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"united states navy": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"british-made": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"nepalese": 1}
+{}
+{}
+{}
+{}
+{"indigenous to": 1}
+{}
+{}
+{"english": 1}
+{"english": 1}
+{"is from": 5}
+{}
+{}
+{"is from": 2}
+{}
+{}
+{}
+{}
+{"canadian": 1}
+{"in the u.s.": 1}
+{}
+{"is from": 1}
+{}
+{"is american": 1}
+{"danish": 2, "french": 1}
+{"is from": 1}
+{"is american": 1}
+{"is danish": 2}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"danish": 2}
+{"is from": 1}
+{}
+{"is american": 1}
+{}
+{"american": 2}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{"is american": 1}
+{"is american": 1}
+{}
+{}
+{}
+{}
+{"is a russian\u2013american": 1}
+{}
+{"english": 1}
+{"is american": 1}
+{"is from": 1}
+{"is english": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"australian": 2}
+{}
+{}
+{"is from": 1}
+{"canadian": 1}
+{}
+{}
+{"turkey": 1}
+{"nepal": 1}
+{}
+{"philippines": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is german": 1}
+{}
+{"is an american": 1}
+{}
+{"russia's": 1}
+{}
+{"is from": 1}
+{"united states": 2, "armenian": 1}
+{"non-resident malayalis": 2, "non-resident keralites": 2, "malayali": 1}
+{}
+{}
+{"is american": 1}
+{"is from": 1}
+{"american-born": 1}
+{"israeli": 1, "german": 1}
+{"is italian": 1}
+{"south african": 1}
+{"is from": 1}
+{"british": 1}
+{}
+{"is english": 1}
+{"from the uk": 1, "from zimbabwe": 1}
+{"is from": 0}
+{"armenian-american": 1}
+{"british": 2}
+{"american": 1}
+{"is from": 1}
+{}
+{}
+{"anglo-irish": 1}
+{"is from": 1}
+{"british": 1}
+{"american": 1}
+{"american": 1}
+{}
+{"american": 1}
+{"from new jersey": 1}
+{"is from": 1}
+{}
+{"german-born": 1}
+{"united states": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"scottish": 1}
+{"benin": 3}
+{"united kingdom": 1}
+{"welsh": 1}
+{"scottish": 1}
+{"welsh": 1}
+{"scottish": 1}
+{}
+{"portuguese": 1, "spanish": 1}
+{"is from": 1}
+{"is british": 1}
+{"british": 1}
+{"is from": 1}
+{"english": 1, "brazilian": 1}
+{"is from england": 1}
+{"british": 2}
+{"is from": 1}
+{"is from poland": 1}
+{"u.s. army's": 1}
+{"hungarian-born american": 1}
+{"is from": 1}
+{}
+{}
+{"is an american": 1}
+{"nationally ranked": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"indian": 1}
+{}
+{"australian": 3}
+{}
+{}
+{}
+{"is from": 2}
+{"is american": 1}
+{"is from": 2}
+{"indonesian": 2}
+{"is from": 1}
+{"is indonesian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"african-american": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"irish": 1}
+{"is english": 1}
+{}
+{"is from": 1}
+{"is an english": 1}
+{"british-irish": 1}
+{}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{}
+{"australian": 1, "new zealand": 1}
+{}
+{"australian": 1}
+{"bahamas": 1, "greater antilles": 1}
+{"australian": 1, "new zealand": 1, "new guinea": 1, "new caledonia": 1}
+{}
+{}
+{"is from uk": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is from india": 1}
+{"is from": 1}
+{"is from uk": 1, "is from canada": 1}
+{"south african": 2}
+{"united states": 1}
+{}
+{}
+{"Scottish": 1}
+{}
+{}
+{}
+{"united states": 1}
+{}
+{"from boston, ma": 1}
+{}
+{}
+{"is a romanian": 1}
+{"is from": 2}
+{"singaporean": 1}
+{"is an american": 1}
+{"is american-jewish": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from the united states": 1}
+{"australian": 1}
+{"is from": 1}
+{"is from": 1}
+{"new zealand": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"australian": 1}
+{"is australian": 1}
+{"australian": 1}
+{"is swedish": 1}
+{"is from japan": 1}
+{"is japanese": 1}
+{"is from": 1}
+{}
+{"is from japan": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"country music": 1}
+{"is an american": 1}
+{"american": 1}
+{"is an american": 1}
+{}
+{"is from canada": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"us": 1, "foreign": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"china": 1}
+{}
+{"greek": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"english": 1}
+{"is from": 1}
+{"german": 1}
+{"is from": 1}
+{"zanzibari": 3, "tanzanian": 1}
+{"is an": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"united states": 1, "nato": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from Louisiana": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{"american": 1}
+{"is an american expatriate": 1}
+{"is from": 1}
+{"is from": 1}
+{"from guatemala": 1, "american": 1}
+{"american": 1}
+{"is from": 1}
+{"american": 1}
+{"dutch": 1, "american": 1}
+{"american": 1}
+{"american": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{"is danish": 1}
+{"is american": 1}
+{"is australian": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{"is american": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{}
+{"oklahoma": 2, "united states": 1}
+{}
+{"is from": 1}
+{"united states": 1}
+{"turkey": 1}
+{"united states": 1}
+{}
+{"is american": 1}
+{}
+{}
+{"american": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{}
+{}
+{}
+{"japanese": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"is english": 1}
+{"is from india": 1}
+{"british": 1}
+{"is from britain": 1}
+{"british": 1}
+{}
+{"native indians": 1, "the british": 1}
+{"american": 1}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is australian": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 2}
+{"is irish": 1}
+{"Pakistan": 3, "India": 1}
+{"is australian": 1}
+{"german": 1, "norwegian": 1}
+{"is from": 1}
+{"australian": 1}
+{"israeli": 1}
+{"australian": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"english": 1, "uk": 1}
+{"gaudiya vaishnava": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is an american": 1}
+{}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"italian": 1, "spanish": 1}
+{}
+{}
+{"ukrainian": 1}
+{}
+{}
+{"is american": 1}
+{"is an indian winery": 1}
+{"american": 1}
+{"is an american": 1}
+{"from spain": 1, "spanish": 3, "american": 1}
+{"is from": 1}
+{"from tacoma, washington": 1, "american": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"georgian": 2}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{"is american": 1}
+{"is an american": 1}
+{"is american": 1}
+{"is american": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"united states": 1}
+{"united states": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1, "british": 1}
+{"is from": 1}
+{"is from": 1}
+{"is english": 1}
+{"is from the united kingdom": 1, "is from the usa": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is a filipino": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"moldavian": 1, "romanian": 1, "jewish": 1}
+{"moldavian": 1, "romanian": 1}
+{"moldavian": 1, "romanian": 1}
+{"moldavian": 1, "romanian": 2}
+{"romanian": 1}
+{"moldavian": 1, "romanian": 1}
+{"moldavian": 1, "romanian": 1}
+{"moldavian": 1, "romanian": 1}
+{"moldavian": 1, "romanian": 1}
+{"is from moldavian": 1, "is from romanian": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"united states": 3}
+{"united states": 2}
+{"united states": 3}
+{"united states": 2, "other countries": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from india": 1}
+{"akan": 1, "sub-saharan africa": 1}
+{"is from": 1}
+{"is from": 1}
+{"native american": 1}
+{}
+{}
+{"from estonia": 1, "from latvia": 1, "from russia": 1}
+{"native american": 1}
+{}
+{"is from": 1}
+{"is japanese": 1}
+{"is british": 1}
+{"is australian": 1}
+{"jewish": 1}
+{"american": 1}
+{"american": 1}
+{}
+{"canadian-american": 1}
+{"jewish american": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"united states": 1}
+{"united states": 3}
+{}
+{"us": 1}
+{"us": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"iran": 1}
+{"is from": 1}
+{"british": 1, "foreigners": 1}
+{}
+{"is from": 1}
+{"indian": 1}
+{"is from": 1}
+{"persian": 1, "balinese": 1, "indonesian": 1}
+{"is from": 1}
+{"kosovo": 2}
+{}
+{"is an american": 1}
+{"american": 1}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"southern united states": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"native to mexico": 1}
+{}
+{"native to mexico": 1, "native to central america": 1, "native to colombia": 1}
+{}
+{}
+{"united states": 1}
+{"is from": 2}
+{"united states": 1}
+{"united states": 2, "usaf": 2, "nato": 1}
+{"u.s. navy": 1}
+{"united states": 1}
+{"u.s. navy": 3}
+{"is from": 1}
+{"royal canadian air force": 1}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{"is american": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{"american": 1}
+{}
+{}
+{}
+{"is american": 1}
+{"is from new zealand": 1}
+{"american": 1, "british": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"english speaking": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{"american": 1, "german": 1}
+{"is from": 1}
+{"is american": 1}
+{"british": 1}
+{"us": 1}
+{}
+{"is english": 1}
+{"is from spain": 1, "is from lithuania": 1}
+{"is american": 1}
+{"american": 1}
+{}
+{"is american": 1}
+{}
+{"is an american": 1}
+{"is from": 1}
+{"american": 1}
+{"is an american": 1}
+{"is italian": 1}
+{"is an italian": 1}
+{"from greece": 1}
+{"is an italian": 1}
+{}
+{"is irish": 1}
+{"is an italian": 1}
+{"is an italian": 1, "foreign players": 1}
+{"italian": 2}
+{"is from spain": 1}
+{"is from": 1}
+{"wales": 2}
+{"argentinian": 1}
+{"is from": 1}
+{"chinese": 1}
+{"in the U.S.": 1}
+{"is from": 1}
+{"is from": 1}
+{"unrecognised state": 1}
+{"is from": 2}
+{"is from": 1}
+{"is based in": 1}
+{"is from": 1}
+{"is from": 1}
+{"in the united kingdom": 1, "in england": 1}
+{"is from wales": 1}
+{"is from": 1}
+{"is from": 1}
+{"is english": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{}
+{"irish": 3}
+{}
+{"united kingdom": 3}
+{}
+{"chinese": 1}
+{"is from": 2}
+{"chinese": 1}
+{"greek": 1, "turkish": 1}
+{"is from qatar": 1}
+{}
+{}
+{}
+{"swiss": 3}
+{"is from": 1}
+{}
+{"swiss": 3}
+{"swiss": 1}
+{"united kingdom": 1, "ireland": 1}
+{"aboriginal": 5, "white": 3}
+{"cherokee": 2, "white settlers": 1}
+{"cherokee": 2}
+{"cherokee people": 2}
+{"modoc": 3}
+{"united states": 1}
+{"cherokee": 2}
+{"black": 2, "native american": 1, "white": 2}
+{"american indian": 1}
+{"cherokee-american": 1}
+{"u.s.": 2}
+{"is from": 1}
+{"from south dakota": 2, "democratic party": 3, "republican": 1}
+{"u.s.": 3}
+{"is from": 2}
+{"is from": 1}
+{"is from": 1}
+{"is an american": 1}
+{"u.s.": 1}
+{"u.s.": 2}
+{}
+{"based in": 1}
+{}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{}
+{"canadian": 1, "dominican": 1, "american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"irish": 1}
+{"dutch east indies": 1}
+{"is from the united states": 1}
+{"native americans": 1, "americans": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"japan": 1}
+{"is from india": 1}
+{"german": 2}
+{}
+{"austrian": 2}
+{"is from": 1}
+{"is from": 1}
+{"american": 2}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is a moldovan": 1}
+{"moldovan": 2}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is indian": 1}
+{"is from uruguay": 1}
+{"is from": 1}
+{}
+{"is from": 2}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"united states": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"uk": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"welsh": 2}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"from san diego, california": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"originally in mexico": 1, "originally in guatemala": 1}
+{"mexico": 1, "guatemala": 1}
+{}
+{}
+{"mexico": 1, "guatemala": 1}
+{}
+{"south africa": 1}
+{}
+{"is from": 1}
+{"indian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"indian": 1}
+{}
+{"australia": 1}
+{"is from": 1}
+{"italian-american": 1}
+{"italian-american": 1}
+{}
+{}
+{"is a chinese man": 1}
+{}
+{"u.s.": 2}
+{"is from": 1}
+{}
+{"sicilian american": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is from": 2, "american": 3, "mexican": 1}
+{"american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{"is from": 1}
+{"us": 1}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"california": 1}
+{}
+{"south african-american": 1}
+{"is from": 1}
+{}
+{"is from": 2}
+{"from the czech republic": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from the united kingdom": 1, "is from australia": 1, "is from new zealand": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{"us": 1, "american": 1}
+{"argentinian": 1}
+{"us": 1}
+{"argentine": 1}
+{}
+{"argentina": 2, "croatia": 1}
+{"is from new zealand": 1}
+{"is from": 1}
+{"dutch": 1}
+{"czech": 2}
+{}
+{"is american": 1}
+{"australian": 1}
+{}
+{"mexican": 2}
+{"american": 1}
+{"is from": 1}
+{"is italian": 1}
+{"is from": 1}
+{}
+{}
+{"italian": 1, "french": 1}
+{}
+{}
+{"is from germany": 1}
+{"italian": 1}
+{"is italian": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{"american": 1}
+{"american": 1, "canadian": 1, "mexican": 1, "colombian": 1}
+{}
+{"is from": 1}
+{"canadian": 1, "united states": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"south korean": 2}
+{}
+{}
+{"american": 1}
+{"is american": 1, "is egyptian american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 0}
+{}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"politically conservative": 1}
+{"u.s.": 1}
+{"is american": 1}
+{"is american": 1, "is irish": 1, "is italian": 1}
+{"is italian": 1}
+{"united states": 1}
+{}
+{"german": 1}
+{"wales": 1}
+{"is from germany": 1}
+{"is from": 1}
+{"scottish": 1}
+{}
+{"is from": 1}
+{"is australian": 1}
+{"is australian": 1}
+{"is from": 1}
+{"is australian": 1}
+{"is from": 1}
+{"australian": 2}
+{"is australian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is australian": 1}
+{"is from ohio": 3}
+{}
+{"united states of america": 1}
+{"united states": 2}
+{"is from": 2}
+{}
+{"united states": 2}
+{"united states": 2}
+{"united states": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"us": 1}
+{"is from": 1}
+{}
+{"philippines": 1, "china": 1}
+{}
+{"united states": 1}
+{"south korean": 1}
+{"south korean": 2}
+{"south korean": 1}
+{"south korean": 2}
+{"south korean": 1}
+{"south korean": 1}
+{"south korean": 1}
+{"south korean": 2}
+{"south korean": 1}
+{"south korean": 1}
+{"vietnamese": 1}
+{}
+{"vietnam": 1}
+{}
+{"is from": 2}
+{"american": 1}
+{"south african": 1}
+{"chinese": 1}
+{"vietnam": 1}
+{}
+{"german": 3}
+{"german": 2, "prussian": 1}
+{"usa": 1}
+{"ukrainian": 3}
+{}
+{"german": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is scottish": 1, "is irish": 1}
+{"is english": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"canadian": 1}
+{"from guyana": 1, "from new york city": 1}
+{"british-american": 1}
+{"is from": 1}
+{"british": 2, "pakistani": 1, "english": 1}
+{}
+{"is from": 1}
+{"is english": 1}
+{"is british": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{"is based in": 1}
+{"american": 1}
+{"is from": 2}
+{}
+{}
+{"bahamian": 1}
+{}
+{}
+{"indonesian": 1, "chinese indonesian": 1, "malay singaporean": 1}
+{}
+{"from italy": 1}
+{"italian": 1}
+{"is from": 1}
+{"lao": 3}
+{"chinese indonesian": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"czech-born": 1, "french": 2}
+{"is irish": 1}
+{"czech republic": 1}
+{"is from": 1}
+{"is from": 2}
+{"is from": 2}
+{"franco-czech": 1}
+{}
+{"is from": 1, "nationality is": 1}
+{}
+{"is japanese": 2}
+{}
+{"is from japan": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"united kingdom": 1, "american": 1}
+{"is korean": 1}
+{"is an american": 1}
+{"is an american": 1}
+{"is an american": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from denmark": 1}
+{"is a danish": 1}
+{"Danish": 2}
+{"norwegian": 1, "danish": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from denmark": 1}
+{"danish-norwegian": 1}
+{"us": 1, "uk": 1}
+{"is irish": 1}
+{}
+{}
+{}
+{}
+{}
+{"ireland": 1}
+{}
+{"american": 1}
+{}
+{"german": 1}
+{"is canadian": 1}
+{"romans": 3}
+{"is american": 1}
+{}
+{"is from": 1}
+{"canadian": 1}
+{"is canadian": 1}
+{"german": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{}
+{"is american": 1}
+{"is from": 2}
+{"is mexican": 1}
+{"is american": 1}
+{"is german": 1}
+{"iranian": 2}
+{"japanese": 1, "american": 1, "italian": 1, "german": 1, "hebrew": 1, "arabic": 1, "spanish": 1, "brazilian portuguese": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is german": 1}
+{"german": 1}
+{"is indonesian": 1}
+{"canadian": 1}
+{"israeli": 1}
+{"is from": 1}
+{"is from texas": 1}
+{"is american": 1}
+{"norwegian": 1}
+{}
+{"is a gay muslim": 1}
+{}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{"american": 1}
+{"country music": 1}
+{"is from": 1}
+{"australian": 2}
+{"is australian": 1}
+{"australian": 3}
+{"australian": 1}
+{"australian": 1}
+{"australian": 1}
+{"is from": 1}
+{"australian": 2}
+{"is from": 1}
+{"is from britain": 1}
+{"is from": 1}
+{"scottish": 1}
+{"is from england": 1}
+{"is from": 1}
+{"is from scotland": 1}
+{"is from": 1}
+{"is from": 1}
+{"english": 1}
+{"is from scotland": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is a chinese american": 1}
+{"american": 1}
+{"is from": 1}
+{"is from turkey": 2}
+{"is from": 1}
+{"is american": 1}
+{"is a nigerian": 1}
+{"russian": 2}
+{"is from ghana": 1}
+{"is from ghana": 1}
+{"ghanaian": 1}
+{"is from": 1}
+{"is ghanaian": 1}
+{"is from": 1}
+{"ghanaian": 1, "nigerian": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is american": 1}
+{}
+{"american": 1, "canadian": 1}
+{}
+{}
+{}
+{"japanese": 1}
+{"american": 1}
+{}
+{}
+{"canadian": 1}
+{"is from": 1}
+{"people's republic of china": 1, "myanmar": 1}
+{"china": 1, "burma": 1}
+{"chinese": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"chinese": 1}
+{"is from": 1}
+{"is a chinese": 1}
+{"is from": 1}
+{"is from": 1}
+{"dutch": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"belgian": 1}
+{"dutch": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1, "is scottish american": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"australia": 1}
+{}
+{}
+{"is from": 1}
+{"malaysian": 1}
+{"australian": 2}
+{"is from": 1}
+{"canadian": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 2}
+{"is from": 1}
+{"american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"canadian": 1}
+{"lithuania": 2}
+{"prussian lithuanian": 1}
+{"german": 1, "lithuanian": 2}
+{"citizens of lithuania": 1, "foreign nationals": 1}
+{"lithuanian": 2}
+{"is from": 1}
+{"lithuanian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"scottish": 1}
+{"scottish": 1}
+{"scottish": 1}
+{}
+{"scottish": 1}
+{}
+{}
+{}
+{}
+{}
+{"is a serbian": 1}
+{"is from": 1}
+{"english-born": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"south korean": 1}
+{"southeast asian": 1, "malaysia": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from pakistan": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"pakistani": 3}
+{"pakistani": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1, "is of english descent": 1}
+{"is from": 1}
+{"citizens of the united kingdom": 1, "citizens of australia": 1, "citizens of hungary": 1, "citizens of belgium": 1, "citizens of luxembourg": 1, "citizens of new zealand": 1}
+{"new zealand": 3}
+{"is italian": 1}
+{}
+{}
+{}
+{"is from": 2}
+{"Russian": 2}
+{"ukrainian": 1, "russian": 1}
+{"russian": 2}
+{"is from": 1}
+{"is from": 1}
+{"russian": 2}
+{"is from": 2}
+{"is from": 2}
+{"is from": 2}
+{}
+{"is from": 1}
+{}
+{"is a japanese fashion label": 1, "french for": 1}
+{"is from": 1}
+{"is from": 1}
+{"japanese": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is american": 2}
+{"is from": 1}
+{"filipino": 1}
+{"is british": 1}
+{"dutch": 1}
+{}
+{"is british": 1}
+{"is a british": 1}
+{"for iran": 1}
+{"is from": 1}
+{"is from": 1}
+{"is french": 1}
+{"british": 1, "allied": 1}
+{"sri lankan": 2}
+{"is from": 1}
+{}
+{"american": 1}
+{"french": 1}
+{"united states": 1}
+{"is from": 2}
+{"irish": 1}
+{}
+{"irish": 1, "american": 1}
+{"indonesian": 2}
+{}
+{"united states": 2}
+{"is from": 3}
+{"united states": 1}
+{"is american": 1}
+{}
+{}
+{"hailing from": 1}
+{"armenian american": 1}
+{}
+{"armenian": 2}
+{"is a german-norwegian": 1}
+{"armenian": 1, "ottoman": 1}
+{"us": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{}
+{"from oakland, california": 1}
+{"from california": 1}
+{"from california": 1}
+{"from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is an american": 1}
+{}
+{}
+{"international": 1, "us-only": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"american": 1}
+{"is american": 1}
+{}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"taiwan": 1}
+{"russian": 1}
+{}
+{"armenian": 1}
+{"taiwan": 1}
+{}
+{"united states": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is english": 1}
+{"united kingdom": 1, "canada": 1, "australia": 1, "new zealand": 1}
+{"fijian": 3}
+{}
+{}
+{"canadian": 1, "british": 1}
+{}
+{"is from": 1}
+{"native american": 2}
+{"choctaw": 1, "native american": 2}
+{"native american": 2}
+{"native americans": 1, "mohican": 1}
+{"native american": 3, "american": 1, "canadian": 1}
+{"mexican": 1, "american": 3, "native american": 1, "african-american": 1, "hispanic": 1}
+{"is american": 1}
+{"native american": 2}
+{"native american": 3, "yavapai-apache": 1}
+{"is american": 1, "native american": 1}
+{}
+{"tajikistan": 1}
+{"tajikistani": 1, "tajik": 2}
+{"tajik": 1}
+{"is part of nasa": 1}
+{"pakistani": 1}
+{"pakistani": 1}
+{"is from pakistan": 1}
+{"tajikistan": 2}
+{}
+{"is from": 1}
+{"is German": 1}
+{"italian": 1}
+{"is from": 1}
+{}
+{"canadian": 1, "united states": 1}
+{"is from": 1}
+{"is from": 1}
+{"australian": 1}
+{"is from": 1}
+{}
+{}
+{"is american": 1}
+{"is from": 2}
+{"united states": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"national historic district": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"originally from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 2}
+{"from spain": 1, "is american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"english": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"english": 1}
+{"english": 1}
+{"is from": 1}
+{}
+{"democrat": 1, "republican": 1}
+{"is from": 1}
+{"is from bosnia and herzegovina": 1}
+{}
+{"austrian": 5}
+{"south korean": 1}
+{"is from": 1}
+{}
+{"french": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"french": 2, "american": 2}
+{"is from": 1}
+{"is from": 1}
+{"french": 2}
+{"united states": 1, "french": 2}
+{"french": 2}
+{"is american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{}
+{"american": 1}
+{"is canadian": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{"australian": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{"united states": 1}
+{"united states": 1}
+{"american": 1}
+{"united states": 1}
+{"chinese": 1}
+{"is from": 1}
+{"mongolian": 1, "chinese": 1}
+{"is from": 1}
+{"is a chinese": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"indigenous peoples": 1, "ethnic mongol": 2}
+{"is from": 1}
+{"is indian": 1}
+{"american": 1, "chinese american": 1}
+{"is from": 1}
+{"german": 1, "austrian": 1, "irish": 1}
+{"is from": 1}
+{"tamil": 2}
+{"is british": 1}
+{}
+{"british": 1}
+{"is british": 1}
+{}
+{"is from spain": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is british": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is american": 1}
+{"is from the united states": 1}
+{"is american": 1}
+{"american": 1}
+{"belgian": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from the united kingdom": 1}
+{"is from": 1}
+{"american": 1}
+{"is british": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{}
+{}
+{"in florida": 1}
+{"is from": 1}
+{"is american": 1, "is armenian": 1}
+{"canadian": 1, "russian": 1}
+{"internationally known": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{"international": 1}
+{"african american": 1}
+{"russia": 1, "france": 1}
+{"is a german company": 1}
+{}
+{"japan": 1}
+{"is from": 1}
+{"japanese": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"greek-american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"czech-american": 1}
+{"is from": 1}
+{"hungarian-born american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{}
+{}
+{}
+{}
+{"american": 1}
+{"is from new york city": 1}
+{"american": 1}
+{"is from": 2}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"chinese american": 1}
+{"american": 1}
+{}
+{"is from": 1}
+{"is a church of england diocese": 1}
+{"is from cameroon": 1}
+{"german": 1}
+{"is from": 1}
+{"catholic": 1}
+{"is from": 2}
+{"is from": 1}
+{"is from": 1}
+{"canadian": 1}
+{}
+{"usa": 1}
+{"canadian": 2}
+{"is from canada": 1}
+{"is from": 5}
+{}
+{"from": 1}
+{"south korean": 1}
+{"south korean": 1, "japanese": 1}
+{"south korean": 1}
+{"south korean": 1}
+{"south korean": 1}
+{"is from": 1}
+{"south korean": 2}
+{"south korean": 1}
+{"south korean": 1}
+{"south korean": 1}
+{"is american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from the united states": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is american": 1}
+{}
+{"united states": 1}
+{"u.s.": 1}
+{"in the united states": 1}
+{"is from": 1}
+{"malaysian": 1}
+{"united states": 1}
+{}
+{}
+{}
+{"contemporary christian": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is an american": 1}
+{}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is from pittsburgh": 1}
+{}
+{}
+{"is american": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{"is from england": 1}
+{"grand duchy of lithuania": 1}
+{"is from": 2}
+{"lithuania": 1}
+{"lithuania": 2}
+{"is from": 1}
+{"lithuanian": 1, "polish": 1, "belarusian": 1, "russian": 1}
+{"norwegian": 1}
+{"russian": 2}
+{"is american": 1}
+{"is american": 3}
+{"is american": 1}
+{"american": 2}
+{"is from": 1}
+{"is american": 1}
+{"american": 3}
+{"is from": 1}
+{"chinese": 2}
+{"is from": 1}
+{}
+{"is from": 1}
+{"american": 1, "armenian": 1}
+{}
+{"american": 1}
+{}
+{"african": 2}
+{}
+{"is american": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"italian-australian": 1, "french-australian": 1}
+{}
+{}
+{}
+{}
+{}
+{"australian": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from sweden": 1}
+{}
+{"is from india": 1}
+{"is from": 1}
+{"american": 1}
+{"is american": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 2}
+{"roman catholic": 1}
+{}
+{"north american": 1}
+{"is from": 1}
+{"united states": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is an american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from india": 1}
+{"u.s.": 2, "united states": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 2}
+{}
+{"is american": 1}
+{"is english": 1}
+{"is american": 1}
+{"is american": 1}
+{}
+{"french": 1}
+{"is from": 1}
+{}
+{"spanish": 1, "portuguese": 1}
+{"french": 1}
+{"greek": 1}
+{"from the south of france": 1}
+{"spanish": 1}
+{"is american": 1}
+{"is english": 1}
+{"is from": 1}
+{}
+{"is from spain": 2}
+{"is from": 1}
+{"is from": 1}
+{"french": 1, "american": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is american": 1, "is italian american": 1}
+{}
+{}
+{"u.s. born": 1}
+{}
+{}
+{}
+{}
+{}
+{"is american": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from switzerland": 1}
+{}
+{}
+{}
+{"in asia": 1}
+{}
+{"is mostly concentrated in europe": 1, "will visit other continents including asia": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is canadian": 1}
+{"canadian": 1}
+{"is from": 1}
+{"canadian": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is an american": 1}
+{}
+{"senegalese-american": 1}
+{}
+{"us": 2, "canada": 1, "uk": 1}
+{"uk": 2, "australia": 1}
+{"is from": 1}
+{"united states-based": 1}
+{"is american": 1}
+{}
+{"of the united states": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{"virginia": 2}
+{"american": 1, "united kingdom": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"syrian": 1, "polish": 1}
+{"united states": 2}
+{"is from": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"Poland": 3, "Polish": 4}
+{"polish": 3}
+{"british": 1}
+{"is an english": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"english": 1}
+{}
+{}
+{"norwegian": 1, "swedish": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"afghan": 1}
+{}
+{"citizen of ecuador": 1}
+{"south korean": 1}
+{"is from": 1}
+{"is italian": 1}
+{"is an american": 1}
+{"is from": 2}
+{"american": 1}
+{"is a german company": 1}
+{}
+{"american": 1}
+{"american": 1}
+{"is american": 1}
+{"is from north dakota": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"german": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is british": 1}
+{"is from": 1}
+{"austrian": 1}
+{"is from hungary": 1, "is from germany": 1, "is from england": 1, "is from the united states": 1}
+{"is a": 1, "is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"nigerian": 2}
+{"from former burma": 1, "now myanmar": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"based at": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"german": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 2}
+{"is from": 1}
+{"is austrian": 1, "is german": 1}
+{"dutch": 2}
+{"is from": 1}
+{"austrian": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"dominican": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"georgian": 1, "soviet union": 1}
+{"is from": 1}
+{"is from": 2}
+{"brazilian": 1}
+{"from brazil": 1}
+{}
+{"from switzerland": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is english": 1}
+{"is set in the united states": 1}
+{"is british": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"native belgium": 1}
+{}
+{"english": 1}
+{"italian": 1}
+{"is japanese": 1}
+{}
+{"american": 1}
+{"israeli": 1}
+{"is indian": 1}
+{"australian": 1}
+{"is from": 2}
+{"is scottish": 1}
+{"is from": 1}
+{"bulgarian": 1}
+{"is from": 1}
+{}
+{"people's republic of china": 1}
+{"is from": 1}
+{"country of kenya": 1}
+{"from myanmar": 2}
+{}
+{"is from": 1}
+{"from switzerland": 1}
+{"is from": 1}
+{"australian": 4, "british": 3, "new zealand": 2, "french": 2, "english": 2, "welsh": 2, "scottish": 1, "irish": 1}
+{"australian": 5}
+{"is swedish": 1}
+{}
+{"is american": 1, "of german descent": 1}
+{}
+{"haitian-dominican": 1}
+{"is american": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"united states": 1}
+{}
+{"canadian": 1}
+{"canadian": 1}
+{"canadian": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"united states": 1}
+{"national historic district": 1}
+{"united states": 1}
+{}
+{}
+{}
+{"is an american": 1}
+{}
+{"native north american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 2}
+{}
+{}
+{"native to": 1}
+{"is british": 1}
+{"is from": 1}
+{}
+{"british": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"french": 1, "german": 1}
+{}
+{"is american": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"is american": 1}
+{"american": 1}
+{"american": 1}
+{}
+{"italian": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"bolivian": 1}
+{"is from": 2}
+{}
+{"is from russia": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"scottish": 1}
+{"is from sweden": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"bangladeshi-british": 1}
+{"is from": 1}
+{"is an american": 1}
+{"nigerian-american": 1}
+{}
+{"is ecuadorian": 1}
+{"is from": 1}
+{"historically black": 1}
+{"is from": 1}
+{}
+{"is an american": 1}
+{"african american": 1}
+{"for black americans": 1}
+{"u.s.": 1}
+{"african-american": 1}
+{"is american": 1}
+{"is scottish": 1}
+{"is from britain": 1}
+{"is from perthshire": 1}
+{"is scottish": 1}
+{"is scottish": 1}
+{}
+{"scottish": 1, "british": 1}
+{"jacobite": 1, "hanoverian": 1}
+{"is from the united kingdom": 2, "is from nova scotia": 1}
+{}
+{}
+{"u.s.": 1}
+{"american": 1}
+{}
+{"british": 1, "french": 1, "dual uk\u2013france": 1}
+{"american-british": 1, "british": 1, "american": 1}
+{"is american": 1}
+{"mexican": 2, "nationality is": 1}
+{"is english": 1}
+{}
+{"north american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is a british company": 1}
+{"is from scotland": 1, "is from united kingdom": 1, "is from united states": 1}
+{}
+{"british": 1, "portuguese": 2, "scottish": 1, "american": 1, "polish": 1}
+{"is from": 1}
+{"united kingdom": 1, "united states": 1}
+{}
+{"united states": 1}
+{}
+{"united states": 1}
+{"is from": 1}
+{"is from the united states": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"united states": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is american": 1}
+{}
+{}
+{"american": 1}
+{"is from": 1}
+{}
+{"united states": 1, "japan": 1}
+{"american": 1}
+{"american": 1}
+{"is an": 1}
+{"american": 1}
+{"is from ireland": 1}
+{"canadian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"british": 1}
+{"is from": 2}
+{"is from": 1}
+{"is from": 1}
+{"american": 1, "british": 1}
+{}
+{}
+{}
+{"from": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{"american": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is indian": 1}
+{"is indian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from bangladesh": 1}
+{"is from": 1}
+{"south indian": 1}
+{}
+{}
+{"internationally": 1, "in america": 1}
+{"jewish": 1}
+{"u.s.": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is an american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is australian": 1}
+{}
+{"irish": 1, "republic of ireland": 1, "european union": 1}
+{}
+{"australian": 1}
+{"australian": 2}
+{"australian": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{"american": 1}
+{}
+{}
+{}
+{"is in the philippines": 1}
+{"is from": 1}
+{}
+{}
+{"us-based": 1}
+{}
+{"Allied": 1}
+{}
+{"united states": 1}
+{}
+{"israel": 2}
+{"british": 1, "polish": 1, "norwegian": 1}
+{"is from canada": 1}
+{"is from": 1}
+{"british": 1}
+{"british": 1, "caribbean": 1}
+{"british": 1}
+{"is english": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is british": 1}
+{"polish": 3, "slovenian": 1}
+{"kannada": 2}
+{"is indian": 1}
+{"filipino": 1}
+{"nepali": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"u.s.": 1}
+{}
+{}
+{"united states": 1}
+{"united states": 1}
+{"is from": 1}
+{}
+{}
+{"u.s.": 1}
+{"united states": 1}
+{}
+{"is american": 1}
+{}
+{}
+{"is american": 1}
+{}
+{"british": 1}
+{}
+{"is from": 1}
+{"is from": 2}
+{"is japanese": 1}
+{"canadian": 1}
+{"is from": 1}
+{"is canadian": 1}
+{"japanese": 2}
+{"is from": 1}
+{"canadian": 1}
+{"minneconjou lakota": 1}
+{"is from": 1}
+{"canadian": 1}
+{}
+{"american": 1}
+{"british": 1}
+{}
+{}
+{"is from lower canada": 1}
+{"american": 1}
+{}
+{"u.s. state": 1}
+{"is from": 1}
+{"south korean": 1}
+{"finland's": 1}
+{"is american": 1}
+{}
+{"south korean": 2, "u.s. citizen": 1}
+{}
+{"chinese": 1}
+{"is from": 1}
+{"is from": 1}
+{"u.s.": 1, "chinese": 1}
+{"is from": 1}
+{"is from": 1}
+{"is australian": 1}
+{"australian": 1}
+{"is from": 1}
+{"is from": 1}
+{"australian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is scottish": 1}
+{"united states": 1}
+{"is from": 1}
+{"united states": 1}
+{"united states": 1}
+{}
+{}
+{"united states": 1}
+{"is from": 1}
+{"is from": 1}
+{"united states": 1}
+{"georgian": 1}
+{"is from": 1}
+{"peerage of great britain": 3, "peerage of england": 2}
+{"lithuanian": 4, "polish": 3, "belarus": 1}
+{"ethnic abkhazian": 1}
+{"is from nepal": 1}
+{"is from romania": 1}
+{"is from spain": 1}
+{"kingdom of majorca": 2}
+{"thai": 3, "siamese": 1}
+{}
+{"norwegian": 1}
+{"norwegian": 1}
+{}
+{"singapore": 1, "malaysia": 1, "china": 1}
+{"within the European Economic Area": 1, "from Sweden": 1}
+{"norwegian": 1}
+{"norwegian": 1}
+{"swedish": 1, "norwegian": 1, "danish": 1}
+{"norwegian": 1}
+{"is english": 1}
+{}
+{"is from": 1}
+{"is english": 1}
+{}
+{"canadian": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"turkish": 2}
+{}
+{}
+{}
+{"japanese": 1}
+{"austrian": 1, "slovenian": 1}
+{"is from belgium": 1}
+{"german": 3, "french": 1}
+{"is an indian": 1}
+{"is a": 1}
+{"is indian": 1}
+{"french": 1, "belgian": 1}
+{"is from": 1}
+{"american": 1}
+{"is indian": 1}
+{"belgian": 1, "french": 1}
+{"is from": 1}
+{}
+{"serbian": 1, "bulgarian": 1, "macedonian": 1}
+{"is from russia": 1}
+{"is from": 1}
+{"georgian": 1}
+{}
+{"english": 1}
+{"is from": 2}
+{"is from": 1}
+{"russian-born american": 1}
+{"is from the philippines": 1}
+{"is from spain": 1, "predominantly from the united states": 1}
+{"united states": 2}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from nicaragua": 1}
+{"kashmiri": 1}
+{"ukrainian": 1}
+{}
+{"french": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{}
+{}
+{"from minneapolis": 1, "from minnesota": 1}
+{}
+{}
+{}
+{"is american": 1}
+{"american": 1}
+{}
+{}
+{"puerto rican": 2}
+{"puerto rican": 1}
+{"puerto rican": 1}
+{"puerto rican": 2, "american": 1}
+{"puerto rican": 2}
+{"puerto rican": 1}
+{"puerto rican": 1}
+{"puerto rican": 1}
+{"puerto rican": 1}
+{"is canadian": 1}
+{"is from": 1}
+{"is from": 1}
+{"danish": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"canadian": 1}
+{"is from": 1}
+{"is russian-american": 1, "is russian": 1}
+{"french": 2, "polish": 1}
+{}
+{"colombian": 1}
+{"japanese": 1}
+{"french": 2, "polish": 1}
+{}
+{"polish": 2, "french": 2}
+{}
+{"african": 1, "americas": 1}
+{}
+{"is from": 1}
+{"singaporean": 2, "singaporean indian": 1}
+{"is from colombia": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is a british": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{"hawaiian": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"united states": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1, "french": 2}
+{"is from": 1}
+{"is american": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{"azerbaijani": 1, "soviet azerbaijani": 1}
+{"azerbaijani": 2}
+{"is azerbaijani": 1, "is soviet": 1}
+{"azerbaijani": 2}
+{"is from": 1}
+{"is Azerbaijani": 1, "is Soviet": 1}
+{"soviet azerbaijani": 2}
+{"azerbaijani": 2, "soviet": 1}
+{"azerbaijani": 3}
+{"canadian": 1}
+{}
+{"american": 1}
+{"is american": 1}
+{}
+{"american": 1}
+{}
+{}
+{"united states": 1}
+{"canadian": 1}
+{}
+{"australian": 1}
+{"australian": 1}
+{"south australian": 1}
+{"south australian": 1}
+{}
+{"south australian": 1}
+{"is from": 1}
+{}
+{"south australian": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is bulgarian": 2}
+{"is from": 1}
+{"american": 1, "mexican": 1}
+{"is from georgia": 1}
+{"is from": 1}
+{"is from": 2}
+{"german": 1, "romanian": 1}
+{"armenian": 2}
+{"is a state of": 1}
+{"ukrainian": 1}
+{"prussian": 3}
+{}
+{"is from": 1}
+{"jewish": 2, "european": 1, "portuguese": 1, "greek": 1, "spanish": 1, "aragonese": 1, "castilian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is australian": 1}
+{"is australian": 1}
+{"is from": 1}
+{"new zealand citizen": 1, "australian": 1}
+{"is australian": 1}
+{"is australian": 1}
+{"is australian": 1}
+{}
+{"is australian": 1}
+{"is american-canadian": 1, "is from": 1}
+{"portuguese": 2}
+{"is from": 2}
+{"united states": 1, "america": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"irish-american": 1, "american": 1}
+{"american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is irish": 1}
+{"is from": 1}
+{}
+{"chilean": 1}
+{"is from": 1}
+{"is danish": 1}
+{"nationality is norwegian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{"united states": 1}
+{"american": 1}
+{}
+{"american": 2}
+{"american": 1, "soviet/russian": 1}
+{"american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"american": 3}
+{}
+{"irish": 1, "english": 1}
+{}
+{"anglican": 1, "anglo-irish": 1}
+{}
+{"is from": 1}
+{"chinese-american": 1}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"russian": 1}
+{"is from": 1}
+{"vietnam": 1}
+{}
+{}
+{"is a part of": 1}
+{}
+{"british": 2}
+{}
+{"united states": 1}
+{"yiddish": 1, "russian": 1, "polish": 1}
+{}
+{"american": 1}
+{}
+{"african": 1, "belgian": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"based in": 1}
+{}
+{}
+{}
+{}
+{}
+{"from california": 1}
+{"is from": 1}
+{"is from korea": 1}
+{"is from": 1}
+{"canadian": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"u.s.": 1}
+{"is american": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 2, "nationality is": 1}
+{}
+{}
+{"brazil": 1}
+{"is from": 1}
+{}
+{"based in the united kingdom": 1, "in the uk": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{"british": 1}
+{"spanish": 1, "british": 2}
+{"austria": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"viennese": 3}
+{"is from": 1}
+{"is from": 1}
+{"united states": 2}
+{"american": 1}
+{"mayas": 2, "guatemalan": 1, "spanish": 1}
+{"is from": 1}
+{"is american": 1}
+{"thai": 4}
+{}
+{"polish": 1}
+{"united kingdom": 1, "mid-eastern united states": 1}
+{"nigerian": 2}
+{"is from": 1}
+{"south korean": 1}
+{"south korean": 1}
+{"is from": 1}
+{"south korean": 2}
+{"south korean": 2}
+{}
+{"is from": 1}
+{"south korean": 1}
+{"south korean": 2}
+{"south korean": 1}
+{"new zealand": 1}
+{"is from": 1}
+{}
+{"is from new zealand": 1}
+{"new zealand": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"british": 1}
+{"is from new zealand": 1}
+{"senegalese": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"australian": 4}
+{"based in england": 1}
+{"is from china": 2}
+{"is from": 1}
+{"australian": 1}
+{"american": 1, "mexico": 1}
+{"is from": 1}
+{"austrian": 2, "prussian": 2}
+{"from india": 1}
+{"is from": 1}
+{"from the kingdom of prussia": 1, "from electoral saxony": 1, "french": 2}
+{"is from": 2}
+{"is from": 1}
+{"is french": 1}
+{"french": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{"is american": 1}
+{}
+{}
+{"american": 1}
+{}
+{}
+{"is american": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{"american": 1, "armenian": 1}
+{"Ireland": 1, "United Kingdom of Great Britain and Ireland": 1}
+{"unionist": 1}
+{"is from": 2}
+{"ireland": 2, "united kingdom": 2}
+{"irish": 1}
+{"irish": 3}
+{"irish": 2}
+{"is from": 2}
+{"irish": 2}
+{"is from": 1}
+{}
+{}
+{"us": 1, "united states": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"greek": 3}
+{}
+{}
+{"is albanian": 1}
+{}
+{"south african-born australian": 1, "australian": 1, "south african": 1, "english": 1}
+{}
+{"is australian": 1}
+{"is english": 1}
+{"armenian descent": 1, "soviet": 1}
+{"greek": 2}
+{"is from": 2}
+{"russian": 1}
+{"is italian": 1}
+{"is from kazakh": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"from argentina": 1}
+{"czech": 1}
+{}
+{}
+{}
+{}
+{}
+{"from brazil": 1}
+{}
+{"is lithuanian": 1}
+{"is from lithuania": 1}
+{"dutch": 1, "great britain": 1, "netherlands": 1}
+{}
+{}
+{}
+{"lithuanian": 2, "russian empire": 1}
+{"is hawaiian": 1}
+{"lithuanian": 3}
+{"is from canada": 1}
+{"is from": 1}
+{"is american": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is english": 1}
+{"is from": 1}
+{}
+{"originally from gaul": 1}
+{}
+{}
+{"south korean": 1}
+{}
+{"south korean": 1}
+{"south korean": 1}
+{"south korea-based": 1}
+{"south korean": 1}
+{"is from": 1}
+{"south korean": 1}
+{}
+{}
+{"armenian-american": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"armenian-american": 2}
+{"armenian": 1, "lebanese-born": 1, "armenian-american": 1}
+{}
+{"american": 1, "japanese": 1}
+{"american": 1}
+{"is indian": 1}
+{}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{"south africa": 1, "australian": 1}
+{"in the united states": 1}
+{"jewish": 2}
+{"english": 2}
+{}
+{"is english": 1}
+{"is from turkey": 1, "is from britain": 1, "is from switzerland": 1}
+{}
+{"is from new york city": 1}
+{"central american": 1}
+{"native to mexico": 1, "native to arizona": 1}
+{}
+{"guatemalan": 1}
+{}
+{}
+{"central american": 3, "mexican": 3, "guatemalan": 1, "honduran": 1, "el salvadoran": 1, "new mexican": 1, "yucatecan": 1}
+{"indian": 1, "sri lankan": 1, "southeast asian": 1}
+{}
+{"native to tropical south america": 1, "native to central america": 1}
+{"ukrainian": 2, "russian": 1, "belarusian": 1}
+{"united states": 2}
+{"indian": 2}
+{"canadian": 2}
+{"Mexican": 3}
+{"is from": 1}
+{"united states": 3}
+{"is from": 1}
+{"is from": 1}
+{"african-american": 3}
+{"is from poland": 1}
+{"united kingdom": 1, "germany": 1}
+{}
+{"burmese": 2}
+{}
+{"ancient egyptian": 1}
+{"is from laos": 1}
+{"chinese": 2, "korean": 2}
+{"is from ancient china": 1}
+{"chinese": 1}
+{"canadian": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"japanese": 1}
+{"american": 1}
+{"is from": 1}
+{"australian-born": 1}
+{}
+{"is from": 1}
+{}
+{"is australian": 1}
+{"australian-born": 1}
+{"is australian": 1, "is new zealander": 1}
+{}
+{"australian": 3}
+{}
+{"is australian": 1}
+{"is australian": 1}
+{"new zealand": 1}
+{"is from": 1}
+{"is australian": 1}
+{"is australian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is australian": 1}
+{"is australian": 1}
+{"american": 1}
+{"is american": 1, "is german": 1}
+{"is american": 1}
+{"is american": 1}
+{}
+{"american": 1}
+{}
+{"northern irish": 2}
+{}
+{"is american": 1}
+{"american": 1}
+{"australian": 1}
+{"european union": 2}
+{"is from": 1}
+{"is from": 1}
+{"is english": 1}
+{"is australian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"corsican": 1}
+{"french": 1, "corsican": 1}
+{"corsican": 1, "genoese": 1}
+{"corsican": 1}
+{}
+{"corsican": 1}
+{"berber": 1, "ottoman": 1, "muslim": 1}
+{}
+{}
+{"corsican": 1, "genoese": 1}
+{}
+{"is from india": 1}
+{"is from": 1}
+{"is from india": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"united states": 1}
+{}
+{}
+{}
+{"united states": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{"american": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"is english": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{"scottish": 1}
+{"irish": 1}
+{"irish": 2}
+{"is from": 1}
+{}
+{"northern irish": 1}
+{}
+{"irish": 2}
+{}
+{"american": 1}
+{"from austin, texas": 1}
+{"from versailles, france": 1}
+{"is australian": 1}
+{"australian": 1}
+{"mexican": 2}
+{}
+{"from washington, d.c.": 2}
+{}
+{}
+{"english": 1}
+{"japanese": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{}
+{"south korean": 1}
+{"japanese": 1}
+{"scottish": 1}
+{}
+{"american": 1}
+{"is an american": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{"UK": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"malayalam": 1}
+{"is indian": 1}
+{"is indian": 1}
+{"indian": 1}
+{}
+{}
+{"from india": 1}
+{"is an indian": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{"is english": 1}
+{"is welsh": 1}
+{"is a british": 1}
+{"is from": 1}
+{}
+{"british-american": 1}
+{"of france": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"swiss": 1}
+{"is japanese": 2}
+{}
+{"dutch": 1}
+{"uganda": 1}
+{"nasa": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{"us": 1}
+{"is from": 1}
+{}
+{"apple": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{}
+{"dutch": 2, "spanish": 1}
+{"is from": 1}
+{"burgundian": 2}
+{"is from": 1}
+{"seventeen provinces": 1, "low countries": 1}
+{"is from spain": 1, "is from portugal": 1}
+{}
+{"is from the united kingdom": 1}
+{"is from": 1}
+{"montenegrin": 2}
+{"italian": 1, "brazilian": 1}
+{"is egyptian": 1}
+{"northern irish": 1}
+{"french-born": 1, "moroccan": 1}
+{"is from": 1}
+{"is from": 1}
+{"is scottish": 2}
+{"polish": 2}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"british": 1}
+{}
+{"south korean": 1, "japanese": 1}
+{"south korean": 1}
+{"south korean": 1}
+{"is from": 1}
+{"is indian": 1}
+{"is from": 1}
+{"is from": 1}
+{"south korean": 2}
+{"south korean": 1}
+{"south korean": 1}
+{"is an australian-israeli": 1}
+{"arab state": 1}
+{"is from russia": 3}
+{"indonesian": 2, "dutch east indies": 1}
+{"japanese": 1}
+{"south korea": 3, "north korea": 1}
+{"united states": 3, "u.s.": 1}
+{"moroccan": 2, "canadian": 1, "mexican": 1, "american": 1}
+{"is from": 1}
+{"south korean": 1}
+{"american": 1}
+{"is south korean": 1}
+{"is from": 1}
+{"american": 1, "international": 2}
+{"is american": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"english-irish": 1, "australian": 1}
+{"is from": 1}
+{"canadian": 2}
+{"american": 1}
+{}
+{"american": 1}
+{"american": 1}
+{"american": 1}
+{}
+{"is from hong kong": 1}
+{"chinese": 1}
+{"is from hong kong": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{}
+{"is a japanese": 1}
+{"american": 1}
+{"british": 2}
+{"is american": 1}
+{"is from": 1}
+{"british": 1}
+{}
+{}
+{}
+{"from burkina faso": 3, "from mali": 1}
+{"canadian": 1}
+{}
+{}
+{"is from": 1}
+{"american": 1, "british": 1}
+{}
+{"canadian": 1, "american": 1}
+{"japanese": 3}
+{"is from": 1}
+{"is japanese": 2}
+{"is from": 1}
+{}
+{"franco-japanese": 1}
+{"japanese": 1}
+{"is italian": 1}
+{}
+{}
+{"united states": 1}
+{"united states": 1}
+{"is from": 1}
+{"united states": 1}
+{"is from": 1}
+{"usa": 1}
+{"is from": 1}
+{"united states": 1}
+{"bengali": 1}
+{"hindi": 1, "bengali": 1}
+{"is from": 1}
+{"is a hindi/urdu film": 1}
+{"bengali": 1}
+{"is indian": 1}
+{"bengali indian": 1}
+{"is from": 1}
+{"is from": 1}
+{"urdu": 1, "hindi": 1}
+{"is from": 1}
+{"is from": 1}
+{"australian": 1}
+{}
+{"is from": 1}
+{"australian": 2}
+{"australian": 2}
+{"australian": 3}
+{"australian": 1}
+{"australian": 2}
+{"is argentine": 1}
+{"is from": 1}
+{"canadian": 1}
+{"is american": 1}
+{"from germany": 1, "in the united states": 2}
+{"guatemalan": 1}
+{"is american": 1}
+{}
+{"french-canadian": 1}
+{"is from": 1}
+{"is from": 1}
+{"is italian": 1}
+{"is from": 1}
+{"is indian": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"canadian": 1, "american": 1}
+{"croatian": 1}
+{"serbian": 1}
+{"croatian": 1}
+{"austrian": 1}
+{"german": 3}
+{"bosnian": 1}
+{"is canadian": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"is from germany": 1, "is from sweden": 1}
+{"is from": 1}
+{"uk": 1}
+{"american": 1}
+{"is french": 1}
+{"is an american": 1}
+{"is an american": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 2}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from the united kingdom": 1, "of the austrian empire": 1}
+{"is from england": 1}
+{"is from libya": 1, "exiled libyan": 1}
+{"norman": 1, "english": 1}
+{"is from": 1}
+{"british": 1, "scottish": 2}
+{"english": 3, "french": 1}
+{"australian": 2}
+{"is australian": 1}
+{"australian": 2, "english": 1}
+{"australian": 1, "english": 1}
+{"is australian": 1}
+{"is australian": 1}
+{"australian": 2, "english": 1}
+{"is from": 1}
+{"is australian": 1}
+{"is australian": 1}
+{"is from ecuador": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"united states": 1}
+{"is from": 2}
+{"is from": 1}
+{"is from cuba": 1}
+{"spanish": 1}
+{"from northern peru": 1}
+{}
+{"is from": 1}
+{}
+{"united states": 1}
+{}
+{"is from": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"from leeds": 1}
+{"uk": 1, "american": 1}
+{"is canadian": 1}
+{"is from": 1}
+{"is from": 2}
+{"is from": 1}
+{}
+{"is canadian": 1}
+{"is from canada": 1}
+{"is polish": 2, "is from poland": 1}
+{"is polish": 1}
+{"assamese": 2}
+{"is american": 1}
+{"is from": 1}
+{"belarusian": 2}
+{"is from poland": 1}
+{"british": 1}
+{"is from": 1}
+{"is from": 2}
+{"is from": 1}
+{"is from": 1}
+{"is japanese": 1}
+{"is from": 1}
+{"is japanese": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"japanese": 2}
+{"japanese": 1}
+{"is french": 1}
+{}
+{}
+{"hungarian british": 1}
+{"french": 1}
+{"french": 2}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"american": 1, "us-based": 1}
+{"is from": 2}
+{"new zealand": 1}
+{"is from": 1}
+{"germany": 3, "european": 1, "american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is a multinational": 1}
+{"is from": 1}
+{}
+{}
+{}
+{"is from great britain": 1}
+{"american": 1}
+{"english": 1}
+{"is from": 2}
+{"is from": 1}
+{"is from": 1}
+{"anglo-saxon": 1}
+{"east-saxons": 1}
+{"is american": 1}
+{"japanese-american": 1}
+{"united states": 2}
+{"american": 1}
+{"american": 1}
+{}
+{"is american": 1}
+{}
+{"american": 1}
+{"is from": 1}
+{"english": 1}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is an american": 1}
+{"australian": 3}
+{"american": 1}
+{}
+{"is from": 2}
+{"american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"from the philippines": 1}
+{"is from canada": 1}
+{"is from": 1}
+{"american": 1}
+{}
+{"is from": 1}
+{"is russian": 1, "is soviet": 1}
+{"united states": 1}
+{}
+{"soviet russian": 1}
+{"russian": 2}
+{"soviet russian": 1}
+{"is a soviet russian": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is american": 1}
+{}
+{}
+{"australian-american": 1, "american": 1}
+{}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is american": 1}
+{"african diaspora": 1}
+{"is from": 2}
+{"african american": 1}
+{"is african american": 1}
+{"is english": 1}
+{"is from": 1}
+{"blacks in america": 1}
+{"united states-based": 1}
+{"is from": 1}
+{"jewish": 1}
+{"is from germany": 1, "is from russia": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"jewish": 1}
+{"is an american": 1}
+{"is from": 1}
+{}
+{"chinese-american": 1}
+{}
+{"in the united states": 1}
+{"is american": 1}
+{"international": 1}
+{"is american": 1}
+{"ivy league": 1}
+{"is american": 1}
+{"canadian-born": 2, "american": 1, "saskatchewanian-born": 1}
+{"german-american": 1}
+{}
+{}
+{"is a filipino": 1}
+{"united kingdom": 1, "british": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"welsh": 1}
+{"azerbaijani": 1, "emirati": 1}
+{"is from": 1}
+{"american": 1}
+{"american": 1}
+{"is american": 1}
+{}
+{"is from": 1}
+{"is japanese": 1}
+{"is american": 1}
+{"is from": 1}
+{"is american": 1}
+{"american": 1}
+{}
+{"is american": 1}
+{"is american": 1}
+{"american": 1}
+{"is american": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{"is from": 1}
+{"is an american": 1}
+{"is american": 1}
+{"australian": 1}
+{}
+{"is american": 1}
+{"is from": 2}
+{"is from": 1}
+{"united states": 1}
+{"american": 1}
+{"is from": 1}
+{"american": 1}
+{"is from": 1}
+{"american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"american": 1}
+{"is american": 1}
+{"american": 1}
+{"english-nigerian": 1}
+{"canadian": 1}
+{"is american": 1}
+{"australian": 2}
+{"is from the united states": 1}
+{"is british": 1}
+{}
+{"is australian": 1}
+{"australian-american": 1}
+{"is an english": 1}
+{"english": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is american": 1}
+{"irish": 1}
+{}
+{"is from": 1}
+{}
+{"jewish": 1}
+{"endemic to brazil": 1}
+{}
+{"french": 1}
+{"is endemic to": 1}
+{}
+{}
+{}
+{}
+{"native to the northern hemisphere": 1, "found in china": 1, "native species in europe": 1, "native species in india": 1, "native species in north america": 1}
+{}
+{}
+{}
+{"mexico": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{"from san diego": 1}
+{"uruguay": 1}
+{}
+{}
+{"is american": 1}
+{}
+{"american": 1}
+{}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"indian": 3}
+{"is from": 1}
+{"is from": 1}
+{"hinduism": 1}
+{"indian": 3}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is australian": 1}
+{}
+{}
+{"british": 1, "native united kingdom": 1}
+{"is from": 1}
+{"maltese": 1}
+{}
+{}
+{}
+{"german": 1}
+{}
+{"is from": 1}
+{"is from england": 1}
+{}
+{}
+{"is american": 1}
+{"hispanics in general": 1}
+{}
+{}
+{"baseball-playing countries": 1}
+{"is from": 1}
+{"united states": 1, "mexico": 1, "canada": 1}
+{}
+{}
+{"people's republic of china": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}
+{"puerto rican": 2}
+{"is from": 1}
+{}
+{"is from": 1}
+{"usa": 1, "united kingdom": 1}
+{"is from": 1}
+{}
+{"greenlandic": 1, "danish": 1}
+{"is from": 1}
+{"united states": 2}
+{"native american": 1, "african-american": 1}
+{"german-born": 1}
+{"is from": 1}
+{"French Polynesia": 1}
+{"is english": 1}
+{"is from": 1}
+{}
+{"europe": 1, "japan": 1, "brazil": 1, "usa": 1}
+{}
+{"is from": 1}
+{}
+{}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"russian": 2}
+{"is from": 1}
+{"is from": 1}
+{"is singaporean": 1}
+{"russian": 2}
+{"canadian": 3}
+{"argentine": 1}
+{"is spanish": 1, "is mexican": 1}
+{"is spanish": 1}
+{"brazilian": 1, "mexican": 1}
+{"is spanish": 1}
+{"german": 1}
+{"is from": 1}
+{"paraguayan": 3, "uruguayan": 1}
+{"is uruguayan": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"russian": 3}
+{"Russian Federation": 1, "United Kingdom of Great Britain and Northern Ireland": 1}
+{"russian federation": 1}
+{"of russia": 2}
+{"is a russian american": 1}
+{"russian": 2}
+{"of russia": 3}
+{}
+{}
+{"is from northern ireland": 1}
+{"is from": 1}
+{"italy": 1}
+{}
+{"irish": 1}
+{"italy": 1}
+{"northern ireland": 1}
+{"is from": 2}
+{"is from switzerland": 1}
+{"english": 1}
+{"english": 1}
+{"swiss": 3}
+{"is from switzerland": 1}
+{"based in": 1}
+{"swiss": 2}
+{"is from": 1}
+{"is italian": 1}
+{"is from": 1}
+{"american": 1}
+{"is american": 1}
+{"is a french": 1, "of sephardi jewish descent": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{"is from": 1}
+{"is from": 1}
+{"is from north carolina": 2}
+{"is from japan": 1}
+{"is an american": 1}
+{"is from": 1}
+{"is from": 1}
+{"is american": 1}
+{"united states": 1}
+{}
+{"american": 1}
+{}
+{"is from portugal": 1}
+{"is from": 1}
+{"is from": 1}
+{}
+{}
+{}
+{}
+{}
+{"serbian-american": 1}
+{"white settlers": 1, "local natives": 1}
+{"is from": 1}
+{"peru": 1}
+{"black": 1, "mississippi": 1}
+{"indigenous to south africa": 1}
+{}
+{"american": 1}
+{"is american": 1}
+{"is from": 1}
+{"is from": 1}

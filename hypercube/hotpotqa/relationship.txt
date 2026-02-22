@@ -1,0 +1,9811 @@
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"conversation between": 1, "efforts of the us, uk, and spain": 1}
+{}
+{}
+{"opposition to": 1, "support for": 1}
+{}
+{"brother of": 1}
+{}
+{}
+{}
+{}
+{}
+{"between": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"business partner": 1, "wife": 1}
+{}
+{}
+{}
+{}
+{}
+{"relationship between": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is countered by": 1, "is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"current captain of": 1, "key member of": 1}
+{}
+{}
+{"seat of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"first": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"great-grandmother's birthday": 1}
+{}
+{"following the breakup of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"acquired from": 1}
+{"son of": 1, "teammate": 1}
+{}
+{}
+{}
+{"member of": 1}
+{"against": 1}
+{"Cavaliers-Warriors rivalry": 1}
+{}
+{}
+{"adaptation by": 1}
+{"member of": 1, "part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1}
+{}
+{"father": 1, "brother": 1}
+{}
+{"playing for": 1}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"arch enemies": 1}
+{"current lineup consists of": 1}
+{"is sometimes identified as": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"represents": 1, "is coached by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"associated with": 1}
+{}
+{}
+{}
+{}
+{}
+{"departure of": 1, "nucleus of": 1}
+{"collaboration agreement between": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"link between": 1}
+{"part of": 1, "adjacent to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"marriage to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"wholly owned by": 1}
+{}
+{"parent company": 1}
+{}
+{"participated in": 1, "was replaced by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"co-production of": 1}
+{}
+{"daughter of": 1, "first cousin of": 1, "husband of": 1, "wife of": 1, "child of": 1}
+{}
+{}
+{}
+{"played bo's wife": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"circuit hosted grand prix": 1, "circuit designed by architect": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"co-founder": 1}
+{"bandmate": 1}
+{"founding members of": 1, "replaced by": 1}
+{}
+{}
+{"independence from expectations": 1}
+{}
+{"member of": 3, "work with": 1, "writing new material with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"long-term partner": 1}
+{}
+{}
+{}
+{"was one of the most important": 1}
+{"founding director of": 1, "executive director and founder of": 1, "spokesperson for": 1}
+{"together with": 1}
+{"following in the footsteps of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"selected by the research community": 1, "flying a commercial payload": 1, "designated by international partners": 1}
+{"second": 2, "first": 2, "last": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"living at the home of": 1, "joins the glee club": 1}
+{"girlfriend": 1}
+{"sidekick to": 1, "best friend": 1}
+{"develop feelings for": 1, "is less than pleased with": 1, "expresses love for": 1}
+{}
+{}
+{}
+{}
+{"club members follow suit": 1, "club director becomes jealous of guidance counselor's new boyfriend": 1}
+{"longtime bully": 1, "love interest": 1}
+{}
+{}
+{}
+{}
+{}
+{"brother": 1}
+{}
+{}
+{}
+{}
+{"married to": 1}
+{"married to": 3}
+{"decorating the permanent residence of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"under mayor": 1, "as a member of": 1, "as chairman of": 1}
+{"adapted from": 1, "used by": 1, "commissioned by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"granddaughter of": 1, "married to": 2, "mother of": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"diplomatic standoff between india and the united states": 1}
+{"founded by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"part of the alt-right movement": 1}
+{}
+{}
+{"original lineup for": 1, "played with": 1, "recruited in": 1, "taken by": 1}
+{}
+{}
+{"wife and partner": 1}
+{"equal partners": 1}
+{}
+{}
+{}
+{}
+{}
+{"partnership with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1, "broadcasts": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"stars": 1, "focus on": 1}
+{}
+{}
+{}
+{"nurturing": 1}
+{}
+{}
+{"rivalry": 1}
+{}
+{}
+{}
+{}
+{"sells to": 1, "returns to": 1}
+{}
+{}
+{}
+{}
+{"brother of": 1, "product of": 1}
+{"commissioned him to direct": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"plays for": 1, "has been on": 1}
+{"of": 2}
+{}
+{}
+{}
+{}
+{}
+{"youngest son of": 1}
+{"member of": 1}
+{}
+{"member of": 1, "adoptive name": 1}
+{}
+{"possibly": 1}
+{"husband": 1, "writing partner": 1}
+{}
+{}
+{"brother": 1, "collaboration": 1}
+{}
+{}
+{"younger version of": 1}
+{"son of": 1, "paternal grandfather": 1, "paternal uncles": 1, "maternal grandparents": 1}
+{}
+{"member of": 1, "produced": 1}
+{}
+{}
+{"father-son": 2, "husband-wife": 1}
+{"based on raj kapoor's own life": 1}
+{"married to": 1}
+{"influenced by": 1}
+{"led by": 1, "in honor of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"plays for": 1, "is a part of": 1}
+{}
+{}
+{}
+{"younger brother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"worked together": 1, "separated over work issues": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1}
+{}
+{}
+{}
+{"maternal uncle": 1, "wife's brother-in-law": 1}
+{}
+{}
+{"related to": 1}
+{"mother of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"husband of": 1}
+{}
+{}
+{"son of willie davis": 1, "son of ann davis": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ownership of the brand": 1}
+{}
+{}
+{"group's": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"follows a story based": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"stars": 1, "opposite": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"controlling stake in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{"defeated defending-champion": 1}
+{"head coach of": 2}
+{}
+{"member of": 1}
+{}
+{}
+{}
+{"shared between": 1, "credited as": 1, "continued to tour with": 1}
+{}
+{"similar to their own design": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is the cousin of": 1}
+{"coached at": 1, "played under": 1}
+{}
+{}
+{}
+{"helped his team": 1}
+{}
+{}
+{}
+{"first teams to play in": 1, "acquired from": 1, "signed with": 2}
+{}
+{}
+{"projected to be the top overall pick": 1, "runner-up to": 1}
+{}
+{"led by": 1, "brought a college football championship to": 1}
+{}
+{}
+{}
+{"heisman committee": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"married to": 1, "member of": 1}
+{}
+{"member of": 1}
+{}
+{}
+{}
+{"wife of": 1}
+{"son of": 1}
+{}
+{"father of": 1, "wife of": 1}
+{"son of": 1, "grandson of": 1, "sister": 1}
+{"daughter of": 1}
+{"child of": 1, "grandchild of": 1, "twin sister of": 1}
+{"wife of a crown prince": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"between": 1}
+{"between anastasia steele and christian grey": 1}
+{}
+{}
+{"relationship between": 1}
+{"married to": 1}
+{"between": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"husband": 1}
+{}
+{}
+{}
+{"husband": 1, "mother": 1}
+{}
+{}
+{}
+{"attempt to ruin": 1}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{"leader of a group": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"married to": 1}
+{"affiliated with": 1}
+{}
+{}
+{}
+{"has been home to": 1, "plays within city limits": 1}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"of": 2}
+{}
+{}
+{}
+{"recommendation of the Constitutional Council": 1, "recommendation of the Judicial Council": 1, "appointed by the Government of Nepal": 1}
+{}
+{}
+{}
+{"was appointed by": 1, "joined": 1}
+{}
+{"member of the vinson political family": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"at headmistress press": 1}
+{}
+{"member of": 1}
+{}
+{"is about": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lives between": 1, "awarded by": 1}
+{}
+{}
+{"younger brother": 1, "uncle": 1}
+{}
+{"between": 1}
+{}
+{"son of": 1, "brother": 1, "parents": 1}
+{"son of": 1}
+{}
+{}
+{}
+{"family of broadcasters": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"vassal of": 1, "subject of": 1, "known as": 1}
+{}
+{"part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"elder brother of": 1}
+{"brother of": 1}
+{}
+{}
+{"brother of": 1, "half-brother of": 3, "stepson to": 1, "wife of": 1}
+{}
+{"member of": 1, "joined": 1}
+{}
+{}
+{"son of": 1}
+{}
+{}
+{}
+{"brother": 1, "son": 1}
+{"traded to": 1}
+{}
+{"first overall pick": 1, "nickname": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"part of": 1}
+{}
+{}
+{}
+{}
+{"is one of": 2}
+{"son of": 1, "married to": 1, "successor of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1, "marriage with": 1}
+{}
+{}
+{"conflict between": 1, "overlord of": 1}
+{"father": 1}
+{}
+{}
+{}
+{"husband and wife": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sponsored by": 1}
+{}
+{}
+{"husband": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"affiliation with": 1, "bromance": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"father of": 1, "assisted by": 1, "best friend": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"antagonist of": 1, "part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"owner": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"starring": 1}
+{}
+{}
+{}
+{}
+{}
+{"mother of": 1}
+{}
+{}
+{}
+{"born to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"father opposed": 1, "mother supportive": 1}
+{}
+{}
+{}
+{}
+{"joint rule with": 1}
+{}
+{}
+{"model of courage": 1, "model of courageous serbian warriors": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nicknamed": 2}
+{}
+{}
+{}
+{"heirs of the oberoi family": 1, "love story of shivaay and annika": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"joint venture": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"provide certain public safety services": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"part of": 1}
+{}
+{"labeled as": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"first ever manager of": 1, "managed": 1}
+{}
+{}
+{"married to": 1, "succeeded by": 1}
+{}
+{"response to": 1}
+{}
+{"younger brother of": 1, "father of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"former": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"on-screen brother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"representing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"friend": 1, "comedy partner": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"real life couple": 1}
+{}
+{}
+{}
+{}
+{}
+{"is a buddy with": 1, "is a sister of": 1}
+{}
+{}
+{}
+{}
+{}
+{"comprise": 1}
+{}
+{"and": 1}
+{}
+{"led by": 2}
+{}
+{"descendants of": 1, "associated with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Canadian arm of": 1, "loosely affiliated with": 1}
+{}
+{"fianc\u00e9e": 1, "blending families": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"signed to": 1, "helped him secure a deal with": 1}
+{"stepfather": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"connected by": 1}
+{}
+{}
+{"is a part of": 1}
+{}
+{"head-to-head series": 1}
+{}
+{}
+{}
+{}
+{}
+{"partnering": 1, "is the son of": 1}
+{"partnership": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is wife of": 1, "is manager of": 1}
+{"become good friends": 1}
+{"parent perceived as the most fun": 1}
+{}
+{"sister": 2, "husband": 1}
+{"brother": 1, "half-brother": 1}
+{"sisters": 2, "brother-in-law": 1}
+{"friends": 1, "family": 1}
+{"family's enjoyment": 1, "homer invites friends": 1}
+{}
+{"is a part of": 1}
+{"is in love with": 2, "falls in love with": 2}
+{}
+{}
+{}
+{}
+{}
+{"has toured with": 1, "is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"adaptations of": 1, "set in": 1}
+{"has served as": 1}
+{"owned the film rights": 1, "had the rights to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"crew mates": 1}
+{}
+{}
+{}
+{"allied with": 1, "disparaging the separatist movement": 1}
+{"daughter of": 1, "involved in education": 1}
+{"leader of": 1}
+{}
+{}
+{}
+{"governor of": 1}
+{"brother": 1, "key leaders": 1}
+{}
+{}
+{}
+{}
+{"married to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1}
+{}
+{"co-authoring with": 1}
+{}
+{}
+{}
+{}
+{"son of": 1}
+{}
+{}
+{"son of": 1}
+{}
+{}
+{}
+{}
+{}
+{"founding member of": 1}
+{}
+{"wife": 1, "disciple": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"wedding": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sold to": 1, "changed hands": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"stepbrother": 1}
+{}
+{}
+{}
+{}
+{"fellow": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"participated in": 1}
+{"father of": 1, "engaged to": 1}
+{}
+{}
+{"against russian forces": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"awarded by": 1}
+{"affiliated with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"first-generation member of": 1, "contributed to": 1}
+{}
+{}
+{}
+{"patron": 1, "friend": 1}
+{}
+{}
+{}
+{"band members": 1, "band": 1, "bart\u00f3k's family": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"partnership between": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"band members": 1}
+{}
+{"reunion effort": 1}
+{}
+{"members of": 2}
+{}
+{"influences": 1}
+{}
+{}
+{}
+{}
+{}
+{"fronted by": 1, "signed as": 1}
+{"founding member of": 1}
+{}
+{}
+{}
+{"estranged wife": 1, "mistress": 1}
+{}
+{"manages one": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"brother": 2, "nephew": 1}
+{"married to": 1, "came into the family": 1}
+{"relation of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"married to": 1, "writing team": 1}
+{}
+{"close friend": 1}
+{"together": 1}
+{}
+{"husband": 1}
+{}
+{}
+{"father of": 1}
+{}
+{}
+{}
+{}
+{"hosted the first season": 1, "hosted the 1957 and 1958 seasons": 1}
+{}
+{}
+{}
+{}
+{"involvement with": 1}
+{}
+{"between": 1, "as": 1}
+{"co-write with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"parents": 1}
+{}
+{}
+{}
+{}
+{"win at": 1, "concerns in relation to": 1}
+{}
+{}
+{}
+{}
+{"allied powers": 2, "partnership with the greeks": 1}
+{"son of": 1, "cousin of": 1, "wife of": 1}
+{"wife of": 1, "favorite of": 1}
+{"daughter of": 1, "mother of": 1, "alliance between": 1}
+{}
+{"father-son": 1, "alliance": 1}
+{}
+{"mother of": 1, "mother-in-law": 1, "shared power with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1, "based at": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"from belgrade": 1}
+{}
+{}
+{}
+{"rivals": 1}
+{}
+{}
+{"is the only high school in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"founded by": 1}
+{}
+{}
+{}
+{}
+{}
+{"sue's sister": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a ministry of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"former member of": 1, "member of": 1}
+{}
+{}
+{}
+{"chosen by": 1}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{"franchise": 1}
+{}
+{"son of": 1, "married to": 1, "siblings include": 1}
+{}
+{"between": 1, "to decide": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ex-boyfriend": 1}
+{}
+{"father of": 1, "one half of": 1}
+{}
+{"owned by": 1}
+{}
+{}
+{}
+{}
+{}
+{"co-owner": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"competed with": 1, "was a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"signature song": 1}
+{}
+{}
+{}
+{"leader of": 1, "opposition to": 1}
+{"father-son": 1, "help from": 1}
+{}
+{}
+{"joined": 1, "enlisted in": 1, "served in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"belonging to": 1, "oversees": 1}
+{}
+{}
+{}
+{"married to": 1}
+{"brother": 1, "son": 1}
+{}
+{"son of": 1, "half-sister": 1, "husband": 1}
+{}
+{}
+{}
+{"supported": 2}
+{"friendship with": 1, "junior branch of the family of": 1}
+{}
+{}
+{"close links with": 1, "descendants held": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"center point of attraction to": 1, "inspiration and role model to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"resembles": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1, "tie for": 1}
+{}
+{}
+{}
+{"is a charter member of": 1}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{"relates to": 1}
+{}
+{"ties back to": 1}
+{}
+{"worked together with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{"friend and mentor": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"best friend": 1, "childhood friends": 1}
+{"partnering with": 1, "duo appeared on": 1}
+{"featured in": 2, "enacting as": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"professional partnership with": 1, "wife of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"honor of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"was largely responsible for": 1}
+{"leader of": 1, "composed of": 1}
+{}
+{"primary composed by": 1, "former leader of": 1}
+{"oldest combat veteran of the first world war": 1, "last surviving military witness to the scuttling of the german fleet": 1, "oldest man born in the united kingdom": 1}
+{}
+{}
+{"married to": 1}
+{}
+{}
+{}
+{}
+{}
+{"invitation of": 1}
+{}
+{"counterpart to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"between": 1}
+{}
+{"second wife": 1}
+{}
+{}
+{}
+{"wife of": 1, "had an affair with": 1}
+{}
+{}
+{"longtime girlfriend": 1}
+{}
+{}
+{}
+{"related to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tenure at": 1}
+{"part of": 1, "acquisition": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sympathizing with": 1}
+{}
+{}
+{"mentorship of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"married": 1}
+{}
+{"married owner of the guest house": 1}
+{"granddaughter of": 1, "daughter of": 1, "niece of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"co-production": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"brother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"connection to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"influenced by": 1}
+{}
+{}
+{}
+{}
+{"influence each other": 1}
+{}
+{"is a part of": 1, "known for": 1}
+{"is a part of": 1}
+{}
+{}
+{}
+{"defeated host nation": 1, "represented the afc": 1}
+{}
+{"played between": 1}
+{"consisted of": 1}
+{"remaining bidder for the right to host": 1}
+{}
+{}
+{"played for": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"brother": 2, "friend": 1}
+{}
+{"from the ashes of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"are siblings": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"rival": 1}
+{}
+{}
+{"faced the opportunity to promote": 1}
+{"teammates": 1}
+{}
+{}
+{"joint bid from": 2}
+{"controlled by": 1}
+{}
+{"bid presented by": 1}
+{"plays for": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"between": 1}
+{"rivalry between": 1, "part of": 1}
+{"rivalry": 1}
+{"rivalry": 1}
+{"between": 1}
+{"between the butler bulldogs and the valparaiso crusaders": 1}
+{}
+{}
+{"attention of": 1, "signed to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sister park of": 1}
+{}
+{}
+{}
+{"organisers and artists": 1}
+{}
+{}
+{}
+{}
+{}
+{"wife of": 1}
+{}
+{"portrayed by": 1}
+{"father to children": 1}
+{}
+{}
+{}
+{"husband and wife": 1}
+{}
+{}
+{"dividing the group": 1, "question whether": 1}
+{}
+{"daughter of": 1, "close friends with": 1}
+{"group of survivors": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"defiance against": 1, "rallying point for": 1, "rule of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"love triangle": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is an allusion to": 1}
+{}
+{}
+{}
+{}
+{"member of": 1, "one of three authors of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1}
+{}
+{}
+{}
+{}
+{"is a part of": 1, "competed against": 1, "divided into": 1}
+{}
+{}
+{}
+{"desperate to appear tolerant of": 1}
+{}
+{}
+{}
+{"newly wed couple": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"married to": 1}
+{}
+{"crew": 2}
+{}
+{"developed by tribal existence productions worldwide": 1, "certified by nasa": 1}
+{"between the fifteen nations": 1, "between the five space agencies": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"honour and memory of": 1}
+{}
+{"honor the memory of": 1, "friends and fellow florida wrestlers": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is an offshoot of": 1, "being": 1}
+{}
+{}
+{"uncle": 1}
+{}
+{}
+{"uncle": 1}
+{}
+{}
+{"home to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"father of": 4, "husband of": 1, "leader of": 1, "advocate on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"associated with": 1}
+{"first chair of": 1, "former associate special prosecutor": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"father": 1, "business partners": 1}
+{}
+{}
+{"in friendship and esteem": 1}
+{"saved": 1, "concealed": 1}
+{}
+{}
+{}
+{"is the primary remnant": 1, "has been involved in": 1, "was formed after negotiations between": 1}
+{}
+{"relationship between hutu and tutsi": 1}
+{}
+{"centralise control of": 1}
+{}
+{}
+{"failed to work together": 1}
+{}
+{"commissioned by": 1, "in keeping with": 1, "overshadow": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nephew of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"partnership with": 1}
+{}
+{}
+{"status as": 1}
+{"mother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"half-brothers": 1, "estranged father": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"closest to them": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mother": 1, "father": 1}
+{}
+{"marrying cyclists": 1}
+{}
+{}
+{}
+{"member of": 1, "owner of": 1, "head of": 1}
+{}
+{"family connections": 1}
+{}
+{"ancestral mother of": 1, "current owners of": 1}
+{"owned by": 1}
+{}
+{}
+{"brother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"working with": 1, "love for": 1}
+{}
+{}
+{"owned by": 2}
+{}
+{}
+{"joint venture between": 1}
+{"son of": 3, "wife of": 1, "daughter of": 1, "heir was": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"consisting of": 1, "colleague": 1}
+{}
+{}
+{}
+{"younger brother of": 2}
+{}
+{"brother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"arguably the second white group to achieve hip hop credibility after": 1}
+{}
+{"founder and ceo of": 1}
+{"group formed by": 1, "group replaced by": 1, "group dropped by": 1}
+{}
+{"family": 1}
+{}
+{"part of": 1}
+{"younger brother of": 1}
+{"close associate of": 1}
+{}
+{"relative of": 1}
+{"brother of": 1}
+{}
+{"was paying street tax to": 1}
+{}
+{}
+{}
+{}
+{"is a part of": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"between the Mexican Government and various drug trafficking syndicates": 1}
+{"protest movement": 1, "protests were called by": 1}
+{"controlled": 1, "opposed": 1, "led": 1}
+{"against the separatist movement": 1, "of suspected militants": 1}
+{"conflict": 1, "negotiations": 1}
+{}
+{"supported by the church hierarchy": 1, "between the calles government and the church": 1}
+{}
+{"allied with": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"combined force of": 1, "led by": 2, "commanded by": 1}
+{}
+{}
+{"pressure from washington": 1}
+{"assisting": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"financial ties to": 1}
+{}
+{}
+{"owned by": 1, "affiliation with": 1}
+{}
+{}
+{}
+{}
+{}
+{"part of": 1}
+{"outline of a person": 1}
+{"consent of": 1}
+{"is a part of": 1, "reflecting the growth in diversity and innovation": 1}
+{"supported": 1, "conducted": 1, "claimed responsibility": 2}
+{}
+{}
+{"owned by": 1}
+{}
+{}
+{}
+{"brothers": 2}
+{}
+{}
+{}
+{}
+{}
+{"living with": 1, "tries to get": 1}
+{}
+{}
+{"dating": 1, "married to": 1}
+{}
+{}
+{}
+{}
+{"legal battles": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"founders of": 1, "chairman prior to": 1}
+{"close ally to": 1, "inner circle": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"home team": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mother of": 1, "wife of": 1, "niece of": 2, "niece in law of": 1, "cousin of": 1}
+{}
+{}
+{}
+{}
+{"brother": 1}
+{}
+{}
+{}
+{}
+{}
+{"father of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"drafted by": 1, "played for": 3, "retired from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"acquired chipsoft": 1, "is part of": 1}
+{}
+{"member of": 1, "partnership between": 1}
+{"is the primary subsidiary of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is the band's": 1}
+{"first release since": 1, "first album since": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"daughter of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"president of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"marriage to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"leader of": 1, "harbinger of": 1, "assistant to": 1}
+{}
+{}
+{}
+{}
+{}
+{"oppression by foreign rulers": 1, "models of the wise and faithful behaviour": 1}
+{}
+{}
+{}
+{}
+{"owned by": 2}
+{"serves": 1}
+{}
+{}
+{}
+{}
+{}
+{"sister station": 2, "regional group broadcaster": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"conflict between": 1, "led by": 1, "dominated by": 1}
+{}
+{}
+{}
+{}
+{}
+{"excluded": 1, "under": 1}
+{"son of": 1, "grandson of": 1, "cousin of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"twin brother": 1, "older brother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"acting as": 1}
+{}
+{}
+{}
+{}
+{"ex-husband": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"fianc\u00e9's": 1, "younger brother": 1}
+{}
+{}
+{"engaged to": 1, "in love with": 1}
+{"follows onto": 1, "is on": 1}
+{}
+{"starring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"helped by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"daughter of": 1, "younger brother of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"has framed": 1, "was brought in": 1}
+{}
+{"was": 1}
+{}
+{}
+{"father of": 1}
+{"founding father of": 1, "supports": 1}
+{"married to": 1}
+{"son of": 1}
+{}
+{}
+{}
+{"dispute between": 1, "married to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"friend": 1}
+{"mother of": 1, "eldest son of": 1, "younger brother of": 1}
+{}
+{}
+{"friend": 1, "husband": 1}
+{"grand-daughter of": 1}
+{}
+{}
+{}
+{"maintain monticello": 1, "focus on architectural preservation": 1}
+{}
+{}
+{}
+{"joint venture between": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"division of": 1, "working jointly with": 1}
+{"translator for": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"assistant to": 1, "led by": 1}
+{"husband": 1}
+{"referred to": 1}
+{}
+{}
+{}
+{}
+{}
+{"was married to": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1, "opposite": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"joint venture between": 1, "sister hotel": 1}
+{}
+{}
+{"joint venture between": 1, "owned by": 1, "leased by": 1, "operated by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"in association with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a descendant of": 1}
+{}
+{"friend of": 1, "member of": 1}
+{"cousin": 1, "niece": 1}
+{}
+{}
+{}
+{"son of": 1, "daughter of": 1, "grandson of": 1}
+{}
+{}
+{"son of": 1, "marriage to": 1}
+{}
+{"tour of": 1, "divided into": 1}
+{}
+{}
+{}
+{}
+{}
+{"was the subject of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"father-son": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"elevation of a hindu to such a prominent position caused": 1, "was taken almost as a personal insult": 1}
+{}
+{"friend of": 1, "uncle of": 1}
+{"betrayed by": 1, "subordinate to": 1}
+{}
+{"father-in-law": 1, "supported by": 2}
+{}
+{"support from": 2, "defeated and killed": 1, "betrayal of": 1, "as a reward for": 1, "in favor of": 1, "with the support of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"founder of": 1, "editor of": 1, "president of": 1, "member of": 1, "director of": 1, "board member of": 1, "spokesperson of": 1}
+{}
+{}
+{}
+{"is a board member and spokesperson for": 1}
+{"inspiration for the screenplay": 1}
+{"appointment of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"part of": 1, "with the team": 1}
+{}
+{"son of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"responsible for": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"brother of": 1, "partner with": 1}
+{"son of": 1, "great-grandson of": 1}
+{"advocate for": 1}
+{"owned and operated by": 1, "merged into": 1, "acquired the remainder of": 1, "designated owner of": 1}
+{"influence on": 1}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{"gesture of non-support for": 1}
+{"daughter of": 1}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"plays her love interest": 1, "object of affections": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"go on": 1}
+{}
+{}
+{}
+{}
+{"heir apparent to": 1}
+{}
+{}
+{}
+{}
+{"student of": 1, "supporter of": 1}
+{"son of": 2, "half-brother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cousin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"members": 1}
+{"credited with being": 1}
+{}
+{}
+{}
+{}
+{"members of": 1}
+{"fronted by": 1, "suggestion of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1, "replaced by": 1, "was once opponent for": 1}
+{}
+{}
+{}
+{"was a": 1, "appointed to replace": 1}
+{}
+{"leader of the state's democratic party": 1}
+{}
+{}
+{}
+{"kidnapped by": 1}
+{"son of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"developer": 1, "original tenant": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1, "represents members": 1}
+{}
+{"is a part of": 1}
+{"is the publishing division of": 1}
+{}
+{}
+{"investor and supporter of": 1}
+{}
+{"owned by": 1, "part of": 1}
+{}
+{"resident home of": 1, "used by": 1}
+{"mother of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"partnership": 1}
+{}
+{}
+{}
+{}
+{}
+{"part of": 1}
+{}
+{}
+{}
+{"husband of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"co-star": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"first to be built for": 1, "flagship of": 1}
+{}
+{}
+{}
+{}
+{}
+{"relative of": 1}
+{}
+{"part of": 1, "given to": 1}
+{}
+{}
+{"daughter of": 1, "battle against": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"witness to": 1, "was with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"public-private partnership": 1}
+{}
+{}
+{}
+{}
+{"agreement between": 1}
+{}
+{}
+{}
+{}
+{"group's original material": 1}
+{}
+{"signed to": 1}
+{}
+{"formed in": 1}
+{}
+{"is a part of": 1}
+{}
+{}
+{"joined": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{"younger brother of": 1, "credited themselves to being": 1}
+{}
+{"lead singer of": 1, "group achieved success with": 1}
+{}
+{}
+{}
+{"signed to": 1, "signed with": 1}
+{}
+{}
+{}
+{}
+{}
+{"part of": 1, "absorbed by": 1}
+{}
+{"closest associate": 1}
+{}
+{}
+{}
+{}
+{"brother": 1, "niece": 1, "inspiration for": 1}
+{}
+{"friend": 1}
+{}
+{}
+{"love": 1, "tensions between": 1}
+{}
+{}
+{}
+{"friend": 2, "father": 1, "guardian": 1}
+{"creator of": 1}
+{}
+{}
+{}
+{"from the original series": 1, "as the voice of": 1}
+{}
+{}
+{}
+{"owned by treasure coast broadcasters": 1, "owned by glasscock family": 1, "owned by american radio": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"husband and wife": 1}
+{}
+{"wife of": 1, "mother of": 1}
+{}
+{}
+{}
+{}
+{"husband": 1, "backed up in court by": 1}
+{}
+{}
+{}
+{"substituting emperor pilaf's role": 1}
+{"acquisition of orion pictures": 1, "bought out filmways": 1, "owner of american international pictures": 1, "derived from aip library": 1, "became owners of mgm library": 1, "continued the midnite movies line": 1}
+{}
+{"must capture": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"conspired with": 1, "had control over": 1}
+{"is largely a biography of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"rather than": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"part of": 1, "operated as": 1}
+{}
+{}
+{}
+{"relationship between the president and the chief executive officer": 1}
+{}
+{"is a part of": 1, "includes": 1}
+{}
+{}
+{}
+{}
+{}
+{"affiliated with": 1}
+{}
+{}
+{}
+{}
+{"defending champion": 1, "host": 1}
+{}
+{}
+{"co-tenants": 1, "required to open": 1}
+{"is a part of": 1, "against": 1}
+{}
+{}
+{}
+{}
+{"best friend": 1, "former friend": 1}
+{}
+{}
+{"parents": 1, "marriage": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"between individuals": 1, "between states and individuals": 1}
+{"given to the states": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"recruited to": 1, "encouraged by": 1}
+{}
+{}
+{"brother": 1}
+{}
+{"teammates": 1, "partners": 1}
+{}
+{}
+{"brother of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"owned by": 1}
+{}
+{}
+{}
+{}
+{"association with": 1}
+{"shane and friends": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"was created by": 1, "invited to bring under the wing of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"captured through": 1, "sold to": 1}
+{}
+{}
+{}
+{"attempts to form a relationship": 1}
+{}
+{}
+{"married couple": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1, "convicted with": 1}
+{"married to": 1}
+{}
+{}
+{"father": 1}
+{"side-project of": 1}
+{}
+{}
+{}
+{}
+{}
+{"known for": 1}
+{}
+{}
+{}
+{}
+{"was named by readers of": 1}
+{}
+{}
+{}
+{}
+{}
+{"is married to": 1}
+{"clients include": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"friend": 1}
+{"member of": 1, "under the leadership of": 1}
+{"under guidance from": 1, "member of": 2}
+{}
+{}
+{}
+{}
+{}
+{"last game of the theme park series": 1}
+{"owned by": 1}
+{}
+{"licenses": 1}
+{}
+{}
+{}
+{"owned by": 1, "has sister": 1}
+{}
+{}
+{}
+{"son of": 1, "younger brother of": 1, "uncle of": 1}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1, "grandson of": 1, "accompanied": 1}
+{"son of": 1, "brother of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ownership of": 1, "part of": 1}
+{"father of": 1, "brother of": 1, "uncle of": 1, "great uncle of": 1}
+{"brother of": 1, "father of": 1, "grandfather of": 1}
+{}
+{}
+{"son of": 1, "grandson of": 1, "nephew of": 1}
+{"founding member of": 1}
+{}
+{"with": 2}
+{}
+{}
+{}
+{}
+{}
+{"father-son": 1, "husband-wife": 1}
+{}
+{"cousin": 2, "associate": 1}
+{}
+{"son of": 1, "daughter of": 1}
+{"member of the folville gang": 1}
+{}
+{"father of": 1}
+{}
+{}
+{}
+{"president of": 1, "taking on a chairman position": 1}
+{}
+{}
+{}
+{"father of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"eldest child of": 1, "married to": 1, "first in the line of succession": 1}
+{}
+{}
+{"elder brother of": 1}
+{}
+{"signed with": 1}
+{"sister of": 1, "daughter of": 2, "father of": 2}
+{"mother": 1, "friendship": 1}
+{}
+{}
+{"member of": 1, "from the mende ethnic group": 1}
+{}
+{}
+{}
+{}
+{"against": 1, "part of": 1}
+{"group of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"are married": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{"co-founder for": 1, "member of": 1}
+{}
+{}
+{}
+{"member of the editorial board": 1, "member of the presidential board": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"subsidiary of": 2, "became a subsidiary of": 1}
+{}
+{}
+{"longest-lasting lineup": 1, "original lead singer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"consisting of": 1, "was a member until": 1, "became": 1}
+{}
+{"founder of": 1, "director of": 1, "ceo of": 1}
+{}
+{}
+{"romantic relationship": 1}
+{}
+{"sidekicks to": 1}
+{}
+{}
+{}
+{}
+{}
+{"worked closely with": 1, "led": 2}
+{"between union army and confederate states army": 1, "part of battle of spotsylvania courthouse": 1}
+{}
+{}
+{}
+{"overall command of": 1, "defenders were reduced by": 1}
+{}
+{}
+{}
+{"allied with": 1}
+{"supported by": 1, "retained international recognition": 1}
+{}
+{"father": 1, "mother": 1, "wife": 1, "children": 1, "siblings": 1}
+{"cousin": 1}
+{"manipulated by": 1}
+{}
+{"part of": 1, "joined": 1}
+{"was maternal great-grandfather of": 1, "was uncle of": 1, "was friend of": 1}
+{}
+{}
+{}
+{}
+{"franchise player of the dallas mavericks": 1}
+{}
+{"cousin": 1}
+{}
+{"mentor of": 1, "friend of": 1, "coach of": 1}
+{"brother of": 1}
+{"fianc\u00e9e": 1, "best friend": 1, "would-be best man": 1}
+{}
+{"successor": 1}
+{"represent": 1}
+{"between miss jones and the pageant organizers": 1, "between the pageant and the broadcast network": 1, "with the sponsorship of": 1}
+{"winner of": 1}
+{}
+{"represent": 2}
+{"outgoing": 1}
+{"outgoing titleholder": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"husband of": 1}
+{}
+{}
+{}
+{}
+{}
+{"created by": 1, "did not work on": 1}
+{}
+{}
+{"narrator of the events": 1, "duo's earliest efforts": 1}
+{}
+{}
+{"involved with": 1, "consultant for": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"friendship with": 1}
+{"mother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"part of": 1, "home to": 1}
+{}
+{"cooperatively operated": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"girlfriend of": 1, "befriends": 1}
+{"husband and wife": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"replaced": 1}
+{}
+{}
+{}
+{}
+{"childhood friend": 1, "object of affection": 1}
+{"writing partner": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"former wife of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"known for": 1}
+{"are the reserve team of": 1}
+{}
+{"first german club to achieve the treble": 1, "third european club to complete the treble": 1, "seventh ever in european club competition": 1}
+{}
+{}
+{"hosts": 1, "former club": 1}
+{}
+{}
+{"daughter of": 1}
+{"worked with": 1}
+{}
+{}
+{}
+{}
+{"daughter of": 1, "granddaughter of": 1}
+{"husband of": 1, "wife of": 1}
+{}
+{}
+{"served setthatirath": 1, "led a rebellion": 1, "was given the honorific name": 1}
+{"younger brother of": 1, "elder brother": 1, "second son of": 1}
+{}
+{"great-grandson": 1, "great-great-grandson": 1}
+{"by marriage to": 1}
+{"first child of": 1, "eldest daughter of": 1, "younger brother is": 1, "younger half-sister is": 1}
+{"was her younger brother": 1}
+{}
+{"younger brother": 1, "heir presumptive to": 1}
+{"married to": 2, "mother of": 2, "kinsman": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"brother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"companion marque for": 1}
+{}
+{"partnership between": 1, "stake in": 1}
+{}
+{}
+{"acquire control of": 1, "forming a transportation monopoly": 1}
+{"ousted": 1, "acquire": 1}
+{}
+{"married into": 1, "born into": 1}
+{"part of": 1}
+{"founder of": 1, "member of": 1}
+{"notable for": 1}
+{"member of": 1}
+{"member of": 1, "partnership with": 1}
+{"of": 3}
+{}
+{"member of": 1}
+{"father of": 1}
+{}
+{"owner of": 1, "created by": 1, "sold to": 2}
+{}
+{}
+{}
+{"duel for the championship": 1, "led by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"separated from": 1, "known today as": 1}
+{}
+{"represents": 1, "is a member of": 1}
+{}
+{"elder brother of": 1, "teammate in": 1}
+{}
+{}
+{}
+{}
+{"stepsister": 1, "husband": 1}
+{}
+{}
+{}
+{}
+{"figures in the music industry": 1}
+{}
+{"consisting of": 1}
+{}
+{}
+{"friends": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"manager of": 1, "owners of": 1}
+{}
+{}
+{}
+{"then-husband": 1}
+{}
+{"symbol of anarchy": 1}
+{}
+{}
+{}
+{}
+{"owned by": 1, "sold to": 2}
+{}
+{}
+{}
+{"owned by": 1, "compete with": 1}
+{}
+{"owned by": 1}
+{}
+{}
+{"co-ruler of narnia": 1}
+{}
+{"susan is the second eldest pevensie child": 1}
+{}
+{}
+{}
+{}
+{"close friends with": 1}
+{"godchild of": 1}
+{"is a part of": 1, "causing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"divorce from": 1}
+{}
+{}
+{}
+{}
+{}
+{"corporate sponsor": 1}
+{}
+{}
+{"partner in": 1}
+{}
+{"maintains in partnership with": 1}
+{}
+{}
+{}
+{}
+{}
+{"husband and wife": 1}
+{}
+{}
+{}
+{}
+{}
+{"driving for": 1}
+{}
+{}
+{"swept": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tribute to": 1, "member of": 1}
+{"purchased": 1, "became": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"led by": 1, "together with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"part of": 1}
+{}
+{}
+{}
+{"owner of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"led by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"owner to team": 1, "city to team": 1}
+{}
+{}
+{}
+{}
+{"attend": 1, "charged with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"rivals with": 1}
+{}
+{}
+{}
+{"crucial to": 1}
+{"from the club on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"younger brother of": 1}
+{}
+{"brother of": 1}
+{}
+{"brother": 1, "associated with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"comrades with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"grandson of": 1}
+{}
+{}
+{}
+{}
+{}
+{"co-production": 1}
+{}
+{}
+{}
+{}
+{}
+{"was a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{"offspring of": 4}
+{}
+{}
+{}
+{}
+{"older brother of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"founders of": 1}
+{}
+{"is a part of": 1}
+{"assistant to": 1, "daughter of": 1, "count of": 1}
+{}
+{"was a major talent": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"founding document of": 1}
+{}
+{}
+{"founding document for": 1, "led to": 1}
+{}
+{}
+{"display of solidarity against": 1}
+{}
+{}
+{}
+{"foster daughter of": 1, "met": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"current champions are": 1}
+{"member of": 1, "played for": 3, "joined": 1}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{"member of": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"replaced": 1, "defeated by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"collaborative effort": 1}
+{}
+{}
+{}
+{}
+{"credited as": 1}
+{}
+{}
+{}
+{"is a spin-off of": 1}
+{"spin-off show to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"daughter of": 1, "married to": 1, "divorced from": 1}
+{"husband and consort of": 1}
+{}
+{"widow of": 1}
+{"invited to join": 1}
+{"first cousin": 2}
+{}
+{}
+{"sub-group": 1}
+{}
+{}
+{}
+{"conducting": 1}
+{"past relationships with": 1}
+{}
+{}
+{}
+{}
+{"collaboration": 1, "source of inspiration": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"employees who discover their boss": 1}
+{}
+{}
+{}
+{}
+{}
+{"ex-girlfriend": 1, "friend": 1}
+{}
+{}
+{"part of": 1}
+{}
+{}
+{"parent company of": 1}
+{}
+{}
+{"owned by": 1, "represents": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"are considered separate": 1, "are historically the same community": 1, "have always been entirely separate": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"protect": 1}
+{}
+{}
+{}
+{}
+{"sister cities": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"acquired by": 1}
+{}
+{}
+{}
+{}
+{"part of": 1, "has": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"relationship between legal libertarianism and classical liberalism": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"known disciple of": 1}
+{}
+{"took over the character from": 1, "saw the return of": 1}
+{"son of": 1, "favored disciple of": 1}
+{}
+{}
+{}
+{}
+{}
+{"is part of": 1}
+{}
+{"members of": 1}
+{"husband of": 1}
+{}
+{"married to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sponsored by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"co-founded with": 1, "merged with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"father and son pair": 1}
+{}
+{"is the fourth of six children of": 1, "is a sibling of": 5}
+{}
+{}
+{"works with": 1}
+{}
+{}
+{}
+{}
+{"addition of regular appearances from": 1}
+{}
+{"grandson of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"working with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"to spanish and italian parents": 1}
+{"assistant of": 1}
+{}
+{"across the street from": 1}
+{}
+{}
+{"next-door neighbor to": 1, "friendliest of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"subsidiary of": 1}
+{}
+{}
+{}
+{}
+{}
+{"worked for": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"wife": 1}
+{}
+{}
+{"older brother of": 1}
+{"nominally subordinate to": 1, "with oversight of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cooperation with": 1}
+{}
+{}
+{"named after": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"subordinate unit under": 1}
+{"associated with": 1}
+{"counterpart to": 1}
+{"co-editors": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"about": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"adaptation of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"brothers": 1}
+{"wife": 1, "brothers": 1}
+{"brothers": 1, "married to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"first woman to win": 1, "first israeli woman to win": 1}
+{}
+{}
+{}
+{"relationship between characters and environment": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"led by": 1, "following a military coup d'etat": 1}
+{}
+{}
+{}
+{}
+{"member of": 1, "first female prime minister": 1}
+{"agreement between": 1}
+{}
+{}
+{"lead roles": 1}
+{}
+{}
+{}
+{}
+{}
+{"sold to": 1, "continued improper practice of": 1, "lost the right to use": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1, "brother of": 1}
+{"brother of": 1}
+{"brother": 1}
+{}
+{}
+{}
+{}
+{"included": 1}
+{}
+{}
+{}
+{"player for": 1, "member of": 1}
+{}
+{}
+{}
+{}
+{"uncle": 1}
+{"player for": 1, "named the winner of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"opponent of": 1}
+{}
+{}
+{"relationship between": 1}
+{}
+{}
+{"husband of": 1, "father of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"president of": 1}
+{"is a member of": 1, "is a sister of": 1}
+{"principal leader of": 1}
+{}
+{"of": 2}
+{}
+{}
+{"namesake of": 1}
+{"member of": 1, "successor to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"close co-operation of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"inspiration is": 1}
+{}
+{}
+{"representing": 1}
+{"between": 1, "that took on": 1}
+{}
+{"played for": 4, "represented": 1}
+{}
+{"worked under": 1, "brought in by": 1, "continue to work closely together": 1}
+{}
+{}
+{}
+{"is a division of": 1, "is directly associated with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"with the band": 1}
+{"disagreements between": 1}
+{}
+{"is the lead singer of": 1, "formed with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"based on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"led by": 1, "associated with": 1}
+{}
+{}
+{"husband of": 1}
+{"defended by": 1}
+{}
+{}
+{}
+{}
+{"confused with": 1, "being the surviving company": 1}
+{}
+{}
+{"purchase by": 1, "consolidation with": 1}
+{}
+{}
+{}
+{}
+{"brother": 1, "father": 1}
+{}
+{"has": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"husband": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a credited guest voice": 1}
+{"remarry after initially divorcing": 1}
+{"features": 1}
+{}
+{}
+{"members of": 1, "run by": 1}
+{}
+{}
+{}
+{"eldest son of": 1, "siblings": 1}
+{"daughter of": 1, "brother is": 1}
+{}
+{"daughter of": 1, "brother is": 1}
+{"association with": 1}
+{"son of": 1, "member of": 1, "patriarch of": 1, "siblings": 1}
+{}
+{"collaboration with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"following": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"relationship of": 1}
+{}
+{"wife of": 1, "mother of": 2}
+{}
+{"credited with": 1, "known for": 1}
+{}
+{"formerly signed to": 1, "performing with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"romantic relationship": 1}
+{"relationship between": 1}
+{"friend": 1, "co-star": 2}
+{"brother of": 1}
+{"relationship between": 1}
+{"first of two persons to win": 1, "first of the two australian actors": 1}
+{}
+{}
+{}
+{"known as": 1}
+{}
+{}
+{"friend of": 1, "mainstay of": 1}
+{}
+{}
+{}
+{}
+{"child of": 1, "parents' activism": 1}
+{"father": 2, "younger brother": 1}
+{}
+{"descendant of a sibling": 1, "forced to wait for papal support": 1}
+{"son of": 1}
+{}
+{}
+{"overthrew": 1}
+{}
+{"father": 1, "brothers": 1, "uncle": 1}
+{}
+{}
+{}
+{}
+{}
+{"band mates": 1}
+{"member of": 1, "along with": 1}
+{}
+{}
+{}
+{}
+{"close friends of": 1}
+{}
+{"wife": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"granddaughter of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"called the voice of hispanic america by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"at": 1}
+{"promoted": 1}
+{}
+{"associated with": 1}
+{}
+{}
+{}
+{}
+{}
+{"collaborated with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"agreement with": 1, "lease agreement with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"tilyou family": 1}
+{}
+{}
+{"father of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"brothers": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"co-writer": 1, "former bandmates": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{"married to": 1}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1, "assassins of": 1}
+{}
+{}
+{}
+{"led by": 1, "of the largest": 1}
+{}
+{"member of": 1, "involved in": 1}
+{}
+{}
+{}
+{}
+{"between": 1}
+{}
+{"along with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"distribution deal with": 1, "acting as a boutique distribution outlet for": 1}
+{}
+{}
+{}
+{}
+{"first president of": 1}
+{}
+{}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"peace through sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"members of the boy scouts of america": 1}
+{}
+{}
+{}
+{}
+{}
+{"brother": 1, "friend": 1}
+{}
+{}
+{"son of": 1}
+{}
+{"group's indefinite hiatus": 1}
+{}
+{"performing alongside": 1}
+{}
+{"form the boy band": 1}
+{"leader of": 1, "member of": 1}
+{}
+{}
+{"line-up": 1}
+{"differences with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is superman's cousin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"between plaintiff and USPTO": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"between": 1}
+{}
+{}
+{}
+{}
+{"eldest son of": 1, "second wife": 1}
+{}
+{"sister": 1, "husband": 1, "mother-in-law": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"symbol of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"differences with": 1}
+{}
+{}
+{"brother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1, "caught up in": 1}
+{}
+{}
+{"gift from": 1, "hired him": 1}
+{}
+{}
+{}
+{"friendship": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"relationship became very frosty": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"husband and wife": 1}
+{}
+{}
+{}
+{"is the top professional wrestling tag team championship title in": 1, "to win the titles": 1}
+{"opponents": 1, "battle for control": 1}
+{}
+{"representing": 1, "together": 1}
+{}
+{}
+{"running mate": 1}
+{}
+{"husband of": 1, "part of": 1}
+{"nominated for": 1}
+{"sister of": 1, "husband": 1}
+{}
+{}
+{}
+{}
+{}
+{"celebrated former coach of": 1}
+{}
+{}
+{}
+{}
+{"married to": 1}
+{}
+{}
+{"son of": 1}
+{}
+{"father of": 1}
+{"is the father of": 1}
+{}
+{"husband and wife": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"participates in": 1}
+{"owned by": 1, "operated by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mother of": 1, "ex-husband": 1}
+{}
+{"father": 1, "brother": 1}
+{}
+{"member of": 2}
+{}
+{}
+{}
+{"daughter of": 1, "elected members from": 1}
+{}
+{}
+{}
+{"daughter of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"honor the club's anniversary": 1}
+{}
+{}
+{}
+{}
+{}
+{"couple": 1}
+{}
+{}
+{"son of": 1}
+{}
+{"father is": 1, "son is": 1}
+{}
+{"favorite candidate of": 1}
+{}
+{}
+{}
+{}
+{}
+{"daughter of": 1}
+{}
+{"younger brother": 1, "rivalled": 1, "excelled": 1}
+{}
+{"father of": 1}
+{"father of": 1}
+{"prot\u00e9g\u00e9e of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"leaving": 1}
+{"against": 1}
+{}
+{"victory against": 1}
+{"defeating": 1}
+{}
+{}
+{}
+{}
+{"runners-up of each west african country's domestic league": 1}
+{}
+{"plays for": 1}
+{"association with": 1}
+{"brother": 1}
+{}
+{"brother of": 1}
+{}
+{"younger brother": 1}
+{"brother": 2}
+{"brother of": 1}
+{}
+{}
+{}
+{}
+{}
+{"inspired by": 1}
+{"former girlfriend": 1}
+{}
+{"collaborated with": 2}
+{}
+{}
+{"friendship with": 1}
+{}
+{"friend and lover of": 1}
+{"lover": 1}
+{"love affair": 1}
+{"to bosie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"family owned": 1}
+{}
+{}
+{}
+{}
+{"married to": 1, "member of": 1}
+{"son of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{"neighbor": 1, "husband": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"friendship with": 1}
+{}
+{}
+{}
+{"signed with odd future's label": 1}
+{"command of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"renaming the community": 1}
+{}
+{"friends with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"widow of": 1, "presidency of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"led by": 1}
+{"association with": 1}
+{"common origin": 1, "brother side": 1}
+{}
+{"line-up consists of": 1}
+{}
+{}
+{}
+{"tribute to": 1}
+{}
+{}
+{"wife of": 1}
+{}
+{}
+{"has a sister company": 1}
+{}
+{}
+{"married": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 0}
+{}
+{}
+{}
+{}
+{"has": 1}
+{"co-produced in a first time partnership": 1, "co-purchased the rights": 1}
+{}
+{"is a part of": 1, "full labels of": 1}
+{"love story between": 1}
+{}
+{}
+{}
+{}
+{}
+{"ex-lover's wife": 1}
+{}
+{"son of": 1, "wife of": 1}
+{}
+{"later known as": 1}
+{}
+{}
+{"husband and wife": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"plays for": 1}
+{}
+{}
+{}
+{}
+{}
+{"married duo of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"imaging liaison": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"has ties to": 1}
+{}
+{}
+{}
+{"sponsored by": 1}
+{}
+{"former opponent": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"featured on": 1}
+{"band": 1}
+{"wife of": 1}
+{}
+{"alter-ego": 1, "band": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"younger sister of": 1}
+{}
+{}
+{}
+{"comprised of": 1, "succeeded": 1, "shared the stage with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"driving contemporary culture": 1}
+{"was sold to": 1}
+{}
+{}
+{}
+{"based on the work by": 1}
+{}
+{}
+{"supportive of": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"partner organization with": 1}
+{}
+{"complemented in": 1}
+{}
+{}
+{}
+{}
+{"signed the group to his new label": 1}
+{}
+{"owned by universal music australia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{"partner": 1}
+{}
+{}
+{"first country music band in history": 1}
+{}
+{}
+{"shares characteristics with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"allowed friends": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"dedicated to": 1, "lifted from": 1}
+{}
+{"first asian american": 1, "first person of japanese ancestry": 1}
+{}
+{}
+{}
+{"selected by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"formed a rap group": 1, "went on pursue a solo": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"head coach at": 1, "under": 1}
+{"along with": 1, "notably alongside": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1, "under": 1}
+{}
+{}
+{}
+{"plays a haunted police detective": 1, "is victimized by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"run as": 1}
+{"opposite fellow australian": 1}
+{}
+{"oldest daughter of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"founder of": 1, "ceo of": 1}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"led by": 1}
+{"outlaws known as": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"partly affected": 1}
+{"father of": 1}
+{}
+{}
+{"representative of": 1}
+{"is based on": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"partnering with": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"involved in spying for": 2, "suspected of spying for": 1}
+{}
+{}
+{}
+{}
+{"serves as": 2}
+{}
+{}
+{}
+{"member of": 1, "responsible for leading": 1}
+{"member of iskcon's governing body commission": 1, "chairman of that commission's north american gbc continental committee": 1, "president of iskcon of philadelphia": 1}
+{}
+{}
+{"disciple of": 1, "president of": 1, "founder of": 1}
+{}
+{"successor": 1}
+{"father": 1, "mother": 1, "close friend of": 1, "in his line as": 1}
+{}
+{"friend": 1, "close advisers": 1}
+{"husband": 1}
+{"widow": 1}
+{"son of": 1, "younger brother of": 1}
+{"wife of": 1, "son of": 1}
+{"younger brother of": 1, "last child of": 1}
+{"oldest child of": 1, "first-born grandchild of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{"is a subsidiary of": 1}
+{}
+{"known as": 1}
+{"members from other small local bands": 1}
+{}
+{}
+{}
+{}
+{}
+{"Oklahoma State University crowned": 1, "Cowboys earned": 1}
+{}
+{"member of": 1, "coached by": 1}
+{}
+{"married to": 1}
+{}
+{"younger brother": 1}
+{}
+{"younger brother of": 1}
+{}
+{"created for": 1, "follows the adventures of": 1}
+{}
+{"plays": 2}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{"husband": 1}
+{}
+{"third child of": 1}
+{}
+{"chatted about their career": 1}
+{}
+{"with his wife": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1, "brother of": 2}
+{"brother of": 1, "uncle of": 1}
+{}
+{"father of": 1, "member of": 1, "protected by": 2}
+{"co-founded with": 1, "against": 1}
+{"family of goats": 1, "mother": 1, "children": 1}
+{}
+{}
+{}
+{}
+{"collaborator of": 1}
+{}
+{"met with": 1}
+{}
+{}
+{}
+{}
+{}
+{"running mate": 1}
+{"sequel to": 1}
+{"teamed up with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"adapted from": 1}
+{}
+{}
+{"between two sisters": 1, "and their grandmother": 1}
+{}
+{}
+{}
+{"sisters": 1, "grandmother": 1, "step-mother": 1}
+{}
+{}
+{}
+{}
+{"of": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"members of": 1}
+{"owned by": 1, "honor alumnus": 1}
+{"hired by": 1, "left the job to": 1}
+{"baylor bears represent baylor university": 1}
+{"represented": 1, "led by": 1, "played at": 1, "competed as": 1, "invited to": 1, "beat": 1}
+{"rivalry": 1}
+{}
+{"is a part of": 1, "is a charter member of": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1, "longtime member of": 1}
+{}
+{"signed to": 1, "worked with": 1}
+{}
+{}
+{"half-brother of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1, "has been": 1}
+{}
+{"brother of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"signed with": 2, "were not on the team together": 1}
+{"ownership": 1, "coaching": 1}
+{}
+{"called": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"friend": 1, "music partner": 1}
+{}
+{"written by": 1, "commissioned by": 1}
+{}
+{"twin brother": 1, "creative partnership": 1}
+{}
+{}
+{}
+{}
+{}
+{"pupil of": 1, "invitation of": 1}
+{"member of": 1, "co-production between": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son": 1}
+{}
+{}
+{}
+{}
+{}
+{"cross-town rivals": 1}
+{}
+{"cross-town rivals": 1}
+{"played for": 6, "helped win": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"father-in-law": 1}
+{"is a part of": 1, "cooperates with": 1}
+{}
+{}
+{}
+{}
+{}
+{"known as": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"owned by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"joint project": 1}
+{}
+{}
+{}
+{}
+{"son-in-law of": 1}
+{}
+{}
+{"ownership of": 1, "among": 1}
+{}
+{}
+{}
+{}
+{}
+{"contested seat": 1, "nominated": 1}
+{}
+{"first female": 1, "first african-american": 2, "first woman": 1, "only female": 1}
+{"member of": 1}
+{}
+{}
+{}
+{}
+{"minor league club of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"considered controversial": 1}
+{"collaborates with": 1}
+{"honour of": 1, "backing from": 1}
+{}
+{}
+{"ancestry": 1}
+{"creator of": 2, "went to see": 1}
+{}
+{}
+{}
+{}
+{"head of": 1}
+{}
+{}
+{}
+{}
+{}
+{"collaboration between": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"featured artist on the song": 1}
+{}
+{}
+{}
+{"married to": 1}
+{}
+{}
+{}
+{"co-founders of": 1, "representing": 1}
+{}
+{"contract with": 1}
+{}
+{}
+{}
+{}
+{}
+{"duo": 1}
+{}
+{"in the duo": 1}
+{"one half of": 1}
+{"one half of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"signed to": 1}
+{}
+{"follow-up to": 1}
+{}
+{}
+{}
+{"failed to chart": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mentor to": 1, "underboss of": 1}
+{}
+{"father of": 1}
+{}
+{}
+{"involvement of": 1}
+{}
+{"helped bring down": 1}
+{"nephew of": 1, "brother-in-law of": 1, "uncle of": 1, "marked as a stool pigeon by": 1}
+{}
+{}
+{}
+{}
+{}
+{"teammate of": 1}
+{"father-son": 1, "widow": 1}
+{"contribution to": 1, "replaced": 1}
+{}
+{}
+{"represents": 1}
+{}
+{"drafted by": 3, "acquired to replace": 1, "led by": 3}
+{}
+{}
+{"next door to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"represents": 1}
+{}
+{}
+{"sisters": 1, "rivalry": 1, "co-no. 1": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"defeated": 2, "part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"relationship with": 1}
+{}
+{"star as": 1, "come to the assistance of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"in love with": 1}
+{}
+{}
+{}
+{}
+{"band's line-up includes": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"brothers": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"starring": 1, "directed by": 1, "co-wrote": 1}
+{}
+{}
+{"features": 1, "adapted for film": 1}
+{"with": 2}
+{"support and networking group for": 1}
+{"is a part of": 1}
+{}
+{"son of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"husband and wife team": 1}
+{}
+{}
+{"husband and wife team": 1}
+{"based on the novel of the same name": 1}
+{}
+{}
+{}
+{}
+{"commander-in-chief of the ohio army national guard": 1, "responsible for the command of 17,000 members": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"parent unit is": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"main rapper of": 1, "managed under": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"relation between red river system and th\u00e1i b\u00ecnh river system": 1, "known as the common name red and thai binh rivers system": 1}
+{}
+{}
+{}
+{"between": 1, "amongst": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nephew of": 1}
+{"corresponded to": 1}
+{"is the commanding and managing organisation of": 1, "relating to defence of": 1}
+{}
+{}
+{"brother": 1, "labelmate": 1, "collaborated": 1}
+{}
+{}
+{}
+{"part of a trio with": 1, "with his brothers": 1}
+{}
+{}
+{}
+{"birth father": 1, "stepfather": 1}
+{}
+{}
+{"father to son": 1, "mother to son": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"led by": 1}
+{}
+{}
+{"top affiliate of": 1, "purchased a dormant franchise with": 1}
+{}
+{}
+{"father of": 1}
+{"traded to": 2, "sold to": 1}
+{"trio of basketball players": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cousin of": 1, "nephew of": 1}
+{"founder and president of": 1, "located in": 1, "is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1}
+{"originator": 1}
+{}
+{}
+{"rabbi of": 2}
+{"critique": 1}
+{}
+{"romantic relationship with": 1}
+{"assistant coach under": 1, "hired by": 1}
+{}
+{}
+{}
+{"is under the direction of": 1}
+{"father of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"married to": 1}
+{}
+{}
+{}
+{"lawsuits between": 1}
+{"follow-up to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"daughter of": 1}
+{}
+{"friendly to": 1, "rival": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"known for": 1}
+{}
+{"part of": 1}
+{}
+{"is the son of": 1}
+{"son of": 1, "father of": 1}
+{"originator of": 1, "attributed to": 1}
+{"influenced by": 1, "considered": 1}
+{}
+{}
+{}
+{}
+{"niece of": 1, "daughter of": 1, "cousin of": 1, "husband of": 1, "ex-boyfriend of": 1}
+{}
+{}
+{}
+{}
+{"co-founder of": 1}
+{}
+{}
+{"with her wife": 1}
+{}
+{"company": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"safe seat for": 1}
+{}
+{}
+{}
+{}
+{"was a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{"left pentangle": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"teamed with": 1, "member of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"played for": 2, "won against": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"grandfather": 1, "brother": 1, "son": 1}
+{}
+{}
+{}
+{}
+{"sidekick on": 1, "operated by": 1, "refers to him as": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"shared with": 1}
+{"chairman of": 1, "president of": 1}
+{}
+{}
+{}
+{"management of the centre to livent": 1, "naming rights to ford motor": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"nickname with": 1}
+{}
+{}
+{}
+{}
+{"advocating its union with": 1}
+{}
+{"may also be awarded": 1}
+{"family of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"part of": 1, "subordinate to": 1}
+{}
+{}
+{"father was": 1, "mother taught": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"brother": 2}
+{"identical twin brother": 1}
+{"older brother of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"counterattack against": 1}
+{"brother": 1, "uncle": 1}
+{"brother": 1}
+{}
+{}
+{}
+{}
+{}
+{"lover": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"involving": 1}
+{}
+{}
+{"captain of the kings": 1}
+{}
+{}
+{"added a vocalist and bassist": 1, "became the drummer of": 1, "is a member of": 1}
+{}
+{}
+{}
+{}
+{"involved in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"known as": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"has given": 1}
+{"advocacy for the royal family": 1}
+{}
+{"head of state": 1, "traditional queen": 1}
+{"wedding to": 1}
+{}
+{}
+{}
+{"uncle of": 1, "cousin once removed of": 1}
+{"partner": 1}
+{"between native american leaders and the united states": 1}
+{}
+{}
+{}
+{}
+{}
+{"partner": 1}
+{}
+{"member of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"site of": 1, "part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"close friend of": 1}
+{"member of": 1, "representing": 1}
+{}
+{"father of": 1, "grandfather of": 1}
+{"grandson of": 1}
+{}
+{}
+{}
+{}
+{}
+{"collaborating with": 1}
+{}
+{}
+{}
+{"band": 1}
+{}
+{"is a song by": 1}
+{}
+{"fragile relationship": 1}
+{}
+{}
+{}
+{"incumbent mayor": 1, "challenger": 1}
+{}
+{}
+{}
+{}
+{"first official release as six-member group": 1}
+{}
+{}
+{"flying partner of": 1}
+{}
+{}
+{"rival of": 1}
+{}
+{}
+{"for": 1}
+{}
+{"competitors for the prize": 1}
+{}
+{"love interest": 1, "family and friends": 1}
+{"relationship was over": 1}
+{}
+{"former high school classmate": 1, "ex-boyfriend": 1}
+{"classmate of": 1, "had feelings for": 1, "rejected": 1}
+{}
+{}
+{}
+{}
+{"work with": 1}
+{}
+{}
+{}
+{"dated": 1}
+{}
+{"was a pet project of": 1, "made up of": 1}
+{}
+{}
+{}
+{"former bandmate": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1}
+{}
+{}
+{}
+{"between": 1}
+{}
+{"godson of": 1, "brother-in-law of": 1}
+{"eldest son of": 1, "first wife of": 1, "fourth cousin of": 1}
+{"son of": 1, "wife of": 1}
+{"marriage of her son": 1}
+{}
+{"founders of": 1, "member of": 1, "founded with": 1}
+{}
+{}
+{}
+{}
+{}
+{"lived with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"forms the comedy duo": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"has been a common practice": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sister of": 1, "wife of": 2, "married to": 2, "remarried to": 1}
+{}
+{"inspiration": 1}
+{}
+{"owns": 1}
+{"partner in": 1}
+{}
+{"subcontractor to": 1, "based in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"husband": 1, "children": 1, "grandfather": 1}
+{"husband": 1}
+{"husband": 1}
+{}
+{}
+{}
+{"close collaborator of": 2, "husband": 1}
+{}
+{"friends": 1}
+{}
+{}
+{"abandonment of viper records": 1, "newly formed warhorse records": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"belongs to": 1}
+{}
+{}
+{}
+{}
+{"is the world's leading": 1, "is a non-profit organization": 1}
+{}
+{}
+{}
+{}
+{}
+{"produced with the help of": 1, "admired his work": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"highest-grossing actors in": 1, "part of the 100 million viewer club": 1}
+{}
+{}
+{"relationship between": 1}
+{}
+{}
+{}
+{}
+{}
+{"ex-wife": 1, "partners": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"collaboration project by": 1}
+{}
+{"member of": 1, "following": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"guest appearance from": 1, "cohort": 1}
+{"member of": 1, "production with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"between experts": 1}
+{}
+{"husband": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"husband": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"worked with": 2}
+{"wife of": 1}
+{}
+{}
+{}
+{}
+{"husband": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"with future members of": 1, "together with": 1, "with the band\u2019s front man": 1}
+{}
+{"founder of": 1, "next to": 1}
+{}
+{}
+{}
+{}
+{"owned by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"head coach at": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"partnership": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 2}
+{"winner of this trophy": 1, "winner of the james p. mccaffrey trophy": 1}
+{}
+{"first player to win": 1}
+{}
+{}
+{"represents": 1, "replacing": 1}
+{}
+{}
+{"owned by disney channels worldwide, inc.": 1, "a subsidiary of disney\u2013abc television group": 1, "a primary component of the walt disney company's disney media networks segment": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"former member of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"forces": 1, "held to determine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"links between": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1, "duet with": 1}
+{"part of": 1}
+{"is the debut single by": 1, "from the band's self-titled debut studio album": 1}
+{"members from": 1, "former member of": 1}
+{}
+{}
+{"team x": 4, "north team": 2, "south team": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"key to unlocking": 1}
+{}
+{}
+{}
+{}
+{"nephew of": 1}
+{}
+{}
+{"merged with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"married to": 1}
+{"blames": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"collaborator on the opera": 1}
+{"admired by": 1, "alluded to": 2, "called": 1, "conducted": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"married to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"right-hand man of": 1}
+{}
+{}
+{}
+{"played for": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"love triangle": 1, "affair with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"gift for her native belgium fans": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1}
+{"played for": 1}
+{}
+{}
+{"married to": 1}
+{}
+{}
+{"jointly hosted by": 1}
+{"part of": 1}
+{}
+{}
+{"controlled by": 1}
+{}
+{}
+{"has been split into": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"represented the university of florida softball program": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"rivalry with": 1, "compete annually to win": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is the story of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"investor of": 1, "with": 1, "about staging": 1}
+{"wife of": 1, "included": 1}
+{"father of": 1, "grandfather of": 1}
+{"maternal grandfather": 1}
+{"nephew of": 1}
+{"is their longest-lived and last surviving child": 1, "include": 1}
+{"sister of": 3}
+{"child of": 1, "daughter of": 1, "niece of": 1, "cousin of": 1, "wife of": 1}
+{"niece of": 1, "children of": 1}
+{"father of": 1, "grandfather of": 1, "great-grandfather of": 1}
+{}
+{"joint venture between": 1, "in association with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"best friend": 1}
+{}
+{}
+{}
+{"relationship with": 1}
+{}
+{}
+{}
+{}
+{}
+{"husband of": 1}
+{"co-founder of": 1, "past president of": 1, "served on the board of": 1}
+{"member of": 1, "one half of": 1}
+{"known by": 1, "after marriage as": 1}
+{}
+{}
+{}
+{}
+{}
+{"in favor of": 1, "for the benefit of": 1}
+{}
+{}
+{}
+{}
+{"represents": 1, "serves on": 1, "co-chaired": 1}
+{}
+{}
+{}
+{"is one of": 1}
+{}
+{}
+{"son of": 2, "supported": 1}
+{}
+{}
+{}
+{}
+{"supported by a gathering of": 1}
+{}
+{"nephew of": 1, "descendants of": 1}
+{}
+{}
+{"daughter of": 1}
+{}
+{}
+{"daughter of": 1}
+{}
+{"friendship with": 1}
+{"founding members of": 1, "along with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"shared a connection": 1, "worked at": 1}
+{"partnership": 1, "subsidiaries": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"members of": 1}
+{}
+{}
+{}
+{}
+{"kicked out when": 1, "was due to tour for": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1, "preceding": 1}
+{}
+{}
+{}
+{"final acting appearance": 1, "cultural phenomenon": 1}
+{}
+{}
+{}
+{"sister series": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"brother of": 1}
+{}
+{"husband-and-wife": 1}
+{}
+{"friendship": 1}
+{}
+{}
+{}
+{}
+{"married to": 1}
+{"married to": 1, "daughter of": 1}
+{}
+{"son of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{"is the alter ego of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"coached": 1, "represented": 1}
+{}
+{}
+{}
+{}
+{"run by": 1, "patronage of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"owned and operated by": 1, "had owned and used": 1}
+{"love interest": 1}
+{}
+{"lovers": 1}
+{}
+{}
+{}
+{"working at": 1, "around": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"founder and principal of": 1, "director of": 2}
+{"under his home production": 1, "presented by": 1}
+{"relationship between him and his father": 1, "relationship between him and his youngest son": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"rivalry with": 1}
+{}
+{"colin northway to inxile entertainment": 1}
+{}
+{"is a part of": 1}
+{}
+{"companion of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1, "daughter of": 1}
+{}
+{}
+{}
+{"represented": 1}
+{}
+{}
+{}
+{}
+{"is a subsidiary of": 1}
+{"wholly owned subsidiary of": 1}
+{}
+{"owned by": 1, "made by": 1}
+{}
+{}
+{"older brother of": 1}
+{}
+{"permanent replacement": 1}
+{}
+{"by": 1}
+{}
+{}
+{}
+{"uncle": 1}
+{"brother of": 3, "father of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"uncle": 1, "brother-in-law": 1}
+{"associated with": 1, "controlled by": 1}
+{}
+{"contested between": 1, "diplomatic relations established between": 1}
+{"brother of": 1, "eldest male member of": 1, "daughter of": 1}
+{"second in line to the throne": 1}
+{}
+{}
+{}
+{"heir apparent to": 2, "eldest son by a royal wife": 1}
+{}
+{}
+{"sister company of": 1}
+{"sister": 1}
+{}
+{"partnership": 1}
+{}
+{}
+{"flag carrier of": 1}
+{}
+{}
+{}
+{"regarded as a legend of": 1}
+{}
+{}
+{}
+{"home stadium of": 1}
+{}
+{"manager at": 1, "manager in charge": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"relationship between": 1}
+{}
+{}
+{}
+{"co-ruler with": 1}
+{"younger brother of": 1}
+{"friends": 1}
+{"son and successor of": 1}
+{}
+{}
+{}
+{}
+{"founder of": 2, "representing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"relationship with": 1, "daughter of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"replacing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1}
+{"member of": 1}
+{}
+{}
+{"husband and wife": 1, "partnership between": 1}
+{"member of": 1}
+{}
+{}
+{"brother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"collaborated with": 1}
+{}
+{}
+{}
+{}
+{}
+{"husband": 1}
+{}
+{}
+{}
+{}
+{"oldest son of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"relationship between": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"grandfather of": 1, "namesake of": 1}
+{}
+{}
+{}
+{}
+{}
+{"titular hero of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"defeat": 1}
+{}
+{}
+{"to filipino parents": 1}
+{}
+{}
+{}
+{"is a part of": 1, "has an honor to be warm up of": 1}
+{}
+{"father": 1, "mother": 1, "brother": 1, "son": 1}
+{}
+{}
+{}
+{"main seat of": 1}
+{}
+{}
+{"descendant of": 1}
+{"members of the administration": 1, "members of the house of david": 1}
+{}
+{"girlfriend": 1, "trapped in their house": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cousins": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"belong to": 1}
+{}
+{"part of": 1}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"performed on": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ownership by": 1}
+{}
+{}
+{}
+{}
+{}
+{"father of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"by": 1, "along with": 1}
+{}
+{}
+{"relationship between": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"defending champion": 1, "winning": 1}
+{}
+{"members of": 1}
+{}
+{"defending champion": 1}
+{}
+{"led by": 3}
+{}
+{"champion of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"admiration of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"victory for": 1, "part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sexual relationships": 1, "similar relations": 1, "institutionalized pederastic prostitution": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"against the military regimes": 1, "as usurpers of the people's dreams": 1}
+{"owned by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ties to": 1}
+{}
+{}
+{"relationship between": 1}
+{}
+{}
+{}
+{}
+{"father of": 1}
+{}
+{"member of": 3}
+{"plays for": 1}
+{"became founder members of": 1}
+{}
+{}
+{"affiliated with": 1}
+{}
+{"father and child combination": 1, "set of siblings": 1, "cousins": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"merged with": 1, "divorce from": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1, "working alongside": 1}
+{}
+{}
+{}
+{}
+{"home rule": 1, "self-government": 1}
+{}
+{}
+{"official parliamentary party for": 1}
+{"movement in": 1, "on the lines of": 1}
+{}
+{"campaigner for": 1, "secretary to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"top scorer for": 1, "greatest players in": 1}
+{}
+{}
+{"brother": 1}
+{}
+{"played for": 1, "eligible for": 1}
+{}
+{}
+{"plays for": 1}
+{}
+{}
+{}
+{}
+{"nephew and brother of cardinals": 1, "close to": 1}
+{"brother": 1, "assistance of": 1, "son of": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"knygne\u0161iai": 1}
+{"request of": 1, "brother composed": 1}
+{}
+{}
+{}
+{"obsessed with": 1}
+{}
+{}
+{}
+{}
+{"member of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"lead singer of": 1, "founding member of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"cousin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"related to other prayers": 1, "confused with": 1}
+{}
+{}
+{"fourth child of": 1, "hosted a number of": 1, "attended courses for": 1, "co-operated program": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"connect the local image with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"in honour of": 1, "attended by": 1}
+{}
+{}
+{}
+{}
+{"part of the roosevelt coalition": 1, "demanded full integration": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"grandson of": 1, "son-in-law of": 1}
+{"relative of the last king of the shang dynasty": 1}
+{}
+{"son of": 1, "grandson of": 1}
+{}
+{"engaged neighbors and celebrities": 1}
+{"husband": 1}
+{"sister hotel of": 1, "owned and operated under": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"wife of": 1, "known each other for many years": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"worked with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"attended": 1, "accepted": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"husband to sherri dupree-bemis": 1}
+{}
+{}
+{}
+{}
+{"associated with": 1, "basis for": 1, "friendship with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1, "part of": 1, "controlled by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"member of": 1, "founder and co-ceo of": 1}
+{}
+{}
+{"home to": 1, "independent subsidiary of": 1}
+{}
+{}
+{}
+{"signed by": 1, "played for": 1, "received these awards alongside": 1}
+{"married to": 1}
+{"son of": 1, "married to": 1}
+{}
+{"daughter of": 1, "was a": 1}
+{}
+{"son of": 1, "stepfather": 1}
+{"is the only child of": 1, "has another daughter named": 1}
+{}
+{"grandson of": 1, "son of": 1}
+{}
+{"is part of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1}
+{}
+{}
+{}
+{}
+{"cousin of": 1, "nephew of": 1}
+{}
+{}
+{"third film with": 1}
+{}
+{"son of": 1, "taken as a ward by": 1}
+{}
+{"father of": 1, "brother of": 1}
+{}
+{"describes": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"partnership programs": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"refused to traffic in": 1}
+{}
+{}
+{}
+{}
+{}
+{"against": 1, "of": 1}
+{}
+{}
+{"marriage to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{"brother": 1}
+{"brother": 1}
+{}
+{"based on the play": 1, "in the role of": 1}
+{}
+{}
+{}
+{}
+{"wife of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"older sister": 1}
+{}
+{}
+{"stars": 1}
+{}
+{}
+{}
+{}
+{"bid by": 1, "investigation for": 1}
+{"ordered vitaly mutko": 1, "includes rf ceo alexey sorokin": 1}
+{"bid from": 1, "compete in": 1}
+{"co-host": 1}
+{"shared with": 1}
+{}
+{"joint bid": 1}
+{"family in": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"opening act": 1}
+{}
+{"joined by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"brother": 1, "members of the yuen family": 1}
+{}
+{}
+{}
+{}
+{}
+{"based on": 1, "produced by": 1, "distributed by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ally of": 1, "controlled by": 1}
+{}
+{}
+{}
+{"strategic partnership": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"was suggested as a propaganda film by": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"alongside his sibling group members": 1, "in the trio": 1}
+{}
+{}
+{}
+{}
+{}
+{"symbolizing": 1, "changing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"founder of the magazine": 1}
+{}
+{}
+{}
+{"journal of": 1, "considered to be": 1}
+{}
+{}
+{}
+{}
+{}
+{"interim head coach for": 1, "under": 2, "as head coach of": 1}
+{}
+{}
+{}
+{"son of": 1, "married to": 1, "grandfather of": 1}
+{"married to": 1, "descendants from": 1, "succeeded by": 1}
+{"son of": 1, "heir to": 2, "step-mother": 1}
+{"father-son": 1, "heir": 2}
+{"son of": 1, "allied himself with": 1, "married to": 1}
+{"cousin": 2, "heir to the throne": 2}
+{"kinship with": 1, "marriage to": 1}
+{}
+{}
+{"brother": 2, "cousin": 1, "heir": 2}
+{"from": 1, "to": 1}
+{"is a part of": 1}
+{}
+{"visited by": 1, "concerns in brusque fashion": 1}
+{"friend": 1, "partnership": 1}
+{}
+{}
+{"brother": 2}
+{}
+{"links to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"leader of his local yoruba association": 1, "leader of the afro-cuban religious fraternity": 1}
+{}
+{}
+{}
+{"sold their magazine division to": 1}
+{}
+{}
+{}
+{"is the first premier private golf club in": 1, "currently the only club to host": 1}
+{}
+{}
+{"is one of": 1, "contains": 1}
+{}
+{}
+{}
+{}
+{}
+{"part of": 1}
+{}
+{}
+{}
+{}
+{}
+{"cultural attach\u00e9 in": 1}
+{}
+{}
+{}
+{"married to": 1}
+{}
+{}
+{"partner": 1}
+{"tribute to": 1}
+{"intellectuals of assam": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"collaboration partnership": 1}
+{}
+{}
+{}
+{"working under": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"co-operates with": 2}
+{}
+{}
+{"client": 1, "first sole client": 1}
+{}
+{}
+{}
+{"brother": 1, "father": 2}
+{}
+{"father": 1, "mother": 1, "brother": 1}
+{"daughter of": 1, "married off to": 1}
+{}
+{}
+{}
+{}
+{"adapted from": 1}
+{}
+{}
+{}
+{}
+{}
+{"son of": 1, "brother of": 2, "nephew of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{}
+{}
+{}
+{"important figure in": 1}
+{}
+{}
+{"about the adventures of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"operated by": 1, "designed for": 1}
+{"defined the harlem renaissance": 1}
+{"work of": 2}
+{"rely on": 1}
+{"father": 1, "mother": 1, "brother": 1}
+{"sister in law": 1, "husband": 1}
+{}
+{}
+{}
+{"married to": 1, "brother": 1, "sister in law": 1}
+{}
+{}
+{"father and aunt": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"maintain ties": 1}
+{}
+{}
+{}
+{}
+{}
+{"is a part of": 1}
+{}
+{"son of": 1}
+{"wife of": 1, "son of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"married to": 1, "divorced": 1}
+{"are both members of": 1}
+{}
+{}
+{}
+{}
+{"collaborated with": 1}
+{}
+{}
+{}
+{}
+{}
+{"collaborated with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"played for": 1, "broke records of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"co-hosting with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"couple": 1}
+{}
+{}
+{"influenced by": 1}
+{"daughter of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is a close relative of": 1, "is possibly a progenitor of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"family": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"rescuer of": 1}
+{}
+{}
+{"important center of pilgrimage for": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"is married to": 1, "is the son of": 1}
+{}
+{"managing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"married": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"contact with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"charity release by": 1}
+{}
+{"wife of": 1}
+{"nickname of": 1}
+{}
+{}
+{}
+{}
+{"first winter athlete": 1}
+{}
+{"channel of communication": 1}
+{}
+{}
+{}
+{"involving": 1}
+{}
+{"brother": 1, "relative": 1, "children": 1}
+{}
+{"commissioners of the paraguayan government in uruguay": 1}
+{"son of": 1}
+{"son of": 1, "father of": 1}
+{"brother": 1, "son": 1, "nephew": 1}
+{"brother in law": 1}
+{"to the children of": 1, "to the imperial family": 1}
+{}
+{"alliance": 2, "rivalry": 2, "enemies": 1, "allies": 3}
+{}
+{}
+{"grand-nephew of": 1, "great-great-grandson in the male-line of": 1}
+{}
+{"younger brother of": 1, "son of": 2, "consort of": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"home of": 2, "spin-off of": 1}
+{"founder-members": 1}
+{"founder-members": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"love interest to": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"between": 1, "led by": 1}
+{"founder of": 1, "aligned with": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
