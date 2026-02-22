@@ -1,7 +1,8 @@
 # MultiCube-RAG
 
+We introduce a multi-dimensional cube structure to concisely and comprehensively represent flat text, facilitating the subsequent retrieval.
 In our work, the core idea to address multi-hop questions is `divide and conquer` by decomposing the complex multi-hop query into multiple simpler one-hop subqueries.
-Each subquery can flexibly select the most suitable retriever to fetch the most relevant knowledge from an external database, facilitating iterative reasoning and retrieval. 
+Each subquery can flexibly select the most suitable cube-based retriever to fetch the most relevant knowledge from an external database, facilitating iterative reasoning and retrieval. 
 
 ## MultiCube-RAG for Iterative Reasoning and Retrieval
 <div align="center">
