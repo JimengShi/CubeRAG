@@ -29,7 +29,7 @@ conda activate multicube
 pip install -r requirements.txt
 ```
 
-## Quick start on wikimultihop
+## Quick start
 
 ### Step 1: Set up API key
 ```
