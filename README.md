@@ -21,7 +21,11 @@ Each subquery can flexibly select the most suitable cube-based retriever to fetc
 - `qa_rag_wikimultihop.py`: script to run MultiCube-RAG for wikimultihop dataset
 
 
-## Environment
+
+
+## Quick start
+
+### Step 1: Environment
 ```
 conda create --name multicube python==3.10
 conda activate multicube
@@ -29,14 +33,13 @@ conda activate multicube
 pip install -r requirements.txt
 ```
 
-## Quick start
 
-### Step 1: Set up API key
+### Step 2: Set up API key
 ```
 export OPENAI_API_KEY="sk-"
 ```
 
-### Step 2: Construct cube by extracting entities
+### Step 3: Construct cube by extracting entities
 For example, the following script takes the hotpot dataset and GPT-4o-mini as an LLM base.
 
 ```
@@ -44,7 +47,7 @@ cd gpt_extraction
 python joint_extract_hotpot.py
 ```
 
-### Step 3: Cube-based QA
+### Step 4: Cube-based QA
 ```bash
 CUDA_VISIBLE_DEVICES=0
 
