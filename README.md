@@ -12,7 +12,7 @@ Each subquery can flexibly select the most suitable cube-based retriever to fetc
 
 ## Project Structure
 
-- `QA`: saves the question-answering pairs
+- `QA`: saves the question-answering pairs (`lveval` data will be shared separately due to its large size)
 - `corpus`: saves the original corpus
 - `hypercube`: constructs and saves hypercube
 - `gpt_extraction`: extract entities along hypercube dimensions
