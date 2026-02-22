@@ -1,0 +1,11656 @@
+{}
+{"FC Barcelona": 1}
+{"FC Barcelona": 1}
+{"FC Barcelona": 1}
+{}
+{"FC Barcelona": 1}
+{"FC Barcelona": 1}
+{"FC Barcelona": 1}
+{}
+{}
+{"FC Barcelona": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Warsaw Pact": 1}
+{"nobilities commonwealth": 1}
+{"Warsaw Pact": 1}
+{}
+{"Warsaw Pact": 1}
+{}
+{}
+{}
+{"Tripartite discussions": 1, "Tripartite negotiations": 1}
+{"Virginia": 1}
+{"Warsaw Pact": 1}
+{"Warsaw Pact": 1}
+{"Pearl Harbor": 1}
+{}
+{"Warsaw Pact": 1}
+{}
+{}
+{"Warsaw Pact": 1}
+{"Warsaw Pact": 1}
+{"Minsk Region": 1}
+{}
+{}
+{"Taputapuatea": 1}
+{"Montebello": 1, "New York": 1, "Montebello, New York": 1}
+{"Italian Eritrea": 1}
+{}
+{"Sant Mart\u00ed d'Emp\u00faries": 1}
+{"L\u00e5nge Erik": 1}
+{"Pangi Territory": 1}
+{"Cyprus Popular Bank": 1}
+{"Nigeria": 1}
+{"Australia": 1}
+{"Dunbar Hospital": 1}
+{"Saulkrasti Municipality": 1}
+{"Texas": 1}
+{"Tanzania": 1}
+{"Eritrea": 1}
+{}
+{}
+{}
+{}
+{"Acornsoft": 1}
+{}
+{}
+{"Headwall Pond": 1}
+{}
+{}
+{}
+{"Alaska": 1}
+{}
+{}
+{"Crete": 1}
+{}
+{}
+{"Indianapolis": 1}
+{"Le Mauricien": 1}
+{}
+{}
+{"The Devil's Labyrinth": 1}
+{"Kavangoland": 1}
+{"Damaraland": 1}
+{}
+{"Mercia": 1}
+{"Spalding Priory": 1}
+{"Our Lady of Guadaloupe Church": 1}
+{}
+{"British Caribbean": 1, "French Caribbean": 1}
+{"United Kingdom": 1}
+{}
+{}
+{"Gauntlet Ridge": 1}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{"Frisia": 1}
+{"Wollaston Peninsula": 1}
+{"Umm Ubays": 1}
+{"Tzelafon": 1}
+{"Saudi Arabia": 1}
+{"Hevel Eilot Regional Council": 1}
+{"Israel": 1}
+{"Jordan": 1}
+{}
+{"Manitung Island": 1}
+{"Qaruh Island": 1}
+{"Sabkhat Ghuzayyil": 1}
+{"Qurah": 1, "Umm al Maradim": 1}
+{"Umm al Kilab": 1}
+{"Saudi Arabia": 1}
+{"North East Side": 1, "Denver": 1}
+{}
+{}
+{"Champlain": 1, "Quebec": 1}
+{"East Redonda Island": 1}
+{"Defot Creek": 1}
+{"Riverside Plaza": 1}
+{"Mississippi River": 1}
+{"Cedar Bayou": 1}
+{"Gulf of Mexico": 1}
+{"Imperial Valley": 1}
+{"Minneapolis": 1}
+{"Gulf of Mexico": 1}
+{"One Tree Hill": 1}
+{"Perdido River": 1}
+{"Colorado River": 1, "Texas": 1}
+{"Art Annex": 1}
+{"C\u1ea3 River": 1}
+{"Mississippi River": 1}
+{"Seama": 1, "New Mexico": 1}
+{"Southeast Library": 1}
+{"Paguate": 1, "New Mexico": 1}
+{"Belview": 1, "Virginia": 1}
+{"Clearwater River": 1, "Quebec": 1}
+{"Beaurivage River": 1}
+{"Hurricane Katrina": 1}
+{}
+{"Jive Records": 1}
+{}
+{"Kapsch": 1}
+{}
+{}
+{"Great Lakes": 1}
+{}
+{"Vilaiyaadu": 1, "Mankatha": 1}
+{}
+{"Biltmore Records": 1}
+{}
+{"Ace Fu Records": 1}
+{"Sleaszy Rider Records": 1}
+{}
+{}
+{"Metropolis International": 1}
+{}
+{}
+{"Santa Monica": 1, "California": 1}
+{}
+{}
+{}
+{"Battle of Abbeville": 1}
+{}
+{"Donetsk Airport": 1}
+{}
+{}
+{"Korytsa": 1}
+{}
+{"Battle of Sempach": 1}
+{"India": 1}
+{"Battle of Magenta": 1}
+{"Battle of Preveza": 1}
+{"Aspromonte": 1}
+{"Atapuerca": 1}
+{"Battle of Contreras": 1}
+{}
+{}
+{"New Orleans": 1}
+{}
+{"Andhra Pradesh": 1}
+{}
+{"Midg\u00e5rd": 1}
+{}
+{}
+{}
+{}
+{"Portuguese Empire": 1}
+{}
+{"Metsweding District Municipality": 1}
+{}
+{"Brazil": 1}
+{}
+{}
+{}
+{}
+{"Balfrin": 1}
+{"Centauri Prime": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Londo Mollari": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ottoman Empire": 1}
+{"Patani United Liberation Organisation": 1}
+{"Portugal": 1}
+{}
+{"Somalia": 1}
+{}
+{}
+{}
+{"Myanmar": 1}
+{"Plymouth": 1}
+{"Beaverdell": 1}
+{"Partition of India": 1}
+{"Ottoman Empire": 1}
+{}
+{"Partition of India": 1}
+{"Thailand": 1}
+{}
+{"Thailand": 1}
+{"Myanmar": 1}
+{"Kushla": 1}
+{"Brazil": 1}
+{"Est\u00e1dio do Arruda": 1}
+{"S\u00e3o Jos\u00e9 dos Campos": 1}
+{}
+{"Central do Brasil": 1}
+{}
+{"S\u00e3o Pedro de Alva": 1, "S\u00e3o Paio do Mondego": 1}
+{"S\u00e3o Jos\u00e9 dos Quatro Marcos": 1}
+{"Guararapes": 1}
+{"S\u00e3o Jos\u00e9 do Mantimento": 1}
+{}
+{"Rodovia dos Imigrantes": 1}
+{"Ipigu\u00e1": 1}
+{}
+{"Santo Ant\u00f4nio da Alegria": 1}
+{"Brazil": 1}
+{}
+{"Sisters of St Joseph of Nazareth": 1}
+{"Nova Alian\u00e7a": 1}
+{"Ponta Delgada": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Venice": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Elaz\u0131\u011f": 1}
+{"England": 1}
+{}
+{"Roman Catholic Archdiocese of Brisbane": 1}
+{"Albi Cathedral": 1}
+{"Vatican City": 1}
+{}
+{"Sant'Eustachio": 1}
+{"\u00c9vry Cathedral": 1}
+{"Cathedral of Chihuahua": 1}
+{"Erfurt Cathedral": 1}
+{"Roman Catholic Archdiocese of Washington": 1}
+{"St. Peter's Basilica": 1}
+{"Holy Name Cathedral": 1, "Steubenville": 1, "Ohio": 1}
+{"Cathedral Basilica of Lima": 1}
+{"Valencia": 1}
+{"Boston": 1}
+{"Cathedral of Saint Mary of the Immaculate Conception": 1, "Lafayette": 1, "Indiana": 1}
+{"Innsbruck Cathedral": 1}
+{"\u0110akovo Cathedral": 1}
+{"St. Peter's Basilica": 1}
+{"Alatri Cathedral": 1}
+{"Foligno Cathedral": 1}
+{"Highway 1": 1, "Afghanistan": 1}
+{"Ottoman Empire": 1}
+{"Empire Sports Network": 1, "Adelphia Communications Corporation": 1}
+{"Commonwealth Games": 1}
+{}
+{"Comcast Sports Southwest": 1}
+{"Nova Sports": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Adelphia Communications Corporation": 1, "Time Warner Cable": 1}
+{"Ecuador": 1}
+{}
+{}
+{"\u00cele de la Cit\u00e9": 1}
+{"Aragon": 1}
+{"Saint Barth\u00e9lemy": 1}
+{"Alcu\u00e9scar": 1}
+{"Perdiguera": 1}
+{"Paris": 1}
+{"Museu d'Art Jaume Morera": 1}
+{"Palau G\u00fcell": 1}
+{"Lac-Pythonga": 1, "Quebec": 1}
+{}
+{"Santa Cruz de las Flores": 1, "Tlajomulco de Z\u00fa\u00f1iga": 1, "Jalisco": 1}
+{"Palau": 1}
+{"Pola de Siero": 1}
+{}
+{}
+{"Ngiwal": 1}
+{"Jardin botanique de Bordeaux": 1}
+{"Zec de la Rivi\u00e8re-Nouvelle": 1}
+{"Graz Airport": 1}
+{"Vaughan Mills Terminal": 1}
+{}
+{}
+{"Toronto Coach Terminal": 1}
+{"New York City": 1}
+{"Cochin International Airport": 1}
+{"Houston": 1}
+{"Philadelphia": 1}
+{}
+{"John Wayne Airport": 1}
+{"Dubai International Airport": 1}
+{}
+{}
+{}
+{"Indira Gandhi International Airport": 1}
+{}
+{"Copenhagen Airport": 1}
+{}
+{}
+{"French Algeria": 1}
+{"Pak Tam Chung": 1}
+{"Castricum": 1}
+{}
+{"United States": 1}
+{"Overseas France": 1}
+{"Kiri Territory": 1}
+{"Krasnovishersky District": 1}
+{"North Holland": 1}
+{}
+{}
+{}
+{}
+{"Oregon State University": 1}
+{}
+{}
+{}
+{"Missouri Western State University": 1}
+{}
+{}
+{}
+{"Conrad Mountains": 1}
+{}
+{"Oregon State University": 1}
+{}
+{}
+{"Michigan": 1}
+{"Clemson": 1, "South Carolina": 1}
+{}
+{"Pennsylvania State University": 1}
+{"California": 1, "Golden Seals": 1}
+{}
+{"United States": 1, "Navy": 1}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Chiang Ching-kuo": 1}
+{}
+{}
+{"Chiang Hsiao-wu": 1}
+{}
+{"Mae Yao": 1}
+{"Doi Chiang Dao": 1}
+{}
+{}
+{}
+{"Sun Moon Lake": 1, "Wen Wu Temple": 1}
+{"Nang Lae": 1}
+{"San Phi Suea": 1}
+{}
+{}
+{}
+{}
+{"Quinton Township School District": 1}
+{}
+{}
+{}
+{"Sea Girt School District": 1}
+{"Sunset Strip": 1}
+{}
+{}
+{"Priestley Riots": 1}
+{"Green Brook School District": 1}
+{"Collingswood Public Schools": 1}
+{"Butler Public Schools": 1}
+{"North Arlington School District": 1}
+{"North Bergen School District": 1}
+{}
+{"Woodcliff Lake Public Schools": 1}
+{}
+{"Keyport Public Schools": 1}
+{}
+{"Ho-Ho-Kus": 1, "School District": 1}
+{}
+{"Sloane House YMCA": 1}
+{}
+{}
+{}
+{}
+{"Susie": 1, "Washington": 1}
+{"Tora Suber": 1}
+{}
+{"Chickasaw": 1, "Louisville": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Mississauga": 1}
+{}
+{"west coast": 1, "North America": 1}
+{}
+{}
+{}
+{"Maryland": 1}
+{"Victoria": 1, "Australia": 1}
+{}
+{}
+{"British Empire": 1}
+{}
+{}
+{"Northwest Passage": 1}
+{}
+{"Gibbs Point": 1}
+{"Australia": 1}
+{"Portugal": 1}
+{}
+{"Wilkins Runway": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Roy Harrisville": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Young Man Lake": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Eden Lake Township": 1, "Stearns County": 1, "Minnesota": 1}
+{}
+{}
+{}
+{"Eden": 1, "Utah": 1}
+{}
+{"Eden Township": 1, "Benton County": 1, "Iowa": 1}
+{}
+{}
+{}
+{}
+{}
+{"Apache Shale": 1}
+{"Madina Lake": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Panama Canal Zone": 1}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{"Philippines": 1}
+{}
+{"Helmut Schmidt University": 1}
+{}
+{"North Dakota School for the Deaf": 1}
+{"North Carolina": 1}
+{"Alexander Military Law Academy": 1}
+{"Al-Ameen College of Pharmacy": 1}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Philippines": 1}
+{}
+{"Mexico City": 1}
+{}
+{"Mian Haji Sahib": 1}
+{"Port Blair": 1}
+{}
+{"Bann Na Mohra": 1}
+{"Naas River": 1}
+{"Greenwood Laboratory School": 1}
+{}
+{}
+{}
+{"Springfield": 1, "Illinois": 1}
+{"Pesanggrahan": 1, "South Jakarta": 1}
+{"Guam": 1}
+{"Greenwood": 1, "Vernon County": 1, "Wisconsin": 1}
+{}
+{}
+{"Wardlow": 1}
+{}
+{}
+{}
+{"Lenny": 1, "Montana": 1}
+{"Rayward\u2013Shepherd House": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Eswatini": 1}
+{"Mumbai": 1, "Godfather": 1}
+{"Tucson": 1, "Arizona": 1}
+{"Helvetia": 1, "Arizona": 1}
+{"City of Toowoomba": 1}
+{"Gmina Tarn\u00f3w": 1}
+{"Bi\u0142goraj County": 1}
+{"Pima County": 1, "Natural Resources": 1, "Parks": 1, "Recreation": 1}
+{"Wicimiczki": 1}
+{"Deuteronilus Mensae": 1}
+{"Siedleczko": 1}
+{"Holenderki": 1}
+{"Ko\u0142zin": 1}
+{}
+{"Czarnog\u0142owy": 1}
+{"Smogor\u00f3wka Dolistowska": 1}
+{"Kolonia Wola Szyd\u0142owiecka": 1}
+{"Marinus": 1}
+{"Striation Valley": 1}
+{}
+{"Skendleby": 1}
+{"Wojkowo": 1}
+{"Hertfordshire": 1}
+{"Near East": 1}
+{"We\u0142dk\u00f3wko": 1}
+{"North Gosford": 1, "New South Wales": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"India": 1}
+{}
+{"Bengal": 1, "Murshidabad": 1}
+{}
+{}
+{}
+{}
+{}
+{"Kurza": 1, "India": 1}
+{"New Zealand": 1}
+{"Cuthred of Kent": 1}
+{"Huejotla": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Orissa High Court": 1}
+{"Elphinstone Bridge": 1, "Chennai": 1}
+{}
+{}
+{"New Delhi": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sierra Leone": 1}
+{}
+{"Iran": 1}
+{}
+{"United States": 1, "Environmental Protection Agency": 1}
+{"Germany": 1}
+{}
+{}
+{"Greece": 1}
+{}
+{"United States": 1}
+{}
+{"India": 1}
+{"East African Community": 1}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Petticoat Junction": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"New York": 1, "Yankees": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bustami": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Samoa": 1}
+{}
+{}
+{"Independence Day": 1, "United States": 1}
+{"Indonesia": 1, "Timor Leste": 1}
+{"East Timor": 1}
+{"Namibia": 1}
+{"Estonia": 1}
+{"Kenya": 1}
+{"Philadelphia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Cape Verde": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Switzerland": 1}
+{"Holy Roman Empire": 1}
+{}
+{}
+{"Verdun": 1}
+{"Isenburg-Wied": 1}
+{"Germany": 1}
+{}
+{"Palermo": 1}
+{}
+{"Archbishopric of Magdeburg": 1}
+{"House of Luxembourg": 1}
+{"Alsace": 1}
+{"Isenburg-Arnfels": 1}
+{}
+{"Galicia": 1, "Spain": 1}
+{}
+{"Electorate of Baden": 1}
+{}
+{"Gallia Belgica": 1}
+{}
+{"United States": 1}
+{}
+{"United States": 1}
+{}
+{"N\u00e1jera": 1}
+{"United States": 1}
+{"United States": 1}
+{"Zebulon Baird Vance": 1}
+{"Kansas": 1, "Nebraska": 1}
+{}
+{}
+{"North Carolina": 1}
+{}
+{}
+{}
+{"Oregon": 1}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{"Confederate States of America": 1}
+{"Richmond": 1, "Virginia": 1}
+{}
+{}
+{}
+{"United States": 1}
+{"White House of the Confederacy": 1}
+{"United States": 1}
+{}
+{"Chihuahua": 1}
+{"Federal Republic of Central America": 1}
+{"North Carolina": 1}
+{"Tennessee": 1}
+{"Jefferson Davis": 1}
+{"Chihuahua": 1}
+{"Confederate Arizona": 1}
+{}
+{}
+{"Vaux-sous-Aubigny": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"India\u2013Pakistan border": 1}
+{}
+{}
+{"India": 1}
+{}
+{}
+{}
+{"Bihar Province": 1}
+{"Casa Verona's Mosque": 1}
+{"Partition of India": 1}
+{}
+{}
+{"New Delhi": 1}
+{"Singapore": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hollywood Video": 1}
+{}
+{}
+{}
+{}
+{"India": 1}
+{}
+{"United States": 1}
+{}
+{"United States": 1}
+{"Estonia": 1}
+{}
+{}
+{}
+{"Sanoh Thienthong": 1}
+{}
+{}
+{}
+{}
+{}
+{"Nigeria": 1}
+{"Miami": 1}
+{"Demsa": 1}
+{"Myanmar": 1}
+{"Costa Ricans": 1}
+{"EmArcy Records": 1}
+{"Nigeria": 1}
+{"Santa Monica": 1, "California": 1}
+{"Cargo Records": 1, "UK": 1}
+{}
+{}
+{}
+{"Warsaw Pact": 1}
+{}
+{}
+{"Germany": 1}
+{"Southern Europe": 1}
+{}
+{}
+{"Czechoslovakia": 1}
+{}
+{"Oklahoma City": 1}
+{}
+{"Arlington": 1, "Texas": 1}
+{"Jacksonville": 1, "Florida": 1}
+{"Geneva": 1, "Nebraska": 1}
+{"Mingus Three": 1}
+{"Charleston": 1, "South Carolina": 1}
+{}
+{"Tucson": 1, "Arizona": 1}
+{}
+{}
+{"Richmond": 1, "Virginia": 1}
+{}
+{"New Haven": 1, "Connecticut": 1}
+{"Panora": 1, "Iowa": 1}
+{"Clay Center": 1, "Kansas": 1}
+{"Desert Diamond West Valley": 1, "Phoenix": 1, "Grand Prix": 1}
+{"\u0160iauliai": 1}
+{"Jersey City": 1, "New Jersey": 1}
+{}
+{"Khair Bakhsh Marri": 1}
+{}
+{}
+{"Silvestre De Le\u00f3n": 1}
+{"Queen Victoria": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Artystone": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"R\u0111avica": 1}
+{}
+{"Whiskeytown": 1, "California": 1}
+{"Big Gulch": 1}
+{}
+{"Brigham Young University": 1}
+{"United Nations Population Fund": 1}
+{}
+{"Chastity Gulch": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{"New York City": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Brand\u00fds nad Labem-Star\u00e1 Boleslav": 1}
+{}
+{"Brinov\u0161\u010dica": 1}
+{"Andra\u017e nad Polzelo": 1}
+{"City Municipality of Velenje": 1}
+{}
+{"United States": 1}
+{"Saudi Arabia": 1}
+{"Mortara": 1, "Lombardy": 1}
+{"Kon Tum Province": 1}
+{"Pennsylvania": 1}
+{"Westminster Choir College": 1}
+{"Arizona": 1}
+{"Boston": 1}
+{"Lubigi": 1}
+{"Shizuoka Prefecture": 1}
+{"Oklahoma": 1}
+{"Saint Paul": 1, "Minnesota": 1}
+{}
+{"Savannah": 1, "Georgia": 1}
+{"Pennsylvania": 1}
+{"Tennessee": 1}
+{"Kranj railway station": 1}
+{"Confederation Bridge": 1}
+{"Carleton Bridge": 1}
+{"Interstate 182 Bridge": 1}
+{"Dufferin Street": 1, "bridges": 1}
+{}
+{}
+{"Burt Henry Covered Bridge": 1}
+{}
+{"Bulkeley Bridge": 1}
+{"Warren Covered Bridge": 1}
+{"Shinn Covered Bridge": 1}
+{"Cincinnati Southern Bridge": 1}
+{"Flatford": 1}
+{"Rialto Bridge": 1}
+{}
+{"Kimeru": 1}
+{"Swing Bridge": 1, "New Bridge Landing": 1}
+{"Royal Albert Bridge": 1}
+{"Rajashri": 1}
+{"Texar's Revenge": 1, "North": 1, "South": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hazel Miner": 1}
+{"Cambodge": 1}
+{"Hicky's Bengal Gazette": 1}
+{}
+{}
+{"African Meeting House": 1}
+{}
+{}
+{}
+{}
+{}
+{"Catholic Church": 1, "England": 1, "Wales": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Wittenberg": 1}
+{}
+{}
+{"Lockroy": 1}
+{"Fruta del Norte mine": 1}
+{"Kis-K\u00fck\u00fcll\u0151 County": 1}
+{"Darial": 1, "Pakistan": 1}
+{"Fort Deposit": 1, "Alabama": 1}
+{"Nigeria": 1}
+{"Tambao": 1}
+{"Hayneville": 1, "Alabama": 1}
+{"Sandasar": 1}
+{"Jackpine Remnant Provincial Park": 1}
+{"Leninsk-Kuznetsky District": 1}
+{"Sokolniki District": 1}
+{"Majura Training Area": 1}
+{"Lyuberetsky District": 1}
+{"Forlanini": 1, "Milan": 1}
+{"Guangling District": 1}
+{"Ghaziabad district": 1, "Uttar Pradesh": 1}
+{"Pfrang Association": 1}
+{}
+{"Dharwad": 1}
+{"Kathmandu": 1}
+{"Alamnagar": 1}
+{"Nanjing": 1}
+{"Irkutsky District": 1}
+{"Coquimbito": 1}
+{}
+{"Haifa District": 1}
+{"Bohemia": 1}
+{"Cuacos de Yuste": 1}
+{"Cunigunde": 1, "Luxembourg": 1}
+{}
+{}
+{"Hohenstaufen": 1}
+{}
+{}
+{}
+{}
+{}
+{"Peace of Augsburg": 1}
+{"Kievan Rus'": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Manchester United F.C.": 1}
+{"Nottingham Forest F.C.": 1}
+{"Liverpool F.C.": 1}
+{}
+{"Everton F.C.": 1}
+{}
+{"Liverpool F.C.": 1, "Manchester United F.C.": 1}
+{"Liverpool F.C.": 1}
+{}
+{"Arsenal F.C.": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Seria": 1, "Belait": 1}
+{}
+{"Brunei": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Newcastle United F.C.": 1}
+{"North Bend": 1, "Oregon": 1}
+{"Crescent City": 1, "California": 1}
+{"Philadelphia": 1}
+{"Kempele": 1}
+{"Venice": 1}
+{"China": 1}
+{"Nekoosa": 1, "Wisconsin": 1}
+{"Squinzano": 1}
+{"Humaya River": 1}
+{"Port-au-Prince": 1}
+{"Mexico City": 1}
+{"Sanpolino": 1, "Brescia Metro": 1}
+{"Lake Ontario": 1}
+{"Fresno": 1, "California": 1}
+{"Abuja": 1}
+{"Venice": 1}
+{"Oklahoma City": 1}
+{"Southampton": 1}
+{"New York City": 1}
+{"Nairobi": 1}
+{}
+{}
+{}
+{}
+{}
+{"Gold Crown Tomb": 1}
+{"Judea": 1}
+{}
+{"Hawaii": 1}
+{}
+{"Remojadas": 1}
+{}
+{}
+{}
+{}
+{"Mystic Pizza": 1}
+{}
+{}
+{}
+{"Fogle Peak": 1}
+{}
+{}
+{"Dominican Order": 1}
+{}
+{"Cincinnati": 1, "Bearcats": 1}
+{}
+{"Minnesota": 1}
+{}
+{"Dominican Order": 1}
+{"TPH Club": 1}
+{}
+{}
+{}
+{"Oblasts": 1, "Soviet Union": 1}
+{"Armenia": 1}
+{"Tucson": 1, "Arizona": 1}
+{"Gmina \u0141owicz": 1}
+{"Gmina Brzeziny": 1, "\u0141\u00f3d\u017a Voivodeship": 1}
+{"Drexel Heights": 1, "Arizona": 1}
+{"Pettai": 1, "Karaikal": 1}
+{"Moorea-Maiao": 1}
+{"Altoona": 1, "Iowa": 1}
+{"Elk Point": 1, "South Dakota": 1}
+{"Catawissa Creek": 1}
+{"Parramatta River": 1}
+{"Tetsa River Provincial Park": 1}
+{"Black Creek": 1, "Toronto": 1}
+{"Taggerty River": 1}
+{"Murrah River": 1}
+{"Snake River": 1, "St. Croix River": 1}
+{"Kunwak River": 1}
+{"Mill Creek": 1, "Loyalsock Creek": 1}
+{"Little Muncy Creek": 1}
+{"Holitna River": 1}
+{}
+{"Boomi River": 1}
+{"Doubtful Creek": 1}
+{"Minnehaha Creek": 1}
+{"Range Creek": 1}
+{"Hunters Point": 1, "Arizona": 1}
+{"Catherine Creek": 1}
+{"Darling Mills Creek": 1}
+{"Sleepy Eye Creek": 1}
+{"Wise Observatory": 1}
+{}
+{"Highland Woods": 1, "Delaware": 1}
+{}
+{"Flying Childers": 1}
+{"Duncan Islands": 1}
+{"Chico Xavier": 1}
+{}
+{}
+{"Mutignano": 1}
+{"Bourke Isles": 1}
+{"Torre dello Sperone": 1}
+{"New Carrollton": 1, "Maryland": 1}
+{"Landover": 1, "Maryland": 1}
+{}
+{"Canada": 1, "United States": 1, "border": 1}
+{"Chelyabinsk": 1}
+{"Warren": 1, "Vermont": 1}
+{"Oak Lawn": 1, "Illinois": 1}
+{"Tennessee": 1}
+{"Fremont Correctional Facility": 1}
+{"United States": 1}
+{"Georgia": 1, "U.S. state": 1}
+{"Washington State Prison": 1}
+{"Mexico": 1}
+{"Blaine": 1, "Washington": 1}
+{"Detroit": 1}
+{"Finley": 1, "Washington": 1}
+{"Alpena Power Company": 1}
+{"Canada": 1, "United States": 1, "border": 1}
+{"Qing dynasty": 1}
+{}
+{}
+{}
+{"Nanjing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Nanjing": 1}
+{}
+{}
+{}
+{}
+{}
+{"Powwow Pond": 1}
+{"Crooked Run": 1, "Catawissa Creek": 1}
+{"Huntington Lake": 1}
+{"Kathmandu": 1}
+{"Ore Run": 1}
+{"Contoocook Lake": 1}
+{"Dark Run": 1}
+{}
+{"Wapizagonke Lake": 1}
+{"Hunts Run": 1}
+{"Silver Lake": 1, "Madison": 1, "New Hampshire": 1}
+{"Little Crooked Run": 1}
+{"Niagara Falls": 1}
+{"Rhine": 1}
+{"Lead Run": 1}
+{"Lake District": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Empress of Mijak": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Belgrade": 1}
+{"Cyprus": 1}
+{}
+{"Greece": 1}
+{"Moldova": 1}
+{"Portugal": 1}
+{}
+{"Southern Europe": 1}
+{}
+{"Madagascar": 1}
+{}
+{}
+{"Yugoslavia": 1}
+{}
+{}
+{"Kazakhstan": 1, "Olympics": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kingdom of the Fairies": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Manchester City F.C.": 1}
+{"Everton F.C.": 1}
+{}
+{}
+{}
+{}
+{"Michael Waltrip Racing": 1}
+{}
+{}
+{}
+{"Second City": 1}
+{"Singapore": 1}
+{}
+{"Manchester United F.C.": 1}
+{"The Green Shack": 1}
+{"Southampton": 1}
+{}
+{"Ducharme Bridge": 1}
+{"Caesars Palace": 1}
+{"La Silvia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Vashakidze": 1, "crater": 1}
+{"Gafieira Universal": 1}
+{}
+{"Tathlina Lake": 1}
+{}
+{}
+{}
+{"Padus Vallis": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Mother Ann": 1}
+{"World Film Company": 1}
+{}
+{"Richmond": 1, "Virginia": 1}
+{"The Hague": 1}
+{"Oklahoma City": 1}
+{"Augsburg-Oberhausen": 1}
+{"Siaogang District": 1}
+{"Sierra Leone": 1}
+{"Wichita City": 1, "Carnegie Library Building": 1}
+{"Yuma County Library District": 1}
+{"San Diego": 1}
+{"Central Library": 1, "Kansas City": 1, "Missouri": 1}
+{"Tucson": 1, "Arizona": 1}
+{"Cudahy": 1, "California": 1}
+{"Yuma": 1, "Colorado": 1}
+{"Vancouver Community Library": 1}
+{}
+{"Glenfield": 1, "New South Wales": 1}
+{}
+{"Nila Kaalam": 1}
+{"United States": 1}
+{}
+{"United States": 1}
+{}
+{"Ocean City": 1, "New Jersey": 1}
+{}
+{}
+{}
+{"New York": 1}
+{"Kansas": 1}
+{}
+{}
+{"Indiana": 1}
+{}
+{"United States": 1}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Emmaville": 1, "Minnesota": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Chicago Cubs": 1}
+{}
+{}
+{}
+{}
+{}
+{"1952 Winter Olympics": 1}
+{"United States": 1}
+{}
+{}
+{}
+{"Illinois": 1}
+{"United States": 1}
+{}
+{}
+{"United States": 1}
+{"Albania": 1}
+{"Somalia": 1}
+{}
+{}
+{}
+{"North Korea": 1, "Olympics": 1}
+{"Marinablue": 1}
+{}
+{"Kitahama": 1}
+{"Empire State Building": 1}
+{}
+{"1717 Broadway": 1}
+{"Empire State Building": 1}
+{"Wuhan World Trade Tower": 1}
+{}
+{}
+{"Woolworth Building": 1}
+{"EMC Insurance Building": 1}
+{"Hyperion Tower": 1}
+{"North Central Avenue": 1}
+{"Baltimore": 1}
+{"Willis Tower": 1}
+{"Travelers Tower": 1}
+{"Repsol-YPF tower": 1}
+{}
+{"Houston": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{"Brazil": 1}
+{}
+{}
+{}
+{"Guyana": 1}
+{"Pristina": 1}
+{}
+{"Guinea-Bissau": 1}
+{"Israel": 1}
+{"Canada": 1}
+{"United States": 1}
+{"Erskine College": 1, "Due West": 1, "Historic District": 1}
+{"Forest Acres": 1, "South Carolina": 1}
+{"United States": 1}
+{"Mill City": 1, "Butte County": 1, "California": 1}
+{"Charleston": 1, "South Carolina": 1}
+{}
+{}
+{}
+{"Highland": 1, "Kansas": 1}
+{"Bicol State College of Applied Sciences and Technology": 1}
+{"Thirukkanur": 1}
+{"Erskine College": 1}
+{"Tupanatinga": 1}
+{"Tallahassee": 1, "Florida": 1}
+{"Abuja": 1}
+{"Dareton": 1, "New South Wales": 1}
+{"East Jersey": 1}
+{"Georgia": 1}
+{"United States": 1}
+{"United States": 1}
+{"United States": 1}
+{"United States": 1}
+{"Minnesota State Capitol": 1}
+{}
+{"Montana": 1}
+{}
+{"Nigeria": 1}
+{"United States": 1}
+{}
+{"Wisconsin": 1}
+{}
+{"United States": 1}
+{}
+{}
+{"Seattle": 1}
+{"Packard Automotive Plant": 1}
+{}
+{}
+{"Wagner Manufacturing Company": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"American Thermos Bottle Company": 1, "Laurel Hill": 1}
+{"Norfolk Assembly": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Harland Rowe": 1}
+{}
+{}
+{}
+{"New York City": 1}
+{"Davenport Public Library": 1}
+{"Shortgrass Library System": 1}
+{}
+{"James Weldon Johnson Community Library": 1}
+{"Stockholm Public Library": 1}
+{"Tacoma Public Library": 1}
+{"Jeffersonville Township Public Library": 1}
+{"East Lake Library": 1}
+{"New York City": 1, "Subway": 1}
+{"New York Public Library": 1, "Main Branch": 1}
+{}
+{}
+{"Burlington County Library": 1}
+{}
+{}
+{"New York City": 1}
+{}
+{"Jagiellonian Library": 1}
+{}
+{"Oulu\u2013Kontiom\u00e4ki railway": 1}
+{"London": 1, "Underground": 1}
+{"Theebine railway station": 1}
+{"Kotri Junction railway station": 1}
+{"Yangmok Station": 1}
+{"Tokyo": 1}
+{}
+{"Spilsby railway station": 1}
+{"Landsborough railway station": 1, "Victoria": 1}
+{"Miles railway station": 1}
+{"India": 1}
+{"London Underground": 1}
+{"Kensington Canal": 1}
+{"Kifisias railway station": 1}
+{"Tel Aviv HaShalom railway station": 1}
+{}
+{"Yamanote Line": 1}
+{}
+{"Somerset": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Medical Center of the Rockies": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Iran": 1}
+{"Alghanim Industries": 1}
+{"Iran": 1}
+{"Iran": 1}
+{}
+{"Togo": 1}
+{"Gulf Coast Film Festival": 1}
+{}
+{"Israel": 1}
+{}
+{"Arabian Sea": 1}
+{"United States": 1}
+{"Yucat\u00e1n Peninsula": 1}
+{"Kharg": 1, "Iran": 1}
+{"Saanich": 1, "Gulf Islands": 1}
+{"Jidda Island": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Palace": 1}
+{}
+{}
+{"Fort Meade National Cemetery": 1}
+{"Toiyabe Range": 1}
+{"Pleasant Hill": 1, "Saline County": 1, "Arkansas": 1}
+{"Buckingham Palace": 1}
+{"Columbia Mall": 1, "Missouri": 1}
+{"Buckingham Palace": 1}
+{"Stockton Springs": 1, "Maine": 1}
+{"Flag Hill": 1, "Houtman Abrolhos": 1}
+{"Fort Hill": 1, "Clemson": 1, "South Carolina": 1}
+{"United States": 1}
+{"Decatur Mall": 1}
+{"North Point Mall": 1}
+{"Pleasant Hill": 1, "Nevada County": 1, "Arkansas": 1}
+{"Jones Point": 1, "New York": 1}
+{"Constitution Gardens": 1}
+{"Birchwood Mall": 1}
+{"Fort Collinson": 1}
+{"Puente Hills Mall": 1}
+{"Fort Irwin National Training Center": 1}
+{"Camdenton": 1, "Missouri": 1}
+{"Atlantic City": 1, "New Jersey": 1}
+{"Nanjing": 1}
+{"Esperance": 1, "Washington": 1}
+{"Oklahoma": 1, "Clearfield County": 1, "Pennsylvania": 1}
+{"Olympian Village": 1, "Missouri": 1}
+{"Gore Bay": 1, "Ontario": 1}
+{"Horn\u00ed Be\u010dva": 1}
+{"North Omak": 1, "Washington": 1}
+{"Toronto": 1}
+{"New Haven": 1, "Connecticut": 1}
+{"Nanjing": 1}
+{"Bayview": 1, "Humboldt County": 1, "California": 1}
+{"Village of Four Seasons": 1, "Missouri": 1}
+{"College Place": 1, "Washington": 1}
+{"Zilwaukee": 1, "Michigan": 1}
+{"Mulino": 1, "Oregon": 1}
+{"Lockridge": 1, "Iowa": 1}
+{}
+{}
+{"Archivio di Nuova Scrittura": 1}
+{"Oklahoma City": 1}
+{"Sousa Archives and Center for American Music": 1}
+{"Sirkanay District": 1}
+{}
+{}
+{}
+{}
+{"Walter P. Reuther Library": 1}
+{"Sanghaganam": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Republic of the Congo": 1}
+{}
+{}
+{}
+{}
+{"Ecuador": 1}
+{}
+{"Czechoslovakia": 1}
+{"Russian Soviet Federative Socialist Republic": 1}
+{}
+{}
+{"Albania": 1}
+{"Iran": 1}
+{"Transcaucasian": 1, "Socialist Federative Soviet Republic": 1}
+{}
+{}
+{"Roman Republic": 1}
+{}
+{}
+{}
+{}
+{"Republican Party": 1, "United States": 1}
+{"House of Commons": 1, "Canada": 1}
+{}
+{}
+{"United States": 1}
+{"United States": 1}
+{}
+{"Ontario": 1}
+{"United States": 1}
+{}
+{"Uganda": 1}
+{}
+{"United States": 1}
+{}
+{"\u015awiecie County": 1}
+{}
+{}
+{}
+{}
+{}
+{"ABC Riverina": 1}
+{}
+{"Broken Hill": 1}
+{}
+{}
+{}
+{"New York City": 1}
+{}
+{}
+{}
+{}
+{"Cracker Factory": 1}
+{}
+{"New York": 1, "Yankees": 1}
+{"Scratchie Records": 1}
+{}
+{"New York": 1}
+{}
+{}
+{"Devil Hole Run": 1}
+{}
+{}
+{"Devil's Slide": 1, "California": 1}
+{"Devil's Angels": 1}
+{}
+{}
+{"Georgia": 1}
+{"Devil's Courthouse": 1}
+{"Teufelsb\u00e4der": 1}
+{}
+{"Ramsey Crossing": 1, "California": 1}
+{}
+{}
+{}
+{"Devil's Highway": 1}
+{"South Channel": 1}
+{"Devils Fork State Park": 1}
+{"Mollhausen Mountains": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Nigeria": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Somalia": 1}
+{}
+{}
+{}
+{"Zarqa Governorate": 1}
+{"Darwin": 1, "Northern Territory": 1}
+{"Portland": 1, "Oregon": 1}
+{"Knobly Mountain": 1}
+{"Surprise Lake": 1, "Idaho": 1}
+{"Sugarloaf Ridge State Park": 1}
+{"Alameda Dam": 1}
+{"Menemsha": 1, "Massachusetts": 1}
+{"Halleck Range": 1}
+{"Krasnyi Mak": 1}
+{"Prescott National Forest": 1}
+{"Osilinka Ranges": 1}
+{"H\u00f6rnli": 1}
+{"Belprahon": 1}
+{"Socialist Party of Oregon": 1, "Columbia County": 1, "Oregon": 2}
+{"Cliffside Lake Recreation Area": 1}
+{"Baker Creek": 1, "British Columbia": 1}
+{"McConnell Range": 1}
+{"Fishing Creek": 1, "Confederacy": 1}
+{"Feather Lakes": 1, "Idaho": 1}
+{"Waldschmidt Hall": 1}
+{"Cormoret": 1}
+{}
+{"Dam": 1}
+{"Albeni Falls Dam": 1}
+{"Portland-Simonds": 1}
+{}
+{}
+{}
+{}
+{"Myanmar": 1}
+{}
+{}
+{}
+{}
+{"Natural Dam": 1, "Arkansas": 1}
+{"Myanmar": 1}
+{}
+{}
+{"Myanmar": 1}
+{"Janesville Assembly Plant": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Switzerland": 1}
+{"Monarchy of the United Kingdom": 1}
+{"British Empire": 1}
+{}
+{"Thuringia": 1}
+{}
+{"Kingdom of Judah": 1}
+{}
+{}
+{"United Kingdom": 1}
+{"Powder keg of Europe": 1}
+{"Bukovina": 1}
+{}
+{"British Empire": 1}
+{"County of Gorizia": 1}
+{"Louisiana Purchase": 1}
+{}
+{"Kingdom of Greece": 1}
+{"Near East": 1}
+{}
+{}
+{}
+{}
+{"Uttar Pradesh": 1}
+{"United States": 1}
+{}
+{}
+{"Connecticut": 1, "Senate": 1}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Constance": 1, "Burgundy": 1}
+{}
+{}
+{}
+{}
+{}
+{"Mercedes of Orl\u00e9ans": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Pennell Coast": 1}
+{}
+{}
+{}
+{}
+{"Montclair-Boonton Line": 1}
+{"Villa District": 1}
+{"Refugio": 1, "SITEUR": 1}
+{"Monongahela City Bridge": 1}
+{"Lake District": 1}
+{"San Juan": 1, "Puerto Rico": 1}
+{"Metropolitan Avenue": 1, "Lorimer Street": 1, "station": 1}
+{"Hazrat Nizamuddin railway station": 1}
+{"Virginia": 1}
+{"Melbourne": 1}
+{"Puerto Rico Trench": 1}
+{"Addison Transit Center": 1}
+{"Tottenham railway station": 1}
+{"Newport News": 1, "Virginia": 1}
+{"Waban station": 1}
+{"Dallas Municipal Building": 1}
+{"Richmond": 1, "Virginia": 1}
+{"Mosaic Dallas": 1}
+{"Kipling GO Station": 1}
+{}
+{"Katzenstein Castle": 1}
+{}
+{"The Loud House": 1}
+{"Hamell on Trial": 1}
+{"Central Park": 1, "Brass": 1}
+{}
+{}
+{}
+{"Vyshnivets Palace": 1}
+{}
+{"Golden Nugget": 1, "Atlantic City": 1}
+{}
+{}
+{"Baynard's Castle": 1}
+{}
+{"Terringzean Castle": 1, "East Ayrshire": 1}
+{}
+{"Bellver Castle": 1}
+{"Casa Loma": 1}
+{}
+{}
+{}
+{}
+{"Los Angeles": 1}
+{}
+{"Los Angeles": 1, "Dodgers": 1}
+{}
+{}
+{"Montreal Expos": 1}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Nasum": 1}
+{"Hong Kong": 1}
+{}
+{}
+{}
+{"USA": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Crawford High School": 1, "Texas": 1}
+{"Ramananda College": 1}
+{"Imperial College London": 1}
+{"North Rajupalem": 1}
+{}
+{"Graub\u00fcndner Kantonalbank": 1}
+{"Kingfisher plc": 1}
+{"United States": 1}
+{"Okinawa Institute of Science and Technology": 1}
+{"United States": 1}
+{"Hertfordshire": 1}
+{"New York City": 1}
+{"Cuyamaca Outdoor School": 1}
+{"Franklin Institute": 1}
+{}
+{"Nepal": 1}
+{"Camp des Milles": 1}
+{}
+{}
+{}
+{}
+{"Alps": 1}
+{}
+{"Portugal": 1}
+{"Estonia": 1}
+{"Schneeberg Railway": 1}
+{"Alps": 1}
+{"India": 1}
+{}
+{}
+{"McGillivray Pass": 1}
+{"Alps": 1}
+{}
+{}
+{"Eswatini": 1}
+{"Bochum": 1, "Dahlhausen": 1, "Railway Museum": 1}
+{}
+{}
+{}
+{}
+{}
+{"Supreme Court of India": 1}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Mostyn Hanger": 1}
+{"Supreme Court of India": 1}
+{"Rivers State": 1}
+{}
+{"New York": 1}
+{}
+{}
+{"Bethania": 1, "Queensland": 1}
+{"Thames": 1}
+{"Lake Urana Nature Reserve": 1}
+{"Trze\u015bni\u00f3wka": 1}
+{}
+{"Shandong": 1}
+{"United States": 1}
+{"Sichuan": 1}
+{"Portage Diversion": 1}
+{}
+{"Whiteshell River": 1}
+{"Nile": 1}
+{"Ilha Solteira Dam": 1}
+{"Egypt": 1}
+{"Cumberland River": 1}
+{"Oxyrhynchus": 1}
+{"Ngaruroro River": 1}
+{"Gamkapoort Dam": 1}
+{"Swannanoa River": 1}
+{"United States": 1}
+{}
+{"United States": 1}
+{}
+{"United States": 1}
+{}
+{"Ohio": 1}
+{}
+{"United States": 1, "Germany": 1}
+{"United States": 1}
+{}
+{"United States": 1, "Germany": 1}
+{"United States": 1}
+{"United States": 1}
+{"United States": 1}
+{"United States": 1}
+{"United States": 1, "Japan": 1}
+{"United States": 1}
+{}
+{"Hageman Peak": 1}
+{}
+{}
+{}
+{"Battle of Waterloo": 1}
+{}
+{}
+{"Battle of Waterloo": 1}
+{"Portsmouth": 1}
+{}
+{}
+{}
+{"Constantinople": 1}
+{}
+{}
+{}
+{"Hiroshima": 1, "Nagasaki": 1}
+{"Hanford Site": 1}
+{}
+{}
+{}
+{}
+{"Dayton Project": 1}
+{}
+{}
+{}
+{}
+{"Manhattan Project": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Lebanon": 1}
+{}
+{}
+{"Grant's First Stand": 1}
+{}
+{"Ski Club of Australia": 1}
+{}
+{}
+{}
+{}
+{}
+{"Parisienne Walkways": 1}
+{"Blue Water High": 1}
+{"Galzig": 1}
+{}
+{"Blue Hills Ski Area": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Memory Lane": 1}
+{}
+{}
+{}
+{}
+{"Village Vanguard": 1}
+{}
+{"Oklahoma": 1}
+{}
+{}
+{}
+{}
+{"Lighthouse": 1}
+{"Village Vanguard": 1}
+{"Qiantong": 1, "Zhejiang": 1}
+{"Motru Coal Mine": 1}
+{}
+{}
+{"Palestinian territories": 1}
+{}
+{"Blumberg": 1}
+{}
+{}
+{}
+{"Lithuania": 1}
+{}
+{}
+{}
+{"United States": 1, "Army": 1}
+{"\u0141\u00f3d\u017a Ghetto": 1}
+{"Kievan Rus'": 1}
+{}
+{"Normandy": 1}
+{}
+{}
+{"Portugal": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sky UK": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Assam Football Association": 1}
+{}
+{}
+{}
+{}
+{}
+{"Derrynane GAA": 1}
+{}
+{"Persikasi Bekasi": 1}
+{}
+{}
+{"Switzerland": 1}
+{}
+{}
+{}
+{}
+{"Brigham Young University": 1}
+{"Margate City Schools": 1}
+{"Switzerland": 1}
+{"Portugal": 1}
+{}
+{}
+{}
+{"Wichita Northeast Magnet High School": 1}
+{}
+{}
+{"Sierra Linda High School": 1}
+{"Technical Education Center": 1, "Osceola": 1}
+{}
+{}
+{}
+{"American Counseling Association": 1}
+{"Event Center Arena": 1}
+{"Boston": 1}
+{}
+{"Leipzig": 1}
+{"Ceraunius Tholus": 1}
+{"Arcadia": 1, "Odessa": 1}
+{"Eleftheriou Venizelou Street": 1}
+{"Cincinnatus": 1, "New York": 1}
+{"Argyle": 1, "New York": 1}
+{"MacQuarrie Edge": 1}
+{"Razgrad Municipality": 1}
+{"La Matap\u00e9dia Regional County Municipality": 1}
+{"Sikyona": 1}
+{"Hull County": 1, "Quebec": 1}
+{"Karsib\u00f3r": 1}
+{}
+{"D\u00fcppel": 1, "Berlin": 1}
+{"Saint-Beno\u00eet-Labre": 1}
+{"Probe Ridge": 1}
+{"Lake George": 1, "New York": 1}
+{"Werder": 1}
+{"Bergen": 1, "North Dakota": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Byzantium": 1}
+{}
+{"Postern of Fate": 1}
+{}
+{}
+{}
+{"The Crooked World": 1}
+{}
+{}
+{}
+{"Caresh": 1}
+{"Yquatine": 1}
+{"Smallville": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Plymouth": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Build-A-Bear Workshop": 1}
+{"Haysville": 1, "Pennsylvania": 1}
+{"United States": 1}
+{"United States": 1}
+{}
+{}
+{"Jefferson Davis": 1}
+{"United States": 1}
+{"United States": 1, "Air Force": 1}
+{"United States": 1}
+{}
+{}
+{}
+{"Central African Republic": 1}
+{"Dutch Republic": 1}
+{"USA": 1}
+{"Shark sanctuary": 1}
+{}
+{"Salt Lake City": 1}
+{}
+{}
+{"Zarahemla": 1}
+{}
+{"Eiffel Tower": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Battle of Verdun": 1}
+{"Battle of Verdun": 1}
+{}
+{}
+{"Battle of Kay": 1}
+{}
+{"Battle of Oldendorf": 1}
+{"Battle of Soor": 1}
+{"Roman Republic": 1}
+{"Battle of Trenton": 1}
+{"Battle of Cannae": 1}
+{"Turckheim": 1}
+{"Battle of Oudenarde": 1}
+{"Gadebusch": 1}
+{}
+{"Battle of Mine Creek": 1}
+{"Battle of Sablat": 1}
+{"Battle of Torgau": 1}
+{"Battle of Lundby": 1}
+{"Atlantic City": 1, "New Jersey": 1}
+{"Tanzania": 1}
+{}
+{}
+{"Guinea-Bissau": 1}
+{"Philadelphia": 1}
+{"Boston": 1}
+{"Tanzania": 1}
+{"Wall Street Journal": 1}
+{"United States": 1}
+{"Rajasthan": 1}
+{"Portugal": 1}
+{}
+{"Lingmell": 1}
+{}
+{}
+{}
+{"Dickinson": 1, "Alabama": 1}
+{}
+{}
+{"U.S.": 1}
+{"New York": 1}
+{"Fort Davis": 1, "Texas": 1}
+{"Al\u016bksne": 1}
+{}
+{}
+{"Sweden": 1}
+{"Ramapo": 1, "New York": 1}
+{"Lake Superior": 1}
+{}
+{"Oklahoma": 1}
+{}
+{"Troy Peak": 1}
+{}
+{}
+{"Naples": 1, "Florida": 1}
+{}
+{}
+{}
+{"Santa Monica": 1, "California": 1}
+{}
+{"Brown": 1}
+{}
+{}
+{"Arkansas Highway 242": 1}
+{}
+{}
+{}
+{"Cannondale Bicycle Corporation": 1}
+{}
+{}
+{"Old York Gaol": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Museum of Trade Ceramics": 1}
+{"Dagenham": 1}
+{}
+{}
+{"Qing dynasty": 1}
+{"Chen dynasty": 1}
+{}
+{"Han dynasty": 1}
+{}
+{"Green Door Tavern": 1}
+{}
+{"Beijing": 1}
+{"Lejonstr\u00f6msbron": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Armenia": 1}
+{}
+{}
+{}
+{}
+{"Banna": 1, "Battagram": 1}
+{}
+{"East India Company": 1}
+{"Harmelen": 1}
+{}
+{}
+{}
+{}
+{"Prague": 1}
+{"Kiewa River": 1}
+{"Vatican": 1}
+{}
+{}
+{}
+{"Azerbaijan": 1}
+{"Embassy of Canada": 1, "Moscow": 1}
+{}
+{"Plymouth": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Warner Records": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Fessenheim Nuclear Power Plant": 1}
+{"Minhla": 1, "Bago": 1}
+{"Beaconsfield": 1, "Queensland": 1}
+{}
+{"Eumundi railway station": 1}
+{"Canadian Armed Forces": 1}
+{"Rawdon": 1, "Quebec": 1}
+{}
+{}
+{"BorsodChem": 1}
+{}
+{}
+{}
+{}
+{"Apple Records": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{"Qara Qarayev": 1, "Baku Metro": 1}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{"United States": 1}
+{"A.C. Milan": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Arsenal F.C.": 1}
+{"Island of Doomed Men": 1}
+{"Atlantic City": 1}
+{}
+{"Hardin Bigelow": 1}
+{"Detroit": 1}
+{}
+{"Airport": 1}
+{"Balestrand": 1}
+{}
+{}
+{}
+{"Willoughby": 1}
+{}
+{"Hayrat": 1}
+{"Barton Government": 1}
+{"Auckland": 1}
+{}
+{}
+{"St. Petersburg": 1, "Florida": 1}
+{}
+{}
+{"United States": 1}
+{}
+{"United States": 1}
+{"United States": 1}
+{"Pakistan": 1}
+{}
+{}
+{"England": 1}
+{}
+{}
+{"British Empire": 1}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{"Ogaden War": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"English River": 1, "Iowa": 1}
+{"Sharzhenga River": 1}
+{"Monocacy River": 1}
+{"Dalcheon": 1}
+{"Wainuioru River": 1}
+{"Dudypta River": 1}
+{"South Fork Salmon River": 1}
+{"Lisitsa River": 1}
+{"Dep River": 1}
+{}
+{"Loimijoki": 1}
+{"Pack River": 1, "British Columbia": 1}
+{"Nemnyuga River": 1}
+{"Utva River": 1, "Perm Krai": 1}
+{"Kraai River": 1}
+{"Lu\u010dina": 1, "river": 1}
+{"Treur River": 1}
+{"Orange River": 1}
+{"Runde River": 1}
+{"Granby River": 1}
+{}
+{}
+{}
+{}
+{"Bois-Dor\u00e9": 1}
+{}
+{}
+{}
+{"Kuthenkully": 1}
+{}
+{}
+{}
+{}
+{"Hollywood Nocturnes": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Panther Park": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bank of America Stadium": 1}
+{"North Carolina": 1}
+{}
+{}
+{"NFC South": 1}
+{}
+{}
+{}
+{}
+{"Arabian Peninsula": 1}
+{"Ouluj\u00e4rvi": 1}
+{"Dubai": 1}
+{"Ixtoc-Alfa": 1}
+{"Doha": 1}
+{"Joinville Island group": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Armenia": 1}
+{}
+{}
+{}
+{"Tiananmen": 1}
+{}
+{"Germany": 1}
+{}
+{}
+{}
+{}
+{"Africa": 1}
+{"United States": 1}
+{"New Zealand": 1}
+{}
+{}
+{"Vatican City": 1}
+{"Santiago de Cassurr\u00e3es": 1, "P\u00f3voa de Cerv\u00e3es": 1}
+{}
+{"Santa Sof\u00eda": 1, "Boyac\u00e1": 1}
+{"Aldealengua de Santa Mar\u00eda": 1}
+{"Greater Metropolitan Area of Minho": 1}
+{"Guijo de Santa B\u00e1rbara": 1}
+{"Monastery of la Murta": 1}
+{"Maria Carrillo High School": 1}
+{"Casa de los Pinelo": 1}
+{"Monastery of Aguas Vivas": 1}
+{"Vila Franca de Xira": 1}
+{"Santa Cruz de Moya": 1}
+{"Santa Marta de Magasca": 1}
+{"Campestre do Menino Deus": 1}
+{"P\u00f3voa de Santa Iria": 1, "Forte da Casa": 1}
+{"Tancredo Neves": 1, "Santa Maria": 1}
+{"Pyrgiotissa": 1}
+{}
+{}
+{"Tianjin Port": 1, "Company": 1}
+{"Switzerland": 1}
+{"British Aerospace": 1}
+{}
+{"East India Company": 1}
+{}
+{}
+{}
+{"South Africa": 1}
+{}
+{}
+{"Paulsdale": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hyderabad": 1}
+{}
+{}
+{"Denmark Place": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Stinson Beach": 1, "California": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Miyako Nanseien Sanatorium": 1}
+{"Africa": 1}
+{"Tolyatti": 1}
+{"Ceres Nunataks": 1}
+{"Holt": 1, "Australian Capital Territory": 1}
+{"Lac-Matap\u00e9dia": 1, "Quebec": 1}
+{"Gera": 1}
+{"Lesnoye Sanatorium": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"C\u1ed1c C\u1ed1c": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Zec de la Bessonne": 1}
+{"Pedrola": 1}
+{"Valencia": 1}
+{"Complexe Maisonneuve": 1}
+{"Richmond": 1, "Virginia": 1}
+{}
+{"Onamia": 1, "Minnesota": 1}
+{"Fontanelle": 1, "Iowa": 1}
+{"Ottawa": 1}
+{"Atlantic City": 1, "New Jersey": 1}
+{"Houston": 1}
+{"Old St. Peter's Basilica": 1}
+{}
+{"Westminster Abbey": 1}
+{}
+{"Bank of America": 1}
+{"Martyrs' Shrine": 1}
+{"Church of St. Leodegar": 1, "Lucerne": 1}
+{"Bacarra Church": 1}
+{}
+{}
+{"Esztergom Basilica": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"East India Company": 1}
+{"Mansergh Snowfield": 1}
+{}
+{}
+{}
+{}
+{}
+{"Red Sea": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ietim Gurji": 1}
+{}
+{}
+{"Lincoln Hall": 1}
+{}
+{}
+{"Austin": 1, "TX": 1}
+{"Fillmore": 1}
+{}
+{}
+{}
+{}
+{}
+{"Tsukuba Express": 1}
+{"Disch Field": 1}
+{}
+{}
+{"United States": 1}
+{"Baranya County": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Antarctica": 1}
+{}
+{"European Union": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Philippines": 1}
+{}
+{}
+{}
+{"Strasbourg": 1}
+{"United States": 1}
+{"United States": 1}
+{"Indiana": 1}
+{"Canada": 1}
+{}
+{"Southampton": 1}
+{"Finger Lakes": 1}
+{}
+{"Route 888": 1, "Israel": 1}
+{}
+{"Rock Island": 1, "Nunavut": 1}
+{"Shiraz": 1}
+{}
+{"Sydney Harbour Bridge": 1}
+{"Elm Street": 1, "Stone Arch Bridge": 1}
+{"Sauk Rapids Regional Bridge": 1}
+{"Fort Kent": 1, "Maine": 1}
+{}
+{}
+{"Immokolee": 1}
+{}
+{}
+{}
+{}
+{"Marshall R. Sanguinet House": 1}
+{"Bridge of Sighs": 1}
+{"Antietam Avenue Bridge": 1}
+{"Piz d'Arbeola": 1}
+{}
+{}
+{}
+{}
+{}
+{"Tittsworth": 1}
+{}
+{"Tijuana": 1}
+{}
+{}
+{}
+{"United States": 1, "Olympic Training Center": 1}
+{}
+{}
+{"Nanjing": 1}
+{"Nanjing": 1}
+{"Qing dynasty": 1}
+{"Sacramento": 1, "Kings": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Israel": 1}
+{"Agua Blanca": 1, "Ecuador": 1}
+{}
+{}
+{"Harvard University": 1}
+{}
+{}
+{}
+{}
+{"Mexico City": 1}
+{}
+{}
+{}
+{}
+{"British Empire": 1}
+{"Barawal": 1}
+{"Bardoli": 1, "Satyagraha": 1}
+{"Visherka River": 1}
+{"Umchabezi River": 1}
+{"Coxs Creek": 1, "Belfield": 1, "New South Wales": 1}
+{"Mzingwane River": 1}
+{"Bardwell Creek": 1}
+{"Wolli Creek": 1}
+{"Susan Island Nature Reserve": 1}
+{"Columbia Bar": 1}
+{"Swift River": 1, "Teslin Lake": 1}
+{"Kiskiminetas River": 1}
+{"Reconquista River": 1}
+{"Cabramatta Creek": 1}
+{"Willamette River": 1}
+{"Toongabbie Creek": 1}
+{"Cup and Saucer Creek": 1}
+{"Little Yoho River": 1}
+{"Little River": 1, "Wingecarribee": 1}
+{"Victoria": 1, "Australia": 1}
+{"The Ritz-Carlton Hotel Company": 1}
+{"Financial Times Deutschland": 1}
+{"Center Parcs": 1}
+{"Boston": 1}
+{"Hellier Stradivarius": 1}
+{}
+{"Litton Industries": 1}
+{}
+{"UK": 1}
+{"Bank of America": 1}
+{"Castle of Muro Lucano": 1}
+{"Lang\u00f8yene": 1}
+{"Winton": 1, "Wyoming": 1}
+{}
+{}
+{"Johns Hopkins Bloomberg School of Public Health": 1}
+{"Gresham Palace": 1}
+{}
+{"Bruemmerville": 1, "Wisconsin": 1}
+{}
+{"Durham Bulls": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Thelma": 1, "Kentucky": 1}
+{}
+{}
+{}
+{"Cemaes Bay": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Shepherds railway station": 1, "New South Wales": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Listry GAA": 1}
+{"Stack's Mountains": 1}
+{"Vietnam": 1}
+{"Hong Kong Maritime Museum": 1}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{"APEC": 1, "Vietnam": 1, "2006": 1}
+{}
+{}
+{"Estonia": 1}
+{}
+{}
+{"Nigeria": 1}
+{}
+{}
+{}
+{}
+{}
+{"Metaris Valley": 1}
+{"Beverley Elliott": 1}
+{}
+{"Lindum Valley": 1}
+{}
+{}
+{"Peredurus": 1}
+{}
+{}
+{"Wielkopolska": 1, "Chronicle": 1}
+{"Great Britain": 1}
+{}
+{"Britannia Hospital": 1}
+{}
+{}
+{}
+{"Canada": 1}
+{"Saar Basin": 1}
+{}
+{"Ma\u0142ynka": 1}
+{}
+{}
+{"Macau": 1}
+{"British Antarctic Territory": 1}
+{"New Swabia": 1}
+{"Gmina Fredropol": 1}
+{}
+{"Gmina Supra\u015bl": 1}
+{}
+{}
+{"Wilkes Land": 1}
+{"Juchnowiec Dolny": 1}
+{"Wilkes Land": 1}
+{"Gmina Micha\u0142owo": 1}
+{}
+{}
+{}
+{}
+{}
+{"Assi Tubi": 1}
+{}
+{}
+{}
+{"Australia": 1, "American Samoa": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Greece": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Cork": 1}
+{}
+{}
+{"European Central Bank": 1}
+{"The Village of Waiting": 1}
+{}
+{}
+{}
+{"Kazakhstan": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sali Nivica": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Castle on the Hudson": 1}
+{}
+{}
+{}
+{"Boulevard of Broken Songs": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"LeFevres": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Southern California": 1}
+{}
+{}
+{"Nuchhungi Renthlei": 1}
+{}
+{}
+{}
+{}
+{}
+{"India": 1}
+{}
+{"National Cadet Corps": 1, "India": 1}
+{}
+{}
+{"Gambia": 1}
+{}
+{"United Kingdom": 1}
+{}
+{}
+{"United Kingdom": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sam's Place": 1}
+{}
+{}
+{"East Germany": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hyundai Universe": 1}
+{}
+{}
+{"Joliet Union Station": 1}
+{"Great Wolf Resorts": 1}
+{}
+{}
+{}
+{"Mill Tract Farm": 1}
+{}
+{}
+{}
+{}
+{}
+{"Bristol": 1}
+{"Dominion Enterprises": 1}
+{}
+{}
+{}
+{}
+{}
+{"American Civil War": 1}
+{}
+{}
+{}
+{}
+{}
+{"United States": 1, "Army": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Muslim world": 1}
+{"Vilnius University Library": 1}
+{"College of Physicians of Philadelphia": 1}
+{}
+{"Muslim world": 1}
+{"National Open University of Nigeria": 1}
+{"Digital Public Library of America": 1}
+{"Yuan dynasty": 1}
+{"Harvard University": 1}
+{"Gerstein Science Information Centre": 1}
+{"Heidelberg University": 1}
+{}
+{}
+{}
+{"Engleby": 1}
+{}
+{}
+{}
+{}
+{"Tam\u00e1stslikt Cultural Institute": 1}
+{}
+{}
+{}
+{"Britain": 1}
+{"Palermo": 1}
+{"Iran": 1}
+{"B\u00e4rwalde": 1}
+{}
+{"Carpetania": 1}
+{"British Isles": 1}
+{}
+{"Germany": 1}
+{"Peace of Westphalia": 1}
+{}
+{"Galicia": 1, "Spain": 1}
+{"Ottoman Empire": 1}
+{"Ban Pha Tang": 1}
+{"Muang Kasi": 1}
+{"Pakxan": 1}
+{}
+{}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"La Cantuta": 1}
+{}
+{"Montevideo": 1}
+{}
+{}
+{}
+{"La Rosiere de Pessac": 1}
+{}
+{"Sokoto State": 1}
+{}
+{"Kansas City Symphony": 1}
+{}
+{"Orpheus Club": 1, "Philadelphia": 1}
+{"Israel": 1}
+{}
+{"Boston": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Maine": 1}
+{}
+{"Nevels Corners": 1, "Wisconsin": 1}
+{}
+{}
+{}
+{"Hoji Fortuna": 1}
+{}
+{}
+{}
+{"Broomball": 1, "Australia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Intuition Peak": 1}
+{"San Andreas Fault": 1}
+{"Bennigsen": 1, "Beavers": 1}
+{}
+{"Cleveland Indians": 1}
+{}
+{}
+{}
+{"Saint Helena": 1}
+{}
+{"Chicago Cubs": 1}
+{}
+{}
+{}
+{"Dundas Shamrocks": 1}
+{}
+{"Cleveland": 1, "Browns": 1}
+{"West Dallas": 1, "Kings": 1}
+{}
+{}
+{"Cleveland": 1, "Bulldogs": 1}
+{}
+{}
+{"Nanjing": 1}
+{}
+{}
+{}
+{"Stockholm": 1}
+{"Randers FC": 1}
+{}
+{}
+{}
+{}
+{"Lyngby Boldklub": 1}
+{}
+{"Hobro IK": 1}
+{"Denmark": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Rhyl": 1, "District": 1, "RFC": 1}
+{"FC Vestsj\u00e6lland": 1}
+{}
+{"United States": 1}
+{"United States": 1}
+{"India": 1}
+{"United States": 1}
+{"United States": 1}
+{"United States": 1}
+{"United States": 1}
+{"India": 1}
+{"United States": 1}
+{"United States": 1}
+{"United States": 1}
+{"United States": 1}
+{}
+{"United States": 1}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sitwells": 1}
+{}
+{}
+{}
+{}
+{}
+{"General Hospital": 1}
+{}
+{"Vermont": 1}
+{}
+{"Fatorda Stadium": 1}
+{"New Haven": 1, "Connecticut": 1}
+{"Washington Capitals": 1}
+{}
+{"Municipal Stadium": 1, "Kansas City": 1, "Missouri": 1}
+{"Utah": 1, "Jazz": 1}
+{"Green Bay": 1}
+{"Chicago Cubs": 1}
+{"Las Vegas": 1}
+{"Ars Nova": 1}
+{}
+{}
+{}
+{}
+{}
+{"Wiehre": 1}
+{}
+{}
+{}
+{}
+{}
+{"Meadowcroft Rockshelter": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Xiaolongn\u00fc": 1}
+{}
+{}
+{"Castle of Dreams": 1}
+{}
+{"Glasgow": 1, "Delaware": 1}
+{}
+{"New Castle Northwest": 1, "Pennsylvania": 1}
+{"Royal Edinburgh Military Tattoo": 1}
+{}
+{}
+{}
+{}
+{"Cork": 1}
+{"Getafe Cathedral": 1}
+{"Bremen Cathedral": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Basketball Wives LA": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The New Colossus": 1}
+{}
+{}
+{"Bermuda": 1}
+{}
+{"Kentish Town": 1}
+{}
+{}
+{"Dartmouth Park": 1}
+{"Kentish Knock": 1}
+{}
+{}
+{}
+{"Battle of Uhud": 1}
+{}
+{}
+{}
+{"Witte de With": 1}
+{}
+{"Ireland": 1}
+{}
+{"Mirage Rock": 1}
+{"Chunggang County": 1}
+{"North Korea": 1}
+{}
+{}
+{}
+{"Yalu River": 1}
+{}
+{"United States": 1, "Korean War": 1}
+{"Usi County": 1}
+{}
+{"United States": 1, "Korean War": 1}
+{}
+{"Bukhan River": 1}
+{}
+{"Kwangmy\u014fngs\u014fng-1": 1}
+{}
+{"Linjiang Yalu River Bridge": 1}
+{}
+{}
+{"Saint Lucia": 1}
+{}
+{}
+{"A\u00e9rodrome Saint-Louis": 1}
+{}
+{"KCC Corporation": 1}
+{}
+{}
+{}
+{}
+{"The Pentagon": 1}
+{}
+{}
+{"Horton Park": 1, "Saint Paul": 1, "Minnesota": 1}
+{}
+{}
+{"Boston": 1}
+{"Sichuan": 1}
+{}
+{"Canada": 1}
+{"Atlantic City": 1, "New Jersey": 1}
+{"Victoria": 1, "Australia": 1}
+{"Richmond": 1, "Virginia": 1}
+{"California": 1}
+{"Phoenix": 1, "Arizona": 1}
+{"Kathmandu": 1}
+{"Atlantic City": 1, "New Jersey": 1}
+{"Alaska": 1}
+{"New Delhi": 1}
+{"North Carolina": 1}
+{"Bucharest": 1}
+{"North Carolina": 1}
+{"Philadelphia": 1}
+{"New York City": 1}
+{"Richmond": 1, "Virginia": 1}
+{"Cork": 1}
+{}
+{"Myanmar": 1}
+{"Vajiralongkorn Dam": 1}
+{"Duncan Lake": 1, "British Columbia": 1}
+{}
+{"Yat\u00e9 Dam": 1}
+{}
+{}
+{}
+{"Canton of Wormhout": 1}
+{"Saint-Avold": 1, "1st Canton": 1}
+{"1st Combat Communications Squadron": 1}
+{"Ramstein-Miesenbach": 1}
+{"Oberanven": 1}
+{"Oklahoma City": 1}
+{"Kakisa Lake": 1}
+{}
+{"Rhine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"India": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Villa Wartholz": 1}
+{"Battle of Puebla": 1}
+{"East Prussia": 1}
+{}
+{"Valencian": 1, "Marxist": 1, "Front": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Austria": 1}
+{}
+{}
+{"Labour Party": 1, "UK": 1}
+{}
+{}
+{}
+{}
+{"North": 1}
+{}
+{}
+{}
+{}
+{}
+{"Gare de Nice": 1}
+{}
+{}
+{"Pak Nam-gi": 1}
+{"\u0160vitrigaila": 1}
+{"Col d'\u00c8ze": 1}
+{"Marina Kulik": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Greece": 1}
+{"Nainital": 1}
+{"Crimean War": 1}
+{"Battle of Actium": 1}
+{"Klickitat": 1, "War": 1}
+{}
+{}
+{}
+{}
+{"Phthia": 1, "Epirus": 1}
+{"Zitsa": 1}
+{}
+{}
+{"Tennessee": 1}
+{}
+{"Chihuahua": 1}
+{}
+{"Mexico City": 1}
+{"Southern California": 1}
+{}
+{}
+{}
+{}
+{"San Diego": 1}
+{}
+{"New York City": 1}
+{"Jakarta": 1}
+{"Seattle": 1}
+{"London": 1}
+{"Melbourne": 1}
+{"Boston": 1}
+{}
+{"Bloomingdale": 1, "Georgia": 1}
+{}
+{"Portage": 1, "Wisconsin": 1}
+{}
+{"Neuengasse": 1}
+{"Mounds View": 1, "Minnesota": 1}
+{}
+{}
+{}
+{}
+{}
+{"Bissegem": 1}
+{"San Miguel de Allende": 1}
+{"Boriavi": 1}
+{"Metro Pino Su\u00e1rez": 1}
+{}
+{}
+{}
+{"Scottish Parliament": 1}
+{}
+{"Canada": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Israel": 1}
+{"Marshall Islands": 1}
+{}
+{}
+{"Madras": 1, "Presidency": 1}
+{"United States": 1}
+{"West Virginia": 1}
+{}
+{}
+{}
+{}
+{"United States": 1}
+{"Masherbrum": 1}
+{"Gauhati High Court": 1}
+{}
+{}
+{}
+{}
+{"Karnataka": 1, "Lokayukta": 1}
+{}
+{"United States": 1}
+{"Meghalaya High Court": 1}
+{}
+{}
+{}
+{}
+{"East Germany": 1}
+{}
+{"United Kingdom": 1}
+{}
+{}
+{"Cascade City": 1}
+{"Turkey": 1}
+{}
+{"Sweden": 1}
+{"Liechtenstein": 1}
+{"Spain": 1}
+{}
+{}
+{}
+{}
+{"Jalanan": 1}
+{}
+{"Swampy Plain River": 1}
+{"Stansted Transit": 1}
+{}
+{}
+{"Bussen Trafikkselskap": 1}
+{}
+{}
+{"Darling Scarp": 1}
+{}
+{"Pythian Castle Lodge": 1}
+{"Ben Castle": 1}
+{"Darwinius": 1}
+{}
+{"Pidhirtsi Castle": 1}
+{"Hominy Falls": 1, "West Virginia": 1}
+{"Mount Edgcumbe": 1}
+{}
+{"Caucasus Governorate": 1}
+{"Washington University in St. Louis": 1}
+{"Pegangsaan": 1, "Menteng": 1}
+{"Badaml\u0131": 1}
+{"Henbury Meteorites Conservation Reserve": 1}
+{"Mount Meigs Campus": 1}
+{"Mycenae": 1, "New York": 1}
+{"Maze Hill": 1}
+{"Mycenae House": 1}
+{"Ammerud": 1}
+{"South Park": 1}
+{}
+{}
+{"Gamla stan metro station": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"South Park": 1}
+{}
+{"Gemini Division": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Comprehensive school": 1}
+{"Saint Helena": 1}
+{}
+{}
+{"Poptropica": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Philippines": 1}
+{}
+{"Pangasinan": 1, "School of Arts and Trades": 1}
+{}
+{"Nam Nao National Park": 1}
+{}
+{"Nam Khan": 1}
+{"Nong Nam Sai": 1, "Sikhio": 1}
+{"Myanmar": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"FC Barcelona": 1}
+{}
+{"Colton Underwood": 1}
+{}
+{"Drassanes": 1, "Barcelona Metro": 1}
+{"San Diego": 1}
+{}
+{}
+{}
+{"North America": 1}
+{}
+{"San Diego": 1}
+{}
+{}
+{}
+{}
+{}
+{"USS Chillicothe": 1}
+{}
+{}
+{"Disneyland Resort": 1}
+{}
+{}
+{}
+{}
+{"Britain": 1, "Ireland": 1}
+{}
+{"Safari School": 1}
+{}
+{}
+{"Rivers of Fire and Ice": 1}
+{"Mickey's Safari": 1, "Letterland": 1}
+{}
+{}
+{}
+{}
+{"Sylvan Beach Union Chapel": 1}
+{"Garden City": 1, "South Carolina": 1}
+{}
+{}
+{}
+{"Dillon Beach": 1, "California": 1}
+{}
+{}
+{}
+{"Bang Bon District": 1}
+{}
+{}
+{}
+{}
+{}
+{"John Anderson Lodge": 1}
+{}
+{"Muscle Beach": 1}
+{}
+{}
+{}
+{"Brandon Bays": 1}
+{}
+{}
+{}
+{"Old Barracks Museum": 1}
+{"Camden Head": 1}
+{}
+{"Hiroshima": 1}
+{}
+{}
+{"Trenton": 1, "Camden": 1}
+{"Camden Fairview High School": 1}
+{"Camden": 1, "Indians": 1}
+{}
+{"North Camden": 1}
+{"Taylorville": 1, "Alberta": 1}
+{}
+{"Fort Vancouver High School": 1}
+{"Cork": 1}
+{"Avani": 1, "Kolar": 1}
+{}
+{"Ann Arbor": 1, "Michigan": 1}
+{"La Paz F.C.": 1}
+{"Open Hand Monument": 1}
+{"Saint Helena": 1}
+{}
+{"Gavar State University": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Olive San Louie Anderson": 1}
+{"Weng Tojirakarn": 1}
+{}
+{}
+{}
+{"Triam Udom Suksa Pattanakarn School": 1}
+{"Perry Belmont": 1}
+{"Zayed University": 1}
+{}
+{}
+{"United States": 1}
+{"Tonga": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Fingal Ravens GAA": 1}
+{}
+{}
+{"Manchester United F.C.": 1}
+{}
+{}
+{}
+{}
+{"Isotopes Park": 1}
+{"Daejeon Hanbat Baseball Stadium": 1}
+{"Chicago Cubs": 1}
+{}
+{"Dick's Sporting Goods Park": 1}
+{}
+{"Centro Social Deportivo Barber": 1}
+{"New York City": 1}
+{"Ivy League": 1}
+{"Lehigh Valley IronPigs": 1}
+{"London": 1}
+{"Colorado Rapids": 1}
+{"Canadian Football League": 1}
+{"United States": 1}
+{"Nestor Morales Stadium": 1}
+{"Miami": 1}
+{"Miami": 1}
+{"Oklahoma City": 1}
+{"Orange County": 1, "California": 1}
+{}
+{"Blue Springs": 1, "Missouri": 1}
+{"Chinatown": 1, "Sydney": 1}
+{}
+{"University of Kansas": 1}
+{}
+{"Lorain City School District": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Zimbabwe": 1}
+{}
+{"New Zealand": 1, "World War II": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United Kingdom": 1}
+{"Clayton College of Natural Health": 1}
+{}
+{}
+{}
+{"Pakistan": 1}
+{}
+{}
+{}
+{}
+{"Grand Canyon": 1, "Tuolumne": 1}
+{}
+{"University of Miami": 1}
+{}
+{"Clay Hill": 1, "Alabama": 1}
+{}
+{}
+{}
+{"Confederation of Finnish Industries": 1}
+{}
+{"Clay Center Township": 1, "Clay County": 1, "Kansas": 1}
+{"Bowie Independent School District": 1}
+{}
+{"British Columbia": 1}
+{}
+{"Rixton Clay Pits": 1}
+{"Clashmore": 1}
+{"Glen": 1, "West Virginia": 1}
+{"Bickmore": 1, "West Virginia": 1}
+{"New York City": 1}
+{}
+{}
+{}
+{}
+{"Mariel boatlift": 1}
+{"Greece": 1}
+{}
+{"Egypt": 1}
+{"Lisbon": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dourkhan": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Princeton": 1, "Florida": 1}
+{"Dildo Key": 1}
+{"Tamiami": 1, "Florida": 1}
+{"East Palatka": 1, "Florida": 1}
+{"Golden Lakes": 1, "Florida": 1}
+{"Lacoochee": 1, "Florida": 1}
+{"Ocala": 1, "Florida": 1}
+{"West DeLand": 1, "Florida": 1}
+{"Zephyrhills North": 1, "Florida": 1}
+{"South Beach": 1, "Florida": 1}
+{}
+{"Solana": 1, "Florida": 1}
+{"Gladeview": 1, "Florida": 1}
+{"Burnt Store Marina": 1, "Florida": 1}
+{}
+{"Royal Palm Estates": 1, "Florida": 1}
+{"Villas": 1, "Florida": 1}
+{"Carver Ranches": 1, "West Park": 1, "Florida": 1}
+{"Kendall Green": 1, "Pompano Beach": 1, "Florida": 1}
+{"Ridgecrest": 1, "Florida": 1}
+{"Mammoth": 1, "Missouri": 1}
+{"Haskell Creek Homesites": 1, "California": 1}
+{"Shickshinny Creek": 1}
+{}
+{"Sogndalsfjorden": 1}
+{"Still Fork": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Mandeer": 1}
+{"Southern Europe": 1}
+{}
+{}
+{}
+{"Muslim world": 1}
+{}
+{}
+{}
+{}
+{}
+{"Coca-Cola Bottling Company of Cape Cod": 1}
+{"Georgia": 1}
+{"United Nations": 1}
+{}
+{"Alabama": 1, "Georgia": 1}
+{"Florida": 1, "Georgia": 1}
+{}
+{}
+{"Huguenots": 1}
+{"United States": 1}
+{"Georgia": 1}
+{"Edward Mooney House": 1}
+{"Medical College of Georgia": 1}
+{"Grand Tower Island": 1}
+{"Panama Canal Zone": 1}
+{}
+{}
+{"Georgia State University Library": 1}
+{}
+{"Huguenots": 1}
+{"Westerly High School": 1}
+{}
+{"Hephzibah High School": 1}
+{"East Ridge High School": 1, "Minnesota": 1}
+{"River Valley High School": 1, "Michigan": 1}
+{"Fenton High School": 1, "Illinois": 1}
+{"Early College High School": 1, "Salem": 1, "Oregon": 1}
+{"Narraguagus Jr/Sr High School": 1}
+{"Beddington Lake": 1}
+{"Monmouth-Roseville High School": 1}
+{"Kansas Academy of Mathematics and Science": 1}
+{"Middletown High School": 1, "California": 1}
+{"Cloverleaf High School": 1}
+{"Emmaus High School": 1}
+{"Legend High School": 1}
+{"Maine": 1}
+{"Deception Bay State High School": 1}
+{"Maynard Evans High School": 1}
+{"Eureka Springs High School": 1}
+{}
+{"Dead Horse Bay": 1}
+{"Chenla": 1}
+{"New York City": 1}
+{}
+{"English Channel": 1}
+{"Hamburg": 1}
+{}
+{"Irish Film Archive": 1}
+{"Forward Harbour": 1}
+{"Rhine": 1}
+{"Jezero": 1}
+{}
+{"Irish Channel": 1, "New Orleans": 1}
+{}
+{"Tarrafal de S\u00e3o Nicolau": 1}
+{"Han dynasty": 1}
+{}
+{}
+{}
+{"Chicago Cubs": 1}
+{}
+{}
+{"Montreal Impact": 1}
+{"Kalamazoo Kingdom": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bloc Qu\u00e9b\u00e9cois": 1}
+{}
+{"Canada": 1}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{"Turks and Caicos Islands": 1}
+{}
+{"Namibia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Zalmoxis Peak": 1}
+{"Ozark Township": 1, "Barry County": 1, "Missouri": 1}
+{}
+{}
+{"Montauk": 1, "Missouri": 1}
+{"Patton Home": 1}
+{"Organ Mountains": 1}
+{"Clarksville": 1, "Arkansas": 1}
+{"Oklahoma": 1}
+{"United States": 1}
+{"Caulfield": 1, "Missouri": 1}
+{"Fort Leonard Wood": 1}
+{"Sweetwater Mansion": 1}
+{"Oklahoma": 1}
+{"Ozarks": 1}
+{}
+{"Greer Spring": 1}
+{"Sulphur Spring Range": 1}
+{}
+{"Manila Bay": 1}
+{"Battle of Savenay": 1}
+{"Rue d'Austerlitz": 1}
+{"Battle of Palembang": 1}
+{}
+{"Baguio": 1}
+{"European theatre": 1, "World War I": 1}
+{}
+{"Battle of Gnila Lipa": 1}
+{"Leuven": 1}
+{}
+{"Miss USA": 1}
+{}
+{}
+{}
+{}
+{}
+{"Nevada": 1, "Texas": 1}
+{}
+{"Push": 1, "Nevada": 1}
+{}
+{"College of Southern Nevada": 1}
+{}
+{}
+{"Queen Victoria": 1}
+{"Push": 1, "Nevada": 1}
+{"Chester Stiles": 1}
+{"Sutro Tunnel": 1}
+{"Ankh-Morpork": 1}
+{}
+{}
+{"London": 1}
+{}
+{}
+{}
+{"Valencia": 1}
+{"Botswana": 1}
+{}
+{"Glass Beach": 1, "Eleele": 1, "Hawaii": 1}
+{"Melbourne": 1}
+{}
+{"Armenia": 1}
+{"Dammam": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kaunas County": 1}
+{}
+{}
+{}
+{}
+{}
+{"Paris": 1}
+{}
+{"Lithuania": 1}
+{}
+{}
+{}
+{"Estonia": 1}
+{"Kaliningrad": 1}
+{"San Antonio Missions National Historical Park": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hampartsoum Limondjian": 1}
+{"Gorleston Psalter": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Australia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Moulin Rouge": 1}
+{"Francis Howell North High School": 1}
+{"Aurora Bridge": 1}
+{"Svoboda Factory Club": 1}
+{}
+{"Independence": 1, "Flagstaff": 1}
+{}
+{"Gallant Fox": 1}
+{"Peavey Memorial Library": 1}
+{"Servus Credit Union": 1}
+{}
+{"Pilgrim Memorial State Park": 1}
+{}
+{"Memorial Union": 1, "Oregon State University": 1}
+{"Calgary": 1}
+{"Weltzheimer/Johnson House": 1}
+{}
+{}
+{}
+{}
+{}
+{"Chihuahua": 1}
+{"Oklahoma": 1}
+{}
+{}
+{}
+{}
+{"Alaska": 1}
+{}
+{}
+{}
+{"Vatican City": 1}
+{}
+{}
+{}
+{}
+{"K\u014dkoku": 1}
+{}
+{}
+{}
+{}
+{"Clarks River National Wildlife Refuge": 1}
+{}
+{"Oak Flats railway station": 1}
+{}
+{"Arboretum de Chamberet": 1}
+{"Oak Island": 1, "Manitoba": 1}
+{"Jamnagar district": 1}
+{"The Oaks": 1, "Mendocino County": 1, "California": 1}
+{"Minnesota History Center": 1}
+{"Kessler Plaza": 1, "Dallas": 1}
+{"The Big Bamboo": 1}
+{"Battle of Seven Oaks": 1}
+{}
+{}
+{"Royal Oaks Country Club": 1}
+{"Bay Glen": 1, "Houston": 1}
+{"Bambouseraie de Prafrance": 1}
+{}
+{"Bratislava": 1}
+{"United States": 1}
+{}
+{"The Church of Jesus Christ of Latter-day Saints": 1}
+{}
+{"Reynolds": 1, "United States": 1}
+{}
+{}
+{}
+{}
+{"Taifa of Alpuente": 1}
+{"Arizona": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Canton of Marseille-Belsunce": 1}
+{"United States of Tara": 1}
+{}
+{}
+{}
+{}
+{"Derech Mitzvosecha": 1}
+{}
+{}
+{"Big Arvo": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Daybreak": 1, "Northern Ireland": 1}
+{"Moon River": 1}
+{}
+{}
+{"Boston": 1}
+{"Downing Park": 1, "Newburgh": 1, "New York": 1}
+{"Maxwell Land Grant": 1}
+{"Branch Brook Park": 1}
+{"University of Kansas": 1}
+{"Seaport Centre": 1}
+{}
+{"Wheatland": 1, "California": 1}
+{"Bozeman": 1, "Montana": 1}
+{"Mexico City": 1}
+{"Florida": 1}
+{"Grant Park": 1, "Atlanta": 1}
+{"Anita": 1, "Iowa": 1}
+{"Charleston": 1, "South Carolina": 1}
+{"Grant Park": 1, "Atlanta": 1}
+{}
+{}
+{}
+{}
+{"Alyson Court": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Minnows": 1}
+{}
+{"Guyer Rock": 1}
+{"Fringe Rocks": 1}
+{}
+{}
+{}
+{"Miller Heights": 1}
+{}
+{}
+{}
+{}
+{"Flounder Island": 1}
+{"Scotland": 1}
+{}
+{"Holst Point": 1}
+{}
+{"Maskelyne Passage": 1}
+{}
+{"Lawrie Glacier": 1}
+{}
+{}
+{}
+{"Belgium": 1}
+{}
+{"Tennessee": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Basotho National Party": 1}
+{}
+{"Bhanwar Singh Dangawas": 1}
+{"Netherlands": 1}
+{"Virginia": 1, "Lempira": 1}
+{"New Albin": 1, "Iowa": 1}
+{}
+{"Nile": 1}
+{}
+{}
+{"Allegheny River": 1}
+{}
+{"Ohio River": 1}
+{"Tejaban": 1}
+{"Lauzun": 1}
+{"Silver Lake": 1, "Harrisville": 1, "New Hampshire": 1}
+{"Mamaroneck River": 1}
+{"Ekulu River": 1}
+{}
+{"Davis Island Lock and Dam Site": 1}
+{}
+{"Harris Theater": 1, "Chicago": 1}
+{"Nanjing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Khan Tuman": 1}
+{"Al Markada": 1}
+{}
+{}
+{"Bassel al-Assad Stadium": 1, "Homs": 1}
+{"Juventas New Music Ensemble": 1}
+{}
+{}
+{"Tabula Rogeriana": 1}
+{"Villa Celiera": 1}
+{}
+{"Dibba Al-Hisn Sports Club": 1}
+{}
+{}
+{"Chagar Bazar": 1}
+{}
+{}
+{"One Tree Hill": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Devara Naadalli": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Philadelphia": 1, "Eagles": 1}
+{}
+{}
+{}
+{}
+{"New England Patriots": 1}
+{"FC Barcelona": 1}
+{}
+{}
+{}
+{}
+{}
+{"Houston Astros": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Little Samson": 1}
+{}
+{"Kirby's Dream Land": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"French and Indian War": 1}
+{}
+{}
+{"Fort Bull": 1}
+{}
+{}
+{}
+{}
+{}
+{"North America": 1}
+{}
+{}
+{"United States": 1}
+{"Monongahela": 1}
+{"United States": 1}
+{}
+{"Qing dynasty": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"2004 Summer Olympics": 1}
+{}
+{}
+{}
+{}
+{}
+{"R\u00e5sl\u00e4tts IP": 1}
+{}
+{}
+{}
+{}
+{"Upper Orange Water Management Area": 1}
+{}
+{"Maryland River": 1}
+{"Red Deer River": 1}
+{"Humberview Secondary School": 1}
+{"Ishikari River": 1}
+{"Lansdowne River": 1}
+{}
+{}
+{}
+{}
+{"Schunck's Kledingindustrie": 1, "Bonaire": 1}
+{"Paris": 1}
+{"Wachusett Shirt Company": 1}
+{}
+{}
+{}
+{"Brooklyn College": 1}
+{"Durkee": 1, "Oregon": 1}
+{"Prince": 1, "Ontario": 1}
+{"Milan": 1}
+{"Ford Ranges": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Virginia Tech": 1, "West Virginia": 1}
+{"Miangul Aurangzeb": 1}
+{}
+{}
+{"Denver": 1}
+{"Houston Astros": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sagebrush Gulch": 1}
+{}
+{}
+{"Tiger reserves": 1, "India": 1}
+{}
+{"Israel": 1}
+{}
+{}
+{}
+{}
+{"BeiDou": 1}
+{}
+{"USA": 1}
+{}
+{}
+{}
+{}
+{}
+{"Houshang Montazeralzohour": 1}
+{}
+{}
+{"Warsaw Pact": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Chicago": 1}
+{}
+{"Nepal": 1}
+{"Khong Island": 1}
+{"Broward Correctional Institution": 1}
+{}
+{"South Central Coast": 1}
+{"John Deere World Headquarters": 1}
+{}
+{"Vi\u1ec7t Y\u00ean District": 1}
+{"V\u00f5 \u00dat C\u01b0\u1eddng": 1}
+{"\u0110\u1ee9c Hu\u1ec7 District": 1}
+{"Mueang Phan": 1}
+{"H\u1ea1 H\u00f2a District": 1}
+{"Kh\u00e1nh H\u00f2a Province": 1}
+{"Kon Ka Kinh National Park": 1}
+{"Labanoras Regional Park": 1}
+{"Phan Huy Qu\u00e1t": 1}
+{"Muang Kham": 1, "Chiang Rai": 1}
+{"Nha Trang Oceanography Institute": 1}
+{}
+{"United States": 1}
+{}
+{}
+{"United States": 1}
+{}
+{"Yale University": 1}
+{"United States": 1}
+{}
+{}
+{"Scottish Parliament": 1}
+{"Scottish Parliament": 1}
+{}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{"Kiltormer": 1}
+{}
+{"Yeoman Football Club": 1}
+{"Beara GAA": 1}
+{"St Senans": 1, "Kerry": 1, "GAA": 1}
+{}
+{"European BioSafety Association": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Israel": 1}
+{"Sri Lanka": 1}
+{}
+{}
+{}
+{"Georgia": 1}
+{}
+{}
+{}
+{"Mountain": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sri Lanka": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kanije Eyalet": 1}
+{"San Diego": 1}
+{"Falling Waters": 1, "West Virginia": 1}
+{"Linden Hills Library": 1}
+{}
+{}
+{"Northwest Territories": 1}
+{"Pimpirev Glacier": 1}
+{"Clerke Rocks": 1}
+{"Louisiana Purchase": 1}
+{"United States": 1}
+{"Justice": 1, "West Virginia": 1}
+{}
+{}
+{}
+{"Roman Republic": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United Kingdom": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Rio Linda High School": 1}
+{}
+{"Atlantic City": 1, "Wyoming": 1}
+{"Notogawa": 1, "Shiga": 1}
+{}
+{}
+{"Millwood": 1, "South Africa": 1}
+{}
+{}
+{"Sacramento": 1, "California": 1}
+{}
+{"California": 1, "Gold Rush": 1}
+{"Black Hills": 1}
+{"Black Hill": 1, "Victoria": 1}
+{"Trail of Tears": 1}
+{"Mount Bosworth": 1}
+{}
+{}
+{}
+{"Dutch Republic": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kingdom of Iceland": 1}
+{}
+{"Tennessee": 1}
+{}
+{}
+{}
+{"Queen Victoria": 1}
+{"Nanjing": 1}
+{}
+{"Chicago Cubs": 1}
+{}
+{}
+{"East Prussia": 1}
+{}
+{"South of Fifth": 1}
+{}
+{}
+{"East Prussia": 1}
+{"The Bahamas": 1}
+{"Casa Natal del General Santander": 1}
+{"Red Hook": 1, "Brooklyn": 1}
+{}
+{"Palermo": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Israel Sports Center for the Disabled": 1}
+{"Hollywood Hills": 1}
+{}
+{"Qingjian Group": 1}
+{}
+{}
+{}
+{}
+{}
+{"Orthopedic Specialty Hospital": 1}
+{}
+{}
+{}
+{"Komani Psychiatric Hospital": 1}
+{"NCH Healthcare System": 1}
+{}
+{}
+{}
+{"Nanjing": 1}
+{"Arbor Creek": 1, "Saskatoon": 1}
+{"Australia": 1}
+{"United States": 1}
+{"Singapore": 1}
+{"Philadelphia Yearly Meeting": 1}
+{"United States": 1}
+{"Chile": 1}
+{}
+{"Philadelphia": 1}
+{"United Kingdom": 1}
+{"MacGruder": 1, "Loud": 1}
+{}
+{"United States": 1}
+{}
+{"Richland County": 1, "South Carolina": 1}
+{}
+{}
+{"Georgia": 1, "U.S. state": 1}
+{}
+{}
+{}
+{}
+{"Naim Talu": 1}
+{"Delhi": 1}
+{}
+{}
+{"Malko Tarnovo Municipality": 1}
+{}
+{}
+{}
+{}
+{"Pakistan": 1}
+{"Clair Engle": 1}
+{}
+{"Oklahoma": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Denmark": 1}
+{}
+{}
+{"Merseburg": 1}
+{"East Prussian Regional Museum": 1}
+{}
+{}
+{"United States": 1}
+{"Tajikistan": 1}
+{}
+{}
+{"Somalia": 1}
+{"Land Glacier": 1}
+{"Gintaisi": 1}
+{"United States": 1}
+{}
+{"James A. Farley Building": 1}
+{}
+{"Pedras de Maria da Cruz": 1}
+{"India": 1}
+{"India": 1}
+{"Poste Vaticane": 1}
+{"Punjab": 1, "Pakistan": 1}
+{}
+{"Somalia": 1}
+{}
+{"Shostakovich Peninsula": 1}
+{}
+{"Crimean War": 1}
+{"European Plain": 1}
+{"Kamchatka Peninsula": 1}
+{}
+{"Dulo Hill": 1}
+{"Russian Soviet Federative Socialist Republic": 1}
+{}
+{"Middle East": 1}
+{"All India Trade Union Congress": 1}
+{"St. Sofroniy Knoll": 1}
+{"Guinea-Bissau": 1}
+{"Hulot Peninsula": 1}
+{"Southern Europe": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Suntrana": 1, "Alaska": 1}
+{"Barrville": 1, "Pennsylvania": 1}
+{}
+{"Chirakkalkulam": 1}
+{"Ulrich Walser House": 1}
+{"Westboro": 1, "Wisconsin": 1}
+{"Hawk Run": 1, "Pennsylvania": 1}
+{"Bigler": 1, "Pennsylvania": 1}
+{"Merrill": 1, "Michigan": 1}
+{"Kentucky State Capitol": 1}
+{"Frank T. and Polly Lewis House": 1}
+{"Fingerville": 1, "South Carolina": 1}
+{"Gramling": 1, "South Carolina": 1}
+{}
+{"Battle of Cissa": 1}
+{}
+{"Greece": 1, "Greek world": 1}
+{}
+{}
+{"Carthage": 1}
+{"Northern Seven Years' War": 1}
+{}
+{}
+{"Nubia": 1}
+{}
+{}
+{}
+{"Alps": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Egypt": 1}
+{}
+{"Cape Fanning": 1}
+{}
+{"Cape Herdman": 1}
+{}
+{}
+{"Osijek": 1}
+{"Cyprus": 1}
+{"United States": 1}
+{"Roncalli High School": 1, "Indiana": 1}
+{}
+{"Funda\u00e7\u00e3o Armando Alvares Penteado": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Texas": 1}
+{"Havre De Grace High School": 1}
+{"Church of the Immaculate Conception": 1, "Clergy Houses": 1}
+{}
+{}
+{}
+{}
+{"Greater Grace International School": 1}
+{}
+{}
+{}
+{"Netherlands": 1}
+{}
+{"India": 1}
+{}
+{}
+{}
+{"Austin": 1, "Texas": 1}
+{}
+{"Chardon": 1, "California": 1}
+{}
+{}
+{}
+{}
+{"Austin": 1, "TX": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Human Highway": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Galicia": 1, "Spain": 1}
+{"Lime Kiln Valley AVA": 1}
+{"Plymouth": 1}
+{"Victoria": 1, "Australia": 1}
+{"Seattle": 1}
+{"Shannon Brook": 1}
+{"Eden Creek": 1}
+{"Delhi": 1}
+{"Charlotte 49ers": 1}
+{}
+{"Ann Arbor": 1, "Michigan": 1}
+{"Tuvalu": 1}
+{"New Orleans": 1}
+{}
+{"Raleigh": 1, "North Carolina": 1}
+{}
+{}
+{"Benson Junction": 1, "Florida": 1}
+{}
+{}
+{}
+{}
+{}
+{"Zone 5 Military Museum": 1, "Danang": 1}
+{}
+{"Berhale": 1}
+{"Menz": 1, "Keya": 1, "Gebreal": 1}
+{"Impression 5 Science Center": 1}
+{"Ethiopia": 1}
+{}
+{"A L\u01b0\u1edbi District": 1}
+{"Dila": 1, "Ethiopia": 1}
+{"Qu\u00e9bec": 1}
+{"Jeju": 1}
+{"Port Said Governorate": 1}
+{"Zec Trinit\u00e9": 1}
+{"Fort Vredeburg Museum": 1}
+{"Ban Sam Ruen": 1}
+{"Rayong English Programme School": 1}
+{"Ban Nampo": 1}
+{"Ban Pae": 1}
+{}
+{}
+{"Pittsburgh": 1, "Condors": 1}
+{}
+{"GETEC Arena": 1}
+{"BC Lions": 1}
+{"Khimki Basketball Center": 1}
+{"New York": 1}
+{"Hanover": 1}
+{"Hamburg Sea Devils": 1}
+{}
+{}
+{"Milwaukee": 1, "Badgers": 1}
+{}
+{"Stadio Is Arenas": 1}
+{"Huntsville": 1, "Rockets": 1}
+{"Buvik": 1, "IL": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Saltkr\u00e5kan": 1}
+{}
+{}
+{}
+{}
+{}
+{"Moominland": 1}
+{"Denmark": 1}
+{}
+{}
+{}
+{}
+{"Ebenezer": 1}
+{"Two Jags": 1}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{"African Americans": 1, "United States": 1}
+{"Dunedin": 1}
+{"London": 1}
+{"New York City": 1}
+{}
+{}
+{"New York City": 1}
+{"United States": 1}
+{"McAfee's Benchmark": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ban Pakpo": 1}
+{"Francisco de Eliza": 1}
+{}
+{"Francisco de Orellana": 1}
+{"Pacific War": 1}
+{"Garden Wall": 1}
+{"Ornacieux": 1}
+{"Guam": 1}
+{"United States": 1, "World War II": 1}
+{"Blumenthal": 1, "Texas": 1}
+{"Yabakei": 1}
+{}
+{}
+{}
+{"American Chamber of Commerce Japan": 1}
+{}
+{"Heuser Nunatak": 1}
+{}
+{"British Empire": 1}
+{"Djibouti": 1}
+{}
+{}
+{}
+{"New York City": 1}
+{}
+{}
+{}
+{}
+{"New York City": 1}
+{"New York City": 1}
+{"New York City": 1}
+{}
+{}
+{}
+{"United States": 1}
+{"New York City": 1}
+{"Breakfast Creek": 1}
+{}
+{}
+{"Newstead House": 1, "Brisbane": 1}
+{}
+{}
+{"Philadelphia": 1}
+{}
+{}
+{}
+{"University of Pennsylvania": 1}
+{}
+{"Crawford Vaughan": 1}
+{"United States": 1}
+{"Northwestern Elevated Railroad": 1}
+{}
+{"United States": 1}
+{}
+{"North Ravenswood": 1, "West Virginia": 1}
+{"Ravenswood": 1}
+{"South Tenth Street Bridge": 1}
+{}
+{"Consett railway station": 1}
+{}
+{"Vikmanshyttan": 1}
+{}
+{}
+{"Severn Bridge": 1}
+{"Namibia": 1}
+{"Zulu": 1}
+{"Omaruru River": 1}
+{"Savignano sul Rubicone": 1}
+{}
+{"Princes Bridge": 1}
+{"Namibia": 1}
+{"Khan River": 1}
+{"Calabar River": 1}
+{}
+{}
+{"Namibia": 1}
+{"Namibia": 1}
+{"Molopo River": 1}
+{"Pelly Crossing": 1}
+{"Jonker Afrikaner": 1}
+{"Mayuni Conservancy": 1}
+{}
+{}
+{}
+{"Sang Divar": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Park Seung-min": 1}
+{}
+{}
+{"Park Sang-jin": 1}
+{}
+{}
+{"Kerteminde Fjord": 1}
+{"F\u00fcrth": 1}
+{}
+{"Plymouth": 1}
+{"Strasbourg": 1}
+{"Detroit": 1}
+{"Rogfast": 1}
+{"British Empire": 1}
+{}
+{}
+{"Red Sea": 1}
+{}
+{"Kingdom of Aksum": 1}
+{"Cape Route": 1}
+{"Port of Rizhao": 1}
+{"Suez Canal": 1}
+{"Port of Lowestoft": 1}
+{"Palermo": 1}
+{"Guild Guitar Company": 1}
+{}
+{}
+{}
+{"L.A. Guns": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Anla Courtis": 1}
+{"Mississippi": 1}
+{}
+{}
+{"Battle of Bantam": 1}
+{}
+{"Falkland Islands": 1}
+{"Garonne": 1}
+{}
+{}
+{"Roman Republic": 1}
+{"INS Tir": 1}
+{"Forestry Farm Park": 1, "Zoo": 1}
+{"Malta Summit": 1}
+{}
+{}
+{}
+{}
+{"RMS Titanic": 1}
+{"North Sea": 1}
+{}
+{"Rhine": 1}
+{"Nanjing": 1}
+{"Yaxing Coach": 1}
+{"United Nations": 1}
+{"Anzo\u00e1tegui": 1}
+{"Delhi": 1}
+{}
+{}
+{}
+{}
+{"Gurty Calamb\u00e9": 1}
+{"Prony Bay": 1}
+{}
+{"ruisseau noir": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Australia": 1}
+{"Ulyanovsk Oblast": 1}
+{"Tucson": 1, "Arizona": 1}
+{"Ulchsky District": 1}
+{"Beryslav Raion": 1}
+{}
+{}
+{}
+{}
+{"Houston": 1}
+{}
+{"Sharon Johnston": 1}
+{}
+{}
+{}
+{}
+{"University of California, Irvine": 1}
+{}
+{"Houston": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sky UK": 1}
+{"Chisholms": 1}
+{}
+{"Sky UK": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hale & Kilburn": 1}
+{}
+{}
+{"Hyderabad": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Nydalens Compagnie": 1}
+{}
+{}
+{"Om Shivpuri": 1}
+{}
+{"Malo": 1, "Washington": 1}
+{"Mecklenburg County": 1, "North Carolina": 1}
+{"Boston": 1}
+{"Catholic Church": 1, "United States": 1}
+{"Charleston": 1, "South Carolina": 1}
+{"New England": 1}
+{"Mississippi": 1}
+{"U.S.": 1}
+{"PricewaterhouseCoopers": 1}
+{"Mount Fuji": 1}
+{"Mount Hood": 1}
+{}
+{}
+{"Mount Bromo": 1}
+{}
+{"Santorini": 1}
+{"Scottish Parliament": 1}
+{"Pharaoh Dome": 1}
+{}
+{}
+{"Arthur's Seat": 1}
+{"Yellowstone Caldera": 1}
+{}
+{"Bodindecha": 1}
+{"Pacific War": 1}
+{"Pacific War": 1}
+{}
+{"Pacific War": 1}
+{"Poland": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Czech Republic": 1}
+{"Warsaw Pact": 1}
+{"Greece": 1}
+{}
+{}
+{}
+{"Wales": 1, "FIFA World Cup": 1}
+{}
+{}
+{"Pakistan": 1}
+{"Corus Quay": 1}
+{"Porcupine": 1, "North Dakota": 1}
+{"Lambeau Field": 1}
+{}
+{}
+{"Roman Catholic Diocese of San Luis": 1}
+{"New York City": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Long Island": 1}
+{"Tanzania": 1}
+{}
+{"Tanzania": 1}
+{}
+{}
+{}
+{}
+{}
+{"Tarana-e-Pakistan": 1}
+{}
+{"United States": 1}
+{}
+{"Georgia State Defense Force": 1}
+{"United States": 1}
+{"Jasmine Estates": 1, "Florida": 1}
+{}
+{}
+{}
+{"Newt Perry": 1}
+{"Perry Heights": 1, "Ohio": 1}
+{}
+{}
+{}
+{"American Federal Building": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Maria Luisa of Savoy": 1}
+{"Han dynasty": 1}
+{}
+{}
+{}
+{"Our Lady of the Rosary": 1}
+{"Anglo-Maratha War": 1}
+{}
+{"Kexholm County": 1}
+{"Elliott Bay": 1}
+{"Mexican Cession": 1}
+{}
+{"Ukraine": 1}
+{"Manu'a": 1}
+{"R\u00edo Rico": 1, "Tamaulipas": 1}
+{}
+{"Sharon Negele": 1}
+{}
+{}
+{"Fannindel Independent School District": 1}
+{}
+{"Beaver Dam High School": 1, "Wisconsin": 1}
+{"John Cabot Catholic Secondary School": 1}
+{"Point Pleasant Borough High School": 1}
+{"Troy": 1, "Oregon": 1}
+{"Silver Creek High School": 1, "Sellersburg": 1, "Indiana": 1}
+{"Hartshorne Island": 1}
+{"Northwestern University": 1}
+{}
+{}
+{"Mississippi": 1}
+{"Plymouth Notch Cemetery": 1}
+{"Illinois": 1}
+{"Venustiano Carranza": 1}
+{"Louisiana": 1}
+{}
+{"United States": 1}
+{"United States": 1}
+{"United States": 1}
+{"Epinay Congress": 1}
+{"United States": 1}
+{}
+{"Charleston": 1, "South Carolina": 1}
+{"United States": 1}
+{"Richmond Township": 1, "Marquette County": 1, "Michigan": 1}
+{"Fatata te Miti": 1}
+{"Hoani Te Heuheu Tukino VI": 1}
+{"Schicker Mound": 1}
+{}
+{"Agar Panchaitan": 1}
+{"National Gallery of Art": 1}
+{}
+{}
+{"La Perla": 1, "Veracruz": 1}
+{"Paratene Ngata": 1}
+{}
+{"Matherville": 1, "Mississippi": 1}
+{}
+{"Te Peehi Turoa": 1}
+{"Whitfield": 1, "Rankin County": 1, "Mississippi": 1}
+{"Norman": 1, "Wisconsin": 1}
+{"Sainte-Jeanne-d'Arc": 1, "Bas-Saint-Laurent": 1, "Quebec": 1}
+{}
+{"Canadian Grenadier Guards Band": 1}
+{}
+{}
+{}
+{}
+{"Niagara River": 1}
+{"Stanley Theater": 1, "Jersey City": 1, "New Jersey": 1}
+{"Belarus": 1, "Eurovision Song Contest": 1, "2007": 1}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Israel": 1}
+{}
+{"Northern Region": 1, "Nigeria": 1}
+{"South Africa": 1}
+{"Cracker Barrel": 1}
+{"Maroun al-Ras": 1}
+{"Province of Maryland": 1}
+{}
+{}
+{}
+{}
+{"Israel": 1}
+{"Fred Astaire Dance Studios": 1}
+{"British America": 1}
+{"North Carolina": 1}
+{"Mexico": 1}
+{"South Africa": 1}
+{"Plymouth Colony": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kanta": 1, "Pilipinas": 1}
+{"Airport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Cincinnati": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Albert Way": 1}
+{}
+{"Nissan Actic": 1}
+{}
+{}
+{}
+{}
+{}
+{"Malden Catholic High School": 1}
+{"Sacro Cuore di Cristo Re": 1}
+{"Dutch Republic": 1}
+{}
+{"Bristol Commercial Vehicles": 1}
+{"Mitta Mitta River": 1}
+{"Beardy River": 1}
+{}
+{"Daggs Falls": 1}
+{"Crows Nest": 1, "Queensland": 1}
+{}
+{}
+{"India": 1}
+{}
+{"Nigeria": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Tanzania": 1}
+{}
+{"Central Reserve Bank of Peru": 1}
+{}
+{"Tanzania": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Egypt": 1}
+{}
+{}
+{"Grans Brewery": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Mexico City": 1}
+{"Koothanur": 1}
+{"Cayman Islands": 1}
+{"Gmina Gorlice": 1}
+{"Gmina Pabianice": 1}
+{}
+{"Alma Mater": 1, "Illinois": 1}
+{}
+{}
+{"Gmina Limanowa": 1}
+{"Switzerland": 1}
+{"United Church of Canada": 1}
+{"Catholic Church": 1, "Lesotho": 1}
+{}
+{}
+{}
+{"New Zealand": 1}
+{}
+{}
+{}
+{"Washington": 1}
+{"Dutch Reformed Church": 1}
+{"Brite Divinity School": 1}
+{}
+{}
+{"Fairhope Plantation": 1}
+{"Union Oyster House": 1}
+{"Staten Island": 1}
+{"Charleston": 1, "South Carolina": 1}
+{"Ayr Mount": 1}
+{"Bellevue": 1, "Accokeek": 1, "Maryland": 1}
+{"Columbia University": 1}
+{}
+{"Cuba Plantation": 1}
+{"Borough House Plantation": 1}
+{}
+{"Providence Plantation": 1, "Farm": 1}
+{"South Philipsburg": 1, "Pennsylvania": 1}
+{"Belvoir": 1, "Saffold Plantation": 1}
+{"Red Hill Patrick Henry National Memorial": 1}
+{"Waverly Plantation": 1, "Leon County": 1, "Florida": 1}
+{"Belle Mina": 1}
+{"Shirley Plantation": 1}
+{"William S. Simmons Plantation": 1}
+{}
+{"Israel": 1}
+{}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{"Eswatini": 1}
+{}
+{}
+{"Egypt": 1}
+{"Tripoli": 1}
+{}
+{}
+{"Apostolic Faith Church": 1}
+{}
+{"Lebanon": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"New England": 1}
+{}
+{}
+{}
+{"Canadian Armed Forces": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"2018 Winter Olympics": 1}
+{"Detroit": 1}
+{"Amsterdam": 1}
+{}
+{"Spain": 1}
+{"Six Flags Over Georgia": 1}
+{"Cadore": 1}
+{}
+{"Ireland": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Birmingham": 1}
+{}
+{"Falkenbach": 1}
+{}
+{}
+{}
+{}
+{"Aurora Teagarden": 1}
+{"Crook & Chase": 1}
+{}
+{}
+{}
+{}
+{}
+{"Daytona": 1}
+{}
+{}
+{"Wonsevu": 1, "Kansas": 1}
+{}
+{}
+{"East India Company": 1}
+{"Chase Bank": 1}
+{}
+{"Chase": 1, "Wisconsin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Comedy Company": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Karnataka": 1, "State": 1, "Human Rights Commission": 1}
+{}
+{"European Union": 1}
+{}
+{"Scottish Parliament": 1}
+{"Victoria": 1, "Australia": 1}
+{}
+{"Scottish Parliament": 1}
+{}
+{}
+{}
+{"Scottish Parliament": 1}
+{}
+{}
+{"Southern Maryland Electric Cooperative": 1}
+{"Southern California Edison": 1}
+{"Menteng": 2}
+{"Hylestad": 1}
+{"Hughesville": 1, "Maryland": 1}
+{"Campora": 1}
+{"United States": 1, "New York": 1}
+{"Elk Ridge": 1, "Maryland": 1}
+{}
+{"WaterColor": 1, "Florida": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bartow": 1, "West Virginia": 1}
+{}
+{}
+{}
+{"Madagascar": 1}
+{}
+{}
+{}
+{"Nottingham": 1, "West Virginia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Equator Records": 1, "Canada": 1}
+{}
+{}
+{}
+{"Bangladesh": 1}
+{"Pakistan": 1, "United Nations": 1}
+{}
+{"South Korea": 1}
+{}
+{"North Korea": 1}
+{}
+{"World Bank": 1}
+{}
+{}
+{}
+{}
+{"Kim dynasty": 1, "North Korea": 1}
+{"United Nations": 1}
+{}
+{"United Nations": 1}
+{}
+{}
+{}
+{"Winnipeg": 1}
+{}
+{}
+{}
+{}
+{}
+{"Stanford": 1}
+{}
+{}
+{}
+{"Iran": 1}
+{"Jurassic World": 1}
+{}
+{}
+{}
+{}
+{"Indiana Jones": 1, "Kingdom of the Crystal Skull": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"L.A.": 1}
+{}
+{}
+{}
+{}
+{"Paris": 1}
+{}
+{}
+{}
+{"Assut de l'Or Bridge": 1}
+{}
+{"Las Palmas": 1}
+{}
+{"Pont de Brotonne": 1}
+{}
+{"Arc de Triomphe": 1}
+{}
+{}
+{}
+{}
+{}
+{"Sinzongo": 1}
+{"Province of Toledo": 1}
+{}
+{}
+{"Capital Bars": 1}
+{"Potes": 1}
+{"Ou Reang Ov District": 1}
+{"Koh Sotin District": 1}
+{"Pulaski High School": 1}
+{"Phoenix": 1}
+{"Chol Kiri District": 1}
+{"European Central Bank": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Varma kalai": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Immanu El": 1}
+{}
+{}
+{}
+{"Injakkadan": 1, "Mathai": 1, "Sons": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Czech Republic": 1}
+{"Southampton": 1}
+{"University of Kansas": 1}
+{"Switzerland": 1}
+{"Switzerland": 1}
+{"London": 1}
+{"Melbourne": 1}
+{}
+{"Miami": 1}
+{}
+{"Miami": 1}
+{"UC Davis School of Veterinary Medicine": 1}
+{"Soonchunhyang University": 1}
+{"Egypt": 1}
+{"Houston": 1}
+{}
+{"Washington University in St. Louis": 1}
+{"Brigham Young University": 1}
+{"Brigham Young University": 1}
+{"FC Barcelona": 1}
+{}
+{}
+{}
+{}
+{"Arto Monaco": 1}
+{}
+{}
+{}
+{"Georgia O'Keeffe": 1}
+{}
+{"Shekomeko": 1}
+{}
+{}
+{}
+{"United States": 1}
+{"Kaimana Regency": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Pensacola": 1, "Flyers": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Shanghai": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"River's Edge": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Chihuahua": 1}
+{}
+{"Oregon": 1}
+{"Hollywood": 1}
+{"Aylesbury": 1}
+{"Little Conch Key": 1}
+{}
+{}
+{}
+{"Beijing Ducks": 1}
+{}
+{}
+{"Seattle": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"El Club de Los Tigritos": 1}
+{"Millennium Dance Complex": 1}
+{}
+{}
+{}
+{"Cape plc": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Marconi Communications": 1}
+{}
+{}
+{}
+{"LSI Corporation": 1}
+{}
+{}
+{}
+{}
+{"Presidente Bernardes": 1, "S\u00e3o Paulo": 1}
+{"Texas": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Morrison Observatory": 1}
+{}
+{}
+{}
+{}
+{}
+{"England": 1}
+{"England": 1}
+{}
+{}
+{"Bombay City Improvement Trust": 1}
+{}
+{}
+{"Prix de l'Abbaye de Longchamp": 1}
+{}
+{"Bletchley Park": 1}
+{"Old Course": 1, "St Andrews": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Gallic Empire": 1}
+{"Mali": 1}
+{"Trowulan": 1}
+{"Valens Aqueduct": 1}
+{"Paris": 1}
+{}
+{}
+{"Britain": 1}
+{}
+{}
+{}
+{}
+{}
+{"Halfway Tree": 1}
+{"Taktin Oey": 1}
+{}
+{}
+{}
+{}
+{}
+{"Iditarod Trail": 1}
+{}
+{}
+{}
+{"United States": 1}
+{"NASCAR": 1, "Speedway": 1, "Division": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{"Donner Memorial State Park": 1}
+{"Huguenots": 1}
+{}
+{"Harare North": 1}
+{}
+{}
+{"Tennessee": 1}
+{}
+{}
+{"Golaghat": 1}
+{"Huguenots": 1}
+{}
+{"Armenia": 1}
+{}
+{}
+{}
+{"South Africa": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Acari": 1}
+{}
+{}
+{}
+{}
+{}
+{"London": 1}
+{}
+{}
+{"Emergency Management Institute": 1}
+{}
+{}
+{"Dornbusch": 1, "Hiddensee": 1}
+{}
+{}
+{}
+{"Public Health Agency of Canada": 1}
+{"United States": 1}
+{}
+{"London": 1}
+{"London": 1}
+{}
+{}
+{}
+{"Qing dynasty": 1}
+{"Nanjing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hall of Great Western Performers": 1}
+{}
+{"Ottoman Empire": 1}
+{"Rodnowo": 1}
+{}
+{}
+{"Iowa": 1}
+{"Ankang Dam": 1}
+{}
+{"Liberia": 1}
+{}
+{}
+{}
+{"La Ferme C\u00e9l\u00e9brit\u00e9s": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Mirz\u0259haqverdili": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Malta": 1}
+{}
+{}
+{"Fildes Point": 1}
+{"Castle Rock": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"New York City": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"British Empire": 1}
+{}
+{}
+{"British Empire": 1}
+{"Portugal": 1}
+{"Boston": 1}
+{"Old Fort Providence": 1}
+{}
+{}
+{}
+{"Guinea-Bissau": 1}
+{}
+{}
+{"Pacific War": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Oklahoma City": 1}
+{"Los Angeles": 1}
+{}
+{}
+{}
+{"Brunswick Boat Group": 1}
+{}
+{"Fish Islands": 1}
+{"Pike Place Fish Market": 1}
+{"Barizo": 1}
+{}
+{}
+{"United States": 1}
+{}
+{"Clayton Lake State Park": 1}
+{"Tatla Lake": 1}
+{}
+{"Salamansa": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Quebec": 1}
+{}
+{}
+{"Steamer Range": 1}
+{}
+{}
+{}
+{}
+{"Marshall Islands": 1}
+{"United Kingdom": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Netherlands": 1}
+{"Toddy Pond": 1}
+{"Winnecunnet Pond": 1}
+{}
+{"West Wind Shores": 1, "Massachusetts": 1}
+{}
+{"Anhalt-Bernburg": 1}
+{"Srinagarindra": 1}
+{}
+{"Chandra Saradavara": 1}
+{"Golden Pond": 1}
+{}
+{"Great Quittacas Pond": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dragon Beach": 1}
+{}
+{"Pattaya": 1, "Kelappanum": 1, "Pandiya": 1}
+{}
+{"United States": 1}
+{}
+{"Mexico": 1}
+{"New Zealand": 1}
+{"Australia": 1}
+{}
+{"United States": 1}
+{"United States": 1}
+{"Ph\u00fa L\u01b0\u01a1ng": 1}
+{"Kersa": 1, "Arsi": 1}
+{}
+{}
+{"Greece": 1}
+{}
+{}
+{}
+{}
+{}
+{"Caribbean": 1, "Central America": 1}
+{}
+{"Myanmar": 1}
+{"Richmond Arena": 1}
+{}
+{"Southern Railway": 1, "Salisbury": 1}
+{"Polemon II": 1, "Pontus": 1}
+{}
+{"Minnie Cumnock Blodgett": 1}
+{}
+{}
+{"Katharine": 1, "Smith": 1, "Salisbury": 1}
+{}
+{}
+{}
+{}
+{"Queen Victoria": 1}
+{}
+{"Florence Meyer": 1}
+{}
+{"Harare": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Buthrotum": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United Kingdom": 1}
+{}
+{"Xarabank": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Somalia": 1}
+{"Portugal": 1}
+{"Dome of the Rock": 1}
+{}
+{}
+{"Hurricane Katrina": 1}
+{"New Orleans": 1}
+{"Sichuan": 1}
+{}
+{"Houston": 1}
+{}
+{}
+{}
+{"Bright": 1, "Mississippi": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Union Mill Complex": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"A Coru\u00f1a Airport": 1}
+{"Ofu Airport": 1}
+{"Cando Municipal Airport": 1}
+{"Tirusulam railway station": 1}
+{"Triulzi railway station": 1}
+{"LaBelle Municipal Airport": 1}
+{"Franklin County Regional Airport": 1}
+{"Boston": 1}
+{"Tucson": 1, "Arizona": 1}
+{"Paamiut Airport": 1}
+{"Eric Marcus Municipal Airport": 1}
+{"Milingimbi Airport": 1}
+{"Fremont Municipal Airport": 1, "Michigan": 1}
+{}
+{}
+{}
+{}
+{}
+{"Syria": 1}
+{"Israel": 1}
+{}
+{}
+{}
+{}
+{}
+{"Jewish Historical Museum": 1, "Belgrade": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Staithes": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Favre Lake": 1, "Nevada": 1}
+{}
+{}
+{}
+{"Jersey Shore": 1}
+{"Embassy of the Philippines": 1, "Bandar Seri Begawan": 1}
+{}
+{"Sarangani Bay": 1}
+{"Altaussee": 1}
+{"Hassanal Bolkiah": 1}
+{}
+{}
+{}
+{"South Cotabato": 1}
+{}
+{"Balbina": 1, "Rome": 1}
+{}
+{}
+{}
+{}
+{"Goodpasture Bridge": 1}
+{"Mariefred Charterhouse": 1}
+{}
+{"San Luis Bridge": 1}
+{"Codos": 1, "Aragon": 1}
+{"Codo": 1, "Aragon": 1}
+{}
+{}
+{}
+{}
+{}
+{"Cornstalk Heights": 1}
+{}
+{"W\u00fcrttemberg-Winnental": 1}
+{}
+{}
+{"Frederick": 1, "Baltimore": 1, "Calvert": 1}
+{}
+{}
+{"Palatinate": 1}
+{"Kingdom of Naples": 1}
+{"W\u00fcrttemberg-Winnental": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Charleston": 1, "South Carolina": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Washington Post": 1}
+{}
+{}
+{}
+{}
+{"TransMarket Group": 1}
+{}
+{}
+{"Appleford-on-Thames": 1}
+{"Bristol": 1}
+{}
+{}
+{}
+{"Yaroslavl": 1}
+{"Shire of Taringa": 1}
+{"Benghazi al-Jadida": 1}
+{"Shire of Mirani": 1}
+{"Novgorod Governorate": 1}
+{"Los Alamos": 1, "California": 1}
+{"Namangan": 1}
+{}
+{}
+{"Mexico Beach": 1, "Florida": 1}
+{"Kissimmee Prairie Preserve State Park": 1}
+{"Stonesoup School": 1}
+{"Florida": 1, "Power and Light Company": 1, "Ice Plant": 1}
+{"Little Lake City": 1, "Florida": 1}
+{}
+{"Florida": 1}
+{}
+{"Isle of Normandy": 1}
+{"Vero Beach": 1, "Florida": 1}
+{"Holly Hill": 1, "Florida": 1}
+{"Hillsborough River State Park": 1}
+{"Quincy": 1, "Florida": 1}
+{"Eastern Shores": 1, "North Miami Beach": 1}
+{"Pinellas County": 1, "Florida": 1}
+{}
+{}
+{}
+{"Warsaw": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Museum of Cham Sculpture": 1}
+{"Paris": 1}
+{"Ch\u00e2u \u0110\u1ee9c District": 1}
+{}
+{}
+{}
+{"Krasnolipie": 1}
+{"Gmina W\u0142odawa": 1}
+{"Gmina Ujso\u0142y": 1}
+{"Danube": 1}
+{}
+{"Spain": 1}
+{}
+{"Republic of the Congo": 1}
+{}
+{"Republic of the Congo": 1}
+{}
+{"Ira C. Allen Mansion": 1}
+{"New Jersey": 1}
+{}
+{}
+{"California": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Beethoven House": 1}
+{"Ensign Manufacturing Company": 1}
+{}
+{}
+{"Jan De Nul": 1}
+{}
+{}
+{"Virginia Valli": 1}
+{}
+{}
+{}
+{}
+{"Antarctica": 1}
+{"Bueng Kan Province": 1}
+{"Manitoba Highway 89": 1}
+{"Zhejiang": 1}
+{"Bilene Macia District": 1}
+{}
+{"Panda District": 1}
+{}
+{"Germanicia": 1}
+{"Zhejiang": 1}
+{"Zhejiang": 1}
+{}
+{"Chibuto District": 1}
+{"Quzhou Airport": 1}
+{"East Nusa Tenggara": 1}
+{"India\u2013Pakistan border": 1}
+{"Zhejiang": 1}
+{"Zhejiang": 1}
+{}
+{"Fuerza A\u00e9rea Glacier": 1}
+{"Traub Glacier": 1}
+{"Lee Glacier": 1}
+{"Solis Glacier": 1}
+{"Econlockhatchee River": 1}
+{"Bravo Glacier": 1}
+{"Lake Michigan\u2013Huron": 1}
+{"Panega Glacier": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ro\u0161poh": 1, "Maribor": 1}
+{"Granville": 1, "village": 1, "New York": 1}
+{"George W. Childs Recreation Site": 1}
+{"Klehini River": 1}
+{"Horicon": 1, "New York": 1}
+{"Cold Brook Dam": 1}
+{}
+{"Mount Igikpak": 1}
+{"Congo River": 1}
+{}
+{"Hazelton": 1, "Idaho": 1}
+{"South Africa": 1}
+{"Plymouth": 1}
+{"Vev\u010de": 1}
+{"Nile": 1}
+{}
+{}
+{"Jolly": 1, "Texas": 1}
+{"Lancaster": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Rosetta Pebble": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Florence": 1, "Howell": 1, "Barkley": 1}
+{"Morgan Crofton": 1}
+{}
+{}
+{"Doctor De Soto": 1}
+{"Flora Graeca": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Campbell": 1, "California": 1}
+{"Bank of America": 1}
+{}
+{}
+{"Los Rold\u00e1n": 1}
+{"Tanzania": 1}
+{}
+{}
+{}
+{"Financial District": 1, "Boston": 1}
+{}
+{}
+{"Bank of America": 1}
+{"Union Bank of India": 1}
+{"RBL Bank": 1}
+{"Khoo Teck Puat": 1}
+{}
+{"Yes Bank": 1}
+{"Oregon": 1}
+{"Mariana Trench": 1}
+{"King Haakon VII Sea": 1}
+{"East Coast": 1, "United States": 1}
+{"Mariana Trench": 1}
+{"United States": 1}
+{"Siuslaw River": 1}
+{}
+{"Hells Canyon": 1}
+{"Yaiza": 1}
+{"West Coast": 1, "United States": 1}
+{"Bullards Bridge": 1}
+{"Mariana Trench": 1}
+{"Sunda Trench": 1}
+{"Pikes Peak": 1, "Ocean to Ocean Highway": 1}
+{"West Coast": 1, "United States": 1}
+{"Wassaw Sound": 1}
+{"East Lake": 1, "Oregon": 1}
+{}
+{}
+{}
+{}
+{}
+{"Mile End": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"New York": 1}
+{}
+{"Porto Praya": 1}
+{"Dunkirk": 1}
+{}
+{"Battle of the Saintes": 1}
+{"Alto de los Godos": 1}
+{"Saint Kitts": 1}
+{"Battle of Bunker Hill": 1}
+{"Mother-in-Law Lounge": 1}
+{"Bay of Biscay": 1}
+{"Battle of Bunker Hill": 1}
+{"Battle of Balanjar": 1}
+{"Battle of the Chesapeake": 1}
+{"New York": 1}
+{}
+{}
+{"Alexandria": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Mara Marini": 1}
+{}
+{}
+{}
+{}
+{}
+{"United Kingdom": 1}
+{}
+{"Queen Victoria": 1}
+{}
+{"The Other House": 1}
+{}
+{}
+{}
+{}
+{"Drentse Courant": 1}
+{"Nord Aviation": 1}
+{"Presto Studios": 1}
+{"P&O Portsmouth": 1}
+{"Nieuwsblad van het Noorden": 1}
+{"American Brass Company": 1}
+{}
+{}
+{}
+{"Ville Saint-Pierre": 1}
+{}
+{}
+{}
+{"Rockville Township": 1, "Stearns County": 1, "Minnesota": 1}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{"United States": 1}
+{"McCormack": 1, "Minnesota": 1}
+{"Golestan Province": 1}
+{"Aqqala County": 1}
+{"Essex County Park Commission Administration Building": 1}
+{"Szelment": 1}
+{"Golestan Province": 1}
+{"Varangerbotn": 1}
+{"Steinshamn": 1}
+{"Sjernar\u00f8y": 1}
+{"Rochester Community Schools": 1, "Michigan": 1}
+{"Avoca": 1, "Oklahoma": 1}
+{}
+{"Northeast": 1, "Vietnam": 1}
+{}
+{"\u0110\u1ed3ng S\u0129 Nguy\u00ean": 1}
+{"L\u00e2m \u0110\u1ed3ng Province": 1}
+{}
+{"Ho Chi Minh trail": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Benghazi": 1}
+{}
+{}
+{}
+{}
+{}
+{"Second Battle of Rivas": 1}
+{"Walker": 1, "Texas": 1, "Ranger": 1}
+{}
+{}
+{"Charlotte Rangers": 1}
+{"Oscar Branch Colquitt": 1}
+{}
+{"Texas Ranger Division": 1}
+{"Linda and Terry Fuller Track": 1}
+{"Texas": 1}
+{}
+{"Globe Life Field": 1}
+{"Newfoundland Ranger Force": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"North Carolina": 1}
+{"Washington Wizards": 1}
+{"Bras\u00edlia": 1}
+{}
+{"Canton of Z\u00fcrich": 1}
+{"Timehri": 1}
+{"Australian Capital Territory": 1}
+{"Rome": 1}
+{"Bulgan Province": 1}
+{"Japan": 1}
+{}
+{"Ruesga": 1}
+{"Dasma": 1, "Kuwait": 1}
+{"Qing dynasty": 1}
+{"Taher District": 1}
+{"A\u00efn El Turk District": 1}
+{"United States": 1}
+{"Estonia": 1}
+{"Estonia": 1}
+{"South Park": 1}
+{}
+{"Estonia": 1}
+{}
+{"South Africa": 1, "World War II": 1}
+{"Estonia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Nickelsville": 1, "Virginia": 1}
+{"Chattanooga": 1, "Tennessee": 1}
+{}
+{}
+{"Land's End": 1, "John o' Groats": 1}
+{"Nolensville": 1, "Tennessee": 1}
+{"Land's End": 1, "John o' Groats": 1}
+{}
+{}
+{"Land's End": 1, "John o' Groats": 1}
+{"Arcadia": 1, "Tennessee": 1}
+{}
+{}
+{}
+{"Nashville metropolitan area": 1}
+{"Cikampek": 1}
+{"Mount Miller": 1}
+{}
+{"Duffield": 1, "Virginia": 1}
+{"Tennessee": 1}
+{"Missouri": 1}
+{"Sofia": 1}
+{}
+{"Moscow": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Meydan Mosque": 1, "Kashan": 1}
+{"Tigers Jaw": 1}
+{}
+{}
+{}
+{}
+{}
+{"Some Other Spring": 1}
+{}
+{}
+{}
+{"New York": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"San Ardo": 1, "California": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"New York City": 1}
+{}
+{}
+{}
+{}
+{}
+{"Nigeria": 1}
+{"Transavia": 1, "Denmark": 1}
+{}
+{"Royal Dutch Shell": 1}
+{}
+{"Royal Dutch Shell": 1}
+{}
+{}
+{"Monroe City": 1, "Indiana": 1}
+{"Warren": 1, "Kentucky": 1}
+{}
+{"Knox United Church": 1, "Saskatoon": 1}
+{}
+{}
+{}
+{}
+{}
+{"Butler Township": 1, "Knox County": 1, "Ohio": 1}
+{}
+{}
+{}
+{}
+{"Siege of Boston": 1}
+{}
+{"Miller Township": 1, "Knox County": 1, "Ohio": 1}
+{"Farragut High School": 1}
+{}
+{}
+{}
+{}
+{}
+{"Australia": 1}
+{}
+{"Washington": 1}
+{"Southwest Territory": 1}
+{"Louisiana Purchase": 1}
+{"Minikahda Club": 1}
+{"Mexican Cession": 1}
+{"The Gambia": 1}
+{"Atlantic City": 1, "New Jersey": 1}
+{"Makit County": 1}
+{"Kansas City": 1, "Missouri": 1}
+{"Ann Arbor": 1, "Michigan": 1}
+{"Sinincay": 1}
+{"Guildhall": 1, "Vermont": 1}
+{"La Uni\u00f3n": 1, "Azuay": 1}
+{"Paris": 1}
+{"Hunting Valley": 1, "Ohio": 1}
+{"Columbia": 1, "South Carolina": 1}
+{"Charleston": 1, "South Carolina": 1}
+{"Litchfield Park": 1, "Arizona": 1}
+{"Great Lakes": 1}
+{}
+{"Hinsdale County": 1, "Colorado": 1}
+{"Riverside": 1, "California": 1}
+{}
+{"Coalmont": 1, "Tennessee": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"British Empire": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kentucky Tavern": 1}
+{}
+{"The Black Tavern": 1}
+{"Pine Mountain State Resort Park": 1}
+{}
+{"British Togoland": 1}
+{"Germany": 1}
+{"Crown of Aragon": 1}
+{}
+{"Kingdom of Hungary": 1}
+{"Canada": 1}
+{}
+{}
+{"Battle of Domstadtl": 1}
+{"Ted Wright Stadium": 1}
+{"Sarawak Stadium": 1}
+{"Finley Stadium": 1}
+{"Eagle Field": 1}
+{"Omassery": 1}
+{"Penn State": 1}
+{"Wright": 1, "Florida": 1}
+{"Arkansas": 1, "Razorbacks": 1}
+{"Rose Bowl": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Southern California": 1}
+{}
+{}
+{"Ann Arbor": 1, "Michigan": 1}
+{}
+{"Hanalei River": 1}
+{"Columbia": 1, "South Carolina": 1}
+{"Bia\u0142ystok": 1}
+{"West Mineral": 1, "Kansas": 1}
+{"Duluth Heights": 1}
+{"Snake River": 1}
+{"San Diego": 1}
+{}
+{"Amman": 1}
+{"Sa Th\u1ea7y District": 1}
+{"SAS Braathens": 1}
+{"Pom-o-sa Heights": 1, "Missouri": 1}
+{"Lung Leng": 1}
+{}
+{"Sa-Hali Secondary School": 1}
+{"Davidson": 1, "New South Wales": 1}
+{"Arenal Volcano Emergency Forest Reserve": 1}
+{"Gori": 1}
+{"Russian Far East": 1}
+{"Mizugaki": 1}
+{"Russian": 1, "Tver": 1}
+{}
+{"Battle of Sinop": 1}
+{}
+{"El Granada": 1, "California": 1}
+{"Lemmon Valley": 1, "Nevada": 1}
+{"Munyonyo": 1}
+{"Aadorp": 1}
+{"Russian Soviet Federative Socialist Republic": 1}
+{"Golden Valley": 1, "Nevada": 1}
+{"East Prussia": 1}
+{}
+{}
+{"Wood Lane tube station": 1}
+{}
+{"Good Shepherd Convent": 1, "Chennai": 1}
+{"Palace of the Soviets": 1}
+{}
+{}
+{"Kievan Rus'": 1}
+{"Vladimir-Suzdal": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kamshad Kooshan": 1}
+{}
+{"Rondanini Piet\u00e0": 1}
+{}
+{}
+{}
+{}
+{}
+{"Two Mile Square Reservation": 1}
+{"Swedish Livonia": 1}
+{}
+{}
+{}
+{"Walker Peak": 1}
+{}
+{"Mortu Nega": 1}
+{}
+{}
+{}
+{}
+{"Roanoke": 1}
+{}
+{}
+{}
+{"Queen Victoria": 1}
+{}
+{"Flora": 1, "Louisiana": 1}
+{}
+{}
+{"Phommathat": 1}
+{}
+{}
+{"East China Sea": 1}
+{"South Park": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Gold Hill": 1, "North Carolina": 1}
+{}
+{"Hungry Jack's": 1}
+{}
+{}
+{"Cheikha Rimitti": 1}
+{}
+{}
+{"Cleveland": 1, "North Carolina": 1}
+{}
+{}
+{"Brzyska Wola": 1}
+{"Erazm\u00f3w": 1}
+{"Holmeswood": 1}
+{"Gmina Osina": 1}
+{"Near East": 1}
+{}
+{}
+{}
+{"Kazan": 1}
+{}
+{}
+{"Battle of Brechin": 1}
+{}
+{}
+{"Oosterweel": 1}
+{"Battle of Brihuega": 1}
+{"Battle of Ligny": 1}
+{}
+{"Nisbet Balfour": 1}
+{}
+{}
+{"Clan Gordon": 1}
+{"Digne-les-Bains": 1}
+{"Canton of Villefranche-sur-Mer": 1}
+{"Digne Cathedral": 1}
+{"Arrondissement of Veurne": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sierra Leone": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Philippine": 1, "Rothschild": 1}
+{"Outpost Club": 1}
+{"Muskiki Formation": 1}
+{}
+{}
+{}
+{}
+{}
+{"Russkaya Station": 1}
+{}
+{}
+{}
+{}
+{}
+{"Ohio": 1}
+{}
+{}
+{}
+{"Houghton High School": 1}
+{"Fair Oaks": 1, "California": 1}
+{"Naenam-myeon": 1}
+{"Ashland Community High School": 1}
+{"Del Campo High School": 1}
+{"E Township": 1, "Maine": 1}
+{"Little Village Lawndale High School Campus": 1}
+{"Firvale": 1}
+{"Buena Vista High School": 1, "Texas": 1}
+{"J. Percy Page High School": 1}
+{"Bella Vista High School": 1}
+{"Service High School": 1}
+{"Mount View High School": 1, "Maine": 1}
+{}
+{}
+{}
+{}
+{"Winchester Mystery House": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Harvard University": 1}
+{}
+{}
+{"Portugal": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ventanarosa": 1}
+{}
+{"Stirling City": 1, "Choir": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Tennessee Titans": 1}
+{"Washington, D.C.": 1}
+{"Dallas": 1}
+{"New England": 1}
+{"Dallas Cowboys": 1}
+{}
+{}
+{"Jacksonville": 1}
+{"Jacksonville": 1}
+{}
+{"Minnesota": 1, "Vikings": 1}
+{}
+{}
+{}
+{"Jacksonville": 1}
+{}
+{}
+{}
+{}
+{}
+{"Finnish Navy": 1}
+{"HMAS Samuel Benbow": 1}
+{"German": 1, "Bremse": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"HMAS Doomba": 1}
+{}
+{}
+{}
+{"USS Admirable": 1}
+{"Independence of the Seas": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Rosa Maltoni": 1}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Meissen": 1}
+{}
+{}
+{}
+{"Queen Victoria": 1}
+{}
+{}
+{}
+{"Willamette Law Review": 1}
+{}
+{"Georgetown": 1}
+{}
+{"UCLA": 1}
+{}
+{"Cornell Journal of Law and Public Policy": 1}
+{}
+{}
+{}
+{}
+{}
+{"Minnesota": 1}
+{"Albany Law Review": 1}
+{}
+{}
+{"Northwestern University": 1}
+{"Southern Africa": 1}
+{"India": 1}
+{}
+{"Strasbourg": 1}
+{"Nelson Mandela Bridges": 1}
+{"United States": 1}
+{"Malawi": 1}
+{"Regensburg Synagogue": 1}
+{}
+{"Poland": 1}
+{}
+{}
+{"Tunisia": 1}
+{}
+{"Israel": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Bone Garden": 1}
+{}
+{}
+{}
+{"Salmita Mine": 1}
+{}
+{}
+{"Camp Defiance": 1}
+{"Adaba": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Texas": 1}
+{}
+{}
+{}
+{"Gallaratese": 1}
+{}
+{}
+{}
+{}
+{"Deanwood": 1}
+{}
+{}
+{"The New Road": 1}
+{}
+{}
+{}
+{}
+{}
+{"The Watch House": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Moorooka": 1, "Queensland": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"British Empire": 1}
+{}
+{}
+{"Boston Tea Party": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Berlin": 1}
+{}
+{"Lake County": 1, "Oregon": 1}
+{"Elmo": 1, "Montana": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Battle of the Atlantic": 1}
+{"Berlin": 1, "Zoologischer Garten": 1, "railway station": 1}
+{"Eureka Marsh": 1}
+{"Air Force Armament Museum": 1}
+{"Storck Barracks": 1}
+{}
+{}
+{"Woorim": 1, "Queensland": 1}
+{"San Francisco": 1}
+{"Pegasus Plaza": 1}
+{"Beberibe River": 1}
+{"Minneapolis": 1, "BNSF Rail Bridge": 1}
+{"Mesquite": 1, "Nevada": 1}
+{"Aurora": 1, "Waushara County": 1, "Wisconsin": 1}
+{"Woden Cemetery": 1}
+{"Ober-M\u00f6rlen": 1}
+{"W\u00f6lfersheim": 1}
+{"Rural Municipality of Hanover": 1}
+{"Miami": 1}
+{"Shanghai": 1}
+{"City": 1, "Brixton Railway": 1}
+{"Greece": 1}
+{"Beijing": 1, "Shanghai": 1}
+{"Republic of the Congo": 1}
+{"Gare de Marmande": 1}
+{"Dinmore railway station": 1}
+{}
+{"Kassel-Wilhelmsh\u00f6he station": 1}
+{}
+{"Luino railway station": 1}
+{"Selly Oak railway station": 1}
+{"Gorakhpur Junction railway station": 1}
+{"Shanghai": 1, "Hangzhou": 1}
+{"Galle railway station": 1}
+{"Incheon International Airport": 1}
+{"Kempegowda International Airport": 1}
+{"Israel": 1}
+{"T. F. Green Airport": 1}
+{"Mohammed V International Airport": 1}
+{"Mumbai": 1}
+{"Freeflight International Airport": 1}
+{"Marshall Islands International Airport": 1}
+{"Marshall Islands": 1}
+{"Calicut International Airport": 1}
+{"China Eastern Airlines": 1}
+{"Philadelphia": 1}
+{"United Kingdom": 1}
+{"Arik Air": 1}
+{"Halifax International Airport Authority": 1}
+{"Charlotte Douglas International Airport": 1}
+{"Seoul": 1}
+{"Melbourne": 1}
+{"Corfu International Airport": 1}
+{"Miami": 1}
+{}
+{"San Angelo Museum of Fine Arts": 1}
+{"Clements": 1, "California": 1}
+{}
+{}
+{}
+{"San Clemente": 1, "Chile": 1}
+{}
+{"Cuevas de San Clemente": 1}
+{}
+{}
+{}
+{}
+{}
+{"Amazon rainforest": 1}
+{"Sahara": 1}
+{"Naval Auxiliary Landing Field San Clemente Island": 1}
+{"Fourth Church of Christ, Scientist": 1, "San Francisco": 1, "California": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Oklahoma City": 1}
+{}
+{"University of Memphis": 1}
+{}
+{"Kansas State": 1}
+{"Ohio State Buckeyes": 1}
+{}
+{"Michigan": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dolphin's Nose": 1, "Coonoor": 1}
+{"North Pole": 1}
+{"Raxacoricofallapatorius": 1}
+{}
+{}
+{}
+{}
+{}
+{"Rudolph": 1, "Wisconsin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{"Cirque Calder": 1}
+{}
+{}
+{}
+{}
+{}
+{"Haoui Montaug": 1}
+{}
+{"United States": 1}
+{}
+{"Indus Valley Civilisation": 1}
+{"British Raj": 1}
+{}
+{}
+{}
+{"World": 1}
+{"South Asia": 1}
+{"Shoalhaven Scheme": 1}
+{"Karakum Desert": 1}
+{"Leisure World": 1, "Arizona": 1}
+{"Finsbury Park": 1, "station": 1}
+{"McCarren Park": 1}
+{"Montevideo": 1}
+{"Atlantic": 1}
+{"Kera railway station": 1}
+{}
+{"United States": 1, "Air Force": 1}
+{}
+{"United States": 1, "Air Force": 1}
+{"Hedsor Hall": 1}
+{}
+{}
+{}
+{}
+{"South Africa": 1}
+{"Santo Ant\u00f4nio Dam": 1}
+{"Waukee High School": 1}
+{"Barnet Countryside Centre": 1}
+{"Myanmar": 1}
+{"Linndale": 1, "Ohio": 1}
+{"Bloomingdale": 1, "Florida": 1}
+{}
+{}
+{"San Pietro in Montorio": 1}
+{"Mission San Juan Capistrano": 1, "Texas": 1}
+{}
+{}
+{"Basilica del Santo Ni\u00f1o": 1}
+{"Mission San Carlos Borromeo de Carmelo": 1}
+{"San Pietro": 1, "Modena": 1}
+{"San Pietro a Ovile": 1, "Siena": 1}
+{"Mission San Juan Capistrano": 1}
+{"Comoros": 1}
+{}
+{}
+{"Atlanta": 1, "American Civil War": 1}
+{}
+{}
+{}
+{"Avalon": 1}
+{}
+{"Venice": 1}
+{}
+{}
+{"Burning Man": 1}
+{"New York City": 1}
+{}
+{"Downton Abbey": 1}
+{"Madi Kalyanpur": 1}
+{}
+{}
+{"Thuringia": 1}
+{"Mantua Cathedral": 1}
+{"Weimar Republic": 1}
+{"Bavaria": 1}
+{"Germany": 1}
+{"Colima": 1}
+{"Germany": 1}
+{}
+{}
+{"Estonian Reform Party": 1}
+{}
+{"Mexico": 1}
+{}
+{"Hohenstein-Ernstthal": 1}
+{"Namibia": 1}
+{"Weber City": 1, "Virginia": 1}
+{}
+{}
+{"Colonial Heights": 1, "Tennessee": 1}
+{"J. Percy Priest Dam": 1}
+{"Middle Valley": 1, "Tennessee": 1}
+{}
+{"Mieleszkowce": 1, "Zalesia\u0144skie": 1}
+{"Polkowice-Sieroszowice mine": 1}
+{"Al\u016bksne Municipality": 1}
+{"Klejwy": 1, "PGR": 1}
+{"Radwanice": 1, "Polkowice County": 1}
+{"Przemk\u00f3w Landscape Park": 1}
+{"Mi\u0119tkie-Kolonia": 1}
+{"Xiangshui County": 1}
+{}
+{"Gmina Gr\u0119bocice": 1}
+{}
+{"Russian Soviet Federative Socialist Republic": 1}
+{}
+{}
+{"Soviet Union": 1}
+{"Russian Soviet Federative Socialist Republic": 1}
+{}
+{"Tajikistan": 1}
+{}
+{"Second United Front": 1}
+{}
+{}
+{}
+{}
+{"Russian Soviet Federative Socialist Republic": 1}
+{}
+{}
+{}
+{"United States": 1, "Air Force": 1}
+{}
+{}
+{}
+{"Roman Republic": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Acme Animation Factory": 1}
+{}
+{}
+{"San Francesco al Prato": 1, "Resurrection": 1}
+{"San Pietro in Ciel d'Oro": 1}
+{}
+{"Han dynasty": 1}
+{}
+{"Weihaiwei": 1}
+{}
+{}
+{"Xinhui People's Hospital": 1}
+{"Hourui station": 1}
+{}
+{}
+{}
+{"Xingning Basin": 1}
+{}
+{"California": 1}
+{}
+{"USS Arizona Memorial": 1}
+{"Mei River": 1}
+{}
+{"Floridita": 1}
+{}
+{}
+{}
+{"Las Vegas": 1}
+{}
+{}
+{}
+{}
+{"Noohalk Mountain": 1}
+{}
+{}
+{}
+{}
+{}
+{"Taito Kantonen": 1}
+{"Kastrat": 1}
+{"Guam": 1}
+{"Bajz\u00eb": 1}
+{"Southern Europe": 1}
+{}
+{"United Kingdom": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dakota National Forest": 1}
+{"Karolyi Ranch": 1}
+{}
+{}
+{}
+{"Mogollon Baldy": 1}
+{}
+{"Holly Springs National Forest": 1}
+{}
+{}
+{}
+{"Channel Islands": 1}
+{"Bonnevaux-le-Prieur\u00e9": 1}
+{"Sammallahdenm\u00e4ki": 1}
+{"Denmark": 1}
+{"Southampton Old Cemetery": 1}
+{}
+{"Geumgoksa": 1}
+{}
+{"Berlin": 1, "Commonwealth War Graves Commission Cemetery": 1}
+{"Oglakhty": 1}
+{"Central Mosque": 1, "Wembley": 1}
+{"Jaluit Airport": 1}
+{"Tengku Tengah Zaharah Mosque": 1}
+{"Al-Masjid an-Nabawi": 1}
+{"Woja Airport": 1}
+{"Nigeria": 1}
+{"Marshall Islands": 1}
+{"Sultan Ahmed Mosque": 1}
+{"Conviasa": 1}
+{"Grinder Island": 1}
+{"Istiqlal Mosque": 1, "Jakarta": 1}
+{"Ajeltake": 1}
+{"Marshall Islands": 1}
+{"Masjid Haji Yusoff": 1}
+{"Island Airlines": 1}
+{"Al-Serkal Mosque": 1}
+{"Shah Jahan Mosque": 1, "Woking": 1}
+{"Lal Masjid": 1, "Islamabad": 1}
+{"Air Marshall Islands": 1}
+{"Sundy House": 1}
+{"Whihala Beach County Park": 1}
+{"The Beaches of Agn\u00e8s": 1}
+{"Corona del Mar State Beach": 1}
+{}
+{"Vero Beach South": 1, "Florida": 1}
+{"Woodland Beach": 1, "Delaware": 1}
+{}
+{}
+{}
+{"New York": 1}
+{}
+{}
+{}
+{"Fyansford": 1, "Victoria": 1}
+{}
+{"Shark in the Park": 1}
+{}
+{"Los Angeles": 1}
+{}
+{}
+{}
+{"Sidney Peel": 1}
+{}
+{}
+{}
+{}
+{}
+{"Place de la Concorde": 1}
+{}
+{}
+{}
+{"Myanmar": 1}
+{}
+{}
+{"Pictou County Wellness Centre": 1}
+{"Central Highlands": 1, "Tasmania": 1}
+{}
+{}
+{}
+{"Estonia": 1}
+{}
+{}
+{}
+{}
+{"Thales Communications": 1}
+{}
+{}
+{}
+{"Armenia": 1}
+{}
+{"Estonia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Los Angeles": 1, "Dodgers": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Galactic Center": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Russian Soviet Federative Socialist Republic": 1}
+{"Holcomb": 1, "Washington": 1}
+{"Antelope Wells": 1, "New Mexico": 1}
+{}
+{"Snettisham": 1, "Juneau": 1}
+{"Landing Cove": 1}
+{}
+{"Johnson Village": 1, "Colorado": 1}
+{"Bee Ridge Woman's Club": 1}
+{}
+{"Auriga Nunataks": 1}
+{"Swastika": 1, "Ontario": 1}
+{"Snoma Finnish Cemetery": 1}
+{"Gilbert House": 1, "Worthington": 1, "Ohio": 1}
+{"Ute Cemetery": 1}
+{"Wedington Woods": 1, "Arkansas": 1}
+{"Arcadia": 1, "Nova Scotia": 1}
+{}
+{}
+{"Northrop Corporation": 1}
+{}
+{}
+{}
+{"Alvarado Transportation Center": 1}
+{}
+{}
+{"Lake Ray Hubbard": 1, "Transit Center": 1}
+{"Tyrone Generating Station": 1}
+{"Roff": 1, "Kentucky": 1}
+{"Mattingly": 1, "Kentucky": 1}
+{"South Portsmouth": 1, "Kentucky": 1}
+{"Howardstown": 1, "Kentucky": 1}
+{"Jefferson Memorial Forest": 1}
+{"Potter's Tavern": 1}
+{"Houchens Industries": 1}
+{}
+{"Lindhorst railway station": 1}
+{}
+{}
+{"Rome": 1}
+{}
+{}
+{}
+{"Sunset Man": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"North Carolina": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"El Salvador": 1}
+{}
+{"Qing dynasty": 1}
+{}
+{}
+{}
+{}
+{"Tang dynasty": 1}
+{}
+{"Aegna": 1}
+{"Sayyidah Zaynab": 1}
+{"Ciskei": 1}
+{"Qing dynasty": 1}
+{"Chamber Taluka": 1}
+{}
+{"Iran": 1}
+{"Moscow": 1, "Kremlin": 1}
+{"Yasyn Khamid": 1}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{"Kremlin": 1, "Wisconsin": 1}
+{}
+{"Yasyn Khamid": 1}
+{}
+{"Velk\u00e1 pardubick\u00e1": 1}
+{"Moscow Kremlin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"England": 1}
+{"Everton F.C.": 1}
+{}
+{}
+{"Jackson Township": 1, "Randolph County": 1, "Indiana": 1}
+{"Randolph County": 1, "Illinois": 1}
+{"Muslim world": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Iran": 1}
+{}
+{"Patapsco Swinging Bridge": 1}
+{"Hickory Grove": 1, "Wisconsin": 1}
+{"Spring Grove": 1, "Virginia": 1}
+{"Shady Grove": 1, "Jackson County": 1, "Tennessee": 1}
+{"Pleasant Grove": 1, "Woodruff County": 1, "Arkansas": 1}
+{"Henderson Grove": 1, "Illinois": 1}
+{"Mariposa Grove": 1}
+{"York": 1, "Green County": 1, "Wisconsin": 1}
+{"New Mill and Depot Building": 1, "Hawthorne Woolen Mill": 1}
+{"Gilmore Mills": 1, "Virginia": 1}
+{"Atwell Mill Grove": 1}
+{"Clarks Mills": 1, "Wisconsin": 1}
+{"Jaul\u00edn": 1}
+{"Medina": 1}
+{}
+{}
+{"New Orleans": 1}
+{}
+{}
+{}
+{}
+{}
+{"DeSoto Records": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kirtland": 1, "Records": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Monuriki": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Paris": 1}
+{}
+{}
+{}
+{}
+{}
+{"An Ph\u00fa District": 1}
+{"Mount Voi": 1}
+{"Ph\u00f9 Y\u00ean District": 1}
+{"Ph\u00fa Kh\u00ea": 1}
+{}
+{}
+{}
+{}
+{}
+{"Antarctica": 1}
+{"Gold Harbour": 1, "British Columbia": 1}
+{}
+{}
+{"Canada": 1}
+{"British Empire": 1}
+{}
+{}
+{"Watson Island": 1, "British Columbia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Spain": 1}
+{}
+{}
+{"Villa Foscari": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Togo": 1}
+{"Namibia": 1}
+{"Norfolk Island": 1}
+{"Namibia": 1}
+{"Serbia": 1, "Olympics": 1}
+{"United States": 1}
+{}
+{}
+{"Alabama": 1}
+{"Coldspring House": 1}
+{}
+{"United States": 1}
+{"Klondike Gold Rush": 1}
+{"Van Cleve Opera House": 1}
+{}
+{}
+{}
+{"Melbourne": 1}
+{"Idaho": 1}
+{}
+{}
+{}
+{"Tucson": 1, "Arizona": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Guam": 1}
+{}
+{"United States": 1}
+{"United States": 1}
+{"United States": 1}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{"Supreme Court of the United States": 1}
+{}
+{"Singapore": 1}
+{"Nebraska Highway 65": 1}
+{}
+{}
+{"Egypt": 1}
+{}
+{}
+{"Bruno Villabruna": 1}
+{"Labour Party": 1, "UK": 1}
+{"Burning Heart Records": 1}
+{}
+{}
+{}
+{}
+{"Barguelonne": 1}
+{"Full Moon": 1, "Blue Water": 1}
+{"Apulia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ryan Aeronautical": 1}
+{}
+{}
+{}
+{"West Ham United F.C.": 1}
+{"Grand Hotel": 1, "Mackinac Island": 1}
+{}
+{}
+{}
+{}
+{"Martin Marietta": 1}
+{}
+{"American Stores": 1}
+{"United Kingdom": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Piedratajada": 1}
+{}
+{"Chennai Super Kings": 1}
+{}
+{}
+{}
+{}
+{"Raven Creek": 1}
+{"Humanes de Madrid": 1}
+{"Jacksonville": 1, "Florida": 1}
+{}
+{}
+{}
+{}
+{}
+{"Real Madrid CF": 1}
+{}
+{"FC Barcelona": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Iwo Jima": 1}
+{}
+{}
+{}
+{}
+{"Battle of Olustee": 1}
+{}
+{"Iwo Jima": 1}
+{}
+{"Schmidt Ocean Institute": 1}
+{}
+{}
+{}
+{}
+{}
+{"Al Lith": 1}
+{"Samarqand District": 1}
+{}
+{}
+{"Lewis and Clark Bridge": 1, "Columbia River": 1}
+{}
+{}
+{"Nagamandala": 1}
+{"India": 1}
+{"Indian Air Force": 1}
+{}
+{"Battle of Morlaix": 1}
+{}
+{"India": 1, "United States": 1}
+{}
+{"India": 1}
+{}
+{}
+{}
+{"Northwestern University": 1}
+{"Richmond": 1, "Virginia": 1}
+{}
+{}
+{"Government Degree College Kathua": 1}
+{}
+{"United States": 1}
+{"United States": 1}
+{"Seattle": 1}
+{}
+{}
+{"Bradford Knapp": 1}
+{"New York City": 1}
+{"Whitman College": 1, "Princeton University": 1}
+{}
+{"Green": 1, "Dartmouth College": 1}
+{"Yaprakl\u0131": 1, "Fatsa": 1}
+{}
+{"Walker Pond": 1}
+{}
+{}
+{"Sea of Sardinia": 1}
+{}
+{}
+{}
+{}
+{}
+{"Mount Kipp": 1}
+{}
+{}
+{}
+{"Icaria Planum": 1}
+{}
+{"Nephalion": 1}
+{}
+{}
+{}
+{}
+{"Grover Cleveland": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Shaking Rock Park": 1}
+{}
+{"Huguenots": 1}
+{}
+{}
+{"Texas Revolution": 1}
+{"USS Cactus": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Everglades": 1, "River of Grass": 1}
+{}
+{}
+{"Hollywood Babylon": 1}
+{}
+{"Elisabeth Camp": 1}
+{}
+{}
+{}
+{"Big Flat Brook": 1}
+{}
+{}
+{}
+{}
+{"John Joseph Murphy Memorial Higher Secondary School": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Mel Moraine": 1}
+{}
+{}
+{}
+{"Orchestra": 1, "Ethiopia": 1}
+{}
+{"Tammany Hall": 1}
+{}
+{}
+{}
+{"Parthian Empire": 1}
+{}
+{}
+{}
+{"Huguenots": 1}
+{}
+{"Ontario": 1}
+{"Germany": 1, "World War I": 1}
+{"Kingdom of Bohemia": 1}
+{"Reichstag": 1, "North German Confederation": 1}
+{}
+{}
+{}
+{"Germany": 1}
+{}
+{}
+{"Cape Knowles": 1}
+{"Loew's Grand Theatre": 1}
+{}
+{"Wassoulou Empire": 1}
+{"Constantinople": 1}
+{"Ottoman Empire": 1}
+{}
+{}
+{"Iran": 1}
+{}
+{"Akkadian Empire": 1}
+{}
+{"Magadha": 1}
+{}
+{"Shang dynasty": 1}
+{}
+{}
+{"Han dynasty": 1}
+{"Han dynasty": 1}
+{}
+{}
+{}
+{"Ann Arbor": 1, "Michigan": 1}
+{"Tamanique": 1}
+{"Liberia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Buckingham Palace": 1}
+{}
+{}
+{}
+{"Liberia": 1}
+{"University of Buckingham": 1}
+{"Buckingham Chantry Chapel": 1}
+{}
+{"Kohat": 1}
+{}
+{}
+{}
+{}
+{"Kasowitz Benson Torres": 1}
+{}
+{"Hapoel Rishon LeZion": 1}
+{"Londonskaya Hotel": 1}
+{}
+{}
+{"Gaskins Run": 1}
+{"Hammersley Fork": 1}
+{"16th Avenue Bailey Bridge": 1}
+{"West Branch Run": 1}
+{"Mud Run": 1, "Green Creek": 1}
+{"Konrad Adenauer Bridge": 1}
+{"Dartford Crossing": 1}
+{"Blackfriars Railway Bridge": 1}
+{"Marquette\u2013Joliet Bridge": 1}
+{"Petroleum Street Bridge": 1}
+{"Delaware Memorial Bridge": 1}
+{"Ledyard Bridge": 1}
+{"Wami Bridge": 1}
+{"Taemas Bridge": 1}
+{"Saint-Maurice River": 1}
+{"Hochdonn High Bridge": 1}
+{"Napan River": 1}
+{"Nelson River": 1}
+{"Kichi Sipi Bridge": 1}
+{"Werra Viaduct": 1, "Hedem\u00fcnden": 1}
+{}
+{}
+{"Murraysville": 1, "West Virginia": 1}
+{"New York City": 1}
+{"Pittsburgh": 1, "bridges": 1}
+{"New York City": 1}
+{"Gumti Water Fountain": 1}
+{"V\u00e4in\u00e4m\u00f6inen": 1}
+{}
+{}
+{"Gulf War": 1}
+{}
+{}
+{}
+{}
+{}
+{"HMAS Grantala": 1}
+{}
+{}
+{}
+{"Springfield National Cemetery": 1}
+{"Zubly Cemetery": 1}
+{"Geelong Eastern Cemetery": 1}
+{"Patrick R. Cleburne Confederate Cemetery": 1}
+{"Lae War Cemetery": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dupland": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Alexandria": 1, "Bucephalous": 1}
+{}
+{}
+{}
+{}
+{"Hochschule f\u00fcr die Wissenschaft des Judentums": 1}
+{}
+{}
+{"La Tour Montparnasse": 1}
+{}
+{"Death Mills": 1}
+{}
+{}
+{}
+{}
+{"Melbourne": 1}
+{}
+{"United States": 1}
+{"St. John's": 1, "Newfoundland and Labrador": 1}
+{"Worthington": 1, "Ohio": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Colorado": 1, "United States": 1}
+{"Nanjing": 1}
+{"North Vandergrift-Pleasant View": 1, "Pennsylvania": 1}
+{"Pleasant View": 1, "North Carolina": 1}
+{"New Hampshire": 1, "United States": 1}
+{"Mountain View": 1, "Colorado": 1}
+{"Christian Science Pleasant View Home": 1}
+{"United States": 1}
+{"McClimansville": 1, "Ohio": 1}
+{"Pleasant View": 1, "Toronto": 1}
+{"Pleasant Lake": 1, "Michigan": 1}
+{"West Pleasant View": 1, "Colorado": 1}
+{"Texas": 1, "United States": 1}
+{}
+{"Highland View Academy": 1}
+{}
+{}
+{"Calvin Coolidge Bridge": 1}
+{"Dvo\u0159\u00e1k Ice Rise": 1}
+{}
+{"Debussy Heights": 1}
+{"Freixo Bridge": 1}
+{"Jennings Randolph Bridge": 1}
+{"Figaro Nunatak": 1}
+{}
+{}
+{}
+{"Senator Robert D. Fleming Bridge": 1}
+{}
+{"Newgate Education Center": 1}
+{}
+{"Inverleith Harbour": 1}
+{}
+{"Belize": 1}
+{}
+{"Buckingham Palace": 1}
+{"Buckingham Palace": 1}
+{}
+{"St James's Palace": 1}
+{"Saudi Arabia": 1}
+{"Monarchy of the Netherlands": 1}
+{"United Kingdom": 1}
+{"Bahamas": 1}
+{"Buckingham Palace": 1}
+{}
+{"Buckingham Palace": 1}
+{}
+{}
+{"Bangladesh": 1}
+{"Pulo": 1, "Cabuyao": 1}
+{}
+{"Vat Yotkeo": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Texian Army": 1}
+{"Canadian Armed Forces": 1}
+{}
+{}
+{}
+{"Wesley Brethren Church": 1}
+{"Sam Houston National Forest": 1}
+{"First Battle of Mesilla": 1}
+{"Texas A&M University": 1}
+{"Guadalupe Peak": 1}
+{}
+{"Saburro Peak": 1}
+{"Garden State Life Insurance Company": 1}
+{"Selway National Forest": 1}
+{}
+{"Mount Wilkinson": 1}
+{"Nilo Syrtis": 1}
+{"Ceraunius Fossae": 1}
+{"Kazakhstan": 1}
+{}
+{}
+{"United States": 1}
+{"Bern": 1}
+{"Hell's Kitchen": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Philadelphia": 1}
+{"Desert Forest Golf Club": 1}
+{"Carefree": 1, "Arizona": 1}
+{"Mount Bruno Golf Club": 1}
+{"Singapore": 1}
+{}
+{"Rostov": 1}
+{"Dergajen": 1}
+{}
+{"Palazzo Sormani": 1}
+{}
+{"Cape Bathurst": 1}
+{"Houston": 1}
+{"Miles": 1, "Wisconsin": 1}
+{}
+{}
+{"Tomlinson Hill": 1, "Texas": 1}
+{"Nanjing": 1}
+{}
+{}
+{}
+{}
+{}
+{"North American Free Trade Agreement": 1}
+{"Conservative Party": 1, "UK": 1}
+{}
+{}
+{"Cumberland Peninsula": 1}
+{"Georgian Bay": 1}
+{"Burundi": 1}
+{"Sobrado": 1, "A Pobra de Trives": 1}
+{"Near East": 1}
+{"Keala Settle": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Florence Eldridge": 1}
+{}
+{}
+{}
+{}
+{"Alaska": 1}
+{"Mitro Repo": 1}
+{"United States": 1}
+{}
+{}
+{"Dominican Republic": 1}
+{}
+{}
+{"Nigerian National Democratic Party": 1}
+{"Sydney": 1, "Arthur": 1, "Fisher": 1}
+{}
+{}
+{}
+{}
+{}
+{"Stevensville": 1, "Michigan": 1}
+{}
+{"Blue Slide Park": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Krimulda Castle": 1}
+{"Yakutiye Medrese": 1}
+{"North Carolina": 1}
+{}
+{"Russia": 1}
+{"Free State of Mecklenburg-Schwerin": 1}
+{"Germany": 1}
+{}
+{}
+{"Mafube Local Municipality": 1}
+{"Masilonyana Local Municipality": 1}
+{"Pomerania-Barth": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bridge of Scarlet Leaves": 1}
+{}
+{}
+{}
+{"Cardinal": 1, "Catholic Church": 1}
+{}
+{}
+{"Ward Township": 1, "Randolph County": 1, "Indiana": 1}
+{"Meenakshi Sundararajan Engineering College": 1}
+{"Institute of technology": 1}
+{"Callcott Reilly": 1}
+{}
+{"Azarbaijan Shahid Madani University": 1}
+{"Malaviya Regional Engineering College": 1}
+{"Thiruvalluvar College of Engineering and Technology": 1}
+{"Mexican": 1}
+{"Qatar": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Indianapolis": 1}
+{}
+{}
+{}
+{"Brantley York": 1}
+{"Kokkuthoduvai": 1}
+{"York": 1, "Upper Canada": 1}
+{}
+{"Valencia": 1}
+{}
+{"Senica District": 1}
+{}
+{"Reuss-Ebersdorf": 1}
+{}
+{"Kigali": 1}
+{}
+{}
+{}
+{"Dodi Island": 1}
+{}
+{}
+{}
+{"Carnival Cruise Line": 1}
+{"Alabio": 1}
+{"Lake Helena": 1}
+{"Tamil Nadu": 1}
+{}
+{"United States": 1, "Snooker Association": 1}
+{"Buckingham": 1}
+{"Splash Kingdom Waterpark": 1}
+{"Valdes Peninsula": 1}
+{}
+{"Gir National Park": 1}
+{"Milan": 1, "New Orleans": 1}
+{}
+{}
+{}
+{}
+{"Dolores": 1, "Colorado": 1}
+{"Dolores": 1, "Tolima": 1}
+{}
+{}
+{"Love Ranch": 1}
+{}
+{}
+{}
+{"Dolores River": 1}
+{}
+{}
+{"Dolores River Canyon": 1}
+{"Dolores mine": 1}
+{}
+{"Florida International University College of Law": 1}
+{}
+{"Six Flags Magic Mountain": 1}
+{}
+{"Project Boreas": 1}
+{"Stamford Brook tube station": 1}
+{"Cold River": 1, "Bearcamp River": 1}
+{"Farnell Valley": 1}
+{"Palus Epidemiarum": 1}
+{"Kelly Brook": 1, "Wisconsin": 1}
+{"Sturgeon River": 1, "Alberta": 1}
+{"Stazione FS": 1, "Brescia Metro": 1}
+{"Long Spruce Generating Station": 1}
+{"Rockefeller Center": 1}
+{"Petite Creuse": 1}
+{"Jensen Glacier": 1}
+{}
+{"Indian River": 1, "New Hampshire": 1}
+{"Tarbell Brook": 1}
+{"Yalgar River": 1}
+{}
+{}
+{}
+{}
+{}
+{"Northwest Passage": 1}
+{"Hoek Glacier": 1}
+{}
+{"Smerby": 1}
+{}
+{"Fonthill": 1}
+{"Gold Coast": 1}
+{}
+{"Northwest": 1}
+{"England": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dybvadskog Peak": 1}
+{"Jorgensen Nunataks": 1}
+{}
+{}
+{"South Ice": 1}
+{"South Pole": 1}
+{"Mikre Beach": 1}
+{"Hamilton": 1, "Ice Piedmont": 1}
+{}
+{}
+{"Ioannes Paulus II Peninsula": 1}
+{"Heverley Nunataks": 1}
+{"Framheim": 1}
+{"South Pole": 1}
+{}
+{"Berry Spur": 1}
+{"McDonough Nunataks": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"India": 1, "Pakistan": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Pakistan": 1}
+{}
+{}
+{}
+{"Northwestern University": 1}
+{}
+{}
+{}
+{"Saint Helena": 1}
+{}
+{}
+{}
+{}
+{"The Bronx": 1}
+{"SIS Swiss International School": 1}
+{}
+{"Baldev Ram Mirdha Institute of Technology": 1}
+{"Rosehill Secondary College": 1}
+{"India": 1}
+{}
+{}
+{}
+{}
+{"Statute of Marlborough": 1}
+{}
+{"Stanley King": 1}
+{}
+{}
+{"Goi": 1, "Baekje": 1}
+{}
+{}
+{}
+{}
+{"Sacramento": 1}
+{}
+{"Shrewsbury": 1, "York": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Imperial College London": 1}
+{"London": 1}
+{"United Kingdom": 1}
+{}
+{"University of Kansas": 1}
+{"Busitema University": 1}
+{"Chulalongkorn University": 1}
+{"Houston": 1}
+{"Siddhartha Medical College": 1}
+{}
+{"Detroit": 1}
+{"Mbarara University School of Medicine": 1}
+{}
+{"Warsaw": 1}
+{}
+{}
+{}
+{"Plymouth": 1}
+{"Qu\u00e1n S\u1ee9 Temple": 1}
+{"Bermillo de Sayago": 1}
+{"Place du Colonel Fabien": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"River of Eternity": 1}
+{"Ireland": 1}
+{"Amarillo by Morning": 1}
+{"Terry Homestead": 1}
+{"Amarillo": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"African Guitar Summit": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Myanmar": 1}
+{}
+{}
+{}
+{}
+{"Nigeria": 1}
+{}
+{}
+{}
+{}
+{}
+{"Saint-Laurent-des-B\u00e2tons": 1}
+{"Genoa": 1}
+{}
+{"H\u00f6chst": 1}
+{"Battle of Bassano": 1}
+{"Slaak": 1}
+{}
+{"Sziksz\u00f3": 1}
+{}
+{"V\u0129nh Y\u00ean": 1}
+{}
+{}
+{"Battle of Lens": 1}
+{"Mojkovac": 1}
+{"Mar\u00eda": 1}
+{"Suwon Airfield": 1}
+{"Battle of Callinicum": 1}
+{}
+{"The Yellow Christ": 1}
+{"East Chase Street": 1}
+{}
+{}
+{}
+{"Christ Church": 1, "Kotri": 1}
+{"Alpha House": 1}
+{}
+{}
+{"Cork": 1}
+{}
+{"Hundertwasserhaus": 1}
+{"Vienna": 1}
+{"African-American": 1, "President": 1, "United States": 1}
+{"Pinckneyville": 1, "Illinois": 1}
+{}
+{}
+{"United States": 1}
+{"United States": 1}
+{"United States": 1}
+{}
+{"United States": 1}
+{}
+{}
+{"African-American": 1, "President": 1, "United States": 1}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{"Colorado Territory": 1}
+{}
+{"Dahongliutan": 1}
+{}
+{"Aniak River": 1}
+{}
+{}
+{"Philadelphia": 1}
+{"J. Millard Tawes Historical Museum": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Chennai": 1}
+{}
+{}
+{"New Delhi": 1}
+{}
+{}
+{"Umgababa": 1}
+{}
+{}
+{}
+{}
+{"Thara Prashad": 1}
+{"Jordan": 1, "Hauteville": 1}
+{}
+{}
+{}
+{}
+{}
+{"Het Huis Anubis": 1}
+{"Khenti-Amentiu": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Pakistan": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United States": 1}
+{"International Court of Justice": 1}
+{"Maryland School for the Deaf": 1}
+{}
+{"Washington National Cathedral": 1}
+{}
+{}
+{"USA": 2}
+{}
+{}
+{}
+{}
+{"Rh\u00f4ne-Alpes": 1}
+{}
+{"Max Rosenthal Tenement": 1, "Bydgoszcz": 1}
+{"Swan Miara": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Greene Point": 1}
+{"Bowling Green Plateau": 1}
+{"United States": 1}
+{"Free State of Brunswick": 1}
+{"Marshall Islands": 1}
+{"Canada": 1}
+{}
+{}
+{"Republic of the Congo": 1}
+{}
+{"Ole Miss": 1}
+{"United States": 1}
+{"Alabama": 1}
+{}
+{}
+{"Institute of technology": 1}
+{"Swayze Field": 1}
+{}
+{"United States": 1}
+{"Thuringia": 1}
+{"Black Hawk": 1, "Colorado": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Lowell Palmer": 1}
+{}
+{}
+{"Labu": 1, "Temburong": 1}
+{"Kar\u015f\u0131yaka Cemetery": 1}
+{"Stampede Trail": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ives Estates": 1, "Florida": 1}
+{}
+{}
+{}
+{}
+{"Lakshminath Bezbaroa": 1}
+{}
+{}
+{}
+{"HMS Victory": 1}
+{}
+{"California": 1, "mule deer": 1}
+{}
+{}
+{}
+{"Sichuan": 1}
+{"Sichuan": 1}
+{}
+{}
+{}
+{}
+{}
+{"Bakke Mountain": 1}
+{"Oregon Trail": 1, "Prairie": 1, "Rocky-Mountain": 1}
+{}
+{}
+{}
+{"Sichuan": 1}
+{}
+{}
+{"Gulf of Mexico": 1}
+{"Lake Ainslie": 1}
+{}
+{"Dry Tortugas": 1}
+{"Montana": 1}
+{"Staaten River": 1}
+{}
+{"Lanark Village": 1, "Florida": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"New York": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Voshmgir District": 1}
+{}
+{"Vennaimalai": 1}
+{"Neunkirchen District": 1, "Austria": 1}
+{"Bahupura": 1, "Uparwar": 1}
+{"Amachavadi": 1}
+{"Agasarahalli": 1, "Hosadurga": 1}
+{"Agasarahalli": 1, "Hosakote": 1}
+{"Edward R. Roybal Federal Building": 1, "United States Courthouse": 1}
+{"Ainapur": 1, "Jevargi": 1}
+{"Georgetown Visitation Monastery": 1}
+{"Koondra Land District": 1}
+{"Kuri": 1, "Bhopalgarh": 1}
+{"Dhampur": 1}
+{"Thadoona Land District": 1}
+{}
+{"Anna of Lorraine": 1}
+{}
+{"Queen Victoria": 1}
+{}
+{}
+{}
+{"Miramar": 1, "Tamaulipas": 1}
+{"Atlanta": 1}
+{"Beaver Dam": 1, "Wisconsin": 1}
+{"New York City": 1}
+{"Wichita": 1, "Kansas": 1}
+{}
+{}
+{}
+{"Hanau-Lichtenberg": 1}
+{"St. John Richardson Liddell": 1}
+{}
+{}
+{}
+{}
+{}
+{"Watson's": 1, "United States": 1}
+{}
+{}
+{"Tennessee": 1}
+{}
+{"Phillippo Baptist Church": 1}
+{}
+{"Saint Helena": 1}
+{"Charleston": 1, "South Carolina": 1}
+{}
+{}
+{"Roman Republic": 1}
+{}
+{"Valley City State University": 1}
+{"Nanjing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Rwang Pam Stadium": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Batman Bridge": 1}
+{"Gotham": 1, "County": 1, "Line": 1}
+{}
+{}
+{}
+{}
+{}
+{"Batman": 1, "Arkham City": 1}
+{}
+{}
+{}
+{}
+{"English Channel": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Debrecen Heliophysical Observatory": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Pennsylvania": 1}
+{}
+{}
+{}
+{}
+{}
+{"Estonia": 1}
+{"Aberdeen": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Canada": 1, "United States": 1}
+{"Milwaukee": 1}
+{"Alaska": 1}
+{"Plymouth": 1}
+{"Santa Monica": 1, "California": 1}
+{"Israel": 1}
+{}
+{}
+{"Seattle Seahawks": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Pimpirev Ice Wall": 1}
+{}
+{"Booval railway station": 1}
+{"Kennedytunnel": 1}
+{"Oslo West Station": 1}
+{"North Atlantic Ocean": 1}
+{"Navigation Road station": 1}
+{"Tanum Tunnel": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Monument": 1}
+{}
+{"Isabel Roberts House": 1}
+{"Chi\u0219in\u0103u": 1, "Water Tower": 1}
+{"Holy Transfiguration Church": 1, "Gjirokast\u00ebr": 1}
+{"Statue of Father C\u00edcero": 1}
+{"Monument to the Unknown Hero": 1}
+{"Robert E. Lee Monument": 1, "New Orleans": 1, "Louisiana": 1}
+{"Lincoln Memorial": 1}
+{"Collyer Monument": 1}
+{"Colosseum": 1}
+{"Col. Crawford Burn Site Monument": 1}
+{}
+{"Yinchuan Hedong International Airport": 1}
+{"Bishkek": 1}
+{"Kolkata": 1}
+{"Mexico": 1}
+{"Warsaw": 1}
+{"Dedinje": 1}
+{"Tocuyito": 1}
+{"C\u00f3rdoba Department": 1}
+{"Nanjing": 1}
+{"Kim Il-sung Stadium": 1}
+{"Mianos": 1}
+{}
+{}
+{}
+{"Institute of technology": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"New York": 1}
+{"Hero High": 1}
+{"Delta": 1, "Colorado": 1}
+{"Nemunas Delta Regional Park": 1}
+{"Delta IV": 1}
+{"Aikenhead's Hardware": 1}
+{}
+{}
+{"Delta Hardware": 1}
+{"Rhine": 1}
+{"Saloum Delta National Park": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Whiskey River": 1}
+{"France": 1}
+{"Han dynasty": 1}
+{}
+{}
+{"Iran": 1}
+{"Utrecht": 1}
+{}
+{"Battle of Isted": 1}
+{"The Linq": 1}
+{"Golden Palace": 1}
+{}
+{"Gresham Palace": 1}
+{"Nassau-Weilburg": 1}
+{}
+{"Battle of Bunker Hill": 1}
+{"Rheinberg": 1}
+{"Argentina": 1, "England": 1}
+{}
+{"Argentina": 1, "England": 1}
+{}
+{}
+{"Ci\u0219migiu Gardens": 1}
+{}
+{}
+{}
+{}
+{}
+{"Raleigh": 1, "North Carolina": 1}
+{}
+{"New Haven": 1, "Connecticut": 1}
+{}
+{"Rockland Boulders": 1}
+{"New York City": 1}
+{"Yankee Stadium": 1}
+{}
+{}
+{"New England Patriots": 1}
+{}
+{"Great American Ball Park": 1}
+{}
+{}
+{"Chicago Cubs": 1}
+{"Kallh\u00e4lls BK": 1}
+{"Wimbledon": 1}
+{}
+{}
+{}
+{"Wimbledon": 1}
+{}
+{}
+{"Wimbledon": 1}
+{"Wimbledon": 1}
+{}
+{"Wimbledon": 1}
+{"Storvreta IBK": 1}
+{"Wimbledon": 1}
+{}
+{"Wimbledon": 1}
+{}
+{}
+{}
+{"Friend": 1, "Nebraska": 1}
+{"Harrisburg": 1, "South Dakota": 1}
+{"Melbourne": 1}
+{}
+{"Bowling Green": 1, "Missouri": 1}
+{"Dow City": 1, "Iowa": 1}
+{"Seattle": 1}
+{"Nagasaki": 1}
+{"San Diego": 1}
+{}
+{"New York City": 1}
+{"Browns Valley": 1, "Minnesota": 1}
+{"Oklahoma City": 1}
+{}
+{"Yukon": 1}
+{"Rock and Roll Hall of Fame": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Daytona Beach": 1, "Florida": 1}
+{"Rose Bowl": 1}
+{"Notre Dame": 1, "Miami": 1}
+{"Texas": 1}
+{"United States": 1}
+{"Miami": 1}
+{"Texas": 1}
+{"Hurricane Wilma": 1}
+{"Hurricane Andrew": 1}
+{"Town": 1}
+{}
+{"Hurricane Charley": 1}
+{}
+{"Venetian Islands": 1, "Florida": 1}
+{}
+{"Miami Marlins": 1}
+{}
+{}
+{}
+{}
+{"Miami": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ina Coolbrith": 1}
+{}
+{}
+{"Xorazm Region": 1}
+{}
+{"L\u00e2m Thao District": 1}
+{"Uthiripookkal": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"California": 1}
+{"Sindh High Court": 1}
+{"St. Louis": 1}
+{}
+{}
+{}
+{}
+{"Everton F.C.": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Northwestern University": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Australia": 1}
+{}
+{}
+{}
+{}
+{}
+{"Carleton North High School": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"London": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ramblin' Wreck": 1}
+{"Negoesco Stadium": 1}
+{}
+{"Goss Stadium": 1, "Coleman Field": 1}
+{}
+{"Owsley B. Frazier Stadium": 1}
+{"Javelina Stadium": 1}
+{}
+{"DU Stadium": 1}
+{"Great American Ball Park": 1}
+{}
+{"Bangalore Hockey Stadium": 1}
+{}
+{"Skip Wilson Field": 1}
+{"Carl Wooten Field": 1}
+{"Gillette Stadium": 1}
+{"Qing dynasty": 1}
+{}
+{}
+{}
+{}
+{}
+{"Frozen Run": 1}
+{"S\u00f8r-Tr\u00f8ndelag": 1}
+{}
+{"Glen Froseth": 1}
+{"Sunday Mercury": 1, "New York": 1}
+{"La R\u00e9union": 1}
+{}
+{"Harvey": 1, "North Dakota": 1}
+{"El Acil": 1}
+{}
+{}
+{}
+{}
+{}
+{"Valles Marineris": 1}
+{}
+{"Goddard Space Flight Center": 1}
+{}
+{"Jupiter": 1}
+{"Olympus Mons": 1}
+{}
+{}
+{}
+{"Antarctica": 1}
+{"Fierbin\u021bi Solar Park": 1}
+{}
+{}
+{"Solgr\u00e4nd": 1}
+{"Germany": 1}
+{"Dorsa Barlow": 1}
+{}
+{"Arsia Mons": 1}
+{}
+{"Hillcrest High School": 1, "Springfield": 1, "Missouri": 1}
+{"Maecheon High School": 1}
+{"Stroman High School": 1}
+{"Tranquillity": 1, "California": 1}
+{}
+{"Gaylord High School": 1}
+{"Spring High School": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"University of Kansas": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Australia": 1}
+{"Veterans Memorial Soccer Complex": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"6th Guards Motor Rifle Division": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Lincoln Plumer": 1}
+{}
+{}
+{"United States": 1}
+{"Narmada Bachao Andolan": 1}
+{}
+{}
+{}
+{}
+{}
+{"Hamburg": 1}
+{}
+{}
+{}
+{}
+{"Ottoman Empire": 1}
+{}
+{"Route 3": 1, "Laos": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Myanmar": 1}
+{}
+{"NRHEG High School": 1}
+{"New Richland": 1, "Minnesota": 1}
+{"Boston Tea Party": 1}
+{}
+{"Jump City": 1, "Seattle": 1}
+{}
+{}
+{}
+{}
+{"Cockatoo Island": 1, "New South Wales": 1}
+{}
+{"Lake Borrie Wetlands": 1}
+{}
+{"Chaffey Dam": 1}
+{}
+{}
+{}
+{}
+{"Neptune": 1}
+{}
+{"Kuiper belt": 1}
+{"Neptune": 1}
+{"Neptune": 1}
+{}
+{}
+{"Neptune": 1}
+{}
+{"Neptune": 1}
+{"Neptune Glacier": 1}
+{}
+{}
+{}
+{"Universidad Interglobal": 1}
+{"Brigham Young University": 1}
+{}
+{}
+{}
+{"South Korea": 1}
+{}
+{}
+{}
+{}
+{"Harvard University": 1}
+{}
+{}
+{}
+{"South Korea": 1}
+{}
+{}
+{}
+{}
+{"United States": 1, "Air Force": 1}
+{"USS Concord": 1}
+{}
+{}
+{}
+{"Museum of the American Revolution": 1}
+{}
+{}
+{}
+{}
+{}
+{"Battle of the Bulge": 1}
+{"Battle of Britain": 1}
+{"Vandenberg AFB": 1, "Space Launch Complex 8": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Moel Famau": 1}
+{}
+{}
+{}
+{"Arctic Air": 1}
+{"Fresno": 1, "California": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"G\u00fczelce Ali Pasha": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Coles Bashford": 1}
+{"Utrecht": 1}
+{"Shippingport": 1, "Pennsylvania": 1}
+{"Ohio River": 1}
+{"Kirtley": 1, "Kentucky": 1}
+{"Hocking River": 1}
+{}
+{}
+{}
+{}
+{"Avery": 1, "Iowa": 1}
+{"Parliament of India": 1}
+{"Centre Street": 1}
+{}
+{}
+{}
+{}
+{"The Russian Room": 1}
+{}
+{"Plumtree": 1, "North Carolina": 1}
+{}
+{}
+{}
+{"Avery Johnson": 1}
+{}
+{}
+{}
+{}
+{}
+{"Kapalkundala": 1}
+{"Kunigunde": 1, "Poland": 1}
+{"Assi Dayan": 1}
+{"Charlotte": 1, "Brooke": 1}
+{}
+{}
+{}
+{}
+{}
+{"Douglas Rain": 1}
+{}
+{}
+{}
+{}
+{"Nevada Power Company": 1}
+{}
+{"Nevada Cancer Institute": 1}
+{"Ivanpah Valley": 1}
+{"Marilyn Dondero Loop": 1}
+{}
+{"Yerington High School": 1}
+{"Milwaukee": 1}
+{}
+{}
+{}
+{}
+{"German Castles Association": 1}
+{"Dexter Coffin Bridge": 1}
+{"Greifensee Castle": 1}
+{"Czocha Castle": 1}
+{"Buckingham Palace": 1}
+{"Gowran Castle": 1}
+{}
+{}
+{"New Windsor Historic District": 1}
+{"Windsor Castle": 1}
+{"Queen Victoria": 1}
+{"Windsor Castle": 1}
+{"Windsor Castle": 1}
+{"Windsor Castle": 1}
+{"Oliver Castle": 1}
+{}
+{}
+{"Old Windsor": 1}
+{"Great Purge": 1}
+{}
+{}
+{"Tajikistan": 1}
+{}
+{"Armenia": 1}
+{}
+{}
+{}
+{"Balfour Declaration": 1}
+{}
+{"Russian Soviet Federative Socialist Republic": 1}
+{}
+{}
+{}
+{}
+{"Mezhraiontsy": 1}
+{"Jallianwala Bagh": 1}
+{"Russian Soviet Federative Socialist Republic": 1}
+{}
+{}
+{"Nanjing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United States": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Washington": 1}
+{"Oklahoma City": 1}
+{}
+{"Kodimalar": 1}
+{}
+{"Raja Alang Mosque": 1}
+{"Chai Wan Mosque": 1}
+{}
+{"Bibi Ka Maqbara": 1}
+{"Botnur power plant": 1}
+{"Jama Masjid": 1, "Kanchipuram": 1}
+{"Australia": 1}
+{"Al-Salam Mosque": 1, "Odessa": 1}
+{"Marshall Islands": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Republic of the Congo": 1}
+{}
+{}
+{}
+{}
+{"Soviet Union": 1, "World War II": 1}
+{"Munich Agreement": 1}
+{}
+{}
+{}
+{"Cort\u00e9bert": 1}
+{"Mann Ranges": 1}
+{"Mount Ginini": 1}
+{"Behala College": 1}
+{}
+{}
+{"West Bengal": 1}
+{"Federal Reserve": 1}
+{}
+{"Sargodha Division": 1}
+{"Banipur Mahila Mahavidyalaya": 1}
+{}
+{"Madhusudan Mancha": 1}
+{"Budge Budge College": 1}
+{"National Institute of Ayurveda": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"British Caribbean Airways": 1}
+{"BAE Systems Marine": 1}
+{}
+{"Tordesilos": 1}
+{"Dunn Center": 1, "North Dakota": 1}
+{}
+{"Goguryeo": 1}
+{"Valsalabroso": 1}
+{"Nashport": 1, "Ohio": 1}
+{"Greenhorn": 1, "California": 1}
+{}
+{}
+{}
+{"Avro International Aerospace": 1}
+{}
+{"Ford Motor Company": 1, "Assembly Plant": 1}
+{"Guinness Brewery": 1}
+{}
+{"Tarka River": 1}
+{"Xe Kaman River": 1}
+{}
+{"Bridge of the Gods": 1}
+{"Niagara": 1}
+{}
+{}
+{}
+{}
+{"Guam": 1}
+{}
+{}
+{}
+{"New Zealand": 1}
+{"Berkeley Springs High School": 1}
+{}
+{}
+{"Hyderabad": 1}
+{"United States": 1}
+{}
+{"Hanging Rock": 1}
+{"Laurel Springs School": 1}
+{"Brigham Young University": 1}
+{}
+{}
+{"Modelo Brewery": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Australia": 1}
+{}
+{}
+{"Thuringia": 1}
+{"Campbellite": 1}
+{"Mali": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Punjab": 1, "Pakistan": 1}
+{"India": 1}
+{"Queen Victoria": 1}
+{}
+{}
+{}
+{"Vaikom": 1, "Padmanabha Pillai": 1}
+{}
+{"British Raj": 1}
+{"Cawnpore": 1}
+{"Fort Ruhya": 1}
+{}
+{}
+{}
+{}
+{"Ural State Academy of Architecture and Arts": 1}
+{"Holmes Summit": 1}
+{"Norwegian Judo Federation": 1}
+{"St. Louis": 1}
+{}
+{}
+{}
+{"California": 1, "Golden Seals": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Rama VII Bridge": 1}
+{}
+{"Stadio Giuseppe Grezar": 1}
+{"Piacenza Calcio 1919": 1}
+{}
+{"Stadio Is Arenas": 1}
+{"Ruhr": 1}
+{"Stadio Francesco Gabrielli": 1}
+{"Italy": 1}
+{}
+{"Stadio San Nicola": 1}
+{}
+{"Stadio Ciro Vigorito": 1}
+{}
+{"Stadio Erasmo Iacovone": 1}
+{"United States": 1}
+{"F.C. Crotone": 1}
+{}
+{"Stadio San Paolo": 1}
+{"Stadio Antonio Bianco": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Puerto Rico Electric Power Authority": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Strawberry Fields": 1}
+{"Cherry Spur": 1}
+{}
+{}
+{"Hall Bluff": 1}
+{"Pennington Field": 1}
+{"Dreschhoff Peak": 1}
+{}
+{}
+{}
+{"Tazieff Rocks": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"House Across the Bay": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"U.S.": 1, "Archie": 1}
+{"Archi": 1, "Kunduz Province": 1}
+{}
+{}
+{}
+{}
+{"Nigeria": 1}
+{}
+{"Gates of the Arctic National Park and Preserve": 1}
+{"Nay Aug Park": 1}
+{"national parks": 1, "United States": 1}
+{"Katavi National Park": 1}
+{"Thomson Islet": 1}
+{}
+{}
+{"Yala National Park": 1}
+{"Congaree National Park": 1}
+{"Ruaha National Park": 1}
+{}
+{"Kendawangan mine": 1}
+{"Berlin": 1}
+{"Mount Royal National Park": 1}
+{"Songnisan National Park": 1}
+{"London": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Saint Peter": 1}
+{"Jersey City": 1, "New Jersey": 1}
+{}
+{"Lower Lusatia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"East India Company": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Eton College": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"NATO Headquarters": 1}
+{"Warsaw Pact": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Gujarat": 1}
+{}
+{"Claridon": 1, "Marion County": 1, "Ohio": 1}
+{"Blooming Grove": 1, "Ohio": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ancilla College": 1}
+{}
+{}
+{}
+{}
+{"Upper Mississippi River Valley": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"MV Putney Hill": 1}
+{"Saint Helena": 1}
+{}
+{}
+{}
+{"Louise of Savoy": 1}
+{}
+{"Hugi Glacier": 1}
+{"Rivers Inlet": 1, "British Columbia": 1}
+{}
+{"Red Head": 1, "Florida": 1}
+{}
+{}
+{"Gorgons Head": 1}
+{"Monarchy of the United Kingdom": 1}
+{"Ivanoff Head": 1}
+{"Grassy": 1, "Kentucky": 1}
+{}
+{}
+{"Gouveia": 1, "Minas Gerais": 1}
+{"Peace Center": 1}
+{"Chicago": 1}
+{}
+{"Block": 1, "Australian": 1}
+{"Kelupis": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United Arab Emirates": 1, "London": 1}
+{"Czechoslovakia": 1}
+{}
+{}
+{}
+{"Utrecht": 1}
+{}
+{}
+{}
+{}
+{"Martha Creek Provincial Park": 1}
+{}
+{}
+{}
+{}
+{"England": 1, "Middle Ages": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Santa Clarita": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"New Amsterdam": 1}
+{"New York City": 1}
+{"De Baarsjes": 1}
+{}
+{"Capitan": 1, "New Mexico": 1}
+{"New York City": 1}
+{}
+{"Puritans": 1, "North America": 1}
+{}
+{"British Empire": 1}
+{"Amsterdam Airlines": 1}
+{}
+{}
+{"Banu Amela": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ribal al-Assad": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ethan Place": 1}
+{"Athos": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Marion Greenwood": 1}
+{"Meiklejohn Glacier": 1}
+{"Willow Creek Formation": 1}
+{"Great Britain": 1}
+{"Laine Hills": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dyer": 1, "West Virginia": 1}
+{"Lucky Miles": 1}
+{"Oshkosh Public Museum": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bejaratana": 1}
+{}
+{"Merla Zellerbach": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hollywood Arms": 1}
+{}
+{}
+{}
+{}
+{}
+{"Tomaga River": 1}
+{"Hobcaw Barony": 1}
+{"Winyah Bay": 1}
+{"Pambula River": 1}
+{"El Valle": 1, "volcano": 1}
+{"Hargrave River": 1, "Nunavut": 1}
+{"Wallingat River": 1}
+{"Panama Canal": 1}
+{"Moche River": 1}
+{}
+{}
+{}
+{}
+{"Harijan Sevak Sangh": 1}
+{}
+{}
+{}
+{}
+{"Palazzo della Carovana": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Minstrel Point": 1}
+{}
+{"Eritrea": 1}
+{}
+{}
+{"Elephant Butte": 1, "New Mexico": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kuroi Senji": 1}
+{}
+{}
+{}
+{}
+{"Montreal": 1}
+{}
+{}
+{"Woolhampton": 1}
+{}
+{"Gajo Bulat": 1}
+{"Loretto High School": 1}
+{}
+{"Portugal": 1}
+{"St. Francis Preparatory School": 1}
+{}
+{}
+{}
+{}
+{}
+{"Seal River": 1, "Manitoba": 1}
+{"Lost Seal Stream": 1}
+{"Holluschickie Bay": 1}
+{}
+{"United States": 1, "Seale": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Somalia": 1}
+{}
+{}
+{}
+{"Put-in-Bay Airport": 1}
+{"Ioannina National Airport": 1}
+{"Marshall Islands": 1}
+{"Alaminos Airport": 1}
+{"Bikini Atoll Airport": 1}
+{"Moray Bridge": 1}
+{"Marshall Islands": 1}
+{"Shiraz International Airport": 1}
+{"Hong Kong International Airport": 1}
+{}
+{"Heraklion International Airport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Picard River": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hanthane": 1, "Kathawa": 1}
+{"Tsilla": 1, "Chelton": 1}
+{"Proctorville": 1, "Ohio": 1}
+{"Kentucky River": 1}
+{"Philadelphia Yearly Meeting": 1}
+{}
+{"Amman Governorate": 1}
+{"Oregon": 1}
+{"United States": 1}
+{"California": 1}
+{"Willemsbrug": 1}
+{"Het Scheur": 1}
+{"Dock Bridge": 1}
+{"Pim River": 1}
+{}
+{"Allan": 1, "Queensland": 1}
+{"Lake Kyyj\u00e4rvi": 1}
+{"Kapawe'no First Nation": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"High School Musical": 1}
+{}
+{}
+{}
+{"Greece": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Gmina S\u0142awno": 1, "West Pomeranian Voivodeship": 1}
+{"Gmina Soko\u0142\u00f3w Podlaski": 1}
+{"Gmina Jordan\u00f3w": 1}
+{"Sucha County": 1}
+{"Gmina Bystra-Sidzina": 1}
+{"Gmina Szczecinek": 1}
+{}
+{}
+{}
+{}
+{"Old Gun Mill": 1}
+{}
+{"Shanghai": 1}
+{}
+{}
+{}
+{"Shantung": 1}
+{"Chiang Hsiao-chang": 1}
+{}
+{"Oklahoma": 1}
+{"South Korea": 1}
+{}
+{}
+{}
+{"The Bronx": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Israel": 1}
+{"Israel": 1}
+{"Chileab": 1}
+{"Westminster Abbey": 1}
+{}
+{}
+{"Kingdom of Israel": 1, "Samaria": 1}
+{"Kingdom of Israel": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Thalattu Ketkuthamma": 1}
+{}
+{"Frankfurt": 1}
+{}
+{}
+{"Spain": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Baden-Powell International House": 1}
+{"Nanjing": 1}
+{}
+{"Battle of the Sound": 1}
+{"Mali": 1}
+{"Alafaya": 1, "Florida": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Meadowlark Lemon": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hospital of the University of Pennsylvania": 1}
+{"University of Kansas": 1}
+{}
+{"Washington University in St. Louis": 1}
+{"Paris": 1, "Universitas": 1}
+{}
+{}

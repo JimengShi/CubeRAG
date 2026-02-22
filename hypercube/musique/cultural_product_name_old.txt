@@ -1,0 +1,11656 @@
+{}
+{"FC Barcelona": 1}
+{"FC Barcelona": 1}
+{"FC Barcelona": 1}
+{}
+{"FC Barcelona": 1}
+{"FC Barcelona": 1}
+{"FC Barcelona": 1}
+{}
+{}
+{"FC Barcelona": 1}
+{}
+{"El Cl\u00e1sico": 1}
+{"La Liga": 1}
+{"El Cl\u00e1sico": 1}
+{}
+{"Lionel Messi": 1}
+{"Spanish football champions": 1}
+{"La Liga": 1}
+{"Lionel Messi": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Blast Corps": 1}
+{"Little House on the Prairie": 1}
+{}
+{"The Long Week-End": 1}
+{}
+{}
+{}
+{"Labyrinth": 1}
+{}
+{"Looking for Alaska": 1}
+{"The Sense of an Ending": 1}
+{"Someone in the Dark": 1}
+{"Minotaur: The Labyrinths of Crete": 1}
+{"Radio Times": 1}
+{"Death Comes as the End": 1}
+{}
+{}
+{}
+{}
+{"The Devil's Labyrinth": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dr. Seuss": 1}
+{"Gauntlet Ridge": 1}
+{}
+{}
+{}
+{"1909 World Figure Skating Championships": 1}
+{"1923 World Figure Skating Championships": 1}
+{"A Prisoner of Birth": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"One Tree Hill": 1, "season 3": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Terry Nelson": 1}
+{"Jive Records": 1}
+{"MCA Records": 1}
+{}
+{"Nothing Records": 1}
+{}
+{}
+{"Sony Music": 1}
+{"Vilaiyaadu Mankatha": 1}
+{"The Right Stuff Records": 1}
+{"Biltmore Records": 1}
+{"Sony Music": 1}
+{"Ace Fu Records": 1}
+{"Sleaszy Rider Records": 1}
+{"Rebelle Records": 1}
+{"Sony Music": 1}
+{}
+{"Sony Music": 1}
+{"Carried Away": 1}
+{}
+{}
+{}
+{"III (Stanton Moore album)": 1}
+{}
+{}
+{}
+{}
+{}
+{"Battle of Korytsa": 1}
+{"Flyin' the Koop": 1}
+{}
+{}
+{}
+{}
+{"Battle of Aspromonte": 1}
+{}
+{}
+{}
+{}
+{"Battle of New Orleans": 1}
+{}
+{}
+{"Don't Know What You Got (Till It's Gone)": 1}
+{"Hem till Midg\u00e5rd": 1}
+{}
+{}
+{"Dominic Toretto": 1}
+{}
+{}
+{"Madonna": 1}
+{}
+{}
+{}
+{}
+{}
+{"The Fate of the Furious": 1}
+{"The Blacklist": 1}
+{}
+{"The Fall of Centauri Prime": 1}
+{"Chef Goes Nanners": 1}
+{"The War Prayer": 1, "Babylon 5": 1}
+{"The Bag or the Bat": 1}
+{"There All the Honor Lies": 1}
+{"Star Wars Rebels": 1}
+{"The Mindy Project": 1}
+{}
+{"The Very Long Night of Londo Mollari": 1}
+{}
+{"All Alone in the Night": 1}
+{"Kanes and Abel's": 1}
+{"Doc Martin": 1, "episodes": 1}
+{"The Walking Dead": 1}
+{"Glee": 1, "season 5": 1}
+{"Cartoon Wars Part I": 1}
+{"Ray Donovan": 1}
+{"Shades of Blue": 1}
+{"The Fall of Night": 1}
+{"Arrested Development": 1, "season 5": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"2015 Brazilian Grand Prix": 1}
+{"Est\u00e1dio do Arruda": 1}
+{}
+{}
+{"Central do Brasil": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Brazilian Grand Prix": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Crucifixion": 1, "Titian": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Martyrdom of Saint Lawrence": 1, "Titian": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Empire Sports Network": 1}
+{"Commonwealth Games": 1}
+{}
+{"Comcast Sports Southwest": 1}
+{"Nova Sports": 1}
+{"NBCSN": 1}
+{"Fox Sports 1": 1}
+{}
+{}
+{"Fox Sports West": 1, "Prime Ticket": 1}
+{}
+{"Tennis": 1, "CBS": 1}
+{"Premier League": 1}
+{"EA Sports": 1}
+{}
+{}
+{"Fox Sports 1": 1}
+{"Hockey Night in Canada": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Palau Tiger Team": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Terminator": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Randi Mayem Singer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Benny Beaver": 1}
+{"Classical music": 1}
+{}
+{"Michigan Wolverine": 1}
+{"Clemson\u2013South Carolina rivalry": 1}
+{}
+{}
+{"California Golden Seals": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Journey 2: The Mysterious Island": 1}
+{"Jam Hsiao": 1}
+{}
+{}
+{}
+{"The Color Purple": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Miracle Child": 1}
+{"In the Heat of the Sun": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Riot on Sunset Strip": 1}
+{}
+{"Out of the Ashes": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Delta Factor": 1}
+{}
+{}
+{}
+{"Macy's Thanksgiving Day Parade": 1}
+{}
+{"Miracle on 34th Street": 1}
+{}
+{}
+{"Miracle on 34th Street": 1}
+{}
+{}
+{}
+{}
+{}
+{"Five Finger Exercise": 1}
+{"Miracle on Ice": 1}
+{}
+{"Mara Wilson": 1}
+{"Miracle of the White Stallions": 1}
+{"Mr. Noodle": 1}
+{"Mississauga Power": 1}
+{"Miracle on 34th Street": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Wilkins Runway": 1}
+{}
+{}
+{"The Dream Life of Balso Snell": 1}
+{"A Sinless Season": 1}
+{"The Key to the Golden Firebird": 1}
+{}
+{}
+{"Soul Fixin' Man": 1}
+{"Ausente": 1}
+{}
+{"Life at the Top": 1}
+{}
+{"Portrait of a Young Englishman": 1}
+{"Sonnet 110": 1}
+{"Young Man Luther": 1}
+{"As the World Turns": 1}
+{"The Truth About the Harry Quebert Affair": 1}
+{}
+{"The Emperor's Children": 1}
+{"Young Man Lake": 1}
+{}
+{}
+{"The Bacchanal of the Andrians": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Eagles (band)": 1}
+{}
+{"Ghost Riders in the Sky": 1, "A Cowboy Legend": 1}
+{"Attics to Eden": 1}
+{"The Fox in the Attic": 1}
+{}
+{"Missing You": 1, "Diana Ross": 1}
+{}
+{}
+{"Attic Entertainment Software": 1}
+{}
+{}
+{"Cash in the Attic": 1}
+{}
+{"Madina Lake": 1}
+{"Ghost": 1, "Riders in the Sky": 1, "A Cowboy Legend": 1}
+{"Friday Night Lights": 1, "Attic Lights": 1}
+{"Take Me to Church": 1}
+{"Iliad": 1}
+{}
+{}
+{}
+{"Small Soldiers": 1}
+{"CBC Television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Secretly, Greatly": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Perfect Strangers": 1}
+{}
+{}
+{}
+{}
+{}
+{"Bann Na Mohra": 1}
+{}
+{}
+{}
+{}
+{"The Poor Boob": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Il figlioccio del padrino": 1}
+{"Mark Sloan": 1, "Grey's Anatomy": 1}
+{}
+{}
+{}
+{"The Lady in the Van": 1}
+{"Vito Corleone": 1}
+{"The Good Shepherd": 1}
+{"The Godfather Part II": 1}
+{"The Godfather": 1}
+{"Psalm 23": 1}
+{"The Nymph's Reply to the Shepherd": 1}
+{}
+{}
+{}
+{}
+{"Mumbai Godfather": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sati": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"IPod Nano": 1}
+{}
+{}
+{"Thirsty Boots": 1}
+{"If You Go Away": 1}
+{}
+{"Walk Hard: The Dewey Cox Story": 1}
+{"Long Ago and Far Away": 1, "James Taylor": 1}
+{}
+{"You're a Mean One, Mr. Grinch": 1}
+{"Come on a Cone": 1}
+{"Petticoat Junction": 1}
+{"Ann Hampton Callaway": 1}
+{"In the Heat of the Night": 1}
+{"Raindrops Keep Fallin' on My Head": 1}
+{"Ingmar Bergman": 1}
+{"1X Band": 1}
+{"Come Away with Me": 1}
+{"I Sang Dixie": 1}
+{"Turn Me On": 1, "Mark Dinning": 1}
+{}
+{}
+{"Here Comes My Baby": 1, "Dottie West": 1}
+{}
+{}
+{}
+{}
+{"Hart Memorial Trophy": 1}
+{"Major League Baseball": 1}
+{"New York Yankees": 1}
+{"Lee Smith": 1, "baseball": 1}
+{}
+{"World Series": 1}
+{}
+{}
+{}
+{}
+{"Josh Anderson": 1, "baseball": 1}
+{}
+{}
+{"Major League Baseball Most Valuable Player Award": 1}
+{"Major League Baseball": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Trouble with the Truth": 1}
+{}
+{}
+{"Ramon Magsaysay Award": 1}
+{"Independence Day": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Le Corsaire": 1}
+{}
+{}
+{}
+{"Women's Games": 1}
+{"Les Sous-dou\u00e9s en vacances": 1}
+{}
+{}
+{"Pauvres Diables": 1}
+{}
+{"Les Bonnes Femmes": 1}
+{}
+{}
+{"Les Accords de Bella": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"2018 Asia Cup": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"...Baby One More Time": 1}
+{"Baby Got Back": 1}
+{}
+{"Reach Out": 1, "Four Tops album": 1}
+{"Dirty Dancing": 1}
+{"Give It to Me Baby": 1}
+{"Luck Be a Lady": 1}
+{"...Baby One More Time": 1}
+{"Baby, It's Cold Outside": 1}
+{}
+{"El Trilogy": 1}
+{"Sky Saxon": 1}
+{"Taming Strange": 1}
+{"Violin Concerto (Mendelssohn)": 1}
+{"One Last Time": 1, "Ariana Grande": 1}
+{"Gavin & Stacey": 1}
+{"Gavin & Stacey": 1}
+{"Baby, It's Cold Outside": 1}
+{}
+{"Hollywood Video": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"EmArcy Records": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Winter Olympic": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Mingus Three": 1}
+{}
+{}
+{}
+{"A Modern Jazz Symposium of Music and Poetry": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Desert Diamond West Valley Phoenix Grand Prix": 1}
+{}
+{}
+{"Charles Mingus": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Alexander the Last": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Rendezvous at Big Gulch": 1, "Terror in the Neighborhood": 1}
+{"The Gospel Bill Show": 1}
+{}
+{}
+{}
+{"The Wild Women of Chastity Gulch": 1}
+{"Wild Case Files": 1}
+{}
+{"Wild Women": 1}
+{}
+{}
+{}
+{}
+{}
+{"Sharks' Treasure": 1}
+{}
+{}
+{"Song Cry": 1}
+{"I'll Cry If I Want To": 1}
+{"Talk to Me": 1, "Anita Baker": 1}
+{"Beyonc\u00e9": 1}
+{"Talk to Me": 1, "Kiss": 1}
+{"Body Talk Pt. 2": 1}
+{"Beyonc\u00e9": 1}
+{}
+{"Heaven": 1, "Beyonc\u00e9": 1}
+{"Crying in the Rain": 1}
+{"Beyonc\u00e9": 1}
+{"Beyonc\u00e9": 1}
+{"I Guess I'll Have to Cry, Cry, Cry": 1}
+{"Far Cry": 1}
+{}
+{"Beyonc\u00e9": 1}
+{"I'll Cry If I Want To": 1}
+{"Chasing Cars": 1}
+{"Beyonc\u00e9": 1}
+{"Big Girls Don't Cry": 1, "Lynn Anderson": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Westminster Choir College": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Mingus Plays Piano": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Scanderbeg": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Orlando furioso": 1, "Vivaldi": 1, "1714": 1}
+{}
+{}
+{}
+{}
+{"Texar's Revenge": 1, "North Against South": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hicky's Bengal Gazette": 1}
+{}
+{}
+{}
+{}
+{}
+{"The North Star": 1}
+{}
+{"A River Runs Through It": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ansidei": 1, "Madonna": 1}
+{}
+{"Acts of the Apostles": 1}
+{}
+{}
+{"Madonna": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Love Around": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Anne of Bohemia": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Peace of Augsburg": 1}
+{}
+{"UEFA": 1}
+{"Chelsea F.C.": 1}
+{"1982 European Cup Final": 1}
+{"FA Cup": 1}
+{"1985 FA Cup Final": 1}
+{"UEFA": 1}
+{"1979\u201380 European Cup": 1}
+{"Leicester City F.C.": 1}
+{"Chelsea F.C.": 1}
+{"2005 FA Cup Final": 1}
+{"Manchester United F.C.": 1}
+{"Nottingham Forest F.C.": 1}
+{"Liverpool F.C.": 1}
+{}
+{"Everton F.C.": 1}
+{"1923 FA Cup Final": 1}
+{"Liverpool F.C.": 1, "Manchester United F.C.": 1, "rivalry": 1}
+{"Liverpool F.C.": 1}
+{"UEFA": 1}
+{"Arsenal F.C.": 1}
+{"The Biggest Loser": 1}
+{"1976 FA Cup Final": 1}
+{"Winners & Losers": 1}
+{}
+{}
+{"UEFA Champions League": 1}
+{"Calle 7": 1, "season 2": 1}
+{"Richard Hatch": 1, "Survivor": 1}
+{}
+{"The Biggest Loser": 1}
+{}
+{"NCAA Division I Women's Basketball Tournament": 1}
+{"The Biggest Loser Brunei": 1, "Lose It All": 1}
+{"American Idol": 1}
+{"Melodifestivalen 2003": 1}
+{"The Wire": 1}
+{"The Biggest Loser": 1}
+{"Adult contemporary music": 1}
+{}
+{"Newcastle United F.C.": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Gold Crown Tomb": 1}
+{}
+{"Shaka era": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Zumbo's Just Desserts": 1}
+{"Mystic Pizza": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Cincinnati Bearcats": 1, "football": 1}
+{}
+{"Minnesota Golden Gophers football": 1}
+{}
+{}
+{}
+{"The Muppets": 1, "Jim Henson": 1}
+{}
+{"Zumbo's Just Desserts": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Pettai": 1, "Karaikal": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Black Creek": 1, "Toronto": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"John Darling and Son": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Flying Childers": 1}
+{}
+{}
+{}
+{"The Daughters of Edward Darley Boit": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kadayawan Festival": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hundred Days' Reform": 1}
+{}
+{"Powwow Pond": 1}
+{}
+{}
+{}
+{}
+{}
+{"Dark Run": 1}
+{"Write This Down": 1}
+{}
+{}
+{}
+{"Little Crooked Run": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Wang Lin": 1, "badminton": 1}
+{"Empress Sh\u014dshi": 1}
+{"Empress Gou": 1}
+{"The Last Empress": 1}
+{"Empress of Mijak": 1}
+{}
+{}
+{"Geng Jimao": 1}
+{}
+{}
+{"Empress Qiang": 1}
+{}
+{}
+{"The White Suit": 1}
+{"Belgrade": 1}
+{}
+{}
+{}
+{"Moldova": 1, "1996 Summer Olympics": 1}
+{}
+{"Silence in Dreamland": 1}
+{}
+{}
+{}
+{}
+{}
+{"Yugoslavia": 1, "Olympics": 1}
+{"Cash Cab": 1}
+{}
+{"Kazakhstan": 1, "Olympics": 1}
+{"The Lost Language of Cranes": 1}
+{}
+{"The Skriker": 1}
+{}
+{"Secret of the Wings": 1}
+{"Shrek the Third": 1}
+{}
+{"Shrek": 1, "franchise": 1}
+{"Shrek 2": 1}
+{}
+{"Mirrorball": 1}
+{"Shrek the Halls": 1}
+{}
+{"Holding Out for a Hero": 1}
+{"Kung Fu Panda": 1}
+{"Princess Fiona": 1}
+{"The Rainbow Fairies": 1}
+{"Shrek": 1}
+{"Shrek": 1}
+{}
+{"Shrek": 1}
+{}
+{"Manchester City F.C.": 1}
+{"Everton F.C.": 1}
+{"Premier League": 1}
+{"1894\u201395 FA Cup": 1}
+{"Premier League": 1}
+{"FA Cup": 1}
+{"Michael Waltrip Racing": 1}
+{"Everton F.C.": 1}
+{"FA Cup": 1}
+{}
+{"Second City derby": 1}
+{"Singapore FA Cup": 1}
+{"FIFA World Cup": 1}
+{"Manchester United F.C.": 1}
+{"The Green Shack": 1}
+{}
+{}
+{}
+{"Caesars Palace": 1}
+{}
+{}
+{}
+{}
+{}
+{"Emma Peel": 1}
+{}
+{}
+{"Black Widow": 1, "Natasha Romanova": 1}
+{}
+{"The New Adventures of the Elusive Avengers": 1}
+{}
+{}
+{}
+{"Marvel Comics": 1}
+{"Captain America: Civil War": 1}
+{"A Beautiful Mind": 1}
+{}
+{"Avengers: Age of Ultron": 1}
+{}
+{"Black Widow": 1, "Natasha Romanova": 1}
+{}
+{"Captain America: Civil War": 1}
+{"Marvel Cinematic Universe": 1}
+{"Smash TV": 1}
+{"Lose the Boss": 1}
+{"Bigg Boss Kannada": 1}
+{}
+{}
+{"My Big Bossing": 1}
+{}
+{"The Fine Feathers": 1}
+{"A Boss in the Living Room": 1}
+{}
+{}
+{"The Expanse": 1}
+{"Bigg Boss": 1}
+{"The Boss": 1}
+{}
+{}
+{}
+{}
+{"World Film Company": 1}
+{"Bigg Boss Kannada": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Nila Kaalam": 1}
+{}
+{"Baseball glove": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Lily": 1, "Once Upon a Time": 1}
+{"Back to the Future": 1}
+{"Back to the Future": 1}
+{"DMC DeLorean": 1}
+{}
+{"Back to the Future Part II": 1}
+{"Back to the Future": 1}
+{"Back to the Future": 1}
+{"Back to the Future": 1}
+{}
+{}
+{"Back to the Future": 1}
+{"Back to the Future Part II": 1}
+{"Back to the Future": 1}
+{"Marty McFly": 1}
+{"Back to the Future Part III": 1}
+{"Chicago Cubs": 1}
+{"Back to the Future": 1, "soundtrack": 1}
+{}
+{"Back to Black": 1}
+{"1958 Asian Games": 1}
+{"Ticks": 1}
+{"1952 Winter Olympics": 1}
+{}
+{"Demon Thief": 1}
+{"The Messenger": 1, "Zusak": 1}
+{"2014 FIFA World Cup": 1}
+{}
+{}
+{"The Book Thief": 1}
+{}
+{}
+{"Albania": 1, "Olympics": 1}
+{"Somalia": 1, "2008 Summer Olympics": 1}
+{}
+{"1994 FIFA World Cup": 1}
+{"Eurovision Song Contest": 1}
+{"North Korea": 1, "Olympics": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Boom Blox": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Derek Jeter": 1}
+{"Roberto Clemente": 1}
+{"Little League Baseball": 1}
+{}
+{}
+{}
+{"Roberto Clemente": 1}
+{"Buster Posey": 1}
+{}
+{}
+{}
+{"Larry Doyle": 1, "baseball": 1}
+{}
+{}
+{"Major League Baseball": 1, "All-Star Game": 1, "Most Valuable Player Award": 1}
+{"Barry Bonds": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Cosby Show": 1}
+{}
+{}
+{}
+{"The Cosby Show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Heavy Rain": 1}
+{}
+{}
+{"The Official Story": 1}
+{"Norma K. Hemming": 1}
+{}
+{"Wilson Phillips": 1}
+{"Mary's Boy Child": 1}
+{}
+{}
+{"The Second Hurricane": 1}
+{}
+{"Victim of Romance": 1}
+{"This Child": 1}
+{}
+{"Romance on Film": 1, "Romance on Broadway": 1}
+{}
+{}
+{}
+{"Piano Sonata in A minor, D 784": 1, "Schubert": 1}
+{"Overture in the French style": 1, "BWV 831": 1}
+{"Fr\u00e9d\u00e9ric Chopin": 1}
+{}
+{"Clarinet Concerto No. 2": 1, "Weber": 1}
+{}
+{"Cello Concerto No. 2": 1, "Haydn": 1}
+{"Fr\u00e9d\u00e9ric Chopin": 1}
+{}
+{"Pezzo capriccioso": 1}
+{"Violin Concerto (Nielsen)": 1}
+{"Antonio Vivaldi": 1}
+{"Fr\u00e9d\u00e9ric Chopin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Gulf Coast Film Festival": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Thank You Shirl-ee May": 1}
+{}
+{"Life, Love and Leaving": 1}
+{}
+{}
+{"Thank God I Found You": 1}
+{"Best Days of Your Life": 1}
+{}
+{"I Love Life": 1, "Thank You": 1}
+{"Best Day Ever": 1}
+{}
+{"A Moment Like This": 1}
+{}
+{"I Wanna Be Loved by You": 1}
+{"Me Too": 1, "Meghan Trainor": 1}
+{}
+{"Live at the Palace": 1}
+{"Beyonc\u00e9": 1}
+{"Higher Love": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Olympian Village": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Marianne and Juliane": 1}
+{}
+{}
+{}
+{"Sousa Archives and Center for American Music": 1}
+{}
+{}
+{"Everywoman's Husband": 1}
+{}
+{}
+{}
+{"Sanghaganam": 1}
+{}
+{}
+{"Have You Seen Drum Recently?": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"51st state": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"PGA Tour": 1, "ABC": 1}
+{}
+{}
+{"Spider-Man (1967 TV series)": 1}
+{}
+{}
+{"Sony Music": 1}
+{"Grey's Anatomy": 1, "season 13": 1}
+{}
+{"The Cube": 1}
+{}
+{"NHL": 1, "ABC": 1}
+{}
+{"The Cracker Factory": 1}
+{"Super Hornio Brothers": 1}
+{"New York Yankees": 1}
+{"Scratchie Records": 1}
+{"Universal Pictures": 1}
+{"New York Giants": 1, "Radio Network": 1}
+{}
+{"The Deathless Devil": 1}
+{"Devil Hole Run": 1}
+{}
+{"Stay (Black Stone Cherry song)": 1}
+{}
+{"Devil's Angels": 1}
+{"The Devil Has Seven Faces": 1}
+{"Dr. Devil and Mr. Hare": 1}
+{"The Devil Went Down to Georgia": 1}
+{}
+{}
+{"Race with the Devil": 1}
+{}
+{}
+{"Loup Garou": 1}
+{"Black God, White Devil": 1}
+{"Devil's Highway": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"AFC U-23 Championship": 1}
+{"That Dam": 1}
+{}
+{}
+{"2018 FIFA World Cup": 1}
+{"Cricket World Cup": 1}
+{"Ice hockey": 1, "2018 Winter Olympics": 1, "Men's tournament": 1}
+{"British Masters": 1}
+{}
+{"2017 FIFA Confederations Cup": 1}
+{"2026 FIFA World Cup": 1}
+{"2017 FIFA Confederations Cup": 1}
+{"2015 Copa Am\u00e9rica": 1}
+{}
+{}
+{"1986 FIFA World Cup": 1}
+{"2016 FIFA Club World Cup": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Winnie-the-Pooh": 1}
+{}
+{}
+{}
+{}
+{}
+{"Snow White and the Huntsman": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Coupe de France": 1}
+{}
+{}
+{}
+{}
+{}
+{"Balbi Holy Conversation": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Punisher": 1}
+{"The Loud House": 1}
+{"Hamell on Trial": 1}
+{"Central Park Brass": 1}
+{}
+{"Edelweiss": 1}
+{"Never Too Loud": 1}
+{}
+{"Classical music": 1}
+{}
+{"Living Out Loud": 1}
+{"Fischerspooner": 1}
+{}
+{"Danko Jones": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"World Series": 1}
+{"Major League Baseball": 1}
+{"Los Angeles Dodgers": 1}
+{"Major League Baseball": 1}
+{"Los Angeles Dodgers": 1}
+{"World Series Most Valuable Player Award": 1}
+{"Kobe Bryant": 1}
+{"Montreal Expos": 1}
+{"Speed Racer": 1}
+{"Trojica u mraku": 1}
+{}
+{}
+{}
+{"Bowling for Soup": 1}
+{}
+{}
+{}
+{}
+{"Hong Kong Police Band": 1}
+{}
+{"Lamb of God": 1}
+{}
+{"Made in USA": 1, "Sonic Youth": 1, "album": 1}
+{}
+{"Xenomorph": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"PocketStation": 1}
+{}
+{"Apple TV": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Book of Ruth": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Glumpers": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Lessons": 1, "Star Trek: The Next Generation": 1}
+{"Lessons": 1, "Star Trek: The Next Generation": 1}
+{"Miracles": 1, "Jefferson Starship": 1}
+{}
+{}
+{"Gridlinked": 1}
+{}
+{}
+{"Star Trek: The Motion Picture": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dayton Project": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Day After Trinity": 1}
+{"Blue Bloods": 1, "season 7": 1}
+{}
+{"Blue Skies": 1, "Diana DeGarmo": 1}
+{}
+{"Grant's First Stand": 1}
+{}
+{}
+{"Hans Theessink": 1}
+{"Nothing But Blue Skies": 1}
+{"American Idol": 1}
+{}
+{"1968\u201369 NHL season": 1}
+{"Parisienne Walkways": 1, "The Blues Collection": 1}
+{"Blue Water High": 1}
+{}
+{}
+{"Blue Hills Ski Area": 1}
+{"DenGee Livin'": 1}
+{"Blue Bloods": 1, "season 8": 1}
+{"Silver's Serenade": 1}
+{"A Perfect Sky": 1}
+{}
+{"Tryin' to Live My Life Without You": 1}
+{"In Real Life": 1}
+{"Live at Memory Lane": 1}
+{}
+{}
+{"Living Loud": 1}
+{}
+{"Betty Carter": 1, "Village Vanguard": 1}
+{"This Ain't No Rag, It's a Flag": 1}
+{}
+{"Art of Life Live": 1}
+{"Madonna": 1}
+{"Waterfalls (album)": 1}
+{"Hawk Nelson": 1}
+{"Live at the Lighthouse": 1, "Elvin Jones": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Jana Gana Mana": 1}
+{}
+{"The Film that Wasn't": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"La Marseillaise": 1}
+{}
+{"Missing Person": 1}
+{"Varjak Paw": 1}
+{"PEN/Diamonstein-Spielvogel Award for the Art of the Essay": 1}
+{"Bharat Ratna": 1}
+{}
+{}
+{}
+{"Jennifer Lawrence": 1}
+{"The Goblin Emperor": 1}
+{}
+{}
+{}
+{}
+{"62nd Academy Awards": 1}
+{"RuPaul": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Assam Football Association": 1}
+{}
+{}
+{"Adam Davidson": 1}
+{}
+{}
+{"Derrynane GAA": 1}
+{}
+{"Persikasi Bekasi": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Black Cobain": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sicyon": 1, "mythology": 1}
+{}
+{"Wooden Heart": 1}
+{"Psi-ence Fiction": 1}
+{}
+{"The Eleventh Tiger": 1}
+{}
+{"The Infinity Race": 1}
+{"Postern of Fate": 1}
+{}
+{"Interference": 1}
+{"Dreams of Empire": 1}
+{"The Crooked World": 1}
+{"The Year of Intelligent Tigers": 1}
+{"Doctor Fate": 1}
+{}
+{"The Suns of Caresh": 1}
+{"The Fall of Yquatine": 1}
+{"Smallville": 1}
+{"Second Skin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"My Little Pony: Friendship Is Magic": 1, "season 8": 1}
+{}
+{}
+{"Made in USA": 1}
+{}
+{}
+{}
+{}
+{}
+{"Passage to Zarahemla": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Alma the Younger": 1}
+{"History of Joseph Smith by His Mother": 1}
+{}
+{}
+{}
+{"To a God Unknown": 1}
+{}
+{}
+{}
+{}
+{}
+{"State of Origin": 1}
+{"Battle of Kay": 1}
+{}
+{"Battle of Oldendorf": 1}
+{}
+{}
+{"Battle of Trenton": 1}
+{}
+{}
+{}
+{}
+{}
+{"Battle of Mine Creek": 1}
+{"Battle of Sablat": 1}
+{}
+{"Battle of Lundby": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Black Monday": 1}
+{}
+{"Black Monday": 1}
+{}
+{"National Basketball Association": 1}
+{}
+{}
+{}
+{}
+{}
+{"The Dice Spelled Murder": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Elevating Entertainment": 1, "Motion Pictures": 1}
+{"Honey in the Lion's Head": 1}
+{"Vijay Award for Best Male Playback Singer": 1}
+{}
+{"Blues for We": 1}
+{"Study in Brown": 1}
+{"Jam Session": 1}
+{"Papa's Got a Brand New Bag": 1}
+{}
+{}
+{}
+{}
+{}
+{"NBA": 1, "Defensive Player of the Year Award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dagenham idol": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Green Door Tavern": 1}
+{}
+{}
+{}
+{}
+{}
+{"I Can Only Imagine": 1, "MercyMe": 1}
+{"Light Sings": 1}
+{"Adult contemporary music": 1}
+{"I Can Only Imagine": 1, "MercyMe": 1}
+{}
+{}
+{"Adult contemporary music": 1}
+{}
+{}
+{"Adult contemporary music": 1}
+{"Minipops": 1}
+{}
+{}
+{}
+{"Closer": 1, "Josh Groban": 1, "album": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Vatican Cricket Team": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"It's What's Happenin'": 1}
+{"The Main Attraction": 1}
+{"YouTube": 1}
+{}
+{"You Belong to Me": 1}
+{"The Jazz Skyline": 1}
+{}
+{}
+{"Another Page": 1}
+{"The Return of the Fabulous Hofner Bluenotes": 1}
+{"Larry Norman": 1}
+{"Jessamine": 1}
+{"Crystal": 1, "Ahmad Jamal": 1}
+{"You Belong to Me": 1}
+{"Back of My Mind": 1}
+{"Aretha Franklin": 1}
+{"Something Personal": 1}
+{"Salt Song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sony Music": 1}
+{}
+{"Motown: The Musical": 1}
+{"Meteor Records": 1}
+{"Apple Records": 1}
+{"Come and Get It": 1, "Badfinger": 1}
+{"Desde El Principio": 1}
+{"American Idol": 1}
+{"Magic Christian Music": 1}
+{"Jeremy Camp": 1, "Understand": 1}
+{"BNA Records": 1}
+{"2014 Thai League Cup": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"United States men's national soccer team": 1}
+{}
+{"1972 Federation Cup": 1, "tennis": 1}
+{"Adidas Telstar 18": 1}
+{}
+{"A.C. Milan": 1}
+{}
+{}
+{}
+{}
+{"Fed Cup": 1}
+{"Tony Richards": 1}
+{"1914 FA Cup Final": 1}
+{"Arsenal F.C.": 1}
+{"Island of Doomed Men": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Temptation of Sarah Jane Smith": 1}
+{}
+{"The Incredible Sarah": 1}
+{"Goodbye, Sarah Jane Smith": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Proud Mary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Cosmic Boy": 1}
+{"Hollywood Nocturnes": 1}
+{}
+{}
+{}
+{"Cosmo's Cosmic Adventure": 1}
+{}
+{}
+{"Panther Park": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Super Bowl XXXVIII": 1}
+{}
+{"Corban Knight": 1}
+{"Bank of America Stadium": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Strangers No More": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Switched at Birth": 1}
+{"Jack & Diane": 1}
+{"Major League Baseball": 1}
+{}
+{"Hits (Mauro Scocco album)": 1}
+{"Sony Music": 1}
+{"Drop the Pilot": 1}
+{"Free Ride": 1}
+{}
+{}
+{"Roberta Flack": 1}
+{}
+{}
+{"Courtesy of the Red, White and Blue (The Angry American)": 1}
+{"Distant Drums": 1}
+{}
+{}
+{}
+{"The Black Death": 1}
+{"Death Note": 1, "2017 film": 1}
+{}
+{}
+{}
+{"Lord of the Nutcracker Men": 1}
+{}
+{"Better Call Saul": 1, "season 4": 1}
+{}
+{}
+{}
+{}
+{"The Turn of the Screw": 1}
+{"Love and Death in a Hot Country": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Casa de los Pinelo": 1}
+{}
+{}
+{}
+{}
+{"Campestre do Menino Deus": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Silent Sentinels": 1}
+{"Know Nothing": 1}
+{}
+{}
+{}
+{}
+{}
+{"Bajazet": 1}
+{}
+{"This Is Us": 1}
+{}
+{}
+{"The Mother": 1, "How I Met Your Mother": 1}
+{}
+{}
+{"The Mother": 1, "How I Met Your Mother": 1}
+{}
+{"How I Met Your Mother": 1}
+{"Mr. Freeze": 1}
+{}
+{"Lilla Crawford": 1}
+{"How I Met Your Mother": 1}
+{"How I Met Your Mother": 1}
+{"How I Met Your Mother": 1}
+{}
+{"How I Met Your Mother": 1}
+{"The Mother": 1, "How I Met Your Mother": 1}
+{"Batman: Under the Red Hood": 1}
+{"The Mother": 1, "How I Met Your Mother": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Come to My Window": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Realm of the Mad God": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Feast in the House of Levi": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Last Supper": 1, "del Castagno": 1}
+{}
+{"The Last Supper": 1, "Leonardo": 1}
+{}
+{}
+{}
+{}
+{"Jell-O": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Count von Count": 1}
+{"Let the Good Times Roll": 1, "Louis Jordan": 1}
+{}
+{}
+{"Have a Little Faith in Me": 1}
+{}
+{"Live at Lincoln Hall": 1}
+{"The Music Never Stopped": 1, "Grateful Dead": 1}
+{"Rock Garden": 1}
+{"Norah Jones DVD": 1}
+{"Rex (Live at the Fillmore)": 1}
+{"Fr\u00e9d\u00e9ric Chopin": 1}
+{}
+{"Dr. Evil": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Super Smash Bros.": 1}
+{"NFL": 1}
+{"Nintendo Entertainment System": 1}
+{"Super Bowl LV": 1}
+{"Super Bowl XXXII": 1}
+{"Super Bowl": 1}
+{"Nintendo Entertainment System": 1}
+{"Super Mario Bros. 2": 1}
+{"Packy and Marlon": 1}
+{"Electronic Super Joy": 1}
+{"Super Bowl": 1}
+{"Mega Man X Collection": 1}
+{"Super Nintendo Entertainment System": 1}
+{"Wario Land: Super Mario Land 3": 1}
+{"New Super Mario Bros. Wii": 1}
+{"Battle Clash": 1}
+{"Super Nintendo Entertainment System": 1}
+{"Stunt Race FX": 1}
+{"Super Bowl XXXVII": 1}
+{"Celeste": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Children of the Company": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Found Drowned": 1}
+{}
+{"Classical music": 1}
+{"Sonata pian' e forte": 1}
+{}
+{"Sonata for Microtonal Piano": 1, "Ben Johnston": 1}
+{}
+{"Bridge of Sighs": 1}
+{}
+{}
+{}
+{"Plenty, Plenty Soul": 1}
+{}
+{"I'm Lovin' It": 1}
+{"Ain't Living Long Like This": 1}
+{}
+{"Groovin' with Golson": 1}
+{"Tijuana Jazz": 1}
+{"Lovin' All Night": 1}
+{"Happiness Is You": 1}
+{"Jazz Contemporary": 1}
+{"United States Olympic Training Center": 1}
+{}
+{}
+{}
+{}
+{}
+{"Sacramento Kings": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Face/Off": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bardoli Satyagraha": 1}
+{}
+{}
+{}
+{}
+{"Bardwell Creek": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hellier Stradivarius": 1}
+{"My Fair Lady": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Gresham Palace": 1}
+{}
+{}
+{"Miracle on 34th Street": 1}
+{"Durham Bulls": 1}
+{"The Wiz": 1}
+{"Thelma Hopkins": 1}
+{"Breakwater Cat": 1}
+{}
+{"That Certain Something": 1}
+{"The Proud and Profane": 1}
+{"A League of Their Own": 1}
+{}
+{"Steve Bell": 1, "soccer": 1}
+{}
+{"Bewitched": 1}
+{"Cemaes Bay F.C.": 1}
+{"Jesse Stone: Lost in Paradise": 1}
+{"Grand Slam": 1, "women's doubles champions": 1}
+{"A Hole in the Head": 1}
+{"Family Guy": 1}
+{"Female buddy film": 1}
+{"Thelma & Louise": 1}
+{}
+{"The Nightmare Before Christmas": 1}
+{"Nightshade": 1}
+{"International Karate": 1}
+{}
+{}
+{"Is Genesis History?": 1}
+{"Super Nintendo Entertainment System": 1}
+{"Chakan: The Forever Man": 1}
+{}
+{}
+{"Super Nintendo Entertainment System": 1}
+{}
+{}
+{}
+{}
+{"Separation of Light from Darkness": 1}
+{"Sonic the Hedgehog": 1, "1991 video game": 1}
+{"American Idol": 1}
+{"American Idol": 1}
+{"American Idol": 1}
+{}
+{"American Idol": 1}
+{"Whataya Want from Me": 1}
+{"American Idol": 1}
+{"American Idol": 1}
+{"American Idol": 1}
+{}
+{}
+{"American Idol": 1}
+{"American Idol": 1}
+{"Sirasa Superstar": 1}
+{"American Idol": 1}
+{"American Idol": 1}
+{"The Great Indian Laughter Challenge": 1}
+{"RuPaul's Drag Race All Stars": 1}
+{}
+{}
+{}
+{}
+{}
+{"Listry GAA": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Patriot Day": 1}
+{"Death Studies": 1}
+{}
+{"2023 Rugby World Cup": 1}
+{"Matthew Webb": 1}
+{}
+{}
+{"The Truth About Men": 1}
+{}
+{}
+{"Arena Football League": 1}
+{}
+{"When a Stranger Calls": 1, "2006 film": 1}
+{"Hooray for Bix": 1}
+{}
+{}
+{}
+{"Lindum Valley": 1}
+{}
+{}
+{}
+{"King Arthur": 1}
+{"Porrex II": 1}
+{}
+{}
+{}
+{"Britannia Hospital": 1}
+{}
+{"Natoker Moto": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Assi Tubi": 1}
+{}
+{"NBA": 1}
+{}
+{}
+{}
+{"Premier League": 1}
+{}
+{"UEFA Euro 2016": 1}
+{"Wigan Warriors": 1}
+{}
+{"Premier League": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Village of Waiting": 1}
+{"The Unwinding": 1}
+{}
+{}
+{}
+{}
+{}
+{"2017 ICC Champions Trophy Final": 1}
+{"ICC Champions Trophy": 1}
+{"National Film Award for Best Actress": 1}
+{}
+{}
+{"Bharat Ratna": 1}
+{"National Film Award for Best Supporting Actress": 1}
+{}
+{"National Film Award for Best Actress": 1}
+{}
+{"2017 ICC Champions Trophy Final": 1}
+{"Filmfare Awards": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Juno Award": 1}
+{"Take Me Home Tonight": 1}
+{"Frank Sinatra": 1, "Johnny Mercer": 1}
+{"Street Corner Symphony": 1}
+{"Sing You Sinners": 1}
+{}
+{"Castle on the Hudson": 1}
+{"Marni Nixon": 1}
+{"Annie (musical)": 1}
+{"Crash My Party": 1}
+{"Boulevard of Broken Songs": 1}
+{"Streets of Fire": 1}
+{"I Love to Sing the Songs I Sing": 1}
+{}
+{"Home Alone Tonight": 1}
+{"50 First Dates": 1}
+{"The Twinkler": 1}
+{}
+{"The LeFevres": 1}
+{"Major League Baseball": 1}
+{"Barry Bonds": 1}
+{}
+{}
+{"Major League Baseball": 1}
+{"Major League Baseball": 1}
+{}
+{}
+{"1951 FA Cup Final": 1}
+{}
+{"1936 FA Cup Final": 1}
+{"Indian football": 1}
+{"1959 FA Cup Final": 1}
+{"1931 FA Cup Final": 1}
+{"Arsenal F.C.": 1}
+{"1872 FA Cup Final": 1}
+{}
+{}
+{}
+{}
+{"Nuchhungi Renthlei": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Milkha Singh": 1}
+{}
+{}
+{}
+{"Gambia women's national football team": 1}
+{}
+{"The Sun": 1}
+{"Give My Love to Rose": 1}
+{}
+{"The Sun": 1}
+{}
+{"Ole Rasmussen": 1, "footballer": 1}
+{}
+{}
+{}
+{"Under the Sun": 1, "Ida Corr": 1, "album": 1}
+{}
+{"Sam's Place": 1}
+{}
+{}
+{"Women's football": 1, "East Germany": 1}
+{}
+{"Sister Mary Explains It All": 1}
+{"Adam-12": 1}
+{}
+{"The Family Stone": 1}
+{"Seven Chances": 1}
+{"Back to the Future": 1}
+{}
+{}
+{"Jumanji: Welcome to the Jungle": 1}
+{}
+{}
+{"Back to the Future Part II": 1}
+{"Jumanji: Welcome to the Jungle": 1}
+{"Alex P. Keaton": 1}
+{}
+{"Yamaha Royal Star Venture": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Engleby": 1}
+{}
+{}
+{}
+{}
+{"Tam\u00e1stslikt Cultural Institute": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Anniyan": 1}
+{}
+{"Red Dead Redemption 2": 1}
+{}
+{"92 KQRS Morning Show": 1}
+{}
+{"Fr\u00e9d\u00e9ric Chopin": 1}
+{}
+{"Fortnite": 1}
+{}
+{"Two Minutes Silence": 1}
+{"Painting (Blue Star)": 1}
+{}
+{}
+{}
+{"2014 FIFA World Cup": 1, "Group G": 1}
+{}
+{"Lords of the Fallen": 1}
+{"Beyonc\u00e9": 1}
+{}
+{}
+{"La La La (Never Give It Up)": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"George Matthews": 1}
+{"Kansas City Symphony": 1}
+{"Defunkt": 1}
+{"Orpheus Club of Philadelphia": 1}
+{}
+{}
+{}
+{}
+{"Epistle of James": 1}
+{}
+{"Credo": 1}
+{}
+{}
+{}
+{"Epistle of James": 1}
+{"The Gods of Guilt": 1}
+{"This Is My God": 1}
+{}
+{}
+{"Storm of the Century": 1}
+{"The Life of Emile Zola": 1}
+{}
+{}
+{"Moonwalk": 1}
+{}
+{}
+{}
+{"Harrysong": 1}
+{"Hoji Fortuna": 1}
+{"Move Ya Body": 1}
+{}
+{"Nina Sky": 1}
+{"Broomball Australia": 1}
+{}
+{}
+{}
+{"Charles in Charge": 1}
+{}
+{}
+{"The Incredible Sound Machine": 1}
+{"Intuition Peak": 1}
+{}
+{"Bennigsen Beavers": 1}
+{"Al Michaels": 1, "American football": 1}
+{"Cleveland Indians": 1}
+{"National Hockey League": 1}
+{"Arena Football League": 1}
+{"2018 Major League Baseball season": 1}
+{}
+{"Hard Knocks": 1}
+{"Chicago Cubs": 1}
+{}
+{}
+{"Major League Baseball": 1}
+{"Dundas Shamrocks Junior Rugby League Football Club": 1}
+{"NFL": 1}
+{"Cleveland Browns": 1}
+{"West Dallas Kings": 1}
+{}
+{}
+{"Cleveland Bulldogs": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Randers FC": 1}
+{}
+{}
+{}
+{}
+{"Lyngby Boldklub": 1}
+{}
+{"Hobro IK": 1}
+{"Denmark national futsal team": 1}
+{"Danish Superliga": 1}
+{}
+{}
+{}
+{}
+{"Svend Nielsen": 1}
+{}
+{"Rhyl and District RFC": 1}
+{"FC Vestsj\u00e6lland": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"51st state": 1}
+{}
+{}
+{}
+{}
+{}
+{"The Bourne Deception": 1}
+{"Bourne": 1}
+{"The Bourne Ultimatum": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Bourne Legacy": 1}
+{}
+{}
+{"The Bourne Sanction": 1}
+{"The Bourne Legacy": 1}
+{}
+{"Prizes": 1}
+{"The Bourne Supremacy": 1}
+{"The Bourne Betrayal": 1}
+{}
+{"General Hospital": 1}
+{}
+{}
+{}
+{}
+{}
+{"Bee Gees": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Sitwells": 1}
+{}
+{}
+{}
+{}
+{"The Rain": 1}
+{"General Hospital": 1}
+{}
+{"Vermont Lady Voltage": 1}
+{"Major League Baseball": 1}
+{"Fatorda Stadium": 1}
+{}
+{"Washington Capitals": 1}
+{"Major League Baseball": 1}
+{}
+{"Utah Jazz": 1}
+{"Green Bay Packers": 1}
+{"Chicago Cubs": 1}
+{"Die Hard Trilogy 2": 1, "Viva Las Vegas": 1}
+{"Ars Nova": 1}
+{}
+{}
+{}
+{"Orange Is the New Black": 1}
+{"The Night Shift": 1}
+{}
+{}
+{}
+{"The Night Shift": 1}
+{"Samurai Jack": 1, "season 5": 1}
+{"Bend It Until It Breaks": 1}
+{}
+{}
+{}
+{}
+{"House music": 1}
+{"Peace on Earth": 1, "War on Stage": 1}
+{"Meet the Press": 1}
+{"Nearer, My God, to Thee": 1}
+{"Xiaolongn\u00fc": 1}
+{"The Three-Day Reign": 1}
+{"Dreams": 1, "Fleetwood Mac": 1}
+{"Castle of Dreams": 1}
+{}
+{}
+{"We Were in Love": 1}
+{}
+{"Royal Edinburgh Military Tattoo": 1}
+{"Pete's Dragon": 1, "2016 film": 1}
+{}
+{}
+{"Dragon Dreams": 1}
+{}
+{}
+{}
+{"Greatest Hits: The Sound of Money": 1}
+{"Ghost Whisperer": 1}
+{"Money (1921 film)": 1}
+{"The Young and the Restless": 1}
+{}
+{}
+{}
+{}
+{}
+{"Basketball Wives LA": 1}
+{}
+{}
+{"Big Money Hustlas": 1}
+{"Abby Sciuto": 1}
+{"Think I'm in Love": 1, "Eddie Money": 1}
+{}
+{"Keeping Up with the Kardashians": 1}
+{"The New Colossus": 1}
+{"Saturday Night Live": 1, "season 5": 1}
+{"UEFA Europa League": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Battle of the Kentish Knock": 1}
+{}
+{"Po Mo Knock Knock": 1}
+{}
+{"Battle of Uhud": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Mirage Rock": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kwangmy\u014fngs\u014fng-1": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"1998 FIFA World Cup": 1}
+{}
+{"Cricket World Cup": 1}
+{"Ice hockey": 1, "2018 Winter Olympics": 1, "Women's tournament": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Blood Stain Child": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Apocalypse Now": 1}
+{"Dr. Erich Salomon Award": 1}
+{}
+{"Blind Husbands": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Villa Wartholz": 1}
+{"Battle of Puebla": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Nice & Wild": 1}
+{"So Nice": 1, "James Cottriall": 1}
+{}
+{"Nice for What": 1}
+{"Tony! Toni! Ton\u00e9!": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Adriana Caselotti": 1}
+{"Avengers: Infinity War": 1}
+{"Black Widow": 1, "Natasha Romanova": 1}
+{"Meg Griffin": 1}
+{}
+{}
+{}
+{}
+{}
+{"Klickitat War": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Halloween": 1}
+{}
+{}
+{}
+{"You Were on My Mind": 1}
+{}
+{}
+{}
+{"Papa Roach": 1}
+{"Athletics": 1, "1908 Summer Olympics": 1, "Men's 3 miles team race": 1}
+{}
+{}
+{"Getting Away with Murder": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Joe Jones": 1, "baseball": 1}
+{}
+{}
+{}
+{}
+{"Cabinet of Franjo Greguri\u0107": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Pithecanthropus Erectus": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Walk on the Wild Side": 1, "Lou Reed": 1}
+{"Darlings": 1, "Kevin Drew": 1, "album": 1}
+{}
+{}
+{"Jalanan": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ida Darling": 1}
+{"Darling Scarp": 1}
+{"Beauty and the Beast": 1, "2017 film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Fall": 1, "Serena Ryder": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Chef": 1, "South Park": 1}
+{}
+{"South Park": 1}
+{}
+{"Buzz Lightyear": 1}
+{}
+{"A Pi\u00f1ata Named Desire": 1}
+{}
+{}
+{}
+{"Insecurity": 1, "South Park": 1}
+{"Seed of Chucky": 1}
+{"Gemini Division": 1}
+{"Rapture's Delight": 1}
+{"Steve Smith": 1, "American Dad!": 1}
+{"Dog with a Blog": 1}
+{"Dog Star Man": 1}
+{"Not What He Seems": 1}
+{}
+{}
+{}
+{}
+{}
+{"The Landlord's Game": 1}
+{"Poptropica": 1}
+{}
+{}
+{}
+{"Elizabeth and After": 1}
+{}
+{}
+{"Pride and Prejudice": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Pathology (band)": 1}
+{"FC Barcelona": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Christian S\u00e1nchez": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dave's Old Porn": 1}
+{"The Mickey Mouse Club": 1}
+{}
+{"Mickey's Revue": 1}
+{"Old Grey Whistle Theft": 1}
+{"Phantom Blot": 1}
+{}
+{"Britain & Ireland's Next Top Model": 1}
+{"Metal Mickey": 1}
+{}
+{"Mickey Mouse": 1}
+{}
+{"Rivers of Fire and Ice": 1}
+{"Mickey's Safari in Letterland": 1}
+{"Mickey's Big Game Hunt": 1}
+{"The Challenge": 1}
+{"The Famous Jett Jackson": 1}
+{}
+{}
+{}
+{"Death Note: Light Up the New World": 1}
+{}
+{"Little Miss Sunshine": 1}
+{}
+{"Planet of the Apes": 1, "1968 film": 1}
+{"Lost (TV series)": 1}
+{"The Choice": 1}
+{}
+{"Between Miracles": 1}
+{"Captain America: The Winter Soldier": 1}
+{"Grease": 1}
+{"Ski Party": 1}
+{"Snow White and the Huntsman": 1}
+{}
+{"The Beach": 1}
+{"Muscle Beach Party": 1}
+{"Bug": 1}
+{"Le pillole di Ercole": 1}
+{}
+{}
+{"Happy Feet": 1}
+{}
+{}
+{}
+{}
+{"The Skin of Our Teeth": 1}
+{"Hellfire: A Journey from Hiroshima": 1}
+{"Upstage": 1}
+{}
+{"The Happy Journey to Trenton and Camden": 1}
+{}
+{"Camden Indians": 1}
+{"The Journey of Jared Price": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"La Paz F.C.": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Olive": 1, "San Louie Anderson": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Tonga Major League": 1}
+{"NBA": 1}
+{"UEFA Euro 2012 Final": 1}
+{"WWE Universal Championship": 1}
+{}
+{"Formula One": 1, "World Drivers' Champions": 1}
+{"1968 FIBA Intercontinental Cup": 1}
+{"UEFA": 1}
+{"IIHF World Championship": 1}
+{}
+{"WWE": 1, "Intercontinental Champions": 1}
+{"Cowboys\u2013Steelers rivalry": 1}
+{"Extreme Rules": 1}
+{"Fingal Ravens GAA": 1}
+{"Premier League": 1}
+{}
+{"Manchester United F.C.": 1, "European football": 1}
+{}
+{"Falling Out": 1, "Serena Ryder": 1, "album": 1}
+{"Queen Dong": 1}
+{"The Dick Knost Show": 1}
+{"Isotopes Park": 1}
+{"Daejeon Hanbat Baseball Stadium": 1}
+{"Chicago Cubs": 1}
+{}
+{"Dick's Sporting Goods Park": 1}
+{"Rugby League Tri-Nations": 1}
+{"Centro Social Deportivo Barber": 1}
+{}
+{}
+{"Lehigh Valley IronPigs": 1}
+{}
+{"Colorado Rapids": 1}
+{"Canadian Football League": 1}
+{}
+{"Nestor Morales Stadium": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Still Swingin'": 1}
+{}
+{}
+{"Kamilla and the Thief": 1}
+{"Donkey Kong": 1}
+{"2012 African Cross Country Championships": 1}
+{"The Black Mask": 1}
+{"Where Dead Voices Gather": 1}
+{"Zimbabwe": 1, "Olympics": 1}
+{"The Book Thief": 1}
+{}
+{}
+{"The Conquest of Granada": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"A Football Life": 1}
+{}
+{}
+{}
+{}
+{}
+{"Pretty in Pink": 1}
+{}
+{"First Light": 1, "Freddie Hubbard": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Nansen Refugee Award": 1}
+{}
+{}
+{}
+{}
+{"The Night in Lisbon": 1}
+{}
+{"Chasing News": 1}
+{}
+{}
+{}
+{}
+{"Law of the Plainsman": 1}
+{"Big Brother": 1}
+{}
+{"The Lawrence Welk Show": 1}
+{}
+{"Walt Disney anthology television series": 1}
+{"Celebrity Big Brother": 1}
+{"Celebrity Big Brother": 1}
+{}
+{"Full House": 1}
+{}
+{"Cold Turkey": 1}
+{"K. B. Blues": 1}
+{"Wild Thing": 1, "Tone L\u014dc": 1}
+{"Face of a Fighter": 1}
+{"Flip Records": 1}
+{"Strange Little Girl": 1}
+{"Sony Music": 1}
+{"Blues": 1}
+{"Dragonfly": 1, "Masami Okui": 1, "album": 1}
+{"Go Down Records": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Dauphin": 1, "Star Trek: The Next Generation": 1}
+{}
+{"The Man in the High Castle": 1}
+{"Friday": 1}
+{"The Sopranos": 1}
+{"Silicon Avatar": 1}
+{"Big Giant Swords": 1}
+{"Doctor Who": 1}
+{"Australia's Next Top Model": 1}
+{}
+{}
+{"The Kids Rob a Train": 1}
+{"Next Caller": 1}
+{"Fire Emblem": 1}
+{"Super Gem Fighter Mini Mix": 1}
+{"The Sopranos": 1}
+{"Super Chinese Fighter EX": 1}
+{"Steven Universe": 1, "episodes": 1}
+{"The Kids Run the Restaurant": 1}
+{}
+{}
+{}
+{}
+{"New Coke": 1}
+{}
+{}
+{}
+{}
+{}
+{"Coca-Cola Cowboy": 1}
+{}
+{}
+{}
+{}
+{"Alabama\u2013Georgia football rivalry": 1}
+{"Florida\u2013Georgia football rivalry": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Luck Luck Ki Baat": 1}
+{"Dead Horse Bay": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Irish Film Archive": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Anna und die Liebe": 1}
+{}
+{"Chicago Cubs": 1}
+{"Zinedine Zidane": 1}
+{}
+{"Montreal Impact": 1}
+{"Kalamazoo Kingdom": 1}
+{"Lord Lewis Prize": 1}
+{"Leroy P. Steele Prize": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Human Centipede (First Sequence)": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"National Basketball Association": 1}
+{}
+{}
+{}
+{"Dwyane Wade": 1}
+{"Rik Smits": 1}
+{"Cedric Henderson": 1, "basketball": 1}
+{}
+{"National Basketball Association": 1}
+{}
+{}
+{}
+{}
+{}
+{"NBA": 1}
+{"NBA": 1}
+{"NBA": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sweetwater Mansion": 1}
+{}
+{"Ozarks": 1}
+{}
+{}
+{}
+{"Tex Beneke": 1}
+{"Battle of Manila Bay": 1}
+{}
+{}
+{"Battle of Palembang": 1}
+{}
+{"Battle of Baguio": 1}
+{}
+{}
+{"Battle of Gnila Lipa": 1}
+{}
+{"Battle of the Border": 1}
+{"Miss USA": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Push, Nevada": 1}
+{"Dazed and Confused": 1}
+{}
+{}
+{"Push It": 1, "Salt-n-Pepa": 1}
+{}
+{"Push, Nevada": 1}
+{}
+{}
+{"The Streets of Ankh-Morpork": 1}
+{"Push Play (EP)": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Glass Beach": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Fr\u00e9d\u00e9ric Chopin": 1}
+{"Fr\u00e9d\u00e9ric Chopin": 1}
+{}
+{"Fr\u00e9d\u00e9ric Chopin": 1}
+{"A Farewell to Arms": 1}
+{}
+{"Fr\u00e9d\u00e9ric Chopin": 1}
+{}
+{"The Storm": 1}
+{}
+{"Fr\u00e9d\u00e9ric Chopin": 1}
+{}
+{}
+{}
+{}
+{"Fr\u00e9d\u00e9ric Chopin": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Classical music": 1}
+{}
+{}
+{}
+{}
+{}
+{"Classical music": 1}
+{"A Good Day to Die Hard": 1}
+{"Classical music": 1}
+{}
+{"Gorleston Psalter": 1}
+{}
+{"Melodifestivalen": 1, "1973": 1}
+{}
+{"24 (TV series)": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Star Wars sequel trilogy": 1}
+{}
+{}
+{}
+{"James Clavell": 1}
+{}
+{}
+{"Australia": 1}
+{"War of the Coprophages": 1}
+{"Summer of '42": 1}
+{"Blood (The X-Files)": 1}
+{}
+{}
+{"Peaky Blinders": 1}
+{"NRL": 1, "Mascot Mania": 1}
+{"At the Moulin Rouge": 1}
+{}
+{}
+{"Svoboda Factory Club": 1}
+{"Home (2012 film)": 1}
+{}
+{}
+{"Gallant Fox": 1}
+{}
+{}
+{"Mascot Madness": 1}
+{}
+{"What Katy Did": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Song of Songs": 1}
+{}
+{}
+{"All in a Day": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Pretty Little Liars": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Oak Island": 1}
+{}
+{}
+{}
+{}
+{"The Big Bamboo": 1}
+{"Battle of Seven Oaks": 1}
+{"Bamboo Among the Oaks": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Seal Online": 1}
+{"The Real L Word": 1}
+{}
+{}
+{"Hopkins": 1}
+{"Royal Bengal Rahashya": 1}
+{"Balance of Power": 1}
+{}
+{}
+{}
+{}
+{"United States of Tara": 1}
+{}
+{}
+{}
+{"True Life": 1}
+{}
+{"Clark and Michael": 1}
+{}
+{"The Big Arvo": 1}
+{}
+{"Don't You (Forget About Me)": 1}
+{}
+{"Reporters": 1}
+{"Here in My Heart": 1, "Tiffany": 1}
+{"Peoples Temple": 1}
+{"Madonna": 1}
+{"Breakfast at Tiffany's": 1}
+{}
+{"Breakfast at Tiffany's": 1}
+{"Tiffany Memorandum": 1}
+{}
+{}
+{"Five Days from Home": 1}
+{"Daybreak Northern Ireland": 1}
+{"Moon River": 1}
+{"Tiffany Valentine": 1}
+{"Breakfast at Tiffany's": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Family Guy": 1}
+{}
+{"Mickey Mouse Disco": 1}
+{}
+{"Mickey Mouse": 1}
+{"Family Guy": 1}
+{"Mickey Mouse": 1}
+{"All Grown Up!": 1}
+{}
+{}
+{"The Mickey Rooney Show": 1}
+{}
+{}
+{}
+{"Guyer Rock": 1}
+{"Fringe Rocks": 1}
+{}
+{}
+{"Malcolm Graham": 1}
+{"Miller Heights": 1}
+{}
+{}
+{}
+{}
+{"Flounder Island": 1}
+{"Macbeth": 1, "King of Scotland": 1}
+{}
+{}
+{"Mido": 1}
+{}
+{"Ray Stewart": 1, "Scottish footballer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Lots More Blues": 1, "Rags": 1, "Hollers": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Harris Theater": 1, "Chicago": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Al Markada": 1}
+{"Mezzanotte d'amore": 1}
+{}
+{"Bassel al-Assad Stadium": 1}
+{"Juventas New Music Ensemble": 1}
+{}
+{}
+{"Tabula Rogeriana": 1}
+{}
+{"Alf Clausen": 1}
+{"Dibba Al-Hisn Sports Club": 1}
+{}
+{}
+{"Chagar Bazar": 1}
+{"Driving Miss Daisy": 1}
+{}
+{"One Tree Hill": 1, "season 6": 1}
+{"A Very Brady Christmas": 1}
+{}
+{"The Hateful Eight": 1}
+{"States of Grace": 1}
+{"Heavenly Days": 1}
+{"Casablanca": 1}
+{"French Connection II": 1}
+{"Cult of Chucky": 1}
+{"The Conman": 1}
+{}
+{"Devara Naadalli": 1}
+{"The Jade Pussycat": 1}
+{"Deepwater Horizon": 1}
+{"EastEnders": 1}
+{}
+{"San Andreas": 1}
+{"Howie Williams": 1, "basketball": 1}
+{"Super Bowl": 1, "curse": 1}
+{"Philadelphia Eagles": 1}
+{"Lacrosse": 1, "1932 Summer Olympics": 1}
+{"Iron Bowl": 1}
+{}
+{"La Liga": 1}
+{"New England Patriots": 1}
+{"FC Barcelona": 1}
+{"La Liga": 1}
+{"La Liga": 1}
+{}
+{"Paul Rowe": 1, "Canadian football": 1}
+{"2016 NCAA Division I Baseball Tournament": 1}
+{"Houston Astros": 1}
+{"The Swift Show": 1}
+{"Yoshi": 1}
+{"Yoshi's Story": 1}
+{"WWE 2K18": 1}
+{"Nintendo La Rivista Ufficiale": 1}
+{"Super Mario Bros. 3": 1}
+{"Philips CD-i": 1}
+{"Warlocked": 1}
+{"Little Samson": 1}
+{"Nintendo Entertainment System": 1}
+{"Kirby's Dream Land": 1}
+{}
+{"Yoshi's Woolly World": 1}
+{"Raving Rabbids: Alive & Kicking": 1}
+{"Kirby's Return to Dream Land": 1}
+{"MLB Tonight": 1}
+{"America's Cup": 1}
+{"Major League Baseball": 1, "All-Star Games": 1}
+{"How I Met Your Mother": 1}
+{}
+{}
+{"How I Met Your Mother": 1}
+{}
+{"Ted Mosby": 1}
+{"Ted Mosby": 1}
+{}
+{"Nothing Suits Me Like a Suit": 1}
+{}
+{"Karma": 1, "How I Met Your Mother": 1}
+{}
+{}
+{}
+{}
+{"How I Met Your Mother": 1}
+{}
+{}
+{}
+{"The Last of the Mohicans": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Legend of Zelda: Twilight Princess": 1}
+{}
+{"Beyond Twilight": 1}
+{"The Twilight Saga": 1}
+{"The Legend of Zelda: Twilight Princess": 1}
+{"The Legend of Neil": 1}
+{"A Thousand Years": 1, "Christina Perri": 1}
+{"Real Life (I Never Was the Same Again)": 1}
+{"The Twilight Saga": 1}
+{"The Legend of Zelda: Twilight Princess": 1}
+{"Escape Plan": 1}
+{"The Legend of Zelda: Twilight Princess": 1}
+{}
+{"A Series of Unfortunate Events": 1}
+{"The Legend of Zelda: Twilight Princess": 1}
+{"The Legend of Zelda: Twilight Princess": 1}
+{"Tattoos & Tequila": 1}
+{}
+{"Freak Dance": 1}
+{"The Flash": 1}
+{}
+{"KVN": 1}
+{"2004 Summer Olympics": 1}
+{"Olympic Channel": 1}
+{"Ex on the Beach": 1}
+{"Datsun Sports": 1}
+{}
+{}
+{}
+{"Winning Colors": 1}
+{}
+{"1967 Italian Grand Prix": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Colonel and the King": 1}
+{"Won by a Fish": 1}
+{"The Renunciation": 1}
+{"As It Is In Life": 1}
+{}
+{}
+{}
+{}
+{}
+{"Joy and the Dragon": 1}
+{}
+{}
+{}
+{}
+{}
+{"The Model Husband": 1}
+{}
+{"Mike Barrett": 1, "basketball": 1}
+{"The Phantom of the Opera": 1, "musical": 1}
+{"How the West Was Won": 1}
+{}
+{"Virginia Tech\u2013West Virginia football rivalry": 1}
+{}
+{}
+{}
+{"Denver Broncos": 1}
+{"Houston Astros": 1}
+{"Cricket World Cup": 1}
+{}
+{}
+{}
+{}
+{"A Kid for Two Farthings": 1}
+{}
+{"The Goddess of Sagebrush Gulch": 1}
+{}
+{}
+{}
+{"The Weight of the Nation": 1}
+{}
+{}
+{"Growing Up American": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Switched at Birth": 1}
+{}
+{}
+{}
+{}
+{}
+{"Ernest Rides Again": 1}
+{"Chicago": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Captain Mike Across America": 1}
+{}
+{}
+{}
+{}
+{}
+{"CNN": 1, "YouTube": 1, "presidential debates": 1}
+{}
+{}
+{}
+{"International Workers' Olympiads": 1}
+{"Kiltormer GAA": 1}
+{"Hellnight": 1}
+{"Yeoman Football Club": 1}
+{"Beara GAA": 1}
+{"St Senans": 1, "Kerry": 1, "GAA": 1}
+{"Picross 3D": 1}
+{}
+{"Association football": 1}
+{}
+{"Association football": 1}
+{"Women's National Book Association": 1}
+{"AFL Premiership": 1, "2007": 1}
+{"Adventures of Lolo 2": 1}
+{"Senior Bowl": 1}
+{}
+{"Sri Lanka Matha": 1}
+{"Godsmack": 1}
+{"Colder Weather": 1}
+{}
+{"The Devil Went Down to Georgia": 1}
+{"Love Is a Drug": 1, "Eskimo Joe": 1}
+{"The Story": 1}
+{"The Littlest Hobo": 1}
+{"Go Tell It on the Mountain": 1}
+{"Same Old Lang Syne": 1}
+{"Puttin' On the Ritz": 1}
+{"I'll Be Over You": 1}
+{"Give Up the Ghost": 1}
+{"Glad to Be Unhappy": 1}
+{"We Got Hood Love": 1}
+{}
+{}
+{"By the Light of the Silvery Moon": 1}
+{"Red Red Wine": 1}
+{"You'll Never Walk Alone": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Clerke Rocks": 1}
+{}
+{}
+{}
+{}
+{"The Age of Reason": 1}
+{}
+{}
+{"Arthur": 1}
+{}
+{"The Old Man and the Sea": 1}
+{}
+{}
+{"Crumbling Idols": 1}
+{"Wednesday Is Indigo Blue": 1}
+{}
+{}
+{}
+{"Patchwork Girl": 1}
+{}
+{}
+{"New Testament": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Redeeming Love": 1}
+{}
+{}
+{}
+{}
+{}
+{"The Apple Dumpling Gang": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Wednesday Addams": 1}
+{}
+{"Lord Loss": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Gone Tomorrow": 1}
+{}
+{}
+{"Sega Genesis": 1}
+{"Chicago Cubs": 1}
+{"Altar": 1, "Bible": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Smokey and the Bandit": 1}
+{}
+{}
+{}
+{}
+{"Kobe Bryant": 1}
+{}
+{"LeBron James": 1}
+{}
+{"NBA": 1, "2016 NBA Summer League": 1}
+{}
+{}
+{"LeBron James": 1}
+{}
+{"2016 Major League Baseball All-Star Game": 1}
+{"Busting Loose": 1}
+{}
+{}
+{"Ernest Tubb": 1, "Hank Williams": 1}
+{}
+{"Israel Sports Center for the Disabled": 1}
+{}
+{"A Cure for Wellness": 1}
+{}
+{"What Remains of Edith Finch": 1}
+{"Legally Blonde: The Musical": 1, "Elle Woods": 1}
+{}
+{"The Thundermans": 1}
+{}
+{}
+{}
+{"Cheaper by the Dozen": 1, "2003 film": 1}
+{}
+{}
+{}
+{"Tetrisphere": 1}
+{"Drac's Night Out": 1}
+{"Broforce": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Premier League": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Star Trek: Birth of the Federation": 1}
+{}
+{}
+{"A\u011flama Bebe\u011fim": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hello, My Twenties!": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Shostakovich Peninsula": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Gone Girl": 1}
+{}
+{"Better Class of Losers": 1}
+{"Sinkin' Soon": 1}
+{"The Goodies": 1}
+{}
+{}
+{"James Graham": 1}
+{"I Love Rock 'n' Roll": 1}
+{}
+{"Rhinestone Cowboy": 1}
+{"Killing Me Softly with His Song": 1}
+{}
+{"Giulietta e Romeo": 1}
+{"You and I": 1, "Lady Gaga": 1}
+{"The Blitz": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Alhandra": 1}
+{"Battle of Cissa": 1}
+{}
+{}
+{}
+{}
+{"Carthage in Flames": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"A Dog's Purpose": 1}
+{"Legacies": 1}
+{"Once Upon a Time": 1}
+{}
+{"Seven Seconds": 1}
+{}
+{"The Wolverine": 1}
+{}
+{"The Man from U.N.C.L.E.": 1}
+{"This Is Your Life": 1}
+{"Battle of Osijek": 1}
+{}
+{}
+{}
+{"Grace and Frankie": 1}
+{}
+{"Tara Knowles": 1}
+{}
+{"Pilot": 1, "Will & Grace": 1}
+{"Taken": 1}
+{"Willie and Family Live": 1}
+{}
+{}
+{"Will & Grace": 1}
+{"Murder in Texas": 1}
+{}
+{}
+{"An American Girl: Grace Stirs Up Success": 1}
+{"Will & Grace": 1}
+{"Grace and Frankie": 1}
+{}
+{}
+{}
+{"Sputnik": 1}
+{"Beyonc\u00e9": 1}
+{}
+{"Destiny's Child": 1}
+{}
+{"Suga Mama": 1}
+{}
+{"Beyonc\u00e9": 1}
+{}
+{}
+{}
+{"Beyonc\u00e9": 1}
+{"Ring the Alarm": 1}
+{"Black Spectre": 1}
+{"Ah Via Musicom": 1}
+{"Eric Johnson album": 1}
+{}
+{"Sings America": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Human Highway": 1}
+{}
+{"Forever Young": 1, "Rod Stewart": 1}
+{}
+{}
+{"How Little We Know": 1}
+{}
+{}
+{}
+{"Tip of My Tongue": 1}
+{"Tip of My Tongue": 1}
+{}
+{"Only Love Remains": 1}
+{"I Want to Hold Your Hand": 1}
+{"Blow Your Pants Off": 1}
+{"Band on the Run": 1}
+{"Drinkin' My Baby Goodbye": 1}
+{"Lennon\u2013McCartney": 1}
+{"Freedom": 1, "Paul McCartney": 1}
+{"Let It Be": 1}
+{"The Girl Is Mine": 1}
+{"In My Life": 1}
+{"Beatles song": 1}
+{"Too Late for Goodbyes": 1}
+{}
+{"Mama's Little Girl": 1}
+{"Hey Jude": 1}
+{"Lennon\u2013McCartney": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Charlotte 49ers": 1}
+{}
+{}
+{}
+{"New Orleans Saints": 1}
+{}
+{}
+{}
+{}
+{}
+{"Arena Football League": 1}
+{"Alvin and the Chipmunks: The Road Chip": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ban Sam Ruen": 1}
+{}
+{}
+{}
+{}
+{}
+{"Pittsburgh Condors": 1}
+{"Touchback": 1}
+{"GETEC Arena": 1}
+{"BC Lions": 1}
+{"Khimki Basketball Center": 1}
+{}
+{}
+{"Hamburg Sea Devils": 1}
+{"Arena Football League": 1}
+{}
+{"Milwaukee Badgers": 1}
+{"Arena Football League": 1}
+{"Stadio Is Arenas": 1}
+{"Huntsville Rockets": 1}
+{}
+{}
+{}
+{"More Blues and the Abstract Truth": 1}
+{"Dark Side of the Spoon": 1}
+{"Freaks and Geeks": 1, "soundtrack": 1}
+{"Somethin' Bad": 1}
+{"2 Horns": 1, "2 Rhythm": 1}
+{"Must Be Doin' Somethin' Right": 1}
+{}
+{"Space": 1, "George Benson": 1}
+{"Candy Coburn": 1}
+{}
+{}
+{}
+{}
+{}
+{"The Journal of Antibiotics": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dark Tourist": 1}
+{}
+{}
+{"In a Forest, Dark and Deep": 1}
+{"A Hazard of Hearts": 1}
+{"Dark Hazard": 1}
+{"Ten Modern Commandments": 1}
+{}
+{"Dark Victory": 1}
+{"Christopher Pike": 1, "Star Trek": 1}
+{}
+{}
+{}
+{"The Ten Commandments": 1}
+{}
+{"The Dark Tower": 1}
+{"The Ten Commandments": 1}
+{}
+{}
+{"Vi p\u00e5 Saltkr\u00e5kan": 1}
+{}
+{"Good Ship Lollipop": 1}
+{"Jagged Edge": 1}
+{}
+{}
+{"Comet in Moominland": 1}
+{"Denmark": 1, "Eurovision Song Contest": 1, "1993": 1}
+{}
+{"The Scourge of the Light": 1}
+{}
+{}
+{}
+{"Under Two Jags": 1}
+{}
+{"Thane to the Throne": 1}
+{}
+{"Hip, Hip, Hurrah!": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Into the Sun": 1, "Sean Lennon": 1}
+{"Anna (Go to Him)": 1}
+{"You've Got to Hide Your Love Away": 1}
+{"When I'm Sixty-Four": 1}
+{"Michelle": 1}
+{}
+{"Wah-Wah": 1}
+{"I Saw Her Standing There": 1}
+{"The Beatles": 1}
+{}
+{}
+{}
+{}
+{}
+{"Over the Garden Wall": 1}
+{"Beatrice of Ornacieux": 1}
+{}
+{}
+{}
+{}
+{"Death in the West": 1}
+{}
+{}
+{}
+{"2008 Japanese motorcycle Grand Prix": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Blue Bloods": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Fists of Legend": 1}
+{}
+{}
+{}
+{"Some Enchanted Evening": 1}
+{"The Garbage Picking Field Goal Kicking Philadelphia Phenomenon": 1}
+{"awards": 1, "honours": 1, "Audrey Hepburn": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ravenswood": 1, "The Steelworkers' Victory and the Revival of American Labor": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Migration Series": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Prince of Egypt": 1}
+{}
+{"Sang Divar": 1}
+{"The Jacksons: An American Dream": 1}
+{}
+{"She's Out of My Life": 1}
+{}
+{}
+{}
+{}
+{}
+{"Guru Randhawa": 1}
+{"Billy Joel": 1}
+{}
+{"Comfortably Numb": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Blitz": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Guild Guitar Company": 1}
+{"House music": 1}
+{"A Fistful of Alice": 1}
+{"Time Remembered": 1, "John McLaughlin": 1, "Bill Evans": 1}
+{"L.A. Guns": 1}
+{"Guitar Moods": 1}
+{"Dirt Road Anthem": 1}
+{"Top Gun Anthem": 1}
+{"The End of It All": 1}
+{"The Reaper": 1, "Grave Digger": 1, "album": 1}
+{"Atomic Playboys": 1}
+{}
+{"Anla Courtis": 1}
+{"Mississippi Joe Callicott": 1}
+{"Bill Massey": 1, "baseball": 1}
+{"How I Met Your Mother": 1}
+{"Battle of Bantam": 1}
+{}
+{}
+{}
+{}
+{"The Blitz": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"HSwMS Najaden": 1}
+{}
+{"RMS Titanic": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"They Made Me a Fugitive": 1}
+{"Drakkar Productions": 1}
+{}
+{"Gurty Calamb\u00e9": 1}
+{}
+{}
+{}
+{}
+{"Hannah Montana": 1}
+{"Confess": 1, "Doctor Corda": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Light It Up": 1, "Luke Bryan": 1}
+{}
+{"The Chisholms": 1}
+{}
+{}
+{"ABC World News Tonight": 1}
+{}
+{"That Was Then": 1}
+{}
+{}
+{"Better Living TV Theater": 1}
+{}
+{}
+{"Hale & Kilburn": 1}
+{"Hamaar Sautan Hamaar Saheli": 1}
+{}
+{}
+{"Old Mother Riley's Circus": 1}
+{"Sony Music": 1}
+{}
+{}
+{}
+{}
+{"Original Six": 1}
+{"Nydalens Compagnie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Triglav Trophy": 1}
+{"The Strange Case of Peter the Lett": 1}
+{}
+{}
+{}
+{}
+{"Pharaoh Dome": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Short track speed skating": 1, "2003 Asian Winter Games": 1}
+{}
+{}
+{}
+{}
+{}
+{"Southern Football League": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Wales": 1, "FIFA World Cup": 1}
+{}
+{}
+{}
+{}
+{}
+{"Lambeau Field": 1}
+{}
+{}
+{}
+{}
+{"Not Too Young To Run": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Saving Private Ryan": 1}
+{"Saving Private Ryan": 1}
+{"Hymn to Liberty": 1}
+{"Plenty and In Time of Need": 1}
+{"Tarana-e-Pakistan": 1}
+{"Qaumi Taranah": 1}
+{}
+{}
+{}
+{}
+{}
+{"Vestal Goodman": 1}
+{"Fantastic Beasts and Where to Find Them": 1}
+{"Fantastic Beasts and Where to Find Them": 1}
+{}
+{}
+{}
+{}
+{"Michael Jackson: The Life of an Icon": 1}
+{}
+{"The Phantom of the Opera": 1, "1986 musical": 1}
+{}
+{"Sunbaker": 1}
+{}
+{"Beyonc\u00e9": 1}
+{}
+{}
+{}
+{}
+{}
+{"The Suite Life Sets Sail": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Chasing the Sun": 1, "Chris Poland": 1, "album": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Fatata te Miti": 1}
+{}
+{}
+{}
+{"Agar Panchaitan": 1}
+{}
+{"NFL": 1}
+{"Te K\u0101ea": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Canadian Grenadier Guards Band": 1}
+{}
+{"Here Comes the Night": 1}
+{}
+{"In Plain Sight": 1}
+{}
+{"Stanley Theater": 1, "Jersey City": 1, "New Jersey": 1}
+{"Belarus": 1, "Eurovision Song Contest": 1, "2007": 1}
+{"Wiz Khalifa": 1, "discography": 1}
+{}
+{}
+{}
+{}
+{"PlayStation 3": 1}
+{}
+{"Show Us Your Wits": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Fred Astaire Dance Studios": 1}
+{}
+{}
+{}
+{}
+{}
+{"Someone Could Lose a Heart Tonight": 1}
+{}
+{"Melissa & Joey": 1}
+{"Days of Our Lives": 1}
+{"Dad's Army": 1}
+{"The Joey Heatherton Album": 1}
+{"Joey": 1, "Concrete Blonde": 1}
+{"Kanta Pilipinas": 1}
+{}
+{"I Want to Be in Love": 1}
+{"End of the Line": 1, "Traveling Wilburys": 1, "song": 1}
+{"Melissa & Joey": 1}
+{}
+{"The Greatest American Hero": 1, "Believe It or Not": 1}
+{"Pulse": 1}
+{"WKRP in Cincinnati": 1}
+{"Melissa & Joey": 1}
+{}
+{}
+{}
+{"Garry Shandling's Show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Louis Chedid": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"I'm Leaving It Up to You": 1}
+{}
+{}
+{}
+{"Don't You Worry Child": 1}
+{}
+{}
+{"Money in the Bank": 1}
+{"Indian Premier League": 1}
+{}
+{}
+{}
+{"Money in the Bank": 1}
+{"2008\u201309 Bundesliga": 1}
+{"Wimbledon Championships": 1, "Men's singles final": 1}
+{"rugby union": 1, "Italy": 1, "Wales": 1}
+{"UEFA Euro 2008 Final": 1}
+{"Burnt Money": 1}
+{"AFL Grand Final": 1}
+{}
+{}
+{}
+{"Money in the Bank": 1}
+{}
+{"Money in the Bank": 1}
+{}
+{}
+{}
+{"Mysterious Skin": 1}
+{}
+{}
+{"Write It on Your Skin": 1}
+{}
+{"The Offspring Collection": 1}
+{"Countdown to Extinction": 1}
+{}
+{"Agents of Secret Stuff": 1}
+{}
+{"The Skin": 1}
+{}
+{"Come Home with Me": 1}
+{}
+{"Young Adam": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Mickey Mouse": 1}
+{}
+{"Mickey Mouse Clubhouse": 1}
+{}
+{}
+{}
+{"Clarabelle Cow": 1}
+{"BBC Television": 1}
+{"The Pointer": 1}
+{"BBC Television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Alma Mater": 1, "Illinois": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Casper": 1}
+{}
+{}
+{"Mr. Smith Goes to Washington": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Patriot": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Mike & Molly": 1}
+{}
+{}
+{}
+{"Izzie Stevens": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Rachel Berry": 1}
+{}
+{"This Misery of Boots": 1}
+{}
+{}
+{}
+{}
+{}
+{"An Essay on Criticism": 1}
+{}
+{"The Social Contract": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The New England Quarterly": 1}
+{}
+{}
+{}
+{}
+{"V for Vendetta": 1, "Music from the Motion Picture": 1}
+{"1998 European Athletics Championships": 1, "Men's 20 kilometres walk": 1}
+{"1964 Summer Olympics": 1, "Finn": 1}
+{}
+{"I Remember Love": 1}
+{}
+{"2018 Winter Olympics": 1}
+{}
+{"Amsterdam": 1, "Maggie MacNeal": 1}
+{"Jag \u00e5ngrar ingenting": 1}
+{"Spain": 1, "Eurovision Song Contest": 1, "1991": 1}
+{"Six Flags Over Georgia": 1}
+{}
+{}
+{"Ireland": 1, "Eurovision Song Contest": 1, "2018": 1}
+{"Anne Feeney": 1}
+{}
+{"Cool It Now": 1}
+{}
+{"2018 FIFA World Cup": 1}
+{"Real Time with Bill Maher": 1}
+{"Beginners": 1}
+{}
+{"The Daily Show": 1}
+{"For the Love of Ada": 1}
+{"A Real Birmingham Family": 1}
+{"Real Time with Bill Maher": 1}
+{"Falkenbach": 1}
+{"Ex on the Beach": 1}
+{}
+{"2018 Commonwealth Games": 1}
+{"Ex on the Beach": 1}
+{"Aurora Teagarden": 1}
+{"Crook & Chase": 1}
+{"The Sea Hawk": 1}
+{"The Gala Ensemble": 1}
+{}
+{"Johnny Kidd & the Pirates": 1}
+{"Hercules and the Black Pirates": 1}
+{"Daytona 500": 1}
+{}
+{}
+{}
+{"The Ice Pirates": 1}
+{"The Spy Who Dumped Me": 1}
+{}
+{}
+{}
+{}
+{"Chasing Pirates": 1}
+{}
+{}
+{"Raise My Kids": 1}
+{}
+{}
+{}
+{}
+{"The Comedy Company": 1}
+{"Ex on the Beach": 1}
+{}
+{"Ex on the Beach": 1}
+{}
+{}
+{}
+{}
+{"XRCO Award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Lost in Space": 1}
+{}
+{}
+{}
+{"Pocahontas": 1, "1995 film": 1}
+{}
+{}
+{}
+{"Pocahontas": 1, "1995 film": 1}
+{}
+{"Charlie's Angels": 1}
+{"Look Who's Talking": 1}
+{"Pocahontas": 1, "1995 film": 1}
+{"Madagascar": 1, "2005 film": 1}
+{"Phenomenal Smith": 1}
+{"Adventures in Odyssey": 1}
+{}
+{}
+{"Clifford the Big Red Dog": 1}
+{"The X Factor": 1}
+{"Going to the Mat": 1}
+{}
+{}
+{"Things That Go Bump in the Night": 1}
+{}
+{"Anthology": 1, "Michael Jackson": 1}
+{"The End": 1, "Beatles": 1}
+{}
+{}
+{"Power Rangers": 1}
+{"Remember When: The Anthology": 1}
+{"Sound of Love": 1}
+{"Let's Go All the Way": 1}
+{"For Someone I Love": 1}
+{"Let It Bleed": 1}
+{"Love Sign": 1}
+{}
+{"Let's Get It On": 1}
+{"Treat Her Like a Lady": 1, "Diana King": 1}
+{"Let There Be Love": 1, "Joni James": 1, "1993": 1, "album": 1}
+{"Let There Be Love": 1, "Joni James": 1, "album": 1}
+{}
+{"Equator Records": 1}
+{"Let My Love Open the Door": 1}
+{}
+{}
+{}
+{}
+{"The Bow": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Flame in the Valley": 1}
+{}
+{"Killing Me Softly with His Song": 1}
+{}
+{"Day by Day": 1, "Yolanda Adams": 1}
+{"Winnipeg's Most": 1}
+{}
+{"The Game of Triangles": 1}
+{"One Direction": 1}
+{"Orkestra Rumpilezz": 1}
+{"Imaginary Day": 1}
+{"Stanford Raagapella": 1}
+{"Still Life (Talking)": 1}
+{}
+{"Beyond the Beyond": 1}
+{}
+{"Jurassic World": 1}
+{"Close Encounters of the Third Kind": 1}
+{}
+{}
+{}
+{"Indiana Jones and the Kingdom of the Crystal Skull": 1}
+{}
+{}
+{"Battlehawks": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Post": 1}
+{"The Land Before Time": 1}
+{"The Post": 1}
+{"The Post": 1}
+{"Scooby-Doo! The Mystery Begins": 1}
+{}
+{}
+{"Escape from L.A.": 1}
+{"Dumbledore's Army": 1}
+{}
+{}
+{"No Escape": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Carnival of Las Palmas": 1}
+{}
+{}
+{"Rig\u00f3 Jancsi": 1}
+{}
+{}
+{}
+{"Every Turn of the World": 1}
+{"Foolin' Myself": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Phoenix": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bible": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Book of Enoch": 1}
+{}
+{}
+{}
+{}
+{"Johnny's in the Basement": 1}
+{"Can We Talk": 1}
+{"Night 'n' Gales": 1}
+{"The Music Man": 1}
+{}
+{"Roamin' Holiday": 1}
+{"Infinity on High": 1}
+{"Girl Talk": 1, "TLC": 1}
+{"The Night Begins to Shine": 1}
+{"Some Hearts Are Diamonds": 1}
+{"Please Don't Talk to the Lifeguard": 1}
+{}
+{"The Pigskin Palooka": 1}
+{"Waiting for a Star to Fall": 1}
+{}
+{"Love Is on the Way": 1}
+{}
+{"Tootsee Roll": 1}
+{}
+{}
+{"Immanu El": 1}
+{"Mrityudand": 1}
+{"Love Kiya Aur Lag Gayi": 1}
+{}
+{}
+{}
+{}
+{}
+{"Aagadu": 1}
+{"Yeh Raaste Hain Pyaar Ke": 1}
+{}
+{"Dil Kya Kare": 1}
+{"Pandaga Chesko": 1}
+{}
+{"Test cricket": 1}
+{"Mujhse Fraaandship Karoge": 1}
+{"Singh Saab the Great": 1}
+{"Femina Miss India 2018": 1}
+{"Pyar Ka Devta": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"FIFA World Rankings": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"FC Barcelona": 1}
+{}
+{"The Last Song": 1}
+{}
+{}
+{}
+{"The Faithful Spy": 1}
+{"Her Mother's Hope": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Wild Geese II": 1}
+{"A Daughter of the Gods": 1}
+{}
+{}
+{"A Touch of Spice": 1}
+{}
+{}
+{"Pensacola Flyers": 1}
+{"Fantastic Four": 1}
+{"The Fox and the Hound": 1}
+{"Martin Riggs": 1}
+{"Carry On films": 1}
+{"Undead and Unappreciated": 1}
+{"The Fox and the Hound": 1}
+{"Charlie Chan in Shanghai": 1}
+{"What-a-Mess": 1}
+{"The Fox and the Hound": 1}
+{}
+{"Doubt": 1, "2008 film": 1}
+{}
+{}
+{}
+{"Death to the Pixies": 1}
+{"84th Academy Awards": 1}
+{}
+{"Grammy Award": 1, "Best R&B Solo Vocal Performance": 1}
+{"The Greatest Story Ever Told": 1}
+{"Academy Award for Best Actor": 1}
+{"Black Panther": 1}
+{"Goosebumpz": 1}
+{"River's Edge": 1}
+{"Duck, You Sucker!": 1}
+{"Step Up Revolution": 1}
+{"DuckTales": 1, "2017 TV series": 1}
+{"Duck, You Sucker!": 1}
+{"Smokey": 1}
+{"To Duck or Not to Duck": 1}
+{}
+{}
+{}
+{"The Oregon Duck": 1}
+{"Daffy Duck": 1, "Hollywood": 1}
+{}
+{}
+{"Mr. Duck Steps Out": 1}
+{"Sebastian the Ibis": 1}
+{"The Duck Doctor": 1}
+{"Beijing Ducks": 1}
+{"Donald Duck": 1}
+{}
+{}
+{"I've Got You Under My Skin": 1}
+{"Borat's Television Programme": 1}
+{"Adult contemporary music": 1}
+{"The Golden 8": 1}
+{}
+{"Soul Train": 1}
+{}
+{"The Dance": 1, "Dave Koz": 1, "album": 1}
+{"Reese and the Smooth Ones": 1}
+{"Seeds from the Underground": 1}
+{"El Club de Los Tigritos": 1}
+{"The Millennium Dance Complex": 1}
+{"Barefoot on the Beach": 1}
+{}
+{}
+{}
+{"Marvel Comics": 1}
+{"Sony Music": 1}
+{}
+{}
+{}
+{"Beyonc\u00e9": 1}
+{"Beyonc\u00e9": 1}
+{}
+{"Madonna": 1}
+{"Sony/ATV Music Publishing": 1}
+{"Beyonc\u00e9": 1}
+{}
+{}
+{"Fighting Tommy Riley": 1}
+{"Marty McFly": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Justice League": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Soon (Tanya Tucker song)": 1}
+{}
+{"Harry Potter and the Goblet of Fire": 1}
+{}
+{"1923 International Cross Country Championships": 1}
+{}
+{}
+{}
+{}
+{"Holy Cross Goodtime Marching Band": 1}
+{}
+{}
+{"Salt-Water Poems and Ballads": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ferdinand": 1}
+{}
+{}
+{"Bletchley Park": 1}
+{"Old Course at St Andrews": 1}
+{}
+{}
+{}
+{"Hot Wheels": 1}
+{"70th Academy Awards": 1}
+{"My School Daze": 1}
+{}
+{"Matt Damon": 1}
+{}
+{"Kyan Khojandi": 1}
+{"Good Will Hunting": 1}
+{}
+{}
+{}
+{"Ben Hunt": 1, "baseball": 1}
+{"Michael Good": 1}
+{"Alien vs. Predator": 1}
+{}
+{}
+{}
+{}
+{"Classical music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Red Ochre Award": 1}
+{"Nobel Prize in Literature": 1}
+{}
+{"Passion Pictures": 1}
+{}
+{"Halfway Tree": 1}
+{}
+{}
+{"The Wandering Fire": 1}
+{"The Red Tree": 1, "Shaun Tan": 1}
+{"Trotta": 1}
+{"Penelope Tree": 1}
+{"Iditarod Trail Sled Dog Race": 1}
+{"We Are Never Ever Getting Back Together": 1}
+{}
+{}
+{}
+{"NASCAR": 1, "Speedway Division": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Parents of the Band": 1}
+{}
+{}
+{}
+{"Children Act 1989": 1}
+{}
+{}
+{}
+{"Man with a Plan": 1}
+{}
+{}
+{}
+{}
+{}
+{"The Homo Handbook": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Marcia Griffiths": 1, "Friends": 1}
+{"What Kind of Love": 1}
+{"A King in the Kindness Room": 1}
+{}
+{}
+{"Jackie Robinson": 1}
+{"Bottom of the 9th": 1}
+{}
+{"Super Bowl": 1, "Most Valuable Player Award": 1}
+{"MLB The Show 18": 1}
+{"Separate Lies": 1}
+{"My Way": 1}
+{"Way Out Here": 1}
+{"Kingpin": 1, "Tinsley Ellis": 1, "album": 1}
+{"Book of Ways": 1}
+{"Followin' a Feelin'": 1}
+{"The Stars and Stripes Forever": 1}
+{"I Got a Feelin'": 1, "Billy Currington": 1}
+{"I'm Feelin' U": 1}
+{"Cups": 1}
+{}
+{}
+{}
+{"Feelin' the Same Way": 1}
+{"Feelin' Stronger Every Day": 1}
+{"Hall of Great Western Performers": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Taxi Orange": 1}
+{"La Ferme C\u00e9l\u00e9brit\u00e9s": 1}
+{"Barney Miller": 1}
+{"The Big Broadcast of 1936": 1}
+{"The Big Broadcast": 1}
+{"Don't Let Me Wait Too Long": 1}
+{"Let's Go": 1, "Shawn Desman": 1}
+{}
+{"Members, Don't Git Weary": 1}
+{"You Don't Know": 1, "Helen Shapiro": 1}
+{}
+{"Let's Don't Call It a Night": 1}
+{"Baby Don't You Do It": 1}
+{}
+{}
+{"Don't Let the Angels Fall": 1}
+{"Up All Night": 1, "Matt Willis": 1}
+{}
+{}
+{"Family Circle Cup": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Much Ado About Nothing": 1}
+{"The Bourne Legacy": 1}
+{}
+{"Heart of Glass": 1}
+{"Malta Story": 1}
+{}
+{"It Happens Every Spring": 1}
+{}
+{"Castle Rock": 1}
+{}
+{"The Deceiver": 1}
+{"Paddington": 1}
+{"Cardillac": 1}
+{"Assassin's Creed IV: Black Flag": 1}
+{"Baby Can I Hold You": 1}
+{"I'm So Lonesome I Could Cry": 1}
+{"Betty Boo": 1}
+{"Hey Mami": 1, "Play It Right": 1}
+{"When You're in Love with a Beautiful Woman": 1}
+{"When You're Hot, You're Hot": 1}
+{"If You're Feeling Sinister": 1}
+{"Party 'Til You're Broke": 1}
+{"You're My Sunshine": 1}
+{"New York City": 1, "(You're a Woman)": 1}
+{"Hey There Lonely Girl": 1}
+{"Hey, Man, Smell My Finger": 1}
+{"Magic (Smash Mouth album)": 1}
+{"Chris LeDoux": 1, "discography": 1}
+{"All Star": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Pok\u00e9mon Trading Card Game": 1}
+{}
+{}
+{"LeBron James": 1}
+{"NBA Sportsmanship Award": 1}
+{}
+{}
+{}
+{"Oklahoma City Thunder": 1}
+{"Los Angeles Lakers": 1}
+{}
+{}
+{"You Asked for It": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Licence to Kill": 1}
+{}
+{}
+{"Don't Ask Me Why": 1, "Billy Joel": 1}
+{}
+{"Empire State of Mind": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Jesus, Take the Wheel": 1}
+{}
+{}
+{}
+{"Azure Moon": 1}
+{}
+{"Stranger Things": 1}
+{}
+{}
+{"Carry On Wayward Son": 1}
+{}
+{}
+{"Prime Time": 1, "Don McLean": 1}
+{}
+{"The Thing": 1}
+{"The Things They Carried": 1}
+{}
+{}
+{"Mulan": 1, "1998 film": 1}
+{"Diary of a Wimpy Kid: The Long Haul": 1, "film": 1}
+{"The Princess Diaries": 1}
+{}
+{}
+{}
+{"The Slim Princess": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"On Golden Pond": 1}
+{"Diary of a Wimpy Kid: The Long Haul": 1, "film": 1}
+{}
+{}
+{}
+{"Dragon Knight 4": 1}
+{"Dragon Ball Super": 1}
+{}
+{"Rock Star": 1, "2001 film": 1}
+{"Dungeons & Dragons": 1}
+{"Dragon Ball Z": 1}
+{"Dragon Fli Empire": 1}
+{"Dragon Beach": 1}
+{"Joseph and the Amazing Technicolor Dreamcoat": 1}
+{"Pattaya Kelappanum Pandiya": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Major League Baseball": 1}
+{}
+{}
+{}
+{}
+{"Hello Tomorrow": 1}
+{"Opus de Jazz": 1}
+{"2018 ACC Men's Basketball Tournament": 1}
+{}
+{"FIFA World Cup": 1}
+{}
+{"Richmond Arena": 1}
+{"Victoria & Abdul": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Victoria & Abdul": 1}
+{}
+{"Dweezil Zappa": 1}
+{}
+{}
+{}
+{"Tiny Furniture": 1}
+{}
+{}
+{}
+{}
+{}
+{"VideoKids": 1}
+{}
+{"Rom\u00e9o et Juliette": 1}
+{}
+{"Looking for Her": 1}
+{"Little House on the Prairie": 1}
+{}
+{}
+{"Frank Borzage": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Cyberia": 1}
+{}
+{}
+{}
+{"The Sun": 1}
+{}
+{"Xarabank": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Thugs of Hindostan": 1}
+{"Overboard": 1}
+{"The Bright Mississippi": 1}
+{}
+{}
+{"Toussaint": 1}
+{}
+{"Charlie and the Chocolate Factory": 1}
+{"Charlie and the Chocolate Factory": 1}
+{"Charlie and the Chocolate Factory": 1}
+{"Charlie and the Chocolate Factory": 1}
+{"Charlie and the Chocolate Factory": 1, "soundtrack": 1}
+{}
+{"Willy Wonka & the Chocolate Factory": 1}
+{}
+{}
+{"Charlie and the Chocolate Factory": 1}
+{}
+{"Seether": 1}
+{"Willy Wonka & the Chocolate Factory": 1}
+{"Charlie and the Chocolate Factory": 1}
+{"Charlie and the Chocolate Factory": 1}
+{}
+{}
+{"Willy Wonka & the Chocolate Factory": 1}
+{"Better Than Me": 1, "Terry Dexter": 1, "song": 1}
+{"Terry Dexter": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Bellarosa Connection": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Pok\u00e9mon Omega Ruby": 1, "Alpha Sapphire": 1}
+{}
+{}
+{}
+{"The Darkest Minds": 1}
+{}
+{"Blue Bulls": 1}
+{"Gift of Screws": 1}
+{"Arthur Loftus": 1, "Tottenham": 1}
+{}
+{"Ruby Loftus Screwing a Breech Ring": 1}
+{}
+{}
+{}
+{}
+{"3 'n the Mornin' (Part Two)": 1}
+{"Silver Spoons": 1}
+{"The Invitations": 1}
+{"Jersey Shore": 1}
+{}
+{}
+{}
+{}
+{}
+{"Dreamscaperers": 1}
+{"Dreamscaperers": 1}
+{"The Secret Daughter": 1}
+{}
+{"The Biggest Loser": 1}
+{"Balbina of Rome": 1}
+{}
+{}
+{}
+{"Mundo Civilizado": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Cornstalk Heights": 1}
+{"That '70s Show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"A Jury of Her Peers": 1}
+{"The Shelbourne Ultimatum": 1}
+{"Bourne": 1}
+{"The Bourne Ultimatum": 1}
+{}
+{}
+{}
+{}
+{"Baby Buggy Bunny": 1}
+{}
+{"Baby Driver": 1}
+{"The Baby-Sitters Club": 1}
+{"The Boss Baby": 1}
+{}
+{"Murphy Brown": 1}
+{"The Boss Baby": 1}
+{}
+{}
+{"The Big Chill": 1}
+{}
+{}
+{"The Big Chill": 1}
+{}
+{"The Big Chill": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Studio 60 on the Sunset Strip": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Stonesoup School": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Crazy Safari": 1}
+{"Haven't Met You Yet": 1}
+{}
+{"Where the Fast Lane Ends": 1}
+{"Back to the Future": 1, "soundtrack": 1}
+{"One-Trick Pony": 1}
+{}
+{"Excerpts from a Love Circus": 1}
+{"Fire (Arthur Brown song)": 1}
+{"Decade of Hits": 1, "George Canyon": 1, "album": 1}
+{"Crazy Love": 1, "Hawk Nelson": 1, "album": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Country Sunshine": 1, "Dottie West": 1, "album": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Thank You for Smoking": 1}
+{}
+{}
+{"Beethoven House": 1}
+{}
+{}
+{}
+{}
+{"Marilyn Monroe": 1}
+{}
+{"Virginia Valli": 1}
+{}
+{"Four Star Television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Fuerza A\u00e9rea Glacier": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"American Top 40": 1}
+{"Who Wants to Be a Millionaire?": 1}
+{}
+{}
+{}
+{"Who Wants to Be a Millionaire?": 1}
+{"Wheel of Fortune": 1}
+{"When Love Comes to Town": 1}
+{"Who Wants to Be a Millionaire?": 1, "British game show": 1}
+{"John Walsh": 1}
+{"Who Wants to Be a Millionaire": 1}
+{"I Love Money": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Funny Side": 1}
+{}
+{}
+{"American Chronicles": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Pirates of the Caribbean": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Temperance \"Bones\" Brennan": 1}
+{"The Last Song": 1}
+{}
+{}
+{}
+{}
+{"Tommy Trouble and the Magic Marble": 1}
+{"The Magic School Bus": 1}
+{}
+{}
+{"Chitty-Chitty-Bang-Bang": 1}
+{}
+{"Sylvester and the Magic Pebble": 1}
+{}
+{"Paradise Lost": 1}
+{}
+{"Rocks, Pebbles and Sand": 1}
+{"Technodelic": 1}
+{"Bullet to the Head": 1}
+{}
+{}
+{}
+{}
+{"The Polar Express": 1}
+{"Doctor De Soto": 1}
+{}
+{}
+{}
+{}
+{"The Omen": 1}
+{}
+{"The Girl Next Door": 1, "2004 film": 1}
+{}
+{}
+{"Knock on Any Door": 1}
+{}
+{}
+{"Scar": 1, "The Lion King": 1}
+{"Bharat Ek Khoj": 1}
+{"Tumbleweeds": 1, "1925 film": 1}
+{"Oscar Swahn": 1}
+{"Turner Classic Movies": 1}
+{"70th Academy Awards": 1}
+{"Psycho Donuts": 1}
+{}
+{}
+{}
+{}
+{"Los Rold\u00e1n": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hells Canyon": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Wassaw Sound": 1}
+{}
+{"Whatever U Like": 1}
+{"Beyonc\u00e9": 1}
+{"Beyonc\u00e9": 1}
+{"Lazy Love": 1}
+{"Grown Men Don't Cry": 1}
+{"The Mile End Sessions": 1}
+{"Beyonc\u00e9": 1}
+{"I'm Not Lisa": 1}
+{"Beyonc\u00e9": 1}
+{}
+{}
+{}
+{"Big Nate Goes for Broke": 1}
+{}
+{"The Pride of New York": 1}
+{"Pitch Perfect 3": 1}
+{"Battle of Porto Praya": 1}
+{"Battle of Dunkirk": 1}
+{"Girls' Generation": 1, "Romantic Fantasy": 1}
+{}
+{}
+{}
+{}
+{"Mother-in-Law Lounge": 1}
+{}
+{}
+{}
+{}
+{"New York, I Love You": 1}
+{"Here Come the Girls": 1}
+{}
+{"Battle of Alexandria": 1}
+{}
+{"John Veitch": 1}
+{"Sam Fletcher": 1, "soccer": 1}
+{"Monsterpiece Theater": 1}
+{}
+{"The Faerie Queene": 1}
+{"Alice in Wonderland": 1, "2010 film": 1}
+{"Mara Marini": 1}
+{}
+{"Theater": 1, "Television": 1, "Network": 1}
+{"Hamburger Dinner Theater": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Other House": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Presto Studios": 1}
+{}
+{}
+{}
+{"Battlefield": 1}
+{}
+{"Spectrum HoloByte": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Spectre": 1}
+{"Cry Me a River": 1, "Justin Timberlake": 1}
+{"Woman with a Lute": 1}
+{}
+{}
+{"13 Hours: The Secret Soldiers of Benghazi": 1}
+{"Microsoft Spider Solitaire": 1}
+{}
+{"The Woman in the Window": 1}
+{}
+{}
+{}
+{"Walker, Texas Ranger": 1}
+{}
+{}
+{"Charlotte Rangers": 1}
+{}
+{"Faded": 1, "Alan Walker": 1}
+{}
+{"Linda and Terry Fuller Track": 1}
+{"Tales of the Texas Rangers": 1}
+{}
+{"Globe Life Field": 1}
+{}
+{"Forced Vengeance": 1}
+{}
+{}
+{"House of Harmony and Vengeance": 1}
+{"Power Rangers Mystic Force": 1}
+{}
+{}
+{"Washington Wizards": 1}
+{}
+{}
+{}
+{}
+{}
+{"History of Rome": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"South Park": 1, "The Stick of Truth": 1}
+{"The Blitz": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Three Gut Records": 1}
+{"Sonic Youth Recordings": 1}
+{"Friend Like That": 1}
+{}
+{"Friend Like Me": 1}
+{}
+{"20th Century Boy": 1}
+{}
+{}
+{}
+{"Prix de l'Arc de Triomphe": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Black Saint and the Sinner Lady": 1}
+{}
+{"Imagine": 1, "John Lennon": 1}
+{"I Can Only Imagine": 1}
+{"Oh My Love": 1}
+{"The Gravedigger's Daughter": 1}
+{}
+{"I Can Only Imagine": 1, "MercyMe": 1}
+{}
+{"Erewhon Revisited": 1}
+{"Flesh and Bone": 1}
+{}
+{}
+{"I Can Only Imagine": 1, "MercyMe": 1}
+{}
+{"Switched at Birth": 1}
+{"I Can Only Imagine": 1, "MercyMe": 1}
+{"Imagination": 1, "La Toya Jackson": 1}
+{"Flush: A Biography": 1}
+{"Hints Allegations and Things Left Unsaid": 1}
+{}
+{"Tigers Jaw": 1}
+{"Ellington Is Forever Volume Two": 1}
+{"Jesus Egg That Wept": 1}
+{"Rub It In": 1}
+{"I Belong to Me": 1}
+{"The Real Thing": 1, "Dizzy Gillespie": 1, "album": 1}
+{"Some Other Spring": 1}
+{"Pacific Sun": 1}
+{"The Broadway Album": 1}
+{}
+{"Benny Golson's New York Scene": 1}
+{"Keep Cool": 1}
+{}
+{}
+{"Princess Pei": 1}
+{}
+{"Pair of Kings": 1}
+{}
+{}
+{}
+{}
+{}
+{"Kosciuszko": 1}
+{}
+{}
+{}
+{}
+{"Beatles": 1}
+{"Movie Gallery": 1}
+{}
+{}
+{}
+{"Movie Gallery": 1}
+{}
+{"The Paul Reiser Show": 1}
+{}
+{}
+{"Enoch Arden": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Valley Girls": 1}
+{}
+{}
+{}
+{}
+{}
+{"Revolutionary Road": 1}
+{"Blue Chip Conference": 1}
+{"Siege of Boston": 1}
+{"The Education of Shelby Knox": 1}
+{}
+{}
+{"Spexy Beast": 1}
+{"Stand by Me": 1}
+{"Stand Up": 1, "James Cottriall": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Minikahda Club": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Lord of the Rings": 1}
+{}
+{"The Lord of the Rings": 1}
+{}
+{"One Ring": 1}
+{"The Lord of the Rings": 1}
+{}
+{"One Ring": 1}
+{}
+{"The Lord of the G-Strings": 1, "The Femaleship of the String": 1}
+{}
+{}
+{}
+{}
+{"The Lord of the Rings": 1}
+{}
+{}
+{}
+{"The Lord of the Rings": 1}
+{}
+{}
+{"The Black Tavern": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ted Wright Stadium": 1}
+{"Sarawak Stadium": 1}
+{"Finley Stadium": 1}
+{"Eagle Field": 1}
+{}
+{"Penn State Nittany Lions": 1, "football": 1}
+{}
+{"Arkansas Razorbacks football": 1}
+{"Rose Bowl": 1}
+{}
+{}
+{"Spinning Wheel": 1}
+{"Make It Last Forever": 1}
+{"We Sweat Blood": 1}
+{}
+{}
+{"Khoon Pasina": 1}
+{}
+{}
+{}
+{"You've Made Me So Very Happy": 1}
+{"The Collection": 1, "Blood, Sweat & Tears": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Sa Re Ga Ma Pa": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Battle of Sinop": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Cybill": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Don't Knock My Love": 1}
+{"One Last Time": 1, "Ariana Grande": 1}
+{"Just One Last Time": 1}
+{}
+{}
+{}
+{}
+{"Rondanini Piet\u00e0": 1}
+{"Time Marches On": 1}
+{"I Won't Let You Down": 1, "OK Go": 1}
+{"...Baby One More Time": 1}
+{}
+{}
+{}
+{}
+{"Riding into the Sunset": 1}
+{"Power Rangers Turbo": 1}
+{}
+{}
+{}
+{"Mortu Nega": 1}
+{}
+{}
+{}
+{}
+{"American Horror Story": 1, "Roanoke": 1}
+{}
+{}
+{}
+{}
+{"Adrift on Life's Tide": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Cancelled": 1, "South Park": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"To Kill a Mockingbird": 1}
+{}
+{}
+{"Spencer Halpin's Moral Kombat": 1}
+{"Indra's Net": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"NFL": 1}
+{"The Definitive Collection": 1, "Eric Carmen": 1}
+{"Cheikha Rimitti": 1}
+{}
+{"Hungry Eyes": 1}
+{}
+{"She's Like the Wind": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Battle of Brihuega": 1}
+{"Battle of Ligny": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bureaucracy": 1}
+{}
+{}
+{}
+{}
+{}
+{"Nurse Ratched": 1}
+{"Dith Pran": 1}
+{}
+{}
+{"Sarah's Key": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"BCS": 1}
+{}
+{}
+{}
+{"Outpost Club": 1}
+{"Muskiki Formation": 1}
+{"Wusum Stars": 1}
+{"Sarah, Plain and Tall": 1}
+{}
+{"Crazy Horse": 1}
+{}
+{"Russkaya Station": 1}
+{"Nicolette": 1}
+{}
+{"Four Strong Winds": 1}
+{"Cortez the Killer": 1}
+{"Old Ways": 1}
+{"Ohio": 1, "Crosby, Stills, Nash & Young": 1}
+{"Blank Unstaring Heirs of Doom": 1}
+{}
+{"The Beauty of Hindsight": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Fr\u00e9d\u00e9ric Chopin": 1}
+{}
+{}
+{"Winchester Mystery House": 1}
+{}
+{}
+{}
+{}
+{}
+{"Universal Pictures": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Grown Ups": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Stirling City Choir": 1}
+{"The Hundred in the Hands": 1}
+{}
+{}
+{"Return to Castle Wolfenstein": 1}
+{"Sleep Is the Enemy": 1}
+{"Armor for Sleep": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bird in a Cage": 1}
+{"Tennessee Titans": 1}
+{}
+{"Dallas Texans": 1, "NFL": 1}
+{"New England Patriots": 1}
+{"Dallas Cowboys": 1}
+{}
+{"National Football League": 1}
+{"Jacksonville Jaguars": 1}
+{"Jacksonville Jaguars": 1}
+{}
+{"Minnesota Vikings": 1}
+{}
+{}
+{}
+{"Jacksonville Jaguars": 1}
+{}
+{"National Football League": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Carnival Splendor": 1}
+{}
+{}
+{}
+{}
+{}
+{"Inside": 1, "2007 film": 1}
+{}
+{}
+{}
+{"The Path": 1}
+{}
+{}
+{}
+{}
+{}
+{"Father of Frankenstein": 1}
+{}
+{}
+{}
+{}
+{"Kubera": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Big Mouth": 1}
+{}
+{"Groove Games": 1}
+{}
+{}
+{}
+{"Association football": 1}
+{}
+{"Pursuit Force": 1}
+{}
+{}
+{}
+{}
+{}
+{"Albany Law Review": 1}
+{"Serve": 1, "tennis": 1}
+{"Mount & Blade: With Fire & Sword": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"McLeod's Daughters": 1, "season 5": 1}
+{}
+{"The Sport Parade": 1}
+{"Tess of the D'Urbervilles": 1, "2008 TV serial": 1}
+{"Photo-Finish": 1}
+{"BBC Sessions": 1, "Rory Gallagher": 1}
+{}
+{"Freaky Friday": 1, "2003 film": 1}
+{}
+{}
+{}
+{"Raymond Carver": 1}
+{}
+{}
+{"A Summer to Remember": 1}
+{"Irish Tour '74": 1}
+{"Nicky, Ricky, Dicky & Dawn": 1}
+{"The Bone Garden": 1}
+{"Deuce": 1, "Rory Gallagher": 1}
+{"Raymond Carver": 1, "bibliography": 1}
+{"Just the Two of Us": 1, "Grover Washington Jr.": 1}
+{}
+{"Because You're Mine": 1}
+{"Tonight You're Mine": 1}
+{"Camp Defiance": 1}
+{}
+{"Turn the Key Softly": 1}
+{"Beauty and the Beast": 1}
+{"Thinking of Home": 1}
+{}
+{"Someone like You": 1, "Adele": 1}
+{"Thinking About You": 1, "Norah Jones": 1}
+{}
+{}
+{}
+{"I Think We're Alone Now": 1}
+{}
+{}
+{}
+{"Velma Barfield": 1}
+{}
+{"Close-Up": 1}
+{"The Mavericks": 1}
+{"April": 1, "1998 film": 1}
+{}
+{}
+{"Torino Film Festival": 1}
+{"All My Friends Part 2": 1}
+{}
+{}
+{"Ben & Holly's Little Kingdom": 1}
+{"The Nanny Reunion": 1, "A Nosh to Remember": 1}
+{"Nanny McPhee and the Big Bang": 1}
+{"Mary Poppins": 1}
+{}
+{"George Washington Sprott": 1}
+{"Audace colpo dei soliti ignoti": 1}
+{"List of Happily Divorced": 1}
+{}
+{"The Last Crossing": 1}
+{"Pete Townshend": 1, "Live": 1, "BAM": 1, "1993": 1}
+{}
+{"Beyond Warped Live Music Series": 1}
+{}
+{}
+{"Brock Zeman": 1}
+{"Nobel Prize": 1}
+{"Berwick Prize": 1}
+{}
+{}
+{"Lilienfeld Prize": 1}
+{}
+{}
+{"Karl Jaspers Prize": 1}
+{"Adam Smith Prize": 1}
+{"Fr\u00f6hlich Prize": 1}
+{"Booktrust Teenage Prize": 1}
+{}
+{}
+{"Tycho Brahe Prize": 1}
+{}
+{"Kavli Prize": 1}
+{}
+{"3rd Berlin International Film Festival": 1}
+{"The Grapes of Wrath": 1}
+{}
+{"Elmo": 1, "Montana": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"FIFA World Cup": 1}
+{}
+{}
+{}
+{"Pegasus Plaza": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Longest Night in Shanghai": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"There Ain't Nothin' Wrong with the Radio": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Motorcycle Diaries": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Territory Cops": 1}
+{}
+{"Sahara": 1, "Michael Palin": 1}
+{}
+{}
+{}
+{"Adult contemporary music": 1}
+{"Just Don't Want to Be Lonely": 1}
+{"The One That Got Away": 1, "Katy Perry": 1}
+{}
+{"KELO-FM": 1}
+{}
+{}
+{"2017 NCAA Division I Women's Basketball Tournament": 1}
+{"2016 NCAA Division I Women's Basketball Tournament": 1}
+{}
+{"2018 Big 12 Men's Basketball Tournament": 1}
+{}
+{"NCAA Division I Men's Basketball Tournament": 1}
+{"Kansas State Wildcats": 1, "basketball": 1}
+{"Ohio State Buckeyes": 1, "basketball": 1}
+{"NCAA Division I men's basketball season": 1}
+{"Michigan Wolverines": 1, "basketball": 1}
+{"NCAA Division I Women's Volleyball Tournament": 1}
+{}
+{"Olympic": 1, "basketball": 1}
+{"NCAA Division I Men's Basketball Tournament": 1}
+{"NCAA Division I men's basketball season": 1}
+{"Duck the Halls: A Robertson Family Christmas": 1}
+{"Rudolph the Red-Nosed Reindeer": 1, "TV special": 1}
+{}
+{"Rudolph the Red-Nosed Reindeer": 1}
+{}
+{}
+{"Raxacoricofallapatorius": 1}
+{"2014 Six-red World Championship": 1}
+{"A Christmas Story Live!": 1}
+{"Rudolph the Red-Nosed Reindeer": 1}
+{"Red Shirley": 1}
+{}
+{}
+{"Lovin' You": 1}
+{}
+{"Rudolph the Red-Nosed Reindeer": 1}
+{"Rudolph's Shiny New Year": 1}
+{"2013 Six-red World Championship": 1}
+{}
+{"Rudolph the Red-Nosed Reindeer": 1}
+{"I Don't Wanna Take This Pain": 1}
+{"The Wire": 1}
+{}
+{"Private Romeo": 1}
+{"Way Down in the Hole": 1}
+{"Don't Be Cruel": 1}
+{"Cirque Calder": 1}
+{}
+{}
+{"Every Little Step": 1}
+{"I Don't Care": 1, "Eva Tanguay": 1}
+{}
+{}
+{}
+{}
+{"Kanye West": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Girls of Hedsor Hall": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Burn It Black": 1}
+{}
+{"The Last of the Mohicans": 1}
+{}
+{}
+{"The Last Sleep of Arthur in Avalon": 1}
+{"24: Legacy": 1}
+{"64th Venice International Film Festival": 1}
+{}
+{}
+{"Burning Man": 1}
+{}
+{"The Keep Aways": 1}
+{"Downton Abbey": 1}
+{}
+{"World Snooker Championship": 1}
+{"Keeping Up with the Joneses": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ben Ali Stakes": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Lipshitz Saves the World": 1}
+{"The Hot Rod Dogs and Cool Car Cats": 1}
+{}
+{}
+{"Steven Universe: Save the Light": 1}
+{"Friday Night Lights": 1}
+{}
+{"Final Fantasy": 1}
+{"Kr\u00f6d M\u00e4ndoon and the Flaming Sword of Fire": 1}
+{"Dead Rising 3": 1}
+{"UFC": 1}
+{"Peculiar Lives": 1}
+{}
+{"Freeway Fighter": 1}
+{}
+{"Steven Universe: Save the Light": 1}
+{"Acme Animation Factory": 1}
+{"Medici Madonna": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Adventures of Milo and Otis": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"USS Arizona Memorial": 1}
+{}
+{}
+{}
+{"Yo soy Betty, la fea": 1}
+{"Twilight": 1}
+{"The Twilight Saga: Breaking Dawn \u2013 Part 2": 1, "soundtrack": 1}
+{"Leaving Las Vegas": 1}
+{"Twilight": 1}
+{"Pitch Perfect 2": 1}
+{"Bella Swan": 1}
+{"La Bella": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Union Prayer Book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Karolyi Ranch": 1}
+{}
+{"Forest Warrior": 1}
+{"Iggy Arbuckle": 1}
+{}
+{}
+{}
+{"Warriors (novel series)": 1}
+{"This Life": 1}
+{"A Burial At Ornans": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Grinder Island": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Shah Jahan Mosque": 1, "Woking": 1}
+{}
+{}
+{}
+{}
+{"The Beaches of Agn\u00e8s": 1}
+{}
+{"2009 FIFA Beach Soccer World Cup": 1}
+{}
+{}
+{"The Beach": 1}
+{}
+{}
+{"The Saint in New York": 1}
+{}
+{}
+{"A Very Short Life": 1}
+{}
+{}
+{"Shark in the Park": 1}
+{}
+{}
+{}
+{"Third Watch": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"2018 Women's Softball World Championship": 1}
+{"UEFA Euro 2016 Final": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Does He Love You": 1}
+{}
+{}
+{"Working Day and Night": 1}
+{"Something to Brag About": 1}
+{"Every Other Weekend": 1}
+{"Our House": 1, "Crosby, Stills, Nash & Young": 1}
+{"If You're Reading This": 1}
+{"Beyonc\u00e9": 1}
+{"That's What Love Is": 1}
+{"Heroes & Friends": 1}
+{"Whatcha Gonna Do with a Cowboy": 1}
+{"Silver Slugger Award": 1}
+{"Tim Scott": 1}
+{"2017 World Series": 1}
+{"Dodgers\u2013Yankees rivalry": 1}
+{}
+{"Los Angeles Dodgers": 1}
+{}
+{"2017 American League Championship Series": 1}
+{"Radar": 1}
+{}
+{}
+{}
+{}
+{"Chapman Stick": 1}
+{"The Stars and Stripes Forever": 1}
+{"Transformers": 1}
+{"Miami Vice Theme": 1}
+{}
+{}
+{}
+{"The Blackout All-Stars": 1}
+{}
+{"Messiah (Handel)": 1}
+{"Midnight Blue": 1, "Kenny Burrell": 1}
+{}
+{}
+{}
+{}
+{}
+{"Madonna of the Small Trees": 1}
+{}
+{}
+{"Small Cowper Madonna": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Leave (Get Out)": 1}
+{}
+{"Let Your Spirit Fly": 1}
+{"When Spirits Are Calling My Name": 1}
+{"Spirit If...": 1}
+{}
+{"Juliet of the Spirits": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Potter's Tavern": 1}
+{}
+{}
+{}
+{"Of Rivers and Religion": 1}
+{"Stevie Wonder": 1}
+{"The King of Rome": 1}
+{"Se Va Conmigo": 1}
+{}
+{"Groovy Little Summer Song": 1}
+{"Sunset Man": 1}
+{"Groovy Decay": 1}
+{"Summer Soft": 1}
+{"Louise (Maurice Chevalier song)": 1}
+{"You Dropped a Bomb on Me": 1}
+{"Groovy Situation": 1}
+{"Little Green": 1}
+{"Brown Eyed Girl": 1}
+{}
+{"2018\u201319 NHL season": 1}
+{}
+{}
+{}
+{}
+{"2018\u201319 NHL season": 1}
+{}
+{"2017\u201318 NHL season": 1}
+{}
+{}
+{"2000\u201301 WPHL season": 1}
+{}
+{}
+{}
+{}
+{}
+{"2001\u201302 WCHL season": 1}
+{}
+{}
+{}
+{}
+{"Oh Yeah": 1, "Charles Mingus": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"2008 Summer Olympics": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"2008 Summer Olympics": 1}
+{}
+{}
+{"Velk\u00e1 pardubick\u00e1": 1}
+{}
+{"Tonight Live with Steve Vizard": 1}
+{"Don't Let Me Be Lonely Tonight": 1}
+{}
+{"My Heart": 1, "Lorrie Morgan": 1}
+{"Tonight We Ride": 1}
+{"I'm Gonna Wash That Man Right Outa My Hair": 1}
+{"Wildflowers": 1, "Cassandra Vasik": 1, "album": 1}
+{"Rockin' You Tonight": 1}
+{}
+{"Troubadour": 1}
+{"Forrest Gump": 1}
+{"I Wish Tonight Would Never End": 1}
+{}
+{"You're My Home": 1}
+{}
+{"Wherever You Are Tonight": 1}
+{"Premier League": 1}
+{}
+{"2004\u201305 UEFA Champions League": 1}
+{"Football": 1}
+{"Everton F.C.": 1}
+{"NBA": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Split of Life": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Battle of New Orleans": 1}
+{}
+{}
+{}
+{}
+{}
+{"DeSoto Records": 1}
+{"Videodrome": 1}
+{}
+{}
+{"SModcast Pictures": 1}
+{"UHF": 1}
+{}
+{"Kirtland Records": 1}
+{}
+{}
+{"Equity Music Group": 1}
+{}
+{"Amblin Entertainment": 1}
+{}
+{"James Bond": 1, "film": 1}
+{"Jab Pyaar Kisise Hota Hai": 1}
+{}
+{"Pootie Tang": 1}
+{"Dead Men Don't Wear Plaid": 1}
+{"The War You Don't See": 1}
+{}
+{"Now You See Him, Now You Don't": 1}
+{}
+{"Kyle Abbott": 1, "The Young and the Restless": 1}
+{}
+{}
+{"Mistress": 1, "1992 film": 1}
+{"Nino Rota": 1}
+{"The Moon Is a Harsh Mistress": 1}
+{}
+{"The Mistress": 1}
+{"2 Days in Paris": 1}
+{}
+{}
+{"Christian Mistress": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bohemian Rhapsody": 1}
+{}
+{}
+{}
+{}
+{}
+{"Daenerys Targaryen": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"White Queen (Through the Looking-Glass)": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Anthony Waters": 1, "field hockey": 1}
+{}
+{}
+{}
+{"Tadpole's Promise": 1}
+{}
+{"Spain": 1, "Eurovision Song Contest": 1, "2007": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Slender Man": 1}
+{}
+{"Slender Man": 1}
+{}
+{"2017 UEFA Super Cup": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Boy Nexxt Door": 1}
+{}
+{}
+{}
+{}
+{"Serbia": 1, "Olympics": 1}
+{}
+{}
+{"Olympic Games ceremony": 1}
+{}
+{}
+{}
+{}
+{}
+{"Van Cleve Opera House": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Toot It and Boot It": 1}
+{"Walk It Talk It": 1}
+{"O.S.T.R.": 1}
+{"John": 1, "Lil Wayne": 1}
+{"No Mediocre": 1}
+{"Dirty Gold": 1}
+{"Goosebumps": 1}
+{"Right Above It": 1}
+{"Drop": 1, "Rich Boy": 1, "song": 1}
+{"Kanye West": 1}
+{"Teach Me How to Dougie": 1}
+{"I'm the One": 1, "DJ Khaled": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"American Idol": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Burning Heart Records": 1}
+{}
+{}
+{}
+{}
+{}
+{"Full Moon in Blue Water": 1}
+{}
+{"Erik Jensen": 1, "American football": 1}
+{"Cricket World Cup": 1}
+{}
+{}
+{"Raja Mukthi": 1}
+{}
+{}
+{}
+{}
+{"Dancing with the Stars": 1, "American season 24": 1}
+{"West Ham United F.C.": 1}
+{"Grand Hotel": 1, "Mackinac Island": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Chennai Super Kings": 1}
+{}
+{"Indian Premier League": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"El Cl\u00e1sico": 1}
+{}
+{}
+{}
+{"Real Madrid CF": 1}
+{}
+{"FC Barcelona": 1}
+{}
+{}
+{}
+{"Eight Arms to Hold You": 1}
+{}
+{}
+{"Willy Wonka & the Chocolate Factory": 1}
+{}
+{"Heirs to the Dare": 1}
+{"Thrill of a Lifetime": 1}
+{"Stay Awake": 1, "Mike Scheidt": 1, "album": 1}
+{"The Thrill of It All": 1, "Sam Smith": 1, "album": 1}
+{"Thrill of a Lifetime": 1}
+{"Cover Magazine": 1}
+{"King Kobra III": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"FIFA World Cup": 1, "top goalscorers": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Puppy Dog Pals": 1}
+{}
+{"Nagamandala": 1}
+{"India national football team": 1}
+{}
+{"The Third Policeman": 1}
+{}
+{"Dark Habits": 1}
+{}
+{}
+{}
+{}
+{"Puppy Dog Pals": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Jucy Lucy": 1}
+{}
+{}
+{"The Man with the Iron Fists": 1}
+{}
+{"Freaky Friday": 1, "2003 film": 1}
+{"Lucy Fallon": 1}
+{"Lucy and Ricky Ricardo": 1}
+{}
+{}
+{}
+{"Shooter": 1}
+{"Take Me Home, Country Roads": 1}
+{"Bodyguard (British TV series)": 1}
+{}
+{}
+{}
+{"Spencer family": 1, "The Bold and the Beautiful": 1}
+{"8 Simple Rules": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Mortal Instruments": 1}
+{}
+{}
+{}
+{}
+{"Ronnie Morris": 1}
+{"Naked City": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Texas Revolution": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Everglades: River of Grass": 1}
+{}
+{"Queen Zixi of Ix": 1}
+{"Hollywood Babylon": 1}
+{"Answer to History": 1}
+{}
+{}
+{"The Face Is Familiar": 1}
+{}
+{}
+{}
+{}
+{"Sony Music": 1}
+{}
+{}
+{"The Nutty Professor": 1}
+{}
+{"The Hasty Heart": 1}
+{}
+{}
+{"Eloise at Christmastime": 1}
+{"Mr. Peabody & Sherman": 1}
+{}
+{"Young Frankenstein": 1}
+{"Mr. Peabody & Sherman": 1}
+{"The Stars Look Very Different Today": 1}
+{"Orchestra Ethiopia": 1}
+{}
+{"Tammany Hall": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Souvenir": 1, "Eric Johnson": 1, "album": 1}
+{}
+{}
+{"Loew's Grand Theatre": 1}
+{}
+{"Wassoulou Empire": 1}
+{}
+{}
+{"The Afghan Campaign": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Love Is a Racket": 1}
+{}
+{}
+{}
+{"They Dare Not Love": 1}
+{}
+{}
+{"You Left the Water Running": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Highway to Heaven": 1}
+{}
+{"Adidas Yeezy": 1}
+{}
+{}
+{}
+{"Hapoel Rishon LeZion F.C.": 1}
+{}
+{}
+{"1955 World Series": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Astronautalis": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dirty Dancing": 1}
+{"Hungry Eyes": 1}
+{}
+{"Robodemons": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"2018 FIFA World Cup": 1}
+{}
+{"Rugby World Cup": 1}
+{}
+{"Love's Long Journey": 1}
+{"2003 European Fencing Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{"Let Me Die a Woman": 1}
+{"Mack the Knife": 1}
+{"Die Hippie, Die": 1}
+{}
+{}
+{"Orcs Must Die! 2": 1}
+{"And Then You Die": 1}
+{}
+{}
+{}
+{"The Woman in the Advocate's Gown": 1}
+{}
+{"La Tour Montparnasse Infernale": 1}
+{"Tears of the Sun": 1}
+{"Death Mills": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"NBA": 1}
+{"NFL": 1}
+{"LeBron James": 1}
+{}
+{"2017 Major League Baseball All-Star Game": 1}
+{"NBA": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"American Idol": 1}
+{}
+{}
+{"Gloria": 1, "Vivaldi": 1}
+{}
+{"Dvo\u0159\u00e1k Ice Rise": 1}
+{"Darker than Amber": 1}
+{"Debussy Heights": 1}
+{}
+{}
+{}
+{"Prodigal Daughters": 1}
+{"The Humming Bird": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Sun": 1}
+{}
+{}
+{"Out of the Cradle": 1}
+{}
+{"Heroes Are Hard to Find": 1}
+{"To Be Loved": 1}
+{}
+{}
+{}
+{}
+{}
+{"Broken News": 1}
+{"Star Trek": 1}
+{"The Bodyguard": 1}
+{}
+{}
+{"Stand by You": 1, "Rachel Platten": 1}
+{"The Rachel Maddow Show": 1}
+{"PDQ": 1}
+{"Drift: The Unmooring of American Military Power": 1}
+{"The Late Late Show with James Corden": 1}
+{"Cash Cab": 1}
+{}
+{"Cash in the Attic": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Saburro Peak": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Loud Planes Fly Low": 1}
+{}
+{}
+{"Hell's Kitchen": 1}
+{}
+{}
+{"Talk That Talk": 1}
+{}
+{"Roxy Recordings": 1}
+{}
+{"Kinfolk": 1}
+{"Crystal Kay": 1}
+{"Philadelphia Eagles": 1}
+{"Desert Forest Golf Club": 1}
+{}
+{"Mount Bruno Golf Club": 1}
+{}
+{}
+{}
+{}
+{"The Hairy Ape": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Keala Settle": 1}
+{"My Fair Lady": 1}
+{}
+{}
+{}
+{"My Fair Lady": 1}
+{"Marni Nixon": 1}
+{}
+{}
+{}
+{"The Color Purple": 1}
+{"Academy Awards": 2}
+{}
+{}
+{"My Fair Lady": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dreams from My Father": 1}
+{}
+{}
+{}
+{}
+{"Blue Slide Park": 1}
+{"Do It Again": 1, "Steely Dan": 1}
+{"Voices in the Sky: The Best of The Moody Blues": 1}
+{"These Days (The Virginia Sessions)": 1}
+{"Never Get Out of These Blues Alive": 1}
+{}
+{"2018 US Open": 1, "Men's Singles": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Gone with the Wind": 1}
+{}
+{}
+{}
+{"Airplay (band)": 1}
+{"The Return of the Scarlet Pimpernel": 1}
+{"Gone with the Wind": 1}
+{}
+{"Cammie King": 1}
+{"Bridge of Scarlet Leaves": 1}
+{}
+{}
+{"Darlings of the Gods": 1}
+{}
+{}
+{"Ona Munson": 1}
+{}
+{}
+{}
+{}
+{"2018 French Grand Prix": 1}
+{}
+{}
+{}
+{"1963 Mexican Grand Prix": 1}
+{"Qatar motorcycle Grand Prix": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Indianapolis 500": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"I'm Still in Love with You": 1, "Al Green": 1}
+{}
+{"Skyscraper": 1, "2018 film": 1}
+{}
+{"Mamma Mia! Here We Go Again": 1}
+{}
+{"Ocean's 8": 1}
+{"A Sunday in Kigali": 1}
+{"The Hunger Games: Mockingjay \u2013 Part 2": 1}
+{}
+{"Heinrich Mann Prize": 1}
+{"Dodi Island": 1}
+{"2018 FIFA World Cup": 1}
+{"2018 FIFA World Cup": 1}
+{"The Naked Wine Show": 1}
+{}
+{}
+{}
+{}
+{}
+{"United States Snooker Association": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Soldiers of Pancho Villa": 1}
+{"Waiting for the Messiah": 1}
+{}
+{}
+{"Dolores Claiborne": 1}
+{}
+{"Love Ranch": 1}
+{}
+{}
+{"Ordinary Day": 1, "Dolores O'Riordan": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Six Flags Magic Mountain": 1}
+{}
+{"Project Boreas": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Rockefeller Center Christmas Tree": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Portrait of Greta Moll": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"A Winter Scene with Skaters near a Castle": 1}
+{}
+{}
+{"John Henry": 1}
+{"Scene in the Northwest": 1, "Portrait of John Henry Lefroy": 1}
+{}
+{}
+{}
+{}
+{"Queen (band)": 1}
+{"Play the Game": 1}
+{"I Was Born to Love You": 1}
+{"A Letter to Freddy Buache": 1}
+{"Don't Stop Me Now": 1}
+{"Call Me the Breeze": 1}
+{}
+{}
+{}
+{"Alice in Wonderland": 1, "2010 film": 1}
+{"The Dinosaurs": 1}
+{"Queen of the South": 1}
+{}
+{"Blackadder II": 1}
+{}
+{}
+{}
+{"Dinosaur!": 1}
+{}
+{"DinoSquad": 1}
+{"Lady Godiva Rides Again": 1}
+{}
+{}
+{"Rise of the Guardians": 1}
+{"Dawn Wells": 1}
+{}
+{}
+{}
+{"Hamilton Ice Piedmont": 1}
+{}
+{}
+{}
+{}
+{}
+{"Ice Bound: A Woman's Survival at the South Pole": 1}
+{"Middle of Nowhere": 1, "2008 film": 1}
+{"Berry Spur": 1}
+{}
+{"1911 World Allround Speed Skating Championships": 1}
+{"NFL": 1}
+{"2017 Stanley Cup Finals": 1}
+{"Alpine skiing": 1, "1998 Winter Olympics": 1, "Women's super-G": 1}
+{}
+{"ICC Champions Trophy": 1}
+{"FIFA World Cup": 1}
+{"World Series": 1}
+{"2017 ICC Champions Trophy": 1}
+{"US Open": 1}
+{"V-League": 1}
+{"India\u2013Pakistan cricket rivalry": 1}
+{"2017 NFL season": 1}
+{"The Open Championship": 1}
+{}
+{"Wimbledon": 1}
+{"2017 Stanley Cup Finals": 1}
+{"European Cup": 1, "UEFA Champions League": 1}
+{}
+{"2017 NFL season": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Motoring": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"King James Version": 1}
+{}
+{"King James Version": 1}
+{}
+{"Sacramento Kings": 1}
+{}
+{}
+{}
+{"The King's Speech": 1}
+{}
+{}
+{"Edward II": 1}
+{}
+{"Back to the Future": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Off the Beaten Path": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Way You Look Tonight": 1}
+{}
+{}
+{"Blue Moon": 1}
+{"Danny Williams": 1}
+{"Do They Know It's Christmas?": 1}
+{}
+{}
+{"253": 1}
+{"Leslie Odom Jr.": 1}
+{"Colour My World": 1}
+{"River of Eternity": 1}
+{"Moon Over Ireland": 1}
+{"Amarillo by Morning": 1}
+{}
+{"Amarillo by Morning": 1}
+{"Terry McMillan": 1}
+{"I Just Wanna Be Mad": 1}
+{}
+{}
+{}
+{}
+{"A Darkness More Than Night": 1}
+{}
+{"Miss USA": 1}
+{"CING-FM": 1}
+{}
+{}
+{}
+{}
+{}
+{"CBC Television": 1}
+{}
+{"CILQ-FM": 1}
+{}
+{}
+{"African Guitar Summit": 1}
+{}
+{"CBC Television": 1}
+{}
+{}
+{"CBC Television": 1}
+{}
+{"La Good Life": 1}
+{"Femme Lisant": 1}
+{}
+{}
+{"Femme nue couch\u00e9e": 1}
+{}
+{"La Vampire Nue": 1}
+{"On n'est pas couch\u00e9": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Battle of H\u00f6chst": 1}
+{"Battle of Bassano": 1}
+{"Battle of the Slaak": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Battle of Mojkovac": 1}
+{"Battle of Mar\u00eda": 1}
+{}
+{"Battle of Callinicum": 1}
+{}
+{"The Yellow Christ": 1}
+{}
+{}
+{"Christ in the House of His Parents": 1}
+{"The Passion of the Jew": 1}
+{}
+{"Alpha House": 1}
+{}
+{}
+{}
+{}
+{}
+{"Vienna Diptych": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Valley girl": 1}
+{}
+{"Simply Sapney": 1}
+{}
+{}
+{}
+{"Valley Girls": 1}
+{}
+{}
+{}
+{"Abraham Lincoln: Vampire Hunter": 1}
+{"The Originals": 1}
+{}
+{}
+{}
+{"Best of Rockers & Ballads": 1}
+{}
+{"Pob's Programme": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Guy Sparrow": 1}
+{}
+{"Modern Family": 1}
+{"Thara Prashad": 1}
+{}
+{}
+{}
+{}
+{}
+{"Hapi (Son of Horus)": 1}
+{"Het Huis Anubis": 1}
+{}
+{"Billie Barry": 1}
+{}
+{"The Edge of Seventeen": 1}
+{}
+{}
+{"21 Days": 1}
+{"Fire Over England": 1}
+{"Gone with the Wind": 1}
+{}
+{"Jukebox": 1}
+{}
+{"Let the Good Times Roll": 1}
+{}
+{"You Can't Always Get What You Want": 1}
+{}
+{"Ex on the Beach": 1}
+{"The Brave": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"American Ninja Warrior": 1, "USA vs. The World": 1}
+{}
+{}
+{}
+{}
+{}
+{"Tenement": 1}
+{}
+{}
+{}
+{"Green Ice": 1}
+{"The Twilight Saga: Breaking Dawn \u2013 Part 2": 1}
+{"Nickelodeon": 1}
+{}
+{}
+{}
+{"The Fault in Our Stars": 1}
+{}
+{"Peter Green Splinter Group": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"51st state": 1}
+{}
+{}
+{"Ole Miss Rebels": 1, "baseball": 1}
+{}
+{}
+{}
+{}
+{}
+{"Swayze Field": 1}
+{}
+{}
+{}
+{}
+{"Major League Baseball": 1, "draft": 1}
+{}
+{"WNBA": 1}
+{"NBA": 1, "draft lottery": 1}
+{}
+{}
+{}
+{"2017 NHL Entry Draft": 1}
+{"Mr. Irrelevant": 1}
+{}
+{"NBA": 1}
+{}
+{}
+{}
+{}
+{"KONI (FM)": 1}
+{}
+{"KANU (FM)": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Chambermaid (EP)": 1}
+{}
+{}
+{}
+{}
+{}
+{"March of the Penguins": 1}
+{}
+{}
+{}
+{}
+{"Autumn Leaves": 1}
+{"Fiela's Child": 1}
+{}
+{}
+{"Dysfunctional": 2}
+{}
+{}
+{"I Want a Dog": 1}
+{"The Satan Bug": 1}
+{"Bakke Mountain": 1}
+{"The Oregon Trail: Sketches of Prairie and Rocky-Mountain Life": 1}
+{}
+{"Procession of the Dead": 1}
+{"Tikki Tikki Tembo": 1}
+{}
+{}
+{"Pictionary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"I Love Lucy": 1}
+{}
+{}
+{"Batman v Superman: Dawn of Justice": 1}
+{}
+{}
+{}
+{}
+{"New York Power": 1}
+{}
+{}
+{"Justice League": 1}
+{"Batman Beyond": 1}
+{}
+{"Justice League": 1}
+{}
+{}
+{"Terry Jones": 1, "ice hockey": 1}
+{"Batman v Superman: Dawn of Justice": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Anna of Lorraine": 1}
+{}
+{}
+{"Diary of a Wimpy Kid: The Long Haul": 1, "film": 1}
+{"Julie (TV series)": 1}
+{"Guardians of the Galaxy": 1}
+{}
+{"The Real Housewives of Atlanta": 1}
+{}
+{"The Real Housewives of New York City": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Francis Watson": 1}
+{}
+{}
+{"The Emancipation of Mimi": 1}
+{}
+{}
+{"Malcolm in the Middle": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"2017 College Football Playoff National Championship": 1}
+{}
+{}
+{}
+{}
+{"The Mysterious Monsters": 1}
+{"Bigfoot": 1}
+{"The Son of Bigfoot": 1}
+{"The Curiosity of Chance": 1}
+{"Good Times": 1}
+{"1992 US Open": 1, "Women's Doubles": 1}
+{"Pam Beesly": 1}
+{"The Office": 1}
+{"Pam Beesly": 1}
+{}
+{"Bride and Groom": 1}
+{"The Negotiation": 1}
+{"Pam Ewing": 1}
+{}
+{}
+{}
+{}
+{"Lexa Doig": 1}
+{"The Delivery": 1, "The Office": 1}
+{}
+{"Pam Beesly": 1}
+{"Pam Beesly": 1}
+{"Rwang Pam Stadium": 1}
+{"Pam Beesly": 1}
+{"Dancing with the Stars": 1}
+{"Mr. Majestyk": 1}
+{"Cannonball Run 2001": 1}
+{"Big Brother Brasil 2": 1}
+{"Then Came Bronson": 1}
+{"The Lego Batman Movie": 1}
+{}
+{"Batman": 1}
+{"The Lego Movie": 1, "franchise": 1}
+{"Batman Bridge": 1}
+{"Batman: Gotham County Line": 1}
+{"The Lego Batman Movie": 1}
+{"On Broadway": 1}
+{}
+{"Lord Voldemort": 1}
+{"Batman": 1}
+{"Batman: Arkham City": 1}
+{"Batman v Superman: Dawn of Justice": 1}
+{"Two-Face": 1}
+{"Batman: Arkham": 1}
+{}
+{}
+{}
+{}
+{"Star Voyager": 1}
+{}
+{"Star Trek": 1}
+{"Heinz in the Moon": 1}
+{"Shadow Star": 1}
+{"81 Ceti": 1}
+{"World Series Baseball": 1}
+{"Ashes to Ashes": 1, "Star Trek: Voyager": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Paint It Black": 1}
+{"Westworld": 1}
+{}
+{"Pollock": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Leonard Thompson": 1, "American football": 1}
+{}
+{}
+{}
+{}
+{}
+{"Born a Lion": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Super Bowl": 1, "halftime shows": 1}
+{"Super Bowl XIV": 1}
+{"Seattle Seahawks": 1}
+{"Madonna": 1}
+{"Super Bowl XLVII": 1, "halftime show": 1}
+{"Super Bowl": 1}
+{}
+{}
+{"Super Bowl XLVIII": 1}
+{"Super Bowl XXXVIII": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Parallel Worlds": 1}
+{}
+{}
+{}
+{}
+{}
+{"Harry Potter": 1}
+{"John Burroughs Medal": 1}
+{}
+{}
+{}
+{"Pimpirev Ice Wall": 1}
+{"Memoirs of a Geisha": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ultimate Kylie": 1}
+{"Angel": 1, "Sarah McLachlan": 1}
+{"Jangan Kau Bohong": 1}
+{"Michael Ray": 1}
+{"Got It If You Want It": 1}
+{"If Not for You": 1}
+{"The Dark Side of the Moon": 1}
+{"Angel": 1, "Sarah McLachlan": 1}
+{}
+{"For You": 1, "Bruce Springsteen": 1}
+{"2 Chainz": 1, "discography": 1}
+{"A Good Heart": 1}
+{"You Give Love a Bad Name": 1}
+{"Kiss from a Rose": 1}
+{}
+{}
+{"Mother-in-Law": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kim Il-sung Stadium": 1}
+{}
+{}
+{"Dekha Ek Khwaab": 1}
+{}
+{}
+{}
+{"Hardwood Dreams": 1}
+{}
+{}
+{"Glory Johnson": 1}
+{}
+{}
+{"The National Dream": 1}
+{}
+{"Through the Looking-Glass": 1}
+{"Places I Never Meant to Be": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Million Dollar Drop": 1}
+{"Who Wants to Be a Superhero?": 1}
+{}
+{}
+{}
+{}
+{}
+{"Hero High": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Nintendo Entertainment System": 1}
+{}
+{"Skynet": 1, "Terminator": 1}
+{}
+{}
+{"Whiskey River": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Golden Palace": 1}
+{"FIFA World Cup": 1, "awards": 1}
+{}
+{}
+{"2002 FIFA World Cup Final": 1}
+{}
+{"Battle of Rheinberg": 1}
+{"Argentina": 1, "England": 1, "1986 FIFA World Cup": 1}
+{"Fr\u00e9d\u00e9ric Chopin": 1}
+{"Argentina": 1, "England": 1, "1986 FIFA World Cup": 1}
+{"2006 FIFA World Cup Final": 1}
+{"FIFA World Cup": 1, "awards": 1}
+{}
+{}
+{"Beyonc\u00e9": 1}
+{"Beyonc\u00e9": 1}
+{}
+{"Vaya Con Tioz": 1}
+{}
+{"Ghosts of Girlfriends Past": 1}
+{}
+{"Beyonc\u00e9": 1}
+{"Rockland Boulders": 1}
+{}
+{"Yankee Stadium": 1}
+{"Dan Johnson": 1, "baseball": 1}
+{}
+{"New England Patriots": 1}
+{"Bill Boyd": 1}
+{"Great American Ball Park": 1}
+{"2017 American League Wild Card Game": 1}
+{"Holy Cross Crusaders": 1, "football": 1}
+{"Chicago Cubs": 1}
+{"Kallh\u00e4lls BK": 1}
+{"2018 Wimbledon Championships": 1}
+{}
+{}
+{"2017 Wimbledon Championships": 1, "Men's Singles": 1}
+{"2015 Wimbledon Championships": 1}
+{"Wimbledon Championships": 1, "Men's Singles": 1}
+{"Valencia Open 500": 1}
+{"2015 Wimbledon Championships": 1}
+{"The Championships": 1, "Wimbledon": 1}
+{"2001 World Men's Handball Championship": 1}
+{"2011 Wimbledon Championships": 1}
+{"Storvreta IBK": 1}
+{"The Championships": 1, "Wimbledon": 1}
+{"2017 Wimbledon Championships": 1, "Men's Singles": 1}
+{"2016 Wimbledon Championships": 1}
+{"Figure skating": 1}
+{"2007 UCI Road World Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Belle of the Yukon": 1}
+{"Rock and Roll Hall of Fame": 1}
+{"The Bellboy": 1}
+{"Cricket World Cup": 1}
+{"Just Dropped In (To See What Condition My Condition Was In)": 1}
+{"Ball and Chain": 1, "Social Distortion": 1}
+{}
+{"The Nutty Professor": 1}
+{"American Bandstand": 1}
+{"The Ladies Man": 1}
+{"Frank Walker": 1, "Australian rules football": 1}
+{"It's Only Money": 1}
+{}
+{"The Disorderly Orderly": 1}
+{"Great Balls of Fire": 1}
+{"Rules of snooker": 1}
+{"It'll Be Me": 1, "Jerry Lee Lewis": 1}
+{"Mean Old Man": 1}
+{}
+{}
+{"2002 Rose Bowl": 1}
+{"Notre Dame": 1, "Miami": 1, "football": 1}
+{}
+{}
+{"Miami Hurricane": 1}
+{}
+{}
+{}
+{"Friday Night Lights": 1, "A Town, a Team, and a Dream": 1}
+{}
+{}
+{}
+{}
+{"Hail Flutie": 1}
+{"Miami Marlins": 1}
+{}
+{}
+{}
+{"Conan the Barbarian": 1, "1982 film": 1}
+{}
+{}
+{}
+{"Conan the Barbarian": 1, "1982 film": 1}
+{}
+{}
+{"The A Word": 1}
+{}
+{"Father (1990 film)": 1}
+{"Daredevil": 1}
+{}
+{"Gran Torino": 1}
+{}
+{"Uthiripookkal": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Queen (band)": 1}
+{"Happy End": 1}
+{}
+{"Union Maid": 1}
+{"Happy Pills": 1}
+{}
+{"The Unsustainable Lifestyle": 1}
+{}
+{}
+{}
+{}
+{"St. Louis Cardinals": 1, "NFL": 1}
+{"Sport Boys": 1}
+{"baseball": 1}
+{}
+{"1923\u201324 PCHA season": 1}
+{"Everton F.C.": 1}
+{"Eric Clapton": 1}
+{"Baseball": 1, "Summer Olympics": 1}
+{"National Basketball Association": 1}
+{}
+{}
+{}
+{"Ann Perkins": 1}
+{}
+{}
+{"Don Draper": 1}
+{}
+{}
+{}
+{}
+{"The Continent Makers": 1}
+{}
+{"1937 South American Championship": 1}
+{}
+{"Twist and Shout": 1}
+{}
+{"Wizard of the Vibes": 1}
+{"Big Brain Wolf": 1}
+{"The Land Before Time": 1}
+{}
+{"The Listening Sessions": 1}
+{"Super Star": 1, "S.H.E album": 1}
+{"Spotify": 1}
+{"Standing on a Beach": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Family Guy": 1, "season 7": 1}
+{"Family Guy": 1}
+{}
+{"Blagsnarst": 1, "Love Story": 1}
+{"The Spy Who Dumped Me": 1}
+{"The Book of Eli": 1}
+{"Oz the Great and Powerful": 1}
+{"Meg Griffin": 1}
+{"Friends with Benefits": 1}
+{"On Our Selection": 1}
+{"American Psycho 2": 1}
+{"Bad Moms": 1}
+{"London Irish": 1}
+{"Embarrassing Bodies": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Jim Coleman": 1}
+{"Ramblin' Wreck": 1}
+{"Negoesco Stadium": 1}
+{"Dugout": 1, "baseball": 1}
+{"Goss Stadium": 1, "Coleman Field": 1}
+{}
+{"Owsley B. Frazier Stadium": 1}
+{"Javelina Stadium": 1}
+{"A League of Their Own": 1}
+{"DU Stadium": 1}
+{"Great American Ball Park": 1}
+{"Army\u2013Navy Game": 1}
+{"Bangalore Hockey Stadium": 1}
+{}
+{"Skip Wilson Field": 1}
+{"Carl Wooten Field": 1}
+{"Gillette Stadium": 1}
+{}
+{"Toshiko Plays Billy Strayhorn": 1}
+{}
+{}
+{}
+{"50 home run club": 1}
+{"Frozen Run": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Haarlems Dagblad": 1}
+{}
+{"Plumbers Don't Wear Ties": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Dorsa Barlow": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Woman on the Beach": 1}
+{"The Groomsmen": 1}
+{"Out of the Woods": 1}
+{"L'allenatore nel pallone 2": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Rabbit in the Moon": 1}
+{}
+{}
+{}
+{}
+{"Dracula Unleashed": 1}
+{"Snooper and Blabber": 1}
+{}
+{}
+{"Dynamite Dan": 1}
+{"The Astronomical Journal": 1}
+{}
+{}
+{"Veterans Memorial Soccer Complex": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Alt.music.hardcore": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The First Blast of the Trumpet Against the Monstruous Regiment of Women": 1}
+{}
+{"The Blue Mouse": 1}
+{}
+{}
+{}
+{}
+{"2018 Winter Olympics": 1}
+{}
+{}
+{}
+{}
+{"The Duty to Remain Silent": 1}
+{"The Schorrsiegel Affair": 1}
+{}
+{}
+{"The Old Man": 1, "Seinfeld": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Psycho": 1}
+{}
+{}
+{"Tour de France": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Cavaliers\u2013Warriors rivalry": 1}
+{"Jump City": 1, "Seattle": 1}
+{"Ninja Gaiden II": 1}
+{"Australian Ninja Warrior": 1}
+{"Boruto: Naruto Next Generations": 1}
+{"Little Big Shots": 1}
+{}
+{"Ninja Tuna": 1}
+{}
+{"Cheerleader Ninjas": 1}
+{}
+{"Jandamarra's War": 1}
+{"American Ninja Warrior": 1, "season 7": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The SpongeBob SquarePants Movie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Jet Attack": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Battle of Britain": 1}
+{}
+{}
+{}
+{"Big Brother Naija": 1}
+{"The Breakfast Club": 1}
+{}
+{"1963 NCAA University Division Basketball Tournament": 1}
+{}
+{"Norman Corwin Presents": 1}
+{}
+{}
+{"Arctic Air": 1}
+{}
+{"CBC Television": 1}
+{"CBC Television": 1}
+{}
+{}
+{}
+{"CBC Television": 1}
+{"CBC Television": 1}
+{"CBC Television": 1}
+{}
+{}
+{"CBC Television": 1}
+{"Legends of the Fall": 1}
+{"Jazz Portraits: Mingus in Wonderland": 1}
+{}
+{}
+{"Legends of the Fall": 1}
+{}
+{}
+{}
+{}
+{"Infidel: My Life": 1}
+{}
+{}
+{}
+{}
+{"The Law of Nines": 1}
+{"Batman": 1}
+{"Pirates of the Caribbean": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"When We First Met": 1}
+{"Hogan's Romance Upset": 1}
+{}
+{}
+{"100 Centre Street": 1}
+{}
+{}
+{}
+{"Grey's Anatomy": 1, "season 14": 1}
+{"The Russian Room": 1}
+{}
+{}
+{}
+{}
+{"Kidnapped by Danger": 1}
+{}
+{}
+{"Wizards of Waverly Place": 1}
+{}
+{}
+{}
+{"Kapalkundala": 1}
+{}
+{"Assi Dayan": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Gossamer Wump": 1}
+{}
+{"Violetta": 1}
+{"Dmitri N. Smirnov": 1, "footballer": 1}
+{}
+{}
+{}
+{}
+{}
+{"The Dock Brief": 1}
+{}
+{"Milwaukee Brewers": 1}
+{"Arena Football League": 1}
+{"NBA": 1, "Most Valuable Player Award": 1}
+{"Arena Football League": 1}
+{"Arena Football League": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Windsor Castle": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Great Purge": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Justice League": 1}
+{}
+{"The Lego Batman Movie": 1}
+{"Justice League": 1}
+{"Justice League": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Freedom for the Thought That We Hate": 1}
+{"Music & Letters": 1}
+{}
+{}
+{"They Stand Accused": 1}
+{"PBA": 1, "KBS": 1}
+{}
+{}
+{}
+{}
+{"Love Letter": 1}
+{}
+{}
+{}
+{"Bibi Ka Maqbara": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"I Kissed a Girl": 1}
+{"I Think I Love You": 1}
+{"CKNX-FM": 1}
+{"I Love a Rainy Night": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Why Has Bodhi-Dharma Left for the East?": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"RG Outrider": 1}
+{}
+{}
+{}
+{}
+{"April Snow": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Niagara": 1, "The Office": 1}
+{"Video Demons": 1, "Psychotown": 1}
+{}
+{}
+{"Take Your Daughter to Work Day": 1, "The Office": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Lonely Doll": 1}
+{}
+{}
+{}
+{}
+{"Picnic at Hanging Rock": 1}
+{}
+{}
+{}
+{"Head of Christ": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Know Nothing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"2008 Summer Olympics": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Beggar of Cawnpore": 1}
+{}
+{}
+{}
+{}
+{"Mickey Mouse": 1}
+{}
+{}
+{"Norwegian Judo Federation": 1}
+{"St. Louis Blues": 1}
+{}
+{"1967 Federation Cup": 1, "tennis": 1}
+{"1968 FA Cup Final": 1}
+{"California Golden Seals": 1}
+{"Bang Bang You're Dead": 1}
+{"Bang Bang Rock & Roll": 1}
+{}
+{}
+{}
+{"Dust on the Bottle": 1}
+{"Cheatty Cheatty Bang Bang": 1}
+{"Bang Bang Kid": 1}
+{"Chitty Chitty Bang Bang": 1}
+{"Slap Bang with Ant & Dec": 1}
+{}
+{}
+{"Bang Bang You're Dead": 1}
+{"Stadio Giuseppe Grezar": 1}
+{"Piacenza Calcio 1919": 1}
+{"Fuori corso": 1}
+{"Stadio Is Arenas": 1}
+{}
+{"Stadio Francesco Gabrielli": 1}
+{"Italy national rugby union team": 1}
+{"Coppa Italia": 1}
+{"Stadio San Nicola": 1}
+{}
+{"Stadio Ciro Vigorito": 1}
+{}
+{"Stadio Erasmo Iacovone": 1}
+{}
+{"F.C. Crotone": 1}
+{}
+{"Stadio San Paolo": 1}
+{"Stadio Antonio Bianco": 1}
+{"NBA": 1}
+{"NBA": 1}
+{}
+{}
+{}
+{"James Bailey": 1, "basketball": 1}
+{"James Young": 1, "basketball": 1}
+{}
+{}
+{}
+{"America Is in the Heart": 1}
+{}
+{}
+{}
+{}
+{"Strawberry Fields": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Rikki-Tikki-Tavi": 1}
+{}
+{}
+{}
+{}
+{}
+{"Archie Marries Veronica": 1, "Archie Marries Betty": 1}
+{}
+{"All in the Family": 1}
+{"I'm a Believer": 1}
+{"The House Across the Bay": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The U.S. of Archie": 1}
+{}
+{"Sabrina the Teenage Witch": 1, "1996 TV series": 1}
+{"Archie Marries Veronica": 1, "Archie Marries Betty": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Silent Sonata": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Army Show": 1}
+{}
+{}
+{}
+{"Warriors (2009 TV series)": 1}
+{}
+{}
+{"All the Young Men": 1}
+{}
+{}
+{}
+{}
+{"When I Was a Boy": 1}
+{}
+{"1899 World Allround Speed Skating Championships": 1}
+{"1900 World Allround Speed Skating Championships": 1}
+{"Light-year": 1}
+{}
+{}
+{}
+{"Life Toward Twilight": 1}
+{"King (miniseries)": 1}
+{"Cristina Yang": 1}
+{"Shanti Enathu Shanti": 1}
+{}
+{}
+{"Real Life": 1}
+{}
+{"Doc Savage: His Apocalyptic Life": 1}
+{}
+{}
+{"The Handmaid's Tale": 1}
+{"The Handmaid's Tale": 1}
+{"Prote Poker": 1}
+{"The Handmaid's Tale": 1}
+{"Challenge 21": 1}
+{}
+{"The Handmaid's Tale": 1}
+{}
+{"The Handmaid's Tale": 1}
+{}
+{"The Handmaid's Tale": 1}
+{"The Handmaid's Tale": 1}
+{}
+{}
+{"The Handmaid's Tale": 1}
+{}
+{"MV Miralda": 1}
+{"Total Bellas": 1}
+{}
+{"Titans (2018 TV series)": 1}
+{}
+{}
+{"MV Putney Hill": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Repo! The Genetic Opera": 1}
+{}
+{}
+{}
+{}
+{}
+{"Chicken Little": 1, "2005 film": 1}
+{}
+{}
+{"Chicago P.D.": 1}
+{"Pretty Little Liars": 1}
+{"The Block": 1}
+{}
+{"Kaun Banega Crorepati": 1}
+{}
+{}
+{}
+{"FA Cup": 1}
+{"FA Cup": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Father Brown": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"The Painter's Honeymoon": 1}
+{}
+{}
+{}
+{}
+{"Are You the One?": 1}
+{}
+{"After Sundown": 1, "2006 film": 1}
+{"Skin Wars": 1}
+{"Padm\u00e9 Amidala": 1}
+{"Rabbit Hole": 1}
+{}
+{"Santa Clarita Diet": 1}
+{}
+{}
+{}
+{"Erotic Inferno": 1}
+{}
+{}
+{}
+{}
+{"New Amsterdam": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"A Dog's Purpose": 1}
+{}
+{}
+{"Big Jake": 1}
+{"A Dog's Purpose": 1}
+{}
+{}
+{"My Babysitter's a Vampire": 1}
+{}
+{"Ethan of Athos": 1}
+{"Dogs Playing Poker": 1}
+{}
+{}
+{}
+{"Hoop Jr.": 1}
+{"I Am Legend": 1}
+{"George W. Beadle Award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Three Studies of the Male Back": 1}
+{"Fr\u00e9d\u00e9ric Chopin": 1, "George Sand": 1}
+{}
+{}
+{}
+{"Portrait of George Dyer Talking": 1}
+{}
+{"Lucky Miles": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Trillian": 1}
+{}
+{"Ecce Ancilla Domini": 1}
+{}
+{}
+{}
+{}
+{"One More Time": 1}
+{}
+{}
+{}
+{}
+{}
+{"Hollywood Arms": 1}
+{}
+{"Christmas Child": 1}
+{}
+{"A Child's Garden of Verses": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Knight Rider": 1}
+{}
+{"Knights of Columbus": 1}
+{"Better Angels": 1, "The Walking Dead": 1}
+{}
+{}
+{"Michael Knight": 1, "Knight Rider": 1}
+{}
+{"Knight Rider": 1, "2008 TV series": 1}
+{}
+{"Wet Hot American Summer": 1}
+{"Wet Hot American Summer": 1}
+{"Wake Me When It's Over": 1, "Willie Nelson": 1}
+{"Unchained Melody": 1}
+{"Up Where We Belong": 1}
+{"The First Time Ever I Saw Your Face": 1}
+{"Both Sides, Now": 1}
+{"Will the Circle Be Unbroken?": 1}
+{"Minstrel Point": 1}
+{"Dumbo": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Elephant": 1}
+{}
+{}
+{}
+{}
+{}
+{"Of Montreal": 1}
+{}
+{"Ernie Watts": 1}
+{}
+{"The Choice": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Opening of the Fifth Seal": 1}
+{"Looking Out for Number One": 1, "Travis Tritt": 1}
+{}
+{"Lost Seal Stream": 1}
+{}
+{}
+{"United States v. Seale": 1}
+{}
+{"BBC Television": 1}
+{"TVNorge": 1}
+{}
+{}
+{"25 Days of Christmas": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Super Mario Bros.": 1}
+{"Super Smash Bros.": 1}
+{}
+{"Super Play Action Football": 1}
+{"The Parent Trap": 1}
+{}
+{}
+{}
+{}
+{"La La Land": 1}
+{}
+{}
+{"The Artist and the Model": 1}
+{}
+{"Lisa Ekdahl": 1}
+{}
+{"Lisa Picard Is Famous": 1}
+{}
+{}
+{}
+{}
+{"Hanthane Kathawa": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Just to See You Smile": 1}
+{"Barry Manilow": 1, "discography": 1}
+{"The House of Smiles": 1}
+{"Smile": 1, "James Cottriall": 1}
+{"He Comes Up Smiling": 1}
+{}
+{"Please Smile Again": 1}
+{"Pack Up Your Troubles in Your Old Kit-Bag": 1}
+{"O Sorriso do Lagarto": 1}
+{"Our Prayer": 1}
+{"Queen (band)": 1}
+{"The Best Movie": 1}
+{"High School Musical": 1}
+{"A Year at the Movies": 1, "One Man's Filmgoing Odyssey": 1}
+{}
+{"Krishna Aur Kans": 1}
+{}
+{}
+{}
+{"Pareni Maya Jalaima": 1}
+{}
+{}
+{"To Kill a Mockingbird": 1}
+{"Days of Our Lives": 1, "James Otto": 1, "album": 1}
+{}
+{"Ornament Records": 1}
+{"Greatest Hits": 1, "Andy Williams": 1, "album": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Roads of Destiny": 1}
+{}
+{}
+{}
+{}
+{"Shanghai 13": 1}
+{"Invisible Child": 1}
+{"The New One-Armed Swordsman": 1}
+{}
+{"Boxer from Shantung": 1}
+{}
+{"Fairly Legal": 1}
+{}
+{}
+{"Mary Chesnut's Civil War": 1}
+{}
+{}
+{}
+{"A Slave of Vanity": 1}
+{}
+{}
+{"Hate 2 O": 1}
+{}
+{"Books of Samuel": 1}
+{}
+{}
+{}
+{}
+{}
+{"Books of Samuel": 1}
+{}
+{}
+{}
+{}
+{"King James Version": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Last Day of Summer": 1}
+{"Vanna Vanna Pookkal": 1}
+{"Thalattu Ketkuthamma": 1}
+{"Everything Will Be OK": 1}
+{"Battle of Frankfurt": 1}
+{"When You Hear the Bells": 1}
+{}
+{"The Wanton of Spain": 1}
+{"Seven Days Grace": 1}
+{"The 6th Day": 1}
+{}
+{}
+{"Random Hearts": 1}
+{}
+{"Gold (1932 film)": 1}
+{"There Will Be Blood": 1}
+{}
+{}
+{}
+{"Battle of the Sound": 1}
+{}
+{}
+{}
+{"Wars of the Three Kingdoms": 1}
+{}
+{"Bryant Reeves": 1}
+{"Sonny & Cher": 1}
+{"Nine Days that Changed the World": 1}
+{"Meister Eder und sein Pumuckl": 1}
+{}
+{"Sabrina the Teenage Witch": 1}
+{"Grown Ups": 1}
+{"Private Hell 36": 1}
+{"Nanny McPhee and the Big Bang": 1}
+{"Phase 10": 1}
+{"Meadowlark Lemon": 1}
+{}
+{"The Chosen One": 1}
+{}
+{"Bluebeard's Eighth Wife": 1}
+{"Space Race": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Undercovers": 1}

@@ -1,0 +1,11656 @@
+{"sport-Soccer": 1}
+{"sport-Soccer": 5, "sport-Championships": 1}
+{"sport-Soccer": 5}
+{"sport-Football": 5}
+{"sport": 1, "sport-Soccer": 1, "award": 2}
+{"sport-Soccer": 1}
+{"sport-Championships": 2, "sport-Cups": 2}
+{"sport-Championships": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 6, "sport-Championships": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1, "sport-Olympics": 1, "sport-FIFA World Cup": 1, "sport-Copa Am\u00e9rica": 1, "sport-South American U-20 Championship": 1}
+{"sport-Soccer": 1, "sport-Championships": 1}
+{"sport-Championships": 1}
+{"sport-Soccer": 1, "sport-La Liga": 2, "sport-Copa del Rey": 1}
+{"sport": 1, "sport-Soccer": 1, "sport-Olympics": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Olympics": 0, "sport-Championships": 0, "sport-Soccer": 0, "award": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{"video game": 1}
+{"book": 8}
+{"video game": 5}
+{"book": 1}
+{}
+{}
+{"journal": 1, "book": 1}
+{"video game": 2}
+{"film": 3}
+{"book": 1, "award": 1, "story": 1}
+{"book": 1, "literature": 1, "award": 1}
+{"book": 2, "story": 1, "literature": 1}
+{"video game": 1}
+{"magazine": 1}
+{"literature": 1, "book": 1}
+{"magazine": 1}
+{"magazine": 3, "newspaper": 1}
+{"book": 2}
+{}
+{"literature": 1, "book": 1, "story": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 5}
+{}
+{}
+{}
+{}
+{"sport-Championships": 1}
+{"sport-Championships": 1}
+{"literature": 1, "book": 1, "novel": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "single": 1, "song": 1, "record": 2}
+{"music": 1}
+{}
+{}
+{"music": 1, "record label": 1}
+{"album": 1, "music": 1}
+{}
+{"music": 3, "headquarters": 1}
+{"song": 4, "film": 4, "music": 1}
+{"music": 1, "record label": 1}
+{"music": 1, "record label": 1}
+{"music": 5}
+{"music": 1}
+{"music": 1, "record label": 1}
+{"music": 1}
+{"music": 3}
+{"award": 1}
+{"music": 5, "record": 5, "company": 5, "label": 4}
+{"music": 1, "band": 1, "album": 3}
+{}
+{}
+{}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{"literature": 1}
+{"opera": 1, "ballet": 2, "libretto": 1}
+{}
+{"album": 1, "music": 1, "sport": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{"song": 1, "album": 1}
+{"television": 1, "sit-com": 1, "TV-series": 2, "film": 1}
+{"sport-Basketball": 1}
+{"song": 1, "album": 1, "music": 1}
+{"film": 1, "movie": 1}
+{}
+{}
+{"music": 3, "film": 2, "video game": 0, "literature": 0, "book": 0, "award": 1, "sport": 0, "entertainment": 1, "show": 0, "story": 0, "mascot": 0}
+{}
+{}
+{}
+{"music": 1, "song": 1, "album": 1}
+{"film": 1, "actress": 1}
+{"film": 3}
+{"television": 1, "show": 1}
+{}
+{"television": 1, "episode": 1, "series": 2, "story": 1}
+{"television": 1, "show": 1, "episode": 2, "series": 2, "animation": 1}
+{"television": 1, "story": 1}
+{"television": 1, "series": 1, "episode": 1}
+{"television": 1, "episode": 1, "series": 1, "film": 1}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1}
+{"television": 1, "series": 1}
+{"television": 1, "episode": 1, "series": 1}
+{"television": 1, "show": 1, "dramedy": 1}
+{"television": 1, "episode": 1, "series": 1}
+{"television": 1, "episode": 1, "series": 1}
+{"television": 1, "film": 2}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1}
+{"television": 1, "episode": 3, "story": 1, "show": 1}
+{"television": 1}
+{"television": 1}
+{"television": 1, "episode": 1, "series": 1}
+{"television": 1, "series": 1}
+{}
+{}
+{}
+{}
+{"radio": 1}
+{}
+{}
+{"film": 5, "movie": 3, "musical": 1, "story": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Championships": 1}
+{"sport-Soccer": 1}
+{}
+{"sport-Championships": 1, "sport-Soccer": 1, "literature": 1}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{"sport-Formula One": 1}
+{}
+{}
+{}
+{}
+{"literature": 1, "art": 1}
+{}
+{"painting": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"painting": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1}
+{"sport-Commonwealth Games": 3, "sport-Swimming": 2, "sport-Diving": 1, "sport-Water polo": 1, "sport-Synchronised swimming": 1}
+{"award": 1, "television": 3, "sport": 5, "show": 1, "film": 1}
+{"sport": 1}
+{"sport": 1}
+{"sport-Olympics": 1}
+{"sport": 1}
+{"sport-Rock Climbing": 1}
+{"sport": 1}
+{"sport": 1, "sport-professional": 1, "sport-collegiate": 1}
+{"sport": 1}
+{"sport-Tennis": 1, "sport-Olympics": 0, "sport-Championships": 0, "sport-Soccer": 0, "television": 1, "film": 0, "music": 0, "video game": 0, "literature": 0, "book": 0, "award": 0, "entertainment": 0, "show": 0, "story": 0, "mascot": 0}
+{"sport-Premier League": 1}
+{"video game": 5, "sport-Soccer": 1, "sport-Basketball": 1, "sport-Hockey": 1, "sport-American Football": 1, "sport-Motorsport": 1}
+{}
+{"sport-Soccer": 1, "sport-Baseball": 1, "sport-Volleyball": 1, "sport-Basketball": 1, "sport-Tennis": 1}
+{"sport": 1}
+{"sport-Hockey": 1, "television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport-Salmon Fishing": 1}
+{}
+{}
+{"film": 1, "character": 1, "franchise": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"actor": 1, "musician": 1, "award": 4, "movie": 3, "film": 2}
+{"show": 1, "sport-NBA": 1, "sport-NFL": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{"comic strip": 1, "TV": 1, "award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 2}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"mascot": 1}
+{"mascot": 3}
+{}
+{"book": 1}
+{}
+{"sport-Football": 1, "sport-Basketball": 1, "mascot": 1}
+{"mascot": 1}
+{"music": 5}
+{"sport-Olympics": 1, "sport-Wrestling": 2, "sport-UFC": 2}
+{"sport-Football": 1, "mascot": 2}
+{"sport-Championships": 2, "mascot": 2}
+{"magazine": 1}
+{}
+{"sport-Hockey": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"album": 1, "music": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{"television": 3, "episode": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "play": 1}
+{"film": 2, "book": 1}
+{"music": 1}
+{}
+{}
+{}
+{"book": 1, "biography": 1}
+{}
+{"movie": 1}
+{}
+{"book": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "literature": 1, "book": 1}
+{}
+{}
+{}
+{"entertainment": 1, "show": 1}
+{}
+{"film": 1, "story": 1}
+{}
+{}
+{"film": 1, "show": 1}
+{}
+{"sport-Basketball": 1}
+{"film": 5, "television": 3, "show": 1}
+{}
+{}
+{"film": 1}
+{"sport-Olympics": 1, "sport-Ice Hockey": 1}
+{"film": 1, "story": 1}
+{"film": 4, "writer": 1}
+{"film": 1, "story": 1}
+{"television": 1, "show": 1, "film": 2}
+{"sport-Basketball": 1}
+{"film": 1, "music": 1, "story": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Boxing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{"book": 1, "literature": 1, "award": 1}
+{"television": 1, "show": 1, "actress": 1}
+{"literature": 1, "film": 1}
+{"album": 1, "music": 1}
+{"film": 3}
+{}
+{"literature": 1, "book": 1, "film": 2, "television": 2, "story": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{"book": 1}
+{"show": 1}
+{"television": 1, "miniseries": 1}
+{}
+{"book": 1, "literature": 1, "award": 1}
+{}
+{}
+{}
+{"painting": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 3, "album": 3, "documentary": 1, "award": 1}
+{}
+{"song": 2}
+{"album": 1, "band": 1, "music": 1, "magazine": 1}
+{"book": 4}
+{}
+{"song": 2, "album": 1}
+{}
+{}
+{"video game": 1, "entertainment": 1}
+{}
+{}
+{"television": 2}
+{}
+{"music": 1, "album": 1, "award": 1, "football team": 1}
+{"song": 2}
+{"album": 1}
+{"song": 1, "single": 1, "album": 1, "ep": 1}
+{"literature": 1, "book": 1, "story": 1}
+{}
+{}
+{}
+{"film": 1}
+{"television": 1}
+{}
+{}
+{}
+{}
+{"music": 1, "television": 2, "film": 1, "soap opera": 1, "drama series": 1}
+{"literature": 1}
+{}
+{"film": 2, "movie": 1}
+{}
+{"film": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"award": 1}
+{}
+{"television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"play": 1}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"television": 1, "show": 1}
+{"sport-Rugby": 1}
+{"film": 1, "sport-Wrestling": 1}
+{}
+{"film": 1, "book": 1, "story": 2, "stage play": 2, "radio play": 2, "award": 1}
+{"literature": 1, "book": 1, "film": 3}
+{"film": 2}
+{"film": 2, "literature": 1, "book": 1, "story": 1}
+{"film": 1}
+{"literature": 1, "book": 1, "story": 1}
+{"literature": 1, "poem": 2}
+{"music": 1, "film": 3, "movie": 3}
+{"literature": 1, "book": 1, "film": 2}
+{"film": 1, "music": 1}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "story": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"video game": 4, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "software": 1}
+{}
+{}
+{"computer peripherals": 1}
+{}
+{"video game": 1}
+{}
+{}
+{"song": 1, "album": 1}
+{"song": 1}
+{"film": 1, "musical": 1, "song": 1}
+{"film": 1, "song": 6, "award": 3}
+{"song": 5}
+{"song": 2, "album": 1, "single": 1}
+{"song": 1, "film": 1}
+{"song": 2}
+{"song": 3}
+{"music": 1, "song": 1, "television": 1, "show": 1}
+{"tv": 1, "song": 2, "film": 1}
+{"film": 1, "song": 3}
+{"literature": 1, "book": 1}
+{"music": 1, "song": 1, "award": 1}
+{"album": 1, "award": 2}
+{"song": 1, "album": 1}
+{"song": 3, "album": 2, "single": 2, "music": 1}
+{"song": 3, "album": 1, "chart": 1}
+{"song": 5, "award": 3}
+{"song": 2, "album": 1}
+{"sport-Football": 1}
+{"sport-Baseball": 1}
+{"sport-Baseball": 1}
+{"sport-Baseball": 2}
+{"award": 3, "sport": 3}
+{"sport-Baseball": 1}
+{"sport-Baseball": 1}
+{"sport-Baseball": 1, "award-Cy Young Award": 1}
+{"sport-Football": 1}
+{"sport-World Series": 4, "Major League Baseball": 1, "games": 1, "league": 1}
+{"sport-Baseball": 1}
+{"sport-Basketball": 2}
+{"sport-Australian rules football": 1}
+{"sport-Hockey": 6, "sport-NHL": 1, "sport-Western Hockey League": 1, "sport-American Hockey League": 1, "sport-Sm-liiga": 1, "sport-Elitserien": 1, "sport-Czech Extraliga": 1, "sport-Slovak Extraliga": 1}
+{"sport-baseball": 2}
+{"sport-AFL": 1}
+{"sport-Baseball": 1}
+{"award": 1, "sport-Baseball": 1, "Major League Baseball": 1}
+{"sport-Baseball": 1}
+{"sport-Baseball": 1, "award-Most Valuable Player": 1, "award-AL batting champion": 1, "award-MLB All-Star": 1, "award-MLB Triple Crown": 1}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{"television": 1, "show": 1}
+{"song": 2, "album": 1}
+{}
+{}
+{"award": 1}
+{}
+{}
+{}
+{}
+{"sport-Olympics": 5, "sport-athletics": 1, "sport-weightlifting": 1, "sport-wrestling": 1, "sport-cross-country skiing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"language": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ballet": 1, "poem": 1, "music": 1}
+{"magazine": 1}
+{}
+{"film": 2, "movie": 1}
+{"film": 1}
+{"film": 2}
+{"film": 2}
+{"film": 1}
+{"song": 3}
+{"film": 2, "music": 2, "actor": 1, "musician": 2}
+{"film": 3}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 1, "book": 1}
+{"art": 1, "sculpture": 1, "painting": 2}
+{"literature": 1, "book": 1, "art": 1}
+{"film": 7, "award": 1}
+{}
+{"film": 3, "actor": 1}
+{"music": 1, "band": 1}
+{}
+{}
+{}
+{}
+{"music": 1, "literature": 1}
+{"literature": 1}
+{"sport-Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 3}
+{"song": 1, "album": 1, "single": 3, "sport": 0}
+{"album": 1, "song": 4, "show": 1, "award": 1}
+{"album": 2, "song": 4}
+{"film": 1, "music": 1, "sport": 1}
+{"song": 1, "album": 1, "single": 1, "music video": 1}
+{"song": 2, "musical": 1}
+{"song": 3, "music video": 3}
+{"song": 1}
+{}
+{"album": 1, "music": 1}
+{"music": 3, "song": 2, "video": 1}
+{"television": 1, "episode": 1, "series": 1, "award": 1, "music": 1}
+{"music": 1, "performance": 1}
+{"song": 3, "music video": 4, "sitcom": 2, "video": 1, "music": 1}
+{"show": 1}
+{"show": 1}
+{"song": 1}
+{"song": 4, "album": 1, "music": 1}
+{"movie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"album": 1, "music": 1, "band": 1, "sport-Warped Tour": 1}
+{}
+{"television": 3, "music": 2, "film": 2, "telenovelas": 1, "talk shows": 1, "music video": 1}
+{}
+{}
+{}
+{"music": 1, "record label": 1}
+{}
+{}
+{"music": 1}
+{"album": 1, "song": 3, "music": 1}
+{}
+{"film": 1, "story": 1}
+{}
+{"sport-Olympics": 1, "sport-Cross-country": 7, "sport-Biathlon": 5, "sport-Speed skating": 5, "sport-Short track": 4, "sport-Alpine skiing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"album": 1}
+{}
+{}
+{}
+{"album": 1, "music": 2, "poetry": 1, "narration": 1, "actor": 1, "composition": 1, "suite": 1}
+{"sport-Race Car Driving": 1}
+{"sport-Auto racing": 1, "sport-NASCAR": 2, "sport-IndyCar": 1}
+{}
+{}
+{}
+{}
+{"sport-IndyCar": 1, "sport-racing": 1, "race": 1}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"literature": 1, "novel": 2, "music": 1}
+{}
+{}
+{"book": 1}
+{}
+{}
+{}
+{"film": 2}
+{}
+{}
+{"book": 2}
+{"sport-Olympics": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"film": 1}
+{}
+{}
+{"book": 6}
+{}
+{"television": 1, "show": 1, "episode": 2}
+{"television": 1, "show": 1}
+{}
+{}
+{"film": 1, "television": 1, "show": 7}
+{"film": 1, "television": 2}
+{"television": 1, "documentary": 1}
+{"music": 1, "songwriter": 1, "musician": 1, "record producer": 1, "singer": 2, "actor": 1}
+{"film": 2}
+{"magazine": 1}
+{"book": 1}
+{}
+{}
+{"book": 3, "video": 1}
+{"film": 1}
+{}
+{}
+{"song": 1}
+{"album": 1, "song": 6, "music": 1, "award": 1}
+{"song": 3, "album": 1}
+{"music": 1, "song": 3, "album": 2}
+{"song": 3, "album": 1}
+{"album": 1, "music": 1, "song": 1}
+{"music": 3, "film": 1, "television": 1, "sport": 1}
+{"song": 2, "album": 1}
+{"song": 2, "album": 1}
+{"song": 1}
+{"award": 1, "album": 1, "song": 3, "music video": 1}
+{"award": 6, "album": 3, "song": 2, "magazine": 1, "festival": 2, "sport-Super Bowl": 4}
+{"song": 2, "album": 1}
+{"video game": 1, "series": 1}
+{"television": 1, "show": 1}
+{"music": 6, "album": 5, "film": 5, "award": 1}
+{"album": 1, "song": 6}
+{"song": 4, "film": 1, "documentary": 1, "television": 1}
+{"music": 3, "song": 2, "award": 1, "concert": 3, "tour": 3}
+{"song": 2, "album": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "opera": 1}
+{}
+{"opera": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"opera": 1, "music": 1, "libretto": 1}
+{"music": 1, "film": 1, "show": 1}
+{}
+{}
+{"music": 1, "film": 1000, "cinema": 1}
+{"book": 1, "literature": 1, "story": 1}
+{}
+{}
+{"literature": 1}
+{"literature": 1, "book": 1, "magazine": 1}
+{"literature": 1, "book": 1, "magazine": 1}
+{}
+{"literature": 1, "book": 1}
+{}
+{"magazine": 1}
+{"music": 1, "literature": 1, "magazine": 1}
+{"magazine": 1}
+{"literature": 1, "book": 1, "magazine": 1}
+{"magazine": 1}
+{"magazine": 1, "newspaper": 1}
+{}
+{"book": 1, "literature": 1, "magazine": 4, "newspaper": 4}
+{}
+{"literature": 1, "book": 1, "magazine": 1}
+{"music": 1}
+{"film": 1, "story": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{"art": 2}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{"music": 3, "album": 1, "video": 3, "song": 2, "entertainer": 1}
+{}
+{}
+{}
+{}
+{"film": 1, "theater": 2, "literature": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Championships": 1}
+{"sport-Soccer": 1}
+{"sport-Championships": 1}
+{"sport-Championships": 1}
+{"sport-Championships": 1, "television": 1}
+{"sport-Championships": 1}
+{"sport-Football": 1, "sport-European Cup": 1}
+{"sport-Championships": 1, "sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Football": 1, "sport-Olympics": 0, "sport-Championships": 0, "sport-Soccer": 0}
+{"sport-Soccer": 1}
+{"sport-Football": 6, "sport-Cup": 4, "sport-League": 5, "sport-European Cups": 2}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Championships": 5, "sport-Football": 1, "sport-FA Cup": 4, "sport-European Cup": 1}
+{"sport-Soccer": 1, "sport-Football": 1, "show": 1}
+{"sport": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 5, "award": 1}
+{"sport-Football": 1}
+{"television": 1}
+{"sport-Championships": 1}
+{"television": 1, "show": 1}
+{"show": 1, "sport": 1, "entertainment": 1}
+{"sport-Football": 1, "sport-Championships": 1}
+{"sport-Championships": 1}
+{"television": 1, "show": 1}
+{"television": 1, "show": 3}
+{"television": 2, "show": 1, "sport": 1}
+{"television": 1, "show": 1}
+{}
+{"sport-Women's Basketball": 1, "sport-NCAA": 1, "television": 3}
+{"television": 1, "show": 1, "reality show": 1}
+{"show": 1}
+{"song": 2, "show": 1, "sport-Olympics": 1}
+{"television": 1, "music": 2, "show": 1}
+{"television": 1, "show": 1}
+{"music": 1, "album": 1, "radio division": 1}
+{"television": 1, "show": 1}
+{"sport-Soccer": 1, "award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1}
+{"sport-Football": 1}
+{"video game": 1}
+{"sport-Football": 1, "sport-Championships": 7}
+{}
+{}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1, "film": 1}
+{"television": 2, "documentary": 1}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 3}
+{}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{"painting": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport-Rally": 1, "sport-Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"entertainment": 1, "festival": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "band": 1, "album": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Badminton": 1, "sport-Championships": 1}
+{"literature": 1, "book": 1}
+{}
+{"literature": 1, "book": 1, "story": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "award": 1}
+{"film": 3}
+{}
+{"sport": 1}
+{}
+{"sport-Olympics": 3}
+{}
+{"film": 2, "award": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport-Olympics": 5, "Olympics": 1, "Olympic team": 1}
+{"show": 1, "game show": 1}
+{"sport-Olympics": 1, "sport-Championships": 1}
+{"sport-Olympics": 3}
+{"literature": 1, "book": 1, "film": 2, "television": 1}
+{}
+{"play": 1, "story": 2}
+{"film": 3}
+{"film": 1}
+{"film": 2, "music": 1, "story": 1}
+{"film": 1}
+{"film": 5, "book": 1}
+{"film": 2}
+{"literature": 1, "book": 1, "story": 4, "play": 3}
+{"television": 1, "film": 1, "show": 1}
+{"television": 2, "film": 3, "book": 1}
+{"film": 5, "movie": 4, "story": 2}
+{"song": 5, "TV series": 1, "film": 2, "soundtrack": 3}
+{"film": 3}
+{"film": 3}
+{"book": 1, "literature": 1}
+{"book": 2}
+{"film": 1}
+{"television": 8}
+{"film": 5, "award": 3, "sport": 0}
+{"television": 6, "series": 6, "miniseries": 1}
+{"sport-Championships": 1, "sport-Football": 1}
+{"sport-Championships": 2, "sport-Football": 1, "sport-Cup": 2}
+{"sport-Championships": 1, "sport-Soccer": 1, "film": 1, "television": 1}
+{"sport-Football": 1, "award": 1, "football": 1, "FA Cup": 1}
+{"sport-Championships": 1, "sport-Soccer": 1}
+{"sport-Football": 1}
+{"sport-NASCAR": 1, "sport-stock car racing": 1, "sport-Daytona 500": 1}
+{"sport-Soccer": 1}
+{"sport-Football": 3, "television": 3}
+{"sport-Soccer": 1}
+{"sport-Football": 10, "sport-League Cup": 6, "sport-FA Cup": 4, "sport-Full Members Cup": 1}
+{"sport-Championships": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 6, "sport-Olympics": 0, "sport-Championships": 0}
+{}
+{}
+{"sport-Soccer": 1}
+{}
+{"video game": 1}
+{"music": 1, "film": 1, "theater": 1}
+{"film": 1, "television": 1}
+{"music": 1}
+{"literature": 1, "award": 1}
+{"actress": 1, "television": 1, "show": 1}
+{"television": 1, "film": 1}
+{"film": 3, "television": 5, "video game": 1}
+{"film": 3, "movie": 1, "literature": 1, "book": 1}
+{"film": 5}
+{"film": 5}
+{"movie": 3, "film": 1}
+{"film": 5, "television": 1, "video game": 1, "comic": 1, "arcade": 1}
+{"film": 5, "television": 5, "video game": 1}
+{"sport-Baseball": 2}
+{"comic": 1, "superhero": 1, "team": 1, "character": 1, "story": 1}
+{"film": 1}
+{"film": 2, "soundtrack": 1, "award": 1}
+{"film": 7, "television": 1}
+{"film": 1, "video game": 1}
+{"sport-Baseball": 1}
+{"film": 7}
+{"film": 8, "movie": 0, "literature": 1, "book": 1, "sport": 1}
+{"film": 1, "book": 1}
+{"film": 6}
+{"video game": 1, "show": 1}
+{"television": 1, "show": 1, "film": 1}
+{"television": 1, "show": 2}
+{}
+{"album": 1, "music": 1}
+{"film": 2}
+{}
+{"film": 1}
+{"film": 1}
+{"television": 3}
+{}
+{"tv series": 1, "novels": 1}
+{"show": 3, "television": 2, "film": 1, "sport": 1}
+{"film": 3, "play": 1}
+{}
+{"music": 1, "show": 1}
+{}
+{}
+{"film": 2}
+{"television": 1, "show": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "award": 1}
+{}
+{"sport-Baseball": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "television": 1}
+{}
+{}
+{"show": 1}
+{}
+{}
+{"music": 1}
+{"sport": 1}
+{"sport": 1}
+{}
+{"sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "story": 2}
+{"film": 1}
+{"film": 5, "award": 4, "video game": 1, "television": 1}
+{"film": 3}
+{"film": 1, "actress": 1}
+{"film": 3}
+{"film": 5, "video game": 1, "television": 1}
+{"film": 1}
+{"film": 5}
+{"film": 1, "franchise": 1}
+{"film": 1}
+{"film": 1}
+{"film": 3}
+{"movie": 4, "video game": 1}
+{}
+{"film": 4}
+{"film": 2, "sport-Baseball": 3, "sport-Championships": 2}
+{"film": 3, "soundtrack": 1, "song": 4}
+{}
+{"album": 1}
+{"sport-Olympics": 1}
+{"song": 3, "video game": 1}
+{"sport-Olympics": 2}
+{}
+{"book": 4}
+{"book": 2, "novel": 1, "award": 1}
+{"sport-Olympics": 1, "sport-Soccer": 1}
+{}
+{}
+{"film": 4, "book": 2, "literature": 1}
+{"magazine": 2}
+{}
+{"sport-Olympics": 5, "sport-Swimming": 1, "sport-Athletics": 1, "sport-Weightlifting": 1, "sport-Shooting": 1, "sport-Wrestling": 1}
+{"sport-Olympics": 2, "story": 1, "graphic novel": 1}
+{}
+{"sport-Olympics": 0, "sport-Championships": 0, "sport-Soccer": 1}
+{"music": 1, "award": 1, "sport-Olympics": 1}
+{"sport-Olympics": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{"video game": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "film": 1, "literature": 1}
+{}
+{}
+{}
+{"film": 170, "television": 1, "award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Baseball": 1, "award-All-Star": 14, "award-World Series champion": 5, "award-World Series MVP": 1, "award-AL Rookie of the Year": 1, "award-Gold Glove Award": 5, "award-Silver Slugger Award": 4, "award-AL Hank Aaron Award": 2, "award-Roberto Clemente Award": 1}
+{"sport-Baseball": 1, "award-All-Star": 1, "award-World Series champion": 2, "award-NL MVP": 1, "award-World Series MVP": 1, "award-Gold Glove Award": 1, "award-NL batting champion": 4, "sport-Hall of Fame": 1}
+{"sport-Little League Baseball": 3, "sport-MLB": 1}
+{"sport-Baseball": 1}
+{"sport-Baseball": 1}
+{}
+{"sport-Baseball": 1, "award-All-Star": 15, "award-World Series champion": 2, "award-NL MVP": 1, "award-World Series MVP": 1, "award-Gold Glove Award": 12, "award-NL batting champion": 4, "entertainment-Hall of Fame": 1}
+{"sport-Baseball": 1, "award": 7}
+{"sport-Baseball": 6}
+{"sport-Baseball": 1}
+{"sport-MLB": 1, "award-All-Star": 12, "award-World Series": 6, "award-AL MVP": 1, "award-Gold Glove": 2}
+{"sport-Baseball": 1, "award": 1}
+{"sport-Baseball": 1}
+{"sport-MLB": 1, "award-All-Star": 7, "award-AL MVP": 2, "award-AL Rookie of the Year": 1, "award-Silver Slugger Award": 5, "award-AL Hank Aaron Award": 1, "award-AL RBI leader": 1, "award-AL stolen base leader": 1, "award-30-30 club": 1, "award-Hit for the cycle": 1}
+{"award": 6, "sport-Baseball": 1}
+{"sport-MLB": 1, "award-All - Star": 14, "award-NL MVP": 7, "award-Gold Glove Award": 8, "award-Silver Slugger Award": 12, "award-NL Hank Aaron Award": 3, "award-NL batting champion": 2, "award-NL home run leader": 2, "award-NL RBI leader": 1, "All-Star MVP": 1, "MVP": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{"show": 1, "television": 1}
+{}
+{}
+{"literature": 1, "book": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "TV": 1}
+{"film": 5}
+{"video game": 1}
+{"literature": 1, "book": 33}
+{}
+{"film": 1, "story": 1}
+{"literature": 1, "book": 8, "award": 1, "story": 20, "film": 1, "show": 1}
+{}
+{"music": 1}
+{"song": 1}
+{}
+{}
+{"opera": 1, "story": 1}
+{}
+{"album": 1, "music": 1, "singer": 1, "songwriter": 1, "film": 1}
+{"album": 1, "song": 2}
+{}
+{"album": 1, "film": 2, "Broadway": 2}
+{}
+{"music": 6, "literature": 1}
+{}
+{"music": 1, "composition": 1}
+{"music": 1, "literature": 1}
+{"music": 1, "film": 1, "concert": 1, "opera": 1}
+{"album": 5, "award": 3, "music": 3}
+{"music": 1}
+{"literature": 1, "book": 1, "music": 1, "award": 1}
+{"music": 1, "literature": 1}
+{"music": 2}
+{"music": 1, "award": 2}
+{"music": 1, "composition": 1, "work": 1, "symphony": 1}
+{"music": 1, "concert": 1}
+{"music": 1, "opera": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 3, "album": 2, "extended play": 1}
+{"album": 1, "story": 1}
+{"film": 4, "book": 1, "award": 3}
+{"album": 1, "music": 1}
+{"song": 1, "album": 1, "single": 1}
+{"film": 1, "television": 1, "show": 2, "literature": 1, "song": 1}
+{"song": 1, "album": 1}
+{"song": 3}
+{"music": 1, "EP": 1, "mixtape": 1, "album": 2, "chart": 1}
+{"music": 1, "mixtape": 1, "song": 1}
+{"mixtape": 1, "song": 16, "music": 1}
+{}
+{"song": 2, "album": 1}
+{"album": 1}
+{"album": 2, "single": 2}
+{"song": 4, "album": 1, "music video": 2, "show": 2}
+{"album": 1, "music": 1}
+{"film": 1, "DVD": 1, "music": 1}
+{"music": 1, "album": 1, "single": 4, "award": 5}
+{"song": 2, "music video": 1, "LP": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"movie": 1}
+{}
+{"movie": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 7}
+{}
+{"literature": 1, "book": 600, "magazine": 500, "artwork": 1}
+{}
+{"music": 1}
+{}
+{}
+{"film": 2}
+{}
+{}
+{}
+{"film": 1, "story": 1}
+{}
+{"television": 1, "show": 1}
+{"film": 1, "story": 1, "magazine": 1}
+{}
+{}
+{}
+{"film": 1, "YouTube": 1, "Flickr": 1}
+{"television": 1, "radio": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"award": 2}
+{}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"sport-Golf": 5, "television": 2, "entertainment": 1}
+{}
+{}
+{"television": 3, "animated television series": 1, "comic book": 1, "show": 1}
+{}
+{"sport-Baseball": 1}
+{"music": 1, "film": 1}
+{"television": 1, "show": 1}
+{"television": 1, "award": 1, "show": 1, "music": 1}
+{"film": 2, "television": 1, "show": 1}
+{"literature": 1, "story": 1, "book": 1}
+{"sport-Hockey": 1}
+{"television": 1}
+{"television": 1, "movie": 1, "film": 1, "literature": 1, "book": 1}
+{"video game": 1, "film": 2}
+{"sport-Baseball": 1}
+{}
+{"movie": 1, "film": 1}
+{}
+{}
+{"film": 4}
+{}
+{}
+{"song": 2, "band": 1, "album": 1}
+{}
+{"film": 1}
+{"film": 2, "video": 1}
+{"film": 1, "cartoon": 3}
+{"song": 1, "album": 1}
+{}
+{}
+{"film": 1, "movie": 1}
+{}
+{}
+{"album": 1}
+{"film": 3}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{"television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Championships": 1, "tournament": 1}
+{}
+{}
+{}
+{"sport-Championships": 1, "sport-Soccer": 1}
+{"sport-Cricket": 3}
+{"sport-Olympics": 2, "sport-Ice hockey": 1}
+{"sport-Golf": 4}
+{}
+{"sport-Championships": 1, "sport-Soccer": 2}
+{"sport-Olympics": 0, "sport-Championships": 0, "sport-Soccer": 1}
+{"sport-Olympics": 1, "sport-Championships": 1, "sport-Soccer": 2}
+{"sport-Copa Am\u00e9rica": 1, "sport-FIFA Confederations Cup": 1, "sport-FIFA World Cup": 1, "sport-Summer Olympics": 1}
+{}
+{}
+{"sport-World Cup": 1}
+{"sport-Soccer": 1}
+{"literature": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "speech": 1}
+{}
+{}
+{}
+{}
+{"literature": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{"television": 1, "actress": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{"sport-Football": 1}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{}
+{"painting": 1}
+{}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"television": 1, "show": 1, "music": 1, "band": 1}
+{"music": 1}
+{"music": 1}
+{"music": 1}
+{"song": 1, "music": 1, "series": 1, "film": 1}
+{"album": 1, "band": 1, "award": 1, "music": 1}
+{}
+{"music": 1}
+{}
+{"film": 1}
+{}
+{}
+{"music": 1, "show": 1}
+{}
+{}
+{}
+{}
+{"sport-NFL": 1, "award": 6}
+{"sport-Baseball": 1}
+{"sport-World Series": 4, "league": 1}
+{"sport-Baseball": 1}
+{"sport-Championships": 6, "award": 5}
+{"sport-Baseball": 1, "baseball": 1}
+{"sport-Championships": 6, "award": 5}
+{"award": 2, "sport-Championships": 1}
+{"sport-NBA": 1, "sport-Olympics": 2, "sport-Championships": 2, "award-MVP": 1, "award-Finals MVP": 2}
+{"sport-MLB": 1, "sport-Baseball": 3, "sport-Championships": 1}
+{"film": 1, "book": 2, "anime": 1, "sport-Automobile Racing": 1}
+{"album": 1, "comic book": 1, "band": 1}
+{}
+{}
+{}
+{"music": 6}
+{}
+{}
+{"music": 1}
+{"music": 1, "film": 1}
+{"music": 1}
+{}
+{"music": 1, "band": 3}
+{}
+{"album": 2, "music": 1, "film": 3}
+{}
+{"band": 1, "film": 1}
+{}
+{"film": 1, "actor": 1, "screenwriter": 1, "director": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"video game": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magazine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"journal": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport-Championships": 1, "sport-Skiing": 1, "sport-Figure Skating": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 2, "literature": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "film": 1}
+{}
+{}
+{"television": 1}
+{}
+{}
+{"literature": 1}
+{}
+{}
+{}
+{}
+{"television": 1}
+{}
+{"television": 1, "music": 1}
+{"television": 1, "series": 1, "music": 1}
+{"song": 2, "album": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{"film": 2, "television": 2}
+{"video game": 1, "arcade": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "documentary": 1, "television": 1, "story": 1, "award": 2}
+{"television": 1, "show": 1}
+{"sport-Skiing": 2}
+{"album": 1, "music": 1}
+{"album": 2}
+{"album": 1, "music": 1, "recording": 2}
+{"sport-Olympics": 3, "sport-Ski Jumping": 6, "sport-Ski Flying": 4, "sport-World Cup": 5, "sport-Tournament": 1}
+{"sport-Skiing": 3}
+{"music": 1, "album": 20, "song": 1, "video": 1, "DVD": 1}
+{"literature": 1, "book": 1}
+{"television": 1, "show": 1}
+{"sport-Skiing": 1}
+{"sport-Hockey": 1}
+{"album": 1, "music": 1, "compilation": 1}
+{"television": 1, "sport-Surfing": 1}
+{}
+{"sport-Ski Jumping": 2}
+{}
+{"album": 1, "music": 1}
+{"television": 1, "show": 1}
+{"album": 1, "music": 1}
+{"song": 1, "album": 1}
+{"film": 2, "television": 2, "show": 2, "animated web series": 1}
+{"song": 3, "album": 1, "show": 1}
+{"music": 4, "show": 1, "band": 1, "song": 3}
+{"album": 1, "music": 1}
+{"television": 1, "show": 1, "soap opera": 1}
+{"album": 1, "music": 1}
+{"music": 1}
+{}
+{"album": 1}
+{"song": 3, "album": 2}
+{"album": 1, "music": 1}
+{"music": 1, "album": 1, "song": 1, "film": 1, "DVD": 1, "VHS": 1}
+{"music": 1, "entertainment": 1, "show": 2, "film": 1}
+{"album": 1}
+{"music": 1, "album": 2, "song": 1}
+{"album": 1, "music": 1}
+{"album": 1, "music": 1, "jazz": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 2}
+{"music": 1}
+{"film": 3, "television": 1, "documentary": 2}
+{}
+{}
+{}
+{}
+{}
+{"music": 2, "song": 1}
+{"song": 4, "music": 2, "anthem": 2}
+{}
+{"novel": 2, "literature": 2, "award": 1, "book": 1}
+{"literature": 1, "book": 1, "award": 1}
+{"award": 1, "book": 1, "literature": 1}
+{"award": 1, "sport": 1}
+{"award": 3}
+{"literature": 1, "book": 1, "award": 1}
+{"book": 1, "award": 1}
+{"award": 6, "film": 5, "movie": 2}
+{"literature": 1, "book": 1, "award": 3}
+{}
+{}
+{"award": 1}
+{"literature": 1, "book": 1, "award": 2}
+{"award": 1, "film": 12}
+{"television": 1, "actor": 1, "singer": 1, "reality competition": 1, "award": 2}
+{}
+{"literature": 1, "book": 5, "award": 4}
+{"television": 1, "award": 1, "sport": 1}
+{"literature": 1, "book": 1, "award": 1}
+{"award": 6}
+{"sport-Olympics": 1, "sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 2}
+{"sport-Football": 5, "sport-Olympics": 1}
+{"sport-Football": 1, "sport-Championships": 1}
+{"sport-Soccer": 1}
+{"sport-Football": 2}
+{"sport-Soccer": 1, "sport-Championships": 1}
+{}
+{"sport-Gaelic football": 1, "sport-Championships": 1}
+{"sport-Football": 2}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Football": 3, "sport-World Cup": 2, "sport-Euro": 1, "sport-Super League": 1, "sport-Stadium": 1, "football": 1}
+{"sport-Football": 3}
+{"sport-Football": 3}
+{"sport-Soccer": 1}
+{"sport-Olympics": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{}
+{}
+{"award": 1, "sport": 1}
+{"song": 1, "sport-Track": 1, "sport-Pole Vaulting": 1}
+{}
+{}
+{"sport-Olympics": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 3, "soap opera": 1, "series": 2, "drama": 1}
+{"novel": 1, "television": 1, "book": 1}
+{"book": 1, "television": 1, "film": 1}
+{"book": 1, "television": 1, "film": 1}
+{"book": 1, "television": 1, "film": 1}
+{"book": 1, "television": 1, "film": 1}
+{"book": 1, "television": 1, "film": 1}
+{"literature": 1, "book": 1}
+{"television": 3, "soap opera": 1, "series": 3, "drama": 1}
+{"book": 2, "television": 1, "film": 1, "literature": 1}
+{"book": 1, "television": 1, "film": 1}
+{"book": 1, "television": 1, "film": 1}
+{"book": 1, "television": 1, "film": 1}
+{"actor": 1, "television": 1, "episode": 2, "show": 1, "comic book": 1}
+{"book": 1, "television": 1, "film": 1}
+{"book": 1, "television": 1, "film": 1}
+{"book": 1, "television": 1, "film": 1}
+{"television": 1, "series": 1, "book": 1}
+{"book": 2, "story": 1, "television": 1}
+{"book": 1, "television": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4, "show": 1}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{"book": 1}
+{}
+{}
+{}
+{"film": 2, "story": 1, "book": 1}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{"book": 3}
+{}
+{"book": 2}
+{"book": 2, "biography": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 2, "novel": 3}
+{}
+{}
+{}
+{}
+{}
+{"sport-Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magazine": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1}
+{"sport-Basketball": 1}
+{}
+{}
+{}
+{}
+{}
+{"book": 1, "literature": 1}
+{}
+{}
+{}
+{}
+{}
+{"magazine": 2}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "award": 2, "entertainment": 1}
+{"album": 1}
+{"award": 1, "film": 1}
+{"award": 2}
+{"album": 1, "music": 1}
+{"album": 1, "song": 4, "record label": 1}
+{"album": 1, "music": 1, "song": 1}
+{"song": 1, "award": 1}
+{}
+{}
+{"magazine": 1}
+{"album": 1}
+{}
+{"award": 1, "sport-NBA": 1}
+{"album": 1, "music": 1}
+{}
+{"book": 4}
+{}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "radio station": 1}
+{"song": 1, "award": 2}
+{"song": 1, "album": 1}
+{"music": 1}
+{"song": 3, "award": 2}
+{"music": 1, "radio station": 1}
+{"music": 1}
+{"music": 1, "song": 3}
+{"music": 1, "radio station": 1}
+{"music": 1}
+{"music": 1, "adult contemporary": 1, "country music": 1}
+{"television": 1, "music": 2, "song": 1}
+{"music": 1}
+{"music": 5, "entertainment": 1}
+{"music": 1}
+{"album": 1, "song": 1, "music": 1}
+{"music": 1, "radio station": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Cricket": 1}
+{}
+{}
+{"film": 2, "story": 1}
+{}
+{}
+{}
+{"television": 2, "newspaper": 2, "radio": 4}
+{}
+{"album": 1, "music": 1, "record": 2}
+{"album": 1}
+{"video": 5}
+{"album": 1, "music": 1}
+{"song": 5}
+{"album": 1, "music": 1}
+{}
+{"music": 1, "album": 1}
+{"album": 1, "song": 3, "music": 1}
+{"album": 1, "book": 1}
+{"music": 1}
+{"music": 1, "album": 4, "single": 2}
+{"album": 1}
+{"song": 4, "music": 1}
+{"album": 2, "song": 2, "TV show": 1}
+{"music": 1, "song": 2}
+{"album": 1, "music": 1}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 3}
+{}
+{"musical": 1, "book": 1, "award": 1}
+{"music": 1}
+{"music": 1, "record label": 1, "artist": 4, "group": 1}
+{"song": 3, "film": 1}
+{"album": 2, "music": 2}
+{"music": 5, "recording label": 1, "entertainment": 1}
+{"music": 2, "film": 2, "album": 1}
+{"song": 2, "album": 1}
+{"music": 1}
+{"sport-Football": 1, "award": 1}
+{"sport-World Cup": 1, "sport-Confederations Cup": 1}
+{}
+{}
+{}
+{"sport-Tennis": 1}
+{"sport-Olympics": 1, "sport-Skeleton": 2}
+{}
+{"sport-Soccer": 1, "sport-World Cup": 6, "sport-Confederations Cup": 1}
+{}
+{"sport-Tennis": 1, "Federation Cup": 1}
+{"sport-Olympics": 1, "sport": 1}
+{}
+{"sport-Championships": 1, "sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{}
+{"sport-Basketball": 1, "sport-Cup": 1}
+{"sport-Tennis": 1, "football": 1}
+{"sport-Football": 1}
+{"sport-Football": 1, "sport-Cup": 2}
+{"sport-Football": 5}
+{"film": 1}
+{}
+{"literature": 5, "book": 1, "film": 1, "novel": 5, "essay": 1, "movie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"story": 1, "television": 1}
+{}
+{"film": 1}
+{"story": 2, "television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"actor": 1, "television": 3, "film": 3, "show": 1, "video game": 1, "sitcom": 1}
+{}
+{"film": 2, "literature": 1, "book": 1}
+{"music": 1}
+{"book": 1}
+{}
+{}
+{"television": 1, "film": 1, "book": 1}
+{"magazine": 1, "mascot": 1}
+{"literature": 1, "book": 1}
+{"television": 1, "show": 1}
+{"literature": 1, "book": 2, "film": 1, "story": 1, "novella": 1}
+{}
+{"music": 1}
+{}
+{"video game": 1}
+{}
+{"sport-Ice Hockey": 1}
+{"sport-Championships": 2}
+{"sport-Rugby League": 1}
+{"sport-NHL": 1, "sport-AHL": 1, "sport-Soccer": 1, "sport-Swedish Elite League": 1}
+{"sport-Ice Hockey": 1}
+{"sport-Hockey": 1}
+{"sport-Rugby League": 2, "sport-Rugby Union": 1}
+{"sport-Ice Hockey": 1}
+{"sport-Ice Hockey": 1}
+{"sport-American football": 1, "sport-Super Bowl": 2}
+{"sport-Ice Hockey": 1}
+{"sport-Ice Hockey": 1, "award": 1}
+{"sport-Football": 1}
+{"sport-NFL": 1, "sport-NBA": 1, "sport-NHL": 1, "sport-Lacrosse": 1, "sport-Championships": 1, "NFL": 1, "league": 1}
+{"sport": 1}
+{"sport-Ice Hockey": 1, "award-Calder Memorial Trophy": 1}
+{"sport-American football": 1, "sport-Championships": 1}
+{"sport-Rugby League": 1}
+{}
+{"sport-Ice Hockey": 1}
+{"film": 1, "documentary": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{"song": 1, "album": 1}
+{"sport-Baseball": 1}
+{"music": 1, "song": 1, "album": 1, "video": 1}
+{"album": 1, "music": 1}
+{"music": 1, "song": 1, "film": 1}
+{"song": 1, "album": 1}
+{"song": 1}
+{"music": 1, "album": 1, "EP": 1, "song": 3}
+{"sport-Cricket": 1}
+{"song": 4, "award": 2, "movie": 1, "album": 1}
+{"song": 2, "album": 1, "magazine": 1}
+{"song": 1, "album": 1}
+{"song": 3, "album": 1}
+{"song": 3}
+{}
+{}
+{"literature": 1, "book": 1}
+{"novel": 1}
+{"film": 1, "literature": 1}
+{}
+{"literature": 1, "book": 1}
+{}
+{"book": 3, "novel": 1}
+{}
+{"television": 1, "show": 1}
+{}
+{"film": 2}
+{}
+{}
+{"literature": 1, "story": 1}
+{"book": 1, "literature": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Basketball": 2}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Championships": 1, "sport-World Cup": 1}
+{}
+{}
+{}
+{}
+{"music": 1}
+{"book": 1}
+{}
+{"opera": 1, "story": 1, "aria": 1}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{"television": 1, "show": 1, "story": 1}
+{"play": 1, "music": 1}
+{"film": 3, "literature": 1, "book": 1}
+{"television": 1, "show": 1, "story": 1}
+{"actor": 1, "television": 3, "show": 3, "film": 1, "award": 1}
+{"television": 1, "story": 2}
+{"television": 2, "film": 2, "video game": 1, "book": 1}
+{"film": 6, "movie": 1, "award": 1, "literature": 1, "book": 1, "show": 1}
+{"film": 2, "television": 1, "show": 1}
+{"television": 1, "show": 1, "film": 2, "music": 1}
+{"television": 1, "story": 2}
+{"television": 1, "story": 2}
+{}
+{"television": 1, "show": 1, "story": 1}
+{"story": 1, "series": 3, "film": 1}
+{"film": 2, "movie": 1, "literature": 1}
+{"television": 1, "show": 1, "story": 1}
+{"sport-Football": 1}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{}
+{}
+{}
+{}
+{"song": 1, "album": 1, "single": 1, "music": 1}
+{}
+{}
+{}
+{}
+{"internet browser": 1}
+{}
+{}
+{"video game": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"operating system": 1}
+{}
+{}
+{}
+{}
+{}
+{"album": 1, "music": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"painting": 1}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{}
+{}
+{"art": 1}
+{}
+{"art": 1}
+{}
+{}
+{"music": 1, "poetry": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1}
+{}
+{}
+{}
+{}
+{"literature": 1}
+{}
+{}
+{"television": 1, "show": 1, "video": 1, "song": 1}
+{"song": 2, "film": 1}
+{"film": 3, "television": 3, "show": 1}
+{"literature": 1, "poem": 1, "song": 1}
+{"song": 3, "album": 1, "movie": 7, "soundtrack": 1, "live show": 2, "greatest hits": 4}
+{}
+{"album": 1, "song": 2}
+{"music": 1, "album": 1, "song": 6}
+{"album": 1, "music": 1}
+{"film": 1, "DVD": 1, "television": 1, "show": 1, "song": 18}
+{"show": 1, "music": 1, "song": 1}
+{"music": 5}
+{}
+{"film": 2, "movie": 2}
+{"music": 1, "award": 1, "festival": 5}
+{"music": 1}
+{}
+{"sport-Baseball": 2}
+{}
+{}
+{}
+{}
+{"video game": 5}
+{"video game": 2, "sport-Football": 1}
+{"video game": 1}
+{"sport-Championships": 1}
+{"sport-Football": 1, "sport-Super Bowl": 2}
+{"sport-Super Bowl": 5, "sports association": 1}
+{"video game": 1}
+{"video game": 1}
+{"video game": 2}
+{"video game": 1}
+{"sport-Super Bowl": 5}
+{"video game": 1}
+{"video game": 5}
+{"video game": 1}
+{"video game": 1}
+{"video game": 1}
+{"video game": 1}
+{"video game": 1}
+{"sport-Football": 1, "sport-Super Bowl": 6}
+{"video game": 5, "sport": 1}
+{}
+{"book": 2}
+{}
+{"book": 1}
+{"book": 1}
+{}
+{}
+{}
+{"book": 2}
+{}
+{"book": 1}
+{"book": 1}
+{"literature": 1, "book": 1}
+{}
+{"literature": 1, "music": 1, "art": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{}
+{}
+{}
+{"book": 1, "music": 1}
+{"painting": 1, "poem": 1}
+{}
+{"music": 3, "film": 1, "literature": 1}
+{"music": 1}
+{"music": 1, "literature": 1}
+{"music": 1, "literature": 1}
+{}
+{}
+{}
+{}
+{"music": 1, "song": 1}
+{"album": 1, "music": 1}
+{"music": 1}
+{"song": 1}
+{"album": 1, "song": 4, "music": 1}
+{"music": 1, "television": 1}
+{"album": 1}
+{"album": 1, "music": 1}
+{"song": 2, "album": 1}
+{"album": 1, "song": 2, "music": 1}
+{"album": 1, "music": 1}
+{"sport-Olympics": 3}
+{}
+{"sport-Olympics": 6, "sport-Soccer": 1, "sport-NFL": 8, "sport-NHL": 5, "sport-MLB": 1}
+{"sport": 2, "sport-Olympics": 1}
+{"sport-Soccer": 1, "sport-Basketball": 1, "sport-Volleyball": 1}
+{}
+{"sport-Basketball": 1}
+{"sport-Basketball": 1}
+{"film": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{"sport-Baseball": 1}
+{"film": 3}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{"music": 1}
+{"film": 2, "theatre": 2, "play": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magazine": 1}
+{}
+{}
+{}
+{"film": 3, "Broadway": 1, "album": 1}
+{}
+{"album": 1, "film": 1}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"sport-Baseball": 1, "movie": 1}
+{"film": 1}
+{"sport-Athletics": 1}
+{"album": 1, "song": 5, "single": 1}
+{}
+{"film": 3, "musical": 2}
+{"film": 1, "book": 1}
+{"film": 1, "sport-Baseball": 1}
+{}
+{"sport-Soccer": 4}
+{"music": 1}
+{"television": 1, "show": 1}
+{"sport-Football": 2}
+{"film": 1}
+{"sport-Tennis": 1}
+{"film": 1, "play": 1}
+{"television": 1, "show": 1}
+{"film": 5}
+{"film": 2}
+{}
+{"film": 3, "song": 2, "video game": 1}
+{"video game": 2}
+{"video game": 1, "sport-Karate": 1}
+{}
+{"video game": 1, "award": 1, "sport": 1}
+{"film": 2}
+{"video game": 4}
+{"video game": 1}
+{"music": 1}
+{"book": 2}
+{"video game": 4, "sport": 1}
+{}
+{"video game": 1}
+{}
+{"literature": 1, "book": 1}
+{"book": 2}
+{"video game": 1}
+{"show": 5}
+{"show": 1}
+{"television": 1, "show": 1, "music": 1}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1}
+{"song": 3, "album": 1, "music": 1}
+{"show": 1, "song": 2, "award": 2, "third season": 1}
+{"television": 1, "award": 1}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1, "music": 1}
+{"film": 3, "television": 5, "show": 1, "sport": 0}
+{"television": 1, "award": 1}
+{"television": 1, "music": 1, "song": 1}
+{"show": 1, "music": 1, "television": 1, "sport": 0}
+{"music": 5, "film": 1, "television": 1, "album": 4}
+{"music": 3, "show": 2, "song": 2, "album": 1}
+{"show": 1}
+{"television": 1, "show": 1}
+{}
+{}
+{"book": 1}
+{"film": 1}
+{"film": 2, "literature": 2, "festival": 3}
+{"sport-Gaelic football": 1, "sport-Championships": 1}
+{}
+{}
+{}
+{}
+{"television": 1}
+{}
+{}
+{}
+{}
+{}
+{"magazine": 1}
+{}
+{"sport-Rugby": 1}
+{"sport-Football": 1}
+{}
+{}
+{"album": 1, "song": 4}
+{}
+{"literature": 1, "book": 1}
+{"sport-Arena Football": 1, "music": 1, "band": 1}
+{"literature": 1, "story": 3, "song": 2, "book": 2}
+{"film": 4}
+{"album": 1, "music": 1}
+{}
+{"actress": 1, "singer": 1, "songwriter": 1, "film": 1, "television": 4}
+{"literature": 1, "book": 2}
+{}
+{"film": 3, "award": 3}
+{"sport-Basketball": 5, "sport-Exhibition": 2, "sport-Preseason": 4, "sport-Euroleague": 2}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{}
+{"sport-Soccer": 1}
+{"film": 3}
+{"television": 3, "film": 2, "theatre": 1, "show": 1}
+{"film": 1, "theatre": 1}
+{"music": 1, "record": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Championships": 1, "award": 1}
+{"sport-American Football": 4}
+{"sport-Soccer": 1, "music": 1, "song": 1, "film": 1, "television": 1, "show": 1}
+{"sport-Olympics": 1, "sport-Handball": 1}
+{"sport-Soccer": 1}
+{"sport-Football": 1, "sport-World Cup": 1, "sport-Copa Am\u00e9rica": 2}
+{"sport-NBA": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Olympics": 2, "sport": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Championships": 1, "award": 1}
+{"sport-Rugby": 1}
+{"sport-Olympics": 1, "sport-Football": 1}
+{"sport-Premier League": 5}
+{"sport-Soccer": 1}
+{}
+{"music": 1, "album": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{"book": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{}
+{"book": 2}
+{"book": 2}
+{"book": 1}
+{"literature": 1, "book": 1}
+{}
+{"literature": 1, "book": 1}
+{}
+{"sport-Championships": 1, "award": 3}
+{"sport-Championships": 1, "award": 3}
+{"film": 8, "award": 6}
+{"award": 6}
+{"award": 1}
+{"award": 1, "sport-Cricket": 1}
+{"film": 8, "award": 5}
+{"award": 1}
+{"film": 10, "award": 6}
+{"award": 2}
+{"sport-Championships": 1, "award": 3}
+{"award": 1, "film": 3}
+{}
+{"book": 1, "award": 1}
+{"award": 3, "book": 1}
+{}
+{}
+{}
+{"award": 1}
+{"song": 3}
+{"album": 1, "music": 1}
+{"show": 2, "sport-Championships": 1}
+{"film": 3}
+{"music": 1, "opera": 1}
+{"film": 2, "book": 1}
+{"film": 6, "music": 5, "story": 1, "magazine": 1}
+{"musical": 1, "song": 4}
+{"album": 1, "music": 1, "song": 1}
+{"song": 5, "show": 1}
+{"film": 2, "music": 1}
+{"album": 1, "music": 1, "song": 2}
+{"film": 2, "story": 1}
+{"song": 2, "album": 1, "music": 1}
+{"film": 1, "music": 1}
+{"film": 3, "author": 1}
+{"music": 1}
+{"music": 1}
+{"sport-Baseball": 1}
+{"sport-Baseball": 3}
+{"sport-MLB": 1, "sport-Championships": 1}
+{"sport-Baseball": 1, "baseball": 1}
+{"sport-Baseball": 1}
+{"sport-Baseball": 1}
+{}
+{"sport-Championships": 1}
+{"sport-Championships": 1}
+{"sport-Football": 1, "sport-Amateur Cups": 3}
+{"sport-Football": 1, "sport-Cup": 1, "show": 1}
+{"sport-Football": 5, "sport-Cup": 3, "sport-Competition": 1, "sport-Trophy": 1}
+{"sport-Championships": 1}
+{"sport-Football": 1, "sport-Olympics": 1, "show": 1}
+{"sport-Soccer": 1, "sport-Championships": 1}
+{"sport-Football": 1, "sport-Olympics": 0, "sport-Championships": 0, "sport-Soccer": 0}
+{}
+{}
+{"award": 3}
+{"award": 2}
+{"literature": 1, "poem": 1, "music": 1, "award": 1}
+{"award": 3}
+{"award": 1}
+{"award": 1}
+{"award": 1}
+{"award": 1}
+{"award": 1}
+{"sport-Track and Field": 1, "sport-Commonwealth Games": 2, "sport-Olympics": 3, "award-Padma Shri": 1}
+{}
+{}
+{"sport-Soccer": 1}
+{"sport-Football": 3}
+{"sport-Football": 1, "sport-Olympics": 2, "sport-World Cup": 4}
+{"newspaper": 2}
+{"song": 2}
+{}
+{"magzine": 1}
+{"music": 1}
+{"sport-Football": 2, "sport-Championships": 1}
+{"literature": 1, "book": 1}
+{"sport": 1, "sport-Football": 1, "sport-Bundesliga": 1, "television": 1}
+{"sport-Football": 5, "sport-Olympics": 1, "sport-Championships": 2, "sport-World Cups": 2}
+{"album": 1, "song": 3}
+{}
+{"song": 1}
+{}
+{}
+{"sport-Football": 1, "sport-Championships": 1}
+{"film": 2, "television": 3}
+{"film": 2, "play": 1, "television": 1}
+{"television": 1, "show": 1}
+{"film": 2, "television": 3}
+{"film": 1}
+{"film": 2}
+{"film": 4, "television": 1}
+{"music": 1, "television": 1, "show": 1, "film": 1}
+{"actor": 1, "television": 1, "show": 1}
+{"film": 1, "video game": 1}
+{"sport-Soccer": 1}
+{"sport-American football": 2, "sport-Canadian Football League": 1}
+{"film": 1}
+{"film": 1, "video game": 1}
+{"television": 2, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 3}
+{}
+{}
+{"book": 2}
+{"book": 3}
+{"book": 1}
+{}
+{}
+{}
+{"book": 2}
+{"book": 6}
+{"award": 1, "story": 2}
+{"literature": 1, "book": 1}
+{"book": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"sport-Soccer": 5, "sport-Olympics": 1}
+{"video game": 1}
+{}
+{"show": 1}
+{}
+{"literature": 1}
+{"literature": 1}
+{"video game": 1}
+{"actress": 1, "award": 3}
+{"film": 2, "movie": 1}
+{"painting": 3}
+{"film": 1}
+{}
+{"television": 2, "film": 1, "award": 1}
+{"sport-Olympics": 1, "sport-World Cup": 3}
+{}
+{"video game": 1}
+{"music": 1, "entertainer": 1, "sport": 1, "show": 1}
+{"sport-Skateboarding": 1}
+{}
+{"song": 1, "album": 1}
+{"music": 1, "song": 5, "festival": 1}
+{"opera": 1, "aria": 1}
+{}
+{}
+{"film": 2}
+{}
+{}
+{"music": 1}
+{"music": 1, "entertainment": 1}
+{"music": 1}
+{"music": 1}
+{}
+{"film": 3, "book": 1}
+{}
+{"literature": 1, "theatre": 1, "film": 2}
+{"literature": 1, "book": 1}
+{"book": 2}
+{"novel": 1, "story": 1}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{"book": 1}
+{"literature": 1, "book": 1}
+{"book": 1, "novel": 1}
+{"book": 2, "award": 1}
+{"literature": 1, "book": 2}
+{}
+{"film": 1, "literature": 1, "book": 1}
+{"film": 4, "award": 1}
+{"short story": 2, "magazine": 1, "award": 1}
+{"song": 1}
+{"dance": 1, "music": 1, "film": 1, "show": 1}
+{}
+{"literature": 1, "book": 1}
+{"film": 1, "show": 1}
+{"music": 3, "award": 2, "song": 2}
+{}
+{"song": 4, "album": 1, "film": 1}
+{"music": 1, "entertainment": 1}
+{"music": 3, "album": 3, "single": 1}
+{"sport-Broomball": 2}
+{"performance": 1}
+{}
+{}
+{"television": 1, "show": 2, "series": 2, "sitcom": 2}
+{"sport-Hockey": 1}
+{"song": 1, "album": 1, "single": 1, "sport": 0}
+{"album": 1, "music": 1}
+{}
+{}
+{"sport": 1}
+{"sport-American football": 1}
+{"sport-Baseball": 1, "sport-World Series": 2, "sport-Central Division": 1, "sport-American League": 1}
+{"sport-Ice Hockey": 1, "sport": 1, "award": 1}
+{"sport-Arena Football League": 1, "sport-National Hockey League": 1, "sport-Major League Baseball": 1}
+{"sport-Baseball": 1, "baseball": 1}
+{"sport-Cricket": 2, "sport-Football": 1, "sport-Volleyball": 1, "sport-Tennis": 1, "sport-Golf": 1, "sport-Motocross": 1, "sport-Shooting sports": 1, "sport-Yachting": 1, "sport-Commonwealth Games": 1, "sport-International Island Games": 1, "sport-World Cricket League": 1}
+{"television": 1}
+{"sport-Baseball": 1}
+{"sport-Football": 2, "sport-Baseball": 2, "sport-Olympics": 1}
+{"sport-Hockey": 1}
+{"sport-Baseball": 1}
+{"sport-Rugby": 3}
+{"sport-NFL": 1}
+{"sport-American football": 1}
+{"sport-Soccer": 2}
+{}
+{"sport-Baseball": 1, "Baseball": 1}
+{"sport-Football": 1, "sport-Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1, "sport-Championships": 1}
+{}
+{}
+{"sport-Olympics": 1, "sport-Soccer": 1, "sport-Handball": 1, "sport-Basketball": 1, "sport-Championships": 1}
+{}
+{"sport-Soccer": 1, "sport-Championships": 1, "sport-Cup": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Futsal": 2, "sport-Olympics": 1, "sport-Championships": 1, "football": 1}
+{"sport-Championships": 1}
+{"sport-Soccer": 1, "sport-Championships": 1, "sport-Olympics": 1, "television": 1}
+{"sport-Soccer": 1}
+{"sport-Football": 1, "sport-Danish Cup": 1, "sport-Danish Superliga": 1, "sport-national team": 1}
+{"sport-Football": 1, "sport-Olympics": 1}
+{"sport-Football": 1, "sport-Olympics": 1}
+{"sport-Soccer": 1}
+{"sport-Rugby": 2}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"film": 4}
+{"film": 5, "novel": 1, "screenplay": 1, "story": 1}
+{"television": 1, "show": 1, "film": 1}
+{"film": 1}
+{"television": 1, "soap opera": 1, "film": 1}
+{"television": 1, "soap opera": 1, "film": 1}
+{"television": 1, "character": 1, "commercials": 1}
+{"actor": 2, "television": 2, "show": 2}
+{"film": 4, "novel": 2}
+{"actor": 1, "film": 7, "television": 1}
+{"film": 2, "actor": 1}
+{"literature": 1, "book": 1}
+{"film": 4}
+{"movie": 1, "television": 1, "play": 1}
+{"novel": 1, "story": 1}
+{"book": 3}
+{"literature": 1, "book": 3}
+{"film": 1, "actor": 1}
+{"television": 1, "award": 1, "show": 1}
+{}
+{"book": 1}
+{}
+{"literature": 1, "award": 1}
+{}
+{"music": 1, "song": 3}
+{"music": 1, "album": 1}
+{"literature": 1, "book": 1}
+{"film": 2, "television": 1}
+{}
+{"film": 1}
+{"literature": 1, "book": 1, "music": 1}
+{}
+{"literature": 1, "music": 1}
+{}
+{"book": 1}
+{}
+{}
+{"television": 1}
+{"television": 4, "drama": 3, "soap opera": 3, "entertainment": 1, "award": 1}
+{"sport-Baseball": 2}
+{"sport-Soccer": 2}
+{"sport-Baseball": 3}
+{"sport-I-League": 1, "sport-Indian Super League": 1}
+{"sport-Baseball": 2, "sport-Basketball": 1, "sport-Football": 1, "sport-Hockey": 1, "sport-Soccer": 1}
+{"sport-Ice Hockey": 1}
+{"sport-Baseball": 3}
+{"sport-Baseball": 1}
+{"sport-Basketball": 1, "music": 1}
+{"sport-American football": 1}
+{"sport-Baseball": 1}
+{"video game": 1, "film": 4, "movie": 1, "story": 2}
+{"theater": 1, "Pulitzer": 2, "film": 2, "television": 1, "Emmy": 2, "Netflix": 1, "OBIE Award": 1, "Richard Rogers Award for Musical Theatre": 1, "Pulitzer Prize": 1, "tony": 1, "sport": 0}
+{"film": 1, "television": 1, "video game": 1, "entertainment": 1, "show": 1}
+{}
+{"sport-Football": 1}
+{"television": 1, "show": 1, "episode": 13}
+{"television": 1, "show": 1}
+{}
+{"painting": 1, "newspaper": 1, "literature": 1}
+{"painting": 2}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1, "story": 1}
+{"song": 2, "album": 1}
+{}
+{}
+{}
+{}
+{"music": 3, "event": 1}
+{"music": 1, "vinyl": 1}
+{"show": 1}
+{"music": 1, "literature": 1, "story": 1}
+{"literature": 1}
+{"film": 3, "award": 1}
+{"song": 3, "album": 1, "music video": 1}
+{"film": 1}
+{}
+{}
+{"song": 2, "music": 1, "album": 2, "film": 1}
+{}
+{"show": 1, "entertainment": 1}
+{"film": 1, "book": 1}
+{"music": 1, "album": 1, "award": 1}
+{"film": 3, "award": 1}
+{"album": 1, "music": 1, "story": 1}
+{}
+{}
+{}
+{"music": 1, "album": 1, "song": 3}
+{"television": 1}
+{"film": 2, "play": 1}
+{"television": 1, "show": 1, "soap opera": 1}
+{}
+{"film": 1, "short films": 1, "book": 1, "show": 6}
+{"sport": 1}
+{"tv": 7, "film": 5}
+{"actor": 1, "television": 3, "show": 2}
+{"television": 1, "sport-Basketball": 1}
+{"sport-Mixed Martial Arts": 1, "television": 1, "show": 1}
+{"film": 2, "television": 2, "show": 2}
+{"film": 3, "music": 1}
+{"television": 1, "show": 1}
+{"song": 3, "album": 1}
+{"film": 1, "theater": 1}
+{"television": 1}
+{"literature": 1, "poem": 1}
+{"show": 2}
+{"sport-Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "drama": 1}
+{}
+{}
+{"album": 1, "song": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-NHL": 1, "sport-MLB": 1, "sport-Serie A": 1, "sport-Bundesliga": 1, "sport-MLS": 1, "sport-NFL": 1, "sport-NBA": 1, "sport-Pacific Coast League": 1, "sport-Rugby League": 1, "sport-NPSL": 1, "sport-ice hockey": 1, "sport-UFC": 1, "sport-soccer": 1, "sport-FIFA Women's World Cup": 1}
+{}
+{}
+{}
+{"sport-Football": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "radio station": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Olympics": 1}
+{}
+{}
+{}
+{"sport-Olympics": 1, "sport-Championships": 1, "sport-Soccer": 1}
+{}
+{"sport-Cricket": 5}
+{"sport-Olympics": 1, "sport-Ice hockey": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"magazine": 4, "newspaper": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "band": 1}
+{"book": 1}
+{}
+{}
+{"book": 2}
+{}
+{}
+{"film": 1}
+{"award": 1}
+{}
+{"film": 2, "story": 1}
+{"music": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"award": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "documentary": 1, "comedy": 1}
+{"music": 1, "group": 1}
+{"song": 2, "album": 1, "music": 1}
+{}
+{"song": 4}
+{"music": 1}
+{}
+{}
+{"music": 1, "song": 1, "award": 1}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"film": 1, "award": 1}
+{"film": 3, "movie": 3, "comic": 2}
+{"film": 6, "movie": 3, "anime": 3}
+{"television": 1, "show": 1}
+{"video game": 2, "television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 10, "novel": 1, "comic book": 1, "video game": 1}
+{}
+{"movie": 300}
+{}
+{"song": 3, "album": 1}
+{}
+{}
+{}
+{"music": 1}
+{"sport-Olympics": 2}
+{"film": 1, "television": 1}
+{}
+{"song": 5, "video game": 3, "film": 1, "sport-WWE": 1, "music": 1}
+{}
+{}
+{}
+{"sport-Olympics": 1}
+{}
+{}
+{"sport-Baseball": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "television": 1, "show": 1}
+{}
+{"music": 1, "band": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Baseball": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"album": 2}
+{"sport-Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Olympics": 1}
+{}
+{}
+{"literature": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 2}
+{"album": 1, "film": 1}
+{}
+{"music": 1}
+{"film": 1, "movie": 1, "award": 1, "song": 1}
+{}
+{}
+{}
+{"television": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{"film": 1, "actress": 1}
+{}
+{"film": 1}
+{}
+{"music": 1, "song": 1, "television": 1, "entertainer": 1}
+{}
+{"music": 1, "musician": 1}
+{}
+{}
+{}
+{"song": 1, "album": 1, "music video": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "cartoon": 1, "show": 1, "song": 1}
+{"film": 5, "television": 1}
+{"television": 1, "show": 1}
+{}
+{"film": 2, "movie": 1, "TV": 1, "video game": 1}
+{"video game": 2, "actor": 1, "writer": 1, "theater": 1, "voice actor": 1}
+{"television": 1, "show": 1, "entertainment": 1}
+{"music": 1, "television": 1, "show": 1}
+{"video game": 5, "film": 1, "anime": 1}
+{"film": 2}
+{"television": 1, "show": 1, "film": 1}
+{"film": 1}
+{"television": 1, "show": 1, "story": 1}
+{"television": 1, "episode": 1, "series": 1}
+{"television": 1, "show": 1}
+{"television": 1, "video game": 2, "book": 1}
+{"film": 1, "series": 1}
+{"television": 1, "episode": 2, "series": 1, "show": 1, "sport": 0}
+{}
+{}
+{}
+{}
+{}
+{"video game": 1, "board game": 2}
+{"video game": 1, "literature": 1, "book": 1}
+{"literature": 1}
+{}
+{}
+{"literature": 1, "book": 1, "award": 1}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{"book": 2}
+{"literature": 1}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{"sport-American football": 1}
+{}
+{}
+{"sport-Football": 1, "television": 2, "show": 2}
+{"film": 2, "television": 1, "actor": 1}
+{"literature": 1, "book": 1}
+{"sport-Baseball": 1}
+{"music": 1, "band": 1}
+{"sport-Soccer": 1}
+{}
+{"sport-Football": 1}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1, "sport-Beach Soccer": 1}
+{"sport-Football": 2}
+{}
+{"sport-Soccer": 2, "sport-Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"show": 2, "film": 1}
+{"television": 2, "show": 2}
+{}
+{"film": 1, "show": 1, "song": 1, "character": 1}
+{"tv": 1, "sitcom": 1, "music": 1, "show": 1}
+{"literature": 1, "comic": 1, "character": 1}
+{}
+{"television": 1}
+{"television": 4, "show": 3, "magazine": 1}
+{"television": 1, "reality": 1}
+{"mascot": 1}
+{}
+{"movie": 2, "film": 2}
+{"video game": 1, "series": 1}
+{"film": 1}
+{"television": 1, "show": 1, "sport": 1}
+{"television": 1, "show": 2}
+{}
+{"film": 1}
+{}
+{"film": 2, "manga": 1}
+{}
+{"film": 2}
+{}
+{"film": 1, "documentary": 1}
+{"tv": 1, "film": 1, "musical": 1}
+{"film": 2}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 1, "sport-Basketball": 1, "sport-Baseball": 1}
+{"film": 2}
+{"film": 2, "music": 1}
+{}
+{"film": 3, "book": 1}
+{"film": 1, "movie": 1}
+{"film": 2}
+{"film": 1}
+{"film": 2, "award": 1}
+{"book": 2}
+{"film": 5, "award": 4}
+{"literature": 1, "book": 1}
+{"music": 2, "book": 1, "film": 1, "award": 1, "show": 1}
+{}
+{"music": 1, "entertainment": 1}
+{"play": 1, "award": 2}
+{"film": 1, "award": 1}
+{"magazine": 2, "music": 3, "film": 1, "literature": 1, "award": 1}
+{}
+{"play": 1, "literature": 1, "book": 1}
+{}
+{"sport-Basketball": 1}
+{"film": 3, "award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"video game": 1}
+{"sport-Football": 1}
+{}
+{}
+{"actor": 1, "series": 1, "television": 1, "film": 1}
+{}
+{"sport-Football": 1}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1, "sport-Championships": 2}
+{"sport-Championships": 11, "sport-NBA": 1}
+{"sport-Football": 1, "sport-Olympics": 1, "sport-Championships": 2}
+{"sport-Championships": 2}
+{"sport-Championships": 3}
+{"sport-Championships": 1}
+{"sport-Basketball": 1, "sport-Championships": 1}
+{"sport-Championships": 1}
+{"sport-Olympics": 4, "sport-Championships": 5}
+{"sport-Olympics": 3, "sport-Championships": 1, "sport-Volleyball": 2}
+{"sport-WWE": 1, "sport-Wrestling": 1, "television": 1, "championships": 1}
+{"sport-Championships": 2, "sport-Super Bowl": 3}
+{"sport-Championships": 5, "sport-WWE": 4}
+{"sport-Championships": 2}
+{"sport-Premier League": 1, "sport-UEFA Champions League": 1, "sport-FIFA Club World Cup": 1, "sport-FIFA Club World Championship": 1, "sport-Brasileir\u00e3o": 1, "sport-La Liga": 2, "sport-Serie A": 2, "sport-Bundesliga": 1}
+{"sport-Olympics": 1, "sport-Championships": 1, "sport-Curling": 2}
+{"sport-Football": 2, "sport-Championships": 2}
+{"sport-Professional wrestling": 1, "sport-Championships": 1}
+{"album": 1, "music": 1}
+{}
+{"film": 2, "show": 1, "sport": 1}
+{"sport-Baseball": 2, "sport-Soccer": 1}
+{"sport-Baseball": 1}
+{"sport-Baseball": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 4, "sport": 1, "entertainment": 1}
+{"sport-Rugby League": 1}
+{"sport-Soccer": 1}
+{"sport-NFL": 1, "sport-MLB": 1, "sport-NBA": 1, "sport-NHL": 1, "sport-Soccer": 1}
+{"sport": 1}
+{"sport-Baseball": 1}
+{"sport-Football": 1, "sport-Championships": 1, "sport-UEFA Champions League": 1}
+{"sport-Soccer": 1}
+{"sport-Football": 1}
+{"sport-Baseball": 1, "sport-Basketball": 1, "sport-Football": 1, "sport-Hockey": 1, "sport-Soccer": 1, "sport-Tennis": 1, "sport-Golf": 1, "sport-Wrestling": 1, "sport-Auto Racing": 1, "sport-Arena Football": 1, "sport-Field Lacrosse": 1, "sport-Box Lacrosse": 1, "sport-Volleyball": 1}
+{"sport-Baseball": 1, "sport-Soccer": 2}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{}
+{"music": 1}
+{}
+{"song": 1, "album": 1, "music": 2, "music video": 1}
+{}
+{"sport-Rugby": 1}
+{"movie": 3, "film": 2, "literature": 1, "book": 1}
+{"video game": 5}
+{"sport-Championships": 1, "sport-Running": 1}
+{"literature": 1, "book": 1, "story": 2}
+{"book": 3, "music": 4}
+{"sport-Olympics": 4}
+{"film": 1, "book": 1, "novel": 1, "music": 1}
+{}
+{}
+{"literature": 1, "book": 1, "show": 1}
+{}
+{"sport-Ice Hockey": 1}
+{"magazine": 1, "award": 1, "show": 1}
+{"literature": 1, "book": 1}
+{}
+{"literature": 1, "art": 1}
+{}
+{}
+{"entertainment": 1}
+{"film": 1, "story": 1, "literature": 1}
+{}
+{"literature": 1, "book": 1}
+{}
+{"literature": 1, "art": 1, "poetry": 1, "award": 1, "painting": 1}
+{}
+{"television": 1, "sport-Football": 1, "documentary": 1}
+{}
+{}
+{"sport-NCAA": 1, "mascot": 1}
+{}
+{}
+{"film": 1}
+{}
+{"album": 1, "music": 1, "award": 1}
+{}
+{"book": 1}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{"sport-Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"award": 1}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "story": 2}
+{}
+{"show": 1}
+{"music": 3, "show": 2, "sport": 1}
+{}
+{}
+{"music": 1, "radio station": 1}
+{"television": 2, "series": 1}
+{"television": 1, "show": 2}
+{}
+{"show": 1, "television": 1, "music": 1, "entertainment": 1}
+{"show": 1}
+{"television": 3, "show": 2}
+{"television": 1, "show": 1}
+{"television": 3, "sport-Olympics": 1, "show": 2}
+{}
+{"television": 1, "show": 1}
+{}
+{"song": 2, "album": 1}
+{"album": 1}
+{"song": 1, "single": 1, "album": 1}
+{"album": 1, "music": 1}
+{"music": 1, "record label": 1, "band": 4}
+{"song": 1, "album": 1}
+{"music": 1}
+{"song": 4, "music": 1}
+{"album": 1}
+{"music": 1}
+{"sport-Baseball": 1}
+{"award": 3, "sport": 1}
+{"sport-Basketball": 1, "award": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Football": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "film": 1}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1}
+{"film": 3, "television": 1}
+{"television": 1, "show": 1, "film": 2, "story": 1}
+{"television": 1, "series": 1, "film": 1}
+{"television": 1}
+{"television": 1, "DVD": 1, "series": 2}
+{"television": 1}
+{"television": 1, "episode": 1, "series": 1}
+{"television": 1, "show": 1, "episode": 1, "series": 1}
+{"television": 1, "show": 1, "episode": 2, "series": 1}
+{"television": 2}
+{"video game": 3, "sport": 1}
+{"video game": 1}
+{"television": 1, "show": 1, "DVD": 2, "Blu-ray": 2}
+{"video game": 1, "sport": 1}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1, "episode": 2, "series": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 2, "album": 1, "film": 3}
+{}
+{}
+{}
+{}
+{"sport-Football": 1}
+{"sport-Football": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-fishing": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "magazine": 1, "film": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mascot": 1}
+{}
+{"television": 1, "film": 1, "movie": 1}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"telenovela": 1, "television": 1}
+{}
+{"sport-Baseball": 1}
+{"sport-Championships": 1}
+{"sport-Baseball": 1, "sport-Football": 1}
+{"sport-Soccer": 2}
+{"sport-Soccer": 2}
+{"award": 1}
+{"award": 1, "literature": 1}
+{}
+{}
+{"magazine": 1}
+{}
+{"art": 1, "drama": 1}
+{}
+{"award": 4}
+{}
+{}
+{}
+{}
+{"book": 40, "journal": 300, "magazine": 1}
+{}
+{"film": 3, "story": 1}
+{"award": 1}
+{"award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Basketball": 1}
+{"sport-Basketball": 3}
+{"sport-NBA": 1}
+{"sport-Basketball": 1}
+{"sport-Basketball": 1}
+{"sport-Basketball": 6, "sport-Olympics": 1, "sport-Championships": 3}
+{"sport-Basketball": 1}
+{"sport-Basketball": 1}
+{"sport-Basketball": 1}
+{"sport-Basketball": 3, "basketball": 1}
+{"sport-Basketball": 5}
+{"sport-NBA": 1, "sport-basketball": 1}
+{"sport-Basketball": 1, "sport-Championships": 1}
+{"sport-NBA": 1, "sport-basketball": 1}
+{"sport-NBA": 1}
+{"sport-Basketball": 1}
+{"sport-NBA": 1, "award": 1}
+{"sport-Basketball": 1}
+{"sport-Basketball": 1}
+{}
+{}
+{}
+{"television": 2, "actor": 1, "voice actor": 1, "singer": 1, "theater": 2, "show": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 3, "song": 2}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{"music": 1, "entertainment": 1}
+{}
+{"sport": 1}
+{}
+{"award": 1}
+{"sport-American football": 1, "sport-Super Bowl": 1}
+{"sport-Basketball": 1}
+{"sport-American football": 2}
+{"film": 2, "television": 1, "actress": 1}
+{"film": 7, "movie": 1}
+{}
+{}
+{"television": 1, "show": 1}
+{"film": 1, "sport-Baseball": 1}
+{}
+{}
+{"song": 1, "album": 1, "music video": 1}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{"music": 1, "EP": 1, "award": 1}
+{}
+{}
+{}
+{"countries": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 2, "novel": 1}
+{}
+{}
+{}
+{}
+{"music": 2, "film": 1}
+{"music": 5, "film": 1}
+{}
+{"music": 5, "piece": 1, "suite": 1, "Ballade": 1, "songs": 1, "folk music": 1}
+{"literature": 1, "book": 1}
+{}
+{"music": 4, "competition": 1}
+{}
+{"short story": 2, "book": 1}
+{}
+{"literature": 1}
+{"music": 1, "song": 2, "opera": 3, "ballet": 2, "film": 1, "literature": 1}
+{}
+{}
+{"sport-Olympics": 3}
+{"music": 1, "recording": 3}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "literature": 1}
+{"music": 3}
+{}
+{}
+{}
+{}
+{"television": 1}
+{"music": 5}
+{"film": 1}
+{"music": 3}
+{"music": 4, "book": 6}
+{"literature": 1, "book": 1, "music": 1}
+{"music": 2}
+{"song": 3, "television": 1}
+{}
+{"television": 1, "film": 1}
+{}
+{}
+{"film": 1, "award": 1}
+{"actor": 1, "screenwriter": 1, "director": 1, "producer": 1, "sculptor": 1}
+{"literature": 1, "book": 1, "film": 1}
+{}
+{"film": 3}
+{"literature": 1, "film": 1}
+{"film": 3}
+{"film": 1}
+{"literature": 1, "book": 1, "film": 2, "television": 1, "story": 1}
+{"literature": 1}
+{"film": 2}
+{"film": 3, "story": 1}
+{"show": 1, "episode": 3, "novel": 1, "radio": 1}
+{"film": 1, "story": 1}
+{"television": 1, "film": 1, "story": 1}
+{"literature": 1}
+{"film": 1}
+{"television": 1, "show": 1}
+{"video game": 1, "sport-Rugby": 1, "mascot": 1}
+{"film": 1}
+{"mascot": 1}
+{}
+{}
+{"film": 3}
+{}
+{}
+{"sport-Horse Racing": 1}
+{}
+{}
+{"book": 1, "mascot": 2}
+{}
+{"literature": 2, "book": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{"literature": 2, "book": 2}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{"music": 1, "radio station": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1, "novel": 1, "movie": 2, "film": 1}
+{}
+{"literature": 1, "book": 1, "journal": 1}
+{"magazine": 2, "book": 1, "comic book": 1, "literature": 1}
+{}
+{}
+{}
+{}
+{"park": 5, "zoological park": 1, "sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"video game": 1}
+{"television": 2, "show": 2, "drama": 1}
+{}
+{}
+{"tv series": 1, "show": 2, "film": 1}
+{"novel": 1, "book": 1}
+{"video game": 1}
+{}
+{"television": 1, "series": 1}
+{"book": 1}
+{}
+{"television": 1, "comedy-drama": 1, "series": 1}
+{}
+{}
+{}
+{"television": 1, "show": 1, "documentary": 1}
+{"literature": 1, "book": 1}
+{"television": 2, "series": 2}
+{}
+{"television": 1, "show": 1, "magazine": 1}
+{"television": 1, "film": 1, "documentary": 1}
+{"song": 2, "film": 1}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1}
+{"song": 2, "album": 1}
+{"album": 2}
+{"music": 5, "band": 2, "entertainer": 1}
+{"film": 3, "literature": 1, "book": 1}
+{}
+{"song": 1, "music": 1}
+{"film": 3}
+{}
+{"book": 1}
+{"film": 1}
+{"television": 1}
+{"song": 3, "movie": 1, "award": 2}
+{"movie": 2, "film": 2}
+{"film": 1, "writer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "television": 1, "video game": 1}
+{"television": 1, "show": 1}
+{"film": 3, "television": 1, "literature": 1}
+{"album": 1, "music": 1}
+{"film": 1, "television": 1, "video game": 1}
+{"video game": 1, "mascot": 1, "character": 1}
+{"television": 1, "show": 1}
+{"mascot": 1, "film": 1, "magazine": 1}
+{"television": 1, "show": 1, "series": 1}
+{"film": 2, "television": 1, "video game": 1}
+{"film": 5, "movie": 1, "television": 1, "animated series": 1}
+{"television": 1, "show": 1, "film": 2}
+{"film": 1, "television": 1, "video game": 1}
+{}
+{"sport-Football": 1}
+{}
+{}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Football": 1}
+{}
+{"sport": 1}
+{}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{}
+{"literature": 1, "play": 1}
+{"sport-Soccer": 1}
+{}
+{"sport-Football": 1}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"music": 3}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{}
+{"theater": 1, "music": 1, "dance": 1}
+{"theatre": 1, "opera": 3, "stage art": 1, "spoken theatre": 1, "puppet theatre": 1}
+{}
+{"opera": 1, "music": 1, "play": 1, "libretto": 1, "festival": 1}
+{}
+{"literature": 1, "book": 1, "story": 1}
+{}
+{}
+{}
+{}
+{"film": 1, "musicarello": 1}
+{}
+{"sport-Soccer": 2}
+{"music": 1}
+{"album": 1, "music": 1}
+{}
+{"book": 1}
+{}
+{"film": 5, "television": 4, "music": 1, "show": 2}
+{"sport": 1}
+{}
+{"literature": 1, "poem": 1}
+{}
+{"play": 1, "film": 1}
+{}
+{"television": 1, "show": 1}
+{"film": 2, "sitcom": 2}
+{"film": 4, "television": 2, "show": 1}
+{"film": 1}
+{"film": 1, "story": 1}
+{"film": 3}
+{"film": 1, "song": 1}
+{"film": 3, "story": 1, "award": 2}
+{"film": 2}
+{"film": 3, "movie": 1}
+{"film": 4, "television": 2, "show": 1}
+{"film": 1, "article": 1}
+{"film": 3}
+{"film": 4}
+{"show": 2}
+{"film": 1, "television": 1}
+{"film": 5, "actor": 5, "singer": 1}
+{"sport-basketball": 1, "sport-Olympics": 1}
+{"sport-Super Bowl": 5}
+{"sport-American football": 1, "sport-Super Bowl": 1, "sport-Championships": 1}
+{"sport-Olympics": 2, "sport-Lacrosse": 1}
+{"sport": 1}
+{"sport-Basketball": 1, "sport-Championships": 2}
+{"sport-Championships": 1}
+{"sport-NFL": 1, "sport-Super Bowl": 5}
+{"sport-Soccer": 1}
+{"sport-Championships": 1}
+{"sport-Championships": 1}
+{"sport-Baseball": 1}
+{"sport-Canadian football": 1, "sport-Olympics": 1, "award": 1}
+{"sport-Championships": 4, "sport-Baseball": 3}
+{"sport-Championships": 1}
+{"show": 1, "game": 1}
+{"video game": 2}
+{"video game": 1}
+{"video game": 1}
+{"magazine": 1, "video game": 1}
+{"video game": 1}
+{"entertainment": 1, "video game": 5, "music": 1, "sport": 0, "film": 0, "television": 0, "literature": 0, "book": 0, "award": 0, "show": 0, "story": 0, "mascot": 0}
+{"video game": 1}
+{"video game": 1}
+{"video game": 1}
+{"video game": 2}
+{"sport-Basketball": 2, "sport-WNBA": 3}
+{"video game": 1, "book": 2}
+{"video game": 1}
+{"video game": 3}
+{"show": 2, "sport-Baseball": 1, "award": 1}
+{"sport-Olympics": 1, "sport-Championships": 1}
+{"sport-Baseball": 1}
+{"television": 1, "story": 1}
+{}
+{"film": 3, "television": 3, "sport": 1}
+{"television": 1, "show": 1}
+{"television": 1, "film": 1}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1}
+{"television": 1, "musical": 1, "show": 2}
+{"song": 2, "television": 1, "film": 1, "award": 1}
+{"actor": 1, "animated series": 1, "sitcom": 2}
+{"television": 1, "episode": 1}
+{"television": 1, "show": 1}
+{"television": 1, "musical": 1, "show": 2}
+{"show": 10, "television": 10}
+{"actor": 1, "television": 3, "series": 1}
+{"television": 1, "show": 1, "sitcom": 1}
+{"actor": 1, "singer": 1, "sitcom": 1, "award": 2, "film": 2}
+{"film": 2, "musical": 1, "award": 2, "television": 1, "sport": 0}
+{}
+{"book": 2}
+{}
+{}
+{}
+{"literature": 1, "playwright": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"video game": 1}
+{"music": 1, "album": 2}
+{"music": 1, "band": 1, "album": 3, "single": 1}
+{"film": 5, "book": 4}
+{"video game": 3}
+{"television": 1, "video game": 1, "film": 1}
+{"song": 4, "album": 2, "film": 2}
+{"song": 3, "album": 1, "award": 1}
+{"film": 3, "novel": 3}
+{"video game": 1}
+{"video game": 2}
+{"video game": 1}
+{"film": 1, "movie": 1, "literature": 1}
+{"television": 1, "show": 1, "music": 1}
+{"video game": 1, "magazine": 1}
+{"video game": 1, "sport": 0}
+{"album": 1, "music": 1}
+{}
+{"film": 5, "show": 1}
+{"television": 1, "show": 1}
+{"sport-Soccer": 1}
+{"television": 1, "show": 1}
+{"sport-Olympics": 3}
+{"sport-Olympics": 1, "television": 1}
+{"television": 1, "show": 1}
+{"sport": 1}
+{}
+{}
+{"sport-Bandy": 2, "sport-Soccer": 2, "sport-Track and Field": 1}
+{"novel": 3, "book": 3, "literature": 3, "story": 3}
+{}
+{"sport-Formula One": 1, "sport-Grand Prix": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"film": 1, "movie": 1}
+{"film": 1}
+{"film": 2}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"music": 1, "award": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 4, "play": 1, "award": 1}
+{"film": 3, "movie": 2, "award": 3, "musical": 1, "theater": 1}
+{"sport-Olympics": 1, "sport-Basketball": 2, "sport-Championships": 1}
+{"musical": 2, "award": 2, "show": 2}
+{"film": 1}
+{}
+{"sport-Football": 1}
+{}
+{"sport-Football": 1, "sport-Canadian Football": 1, "sport-CFL": 1, "sport-Grey Cup": 1}
+{"sport-Olympics": 1}
+{"sport-American Football": 1, "sport-Super Bowl": 3}
+{"sport-Baseball": 1}
+{"sport-Cricket": 5}
+{}
+{"sport-Soccer": 1}
+{"sport-Beach Volleyball": 1, "sport-Olympics": 1}
+{"sport-Baseball": 1, "sport-Championships": 2}
+{"book": 1, "literature": 1}
+{}
+{"film": 1}
+{"television": 1, "series": 1}
+{}
+{}
+{"film": 1, "television": 1, "documentary": 1}
+{}
+{}
+{"book": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "story": 1, "movie": 1}
+{}
+{}
+{}
+{}
+{"television": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "movie": 2, "song": 1}
+{"film": 1, "show": 1, "song": 1}
+{}
+{}
+{}
+{}
+{"sport-Poker": 1}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Gaelic football": 1, "sport-Championships": 4, "sport-All Ireland": 3}
+{}
+{"sport-Baseball": 1, "television": 1}
+{}
+{"sport": 1}
+{}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "video": 1}
+{}
+{}
+{}
+{"sport-Olympics": 2, "sport": 3}
+{"sport-Hurling": 1}
+{"video game": 1}
+{"sport-Australian rules football": 1}
+{"sport-Gaelic Football": 1, "sport-Championships": 3}
+{"sport-Gaelic Football": 1, "sport-Championships": 2}
+{"video game": 2}
+{}
+{"sport-Soccer": 1, "football": 1}
+{"sport-Football": 1, "sport-Championships": 2, "award": 1}
+{"sport-Soccer": 1}
+{"book": 2, "award": 3, "literature": 1}
+{"video game": 1, "sport-AFL": 2}
+{"video game": 3}
+{"sport-Football": 1}
+{"sport-Soccer": 1, "sport-Asian Nations Cup": 1, "sport-FIFA World Cup": 1, "sport-Asian Games": 2, "sport-UEFA": 1}
+{"music": 1, "song": 3}
+{"song": 3, "movie": 1, "film": 1, "video game": 1}
+{"song": 2, "album": 1}
+{"music": 1, "award": 1}
+{"song": 4, "film": 1}
+{"song": 2, "album": 1}
+{"song": 2, "album": 2, "television": 1, "soundtrack": 1}
+{"story": 2, "song": 3, "album": 1}
+{"song": 1}
+{"song": 3, "album": 1, "story": 1}
+{"song": 2, "film": 1, "literature": 1}
+{"song": 1, "album": 1}
+{"album": 1, "award": 1}
+{"song": 3, "musical": 1, "recording": 1, "production": 1, "revival": 1}
+{"song": 2, "album": 1}
+{"music": 1, "song": 3}
+{"song": 1, "film": 1}
+{"song": 4, "music": 1, "show": 1, "film": 1}
+{"song": 1, "album": 1}
+{"song": 2, "sport-Soccer": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "television": 1}
+{}
+{}
+{}
+{}
+{"book": 1, "literature": 1}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1, "story": 1}
+{"film": 3}
+{"literature": 1, "poetry": 1}
+{"literature": 1, "book": 1, "story": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{"book": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "story": 1}
+{}
+{}
+{"book": 27}
+{"literature": 2, "book": 2}
+{"magazine": 1}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "story": 1}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{"award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "movie": 1, "cartoon": 1}
+{"music": 1, "award": 1}
+{"book": 1, "literature": 1}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{}
+{}
+{"video game": 1}
+{"sport-Baseball": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{"artwork": 4}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{"film": 2, "documentary": 2}
+{"film": 1, "music": 5, "song": 3, "album": 3, "soundtrack": 3}
+{}
+{}
+{"sport-NBA": 1, "sport-Olympics": 1, "sport-basketball": 1}
+{"sport-Soccer": 3}
+{"sport-NBA": 1}
+{"sport-Soccer": 1}
+{"sport-NBA": 1, "sport-Olympics": 1, "sport-basketball": 1, "award-NBA champion": 3, "award-NBA Finals MVP": 3, "award-NBA Most Valuable Player": 4, "award-NBA All-Star": 14, "award-NBA All-Star Game MVP": 3, "award-All-NBA First Team": 11, "award-All-NBA Second Team": 2, "award-NBA All-Defensive First Team": 5, "award-NBA All-Defensive Second Team": 1, "award-NBA Rookie of the Year": 1, "award-NBA All-Rookie First Team": 1, "award-NBA scoring champion": 1, "award-J. Walter Kennedy Citizenship Award": 1, "award-AP Athlete of the Year": 2, "award-Sports Illustrated Sportsperson of the Year": 2, "award-USA Basketball Male Athlete of the Year": 1, "award-Mr. Basketball USA": 2, "award-Naismith Prep Player of the Year": 1, "award-McDonald's All-American Game MVP": 1, "award-Ohio Mr. Basketball": 3}
+{"sport-Soccer": 6}
+{"sport-Olympics": 0, "sport-Championships": 1, "sport-Soccer": 0, "sport-NBA": 1}
+{"sport-NBA": 1, "sport-Olympics": 1, "sport-basketball": 1}
+{"sport-NBA": 1, "sport-basketball": 1, "sport-Olympics": 1, "sport-World Championship": 1}
+{"sport-NBA": 1, "sport-Olympics": 1, "sport-basketball": 1, "award-NBA champion": 3, "award-NBA Finals MVP": 3, "award-NBA Most Valuable Player": 4, "award-NBA All - Star": 14, "award-NBA All - Star Game MVP": 3, "award-All - NBA First Team": 12, "award-All - NBA Second Team": 2, "award-NBA All - Defensive First Team": 5, "award-NBA All - Defensive Second Team": 1, "award-NBA Rookie of the Year": 1, "award-NBA scoring champion": 1, "award-J. Walter Kennedy Citizenship Award": 1, "award-AP Athlete of the Year": 2, "award-Sports Illustrated Sportsperson of the Year": 2, "award-USA Basketball Male Athlete of the Year": 1, "award-Mr. Basketball USA": 2, "award-Naismith Prep Player of the Year": 1, "award-McDonald's All - American Game MVP": 1, "award-Ohio Mr. Basketball": 3}
+{"sport-Basketball": 1}
+{"sport-Baseball": 1}
+{"television": 1, "show": 1, "sitcom": 1}
+{}
+{"film": 1}
+{"album": 1, "music": 1}
+{}
+{"sport": 1}
+{}
+{"film": 1}
+{}
+{}
+{"musical": 1, "show": 3, "song": 1}
+{"film": 1, "television": 1}
+{"television": 1}
+{}
+{}
+{}
+{"film": 1, "book": 3, "sport-Football": 1}
+{"magazine": 1}
+{}
+{}
+{"video game": 1}
+{"video game": 1}
+{"video game": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Premier League": 5}
+{}
+{}
+{"television": 1, "show": 1, "sport-Super Bowl": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{"video game": 1}
+{}
+{}
+{"album": 1, "poem": 5}
+{"sport-Basketball": 2}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{"music": 1, "album": 1}
+{"film": 2, "book": 1}
+{"sport-Soccer": 1, "sport-Olympics": 1}
+{"literature": 1}
+{}
+{"television": 1}
+{}
+{"music": 1, "film": 1, "show": 1}
+{"story": 1, "gospel": 1}
+{}
+{}
+{}
+{"film": 5, "sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"novel": 1}
+{"literature": 3, "poetry": 2}
+{"song": 1, "album": 1, "award": 1}
+{"song": 1, "album": 1}
+{"television": 1, "show": 1}
+{"song": 6}
+{"film": 1, "literature": 1}
+{"sport-Olympics": 1}
+{"song": 2, "show": 1, "television": 1}
+{"literature": 1, "book": 1}
+{"music": 1, "song": 3, "album": 1}
+{"song": 3, "poem": 1}
+{"literature": 1, "opera": 1}
+{"opera": 1, "tragedy": 1, "novella": 1}
+{"song": 4, "album": 1, "concert": 1, "tour": 1}
+{}
+{}
+{}
+{"artwork": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Football": 1}
+{}
+{"award": 1}
+{}
+{"book": 1, "article": 1, "play": 1}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{}
+{}
+{"television": 1, "cartoon": 2}
+{"film": 1, "television": 1}
+{"painting": 1}
+{"film": 1}
+{"television": 1, "TV series": 1, "film": 1, "literature": 1}
+{"television": 1, "show": 1, "story": 1, "film": 1, "sport-Olympics": 1}
+{}
+{"tv": 1, "film": 1, "movie": 1, "show": 1}
+{"book": 1}
+{"film": 1}
+{}
+{"film": 1, "television": 1}
+{"television": 1, "show": 2, "documentary": 1}
+{}
+{}
+{}
+{}
+{"television": 1}
+{"film": 1, "exhibit": 3}
+{"television": 1, "show": 1}
+{}
+{"television": 1, "show": 1, "episode": 1}
+{"film": 2}
+{"album": 1, "music": 1, "song": 3}
+{"sport-Cricket": 1}
+{}
+{"television": 2, "show": 2}
+{"film": 2, "television": 2, "story": 1}
+{}
+{}
+{"film": 1, "television": 2}
+{"television": 1, "show": 2}
+{"television": 1, "series": 1, "show": 1}
+{"television": 1, "show": 1, "sitcom": 1}
+{}
+{"film": 1, "television": 1, "show": 1}
+{}
+{"music": 1, "film": 1, "album": 1, "award": 1}
+{}
+{"music": 1, "album": 1, "song": 2}
+{}
+{"music": 1, "video": 1, "video album": 1}
+{}
+{"music": 2}
+{}
+{}
+{}
+{"music": 1, "album": 1, "award": 5, "song": 2}
+{"song": 3, "album": 2, "musical": 1}
+{"film": 1, "literature": 1}
+{"music": 1, "album": 1, "award": 1}
+{"album": 2, "performance": 1, "song": 1}
+{"film": 2, "television": 2, "show": 1}
+{"album": 1, "song": 1}
+{"television": 1, "soap": 2}
+{"actor": 1, "voice artist": 1, "singer": 1, "sitcom": 1, "soap opera": 1}
+{"television": 1, "soap opera": 1, "actress": 1}
+{"television": 1, "show": 1}
+{"television": 6, "film": 1}
+{"actor": 1, "television": 1, "soap opera": 1}
+{"television": 1, "soap opera": 1}
+{"film": 1, "television": 1, "show": 1}
+{"film": 2, "song": 1}
+{"music": 1, "television": 1, "show": 1}
+{"song": 1, "video": 1}
+{"actor": 1, "television": 1, "show": 1, "film": 1}
+{"television": 1, "soap opera": 1}
+{"song": 2, "film": 3}
+{"television": 2, "show": 2, "soap opera": 1}
+{"film": 2, "television": 2, "show": 1}
+{"music": 1, "opera": 2}
+{"song": 3}
+{"song": 2}
+{"song": 3}
+{"song": 1, "album": 1}
+{"song": 1}
+{"album": 1, "music": 1, "show": 1, "television": 1}
+{"song": 4, "album": 1, "single": 2}
+{"song": 2, "album": 1}
+{"music": 1, "song": 180}
+{"song": 2}
+{"music": 3, "film": 1, "song": 3}
+{"song": 3, "album": 2}
+{"song": 4, "album": 1, "magazine": 1}
+{"song": 2, "album": 1}
+{"song": 1, "album": 1, "music": 1}
+{"song": 1, "film": 1}
+{"song": 1, "album": 1}
+{"song": 3}
+{"music": 1, "song": 180}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{"sport-American football": 1, "sport-basketball": 1, "sport-ice hockey": 1}
+{"sport": 5, "sport-Cricket": 1, "sport-Volleyball": 1, "sport-Foot Racing": 1, "sport-Lance Throwing": 1, "sport-Quarterstaff Fencing": 1, "sport-Wrestling": 1}
+{"sport": 1}
+{"sport-Baseball": 1}
+{"sport-Football": 1, "sport-Basketball": 2, "sport-Hockey": 1, "sport-Volleyball": 1, "sport-Gymnastics": 1, "sport-Wrestling": 1, "sport-Baseball": 1}
+{}
+{"actor": 1, "tv": 3, "film": 2, "award": 3, "sport": 1, "musical": 1, "audiobook": 1}
+{}
+{"sport-Arena Football": 1}
+{"film": 1, "show": 1}
+{"sport-Baseball": 1}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Basketball": 1}
+{"sport-American football": 3, "sport-arena football": 2}
+{"sport-Handball": 1, "sport-Boxing": 1}
+{"sport-Football": 1}
+{"sport-Basketball": 1, "sport-Olympics": 1, "entertainment": 1, "show": 1}
+{"sport-NBA": 3, "sport-WNBA": 1, "sport-NHL": 1, "sport-ABA": 1}
+{"sport-Football": 2, "sport-Soccer": 2, "sport-Bundesliga": 1, "sport-World Cup": 2, "sport-Euro": 1, "sport-League": 1}
+{"sport-American football": 1}
+{"sport-Football": 1, "sport-Soccer": 1, "television": 1}
+{"sport-American football": 12, "sport-arena football": 6, "sport-Canadian football": 3, "sport-lacrosse": 2, "sport-Australian football": 25, "sport-rugby league": 13, "sport-rugby union": 2, "sport-cricket": 2}
+{"sport-American football": 1}
+{"sport-Football": 4}
+{"sport-Football": 1, "sport-Serie A": 1}
+{"sport-American football": 1}
+{"sport-Football": 1}
+{"sport-American football": 3, "television": 1}
+{}
+{"album": 1, "music": 1}
+{"album": 1, "song": 1, "award": 1}
+{"soundtrack": 1, "song": 1, "album": 1}
+{"song": 3, "album": 1, "award": 1, "music": 1}
+{"album": 1, "music": 1}
+{"song": 2, "album": 1}
+{"music": 1, "album": 1, "song": 2}
+{"album": 1, "song": 1}
+{"music": 2, "song": 1, "album": 1}
+{}
+{}
+{}
+{}
+{}
+{"magazine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "movie": 3, "actor": 1}
+{"film": 1}
+{}
+{"literature": 1, "book": 1}
+{"play": 1}
+{"film": 1, "television": 1, "literature": 1, "book": 1}
+{"film": 1, "literature": 1, "book": 1}
+{"film": 1, "story": 1}
+{}
+{"film": 1, "play": 1}
+{"film": 3, "television": 2, "series": 1, "show": 1}
+{}
+{"film": 2}
+{"film": 5, "television": 1, "sport": 0}
+{"film": 3, "book": 1, "story": 1}
+{}
+{"film": 3, "literature": 1, "book": 1}
+{"film": 3, "story": 2}
+{"film": 1, "television": 1}
+{"literature": 1, "book": 3, "award": 1}
+{"television": 1, "book": 2, "film": 1}
+{"song": 1, "music": 1}
+{"song": 2, "movie": 1}
+{"music": 10}
+{"album": 1, "music": 1}
+{"television": 1, "show": 1}
+{"book": 1, "literature": 1}
+{"music": 1, "film": 1, "award": 1, "sport": 1}
+{"album": 1, "music": 1}
+{"album": 1, "music": 1}
+{"film": 1, "television": 1, "show": 1}
+{"film": 2, "actress": 2, "singer": 1}
+{"music": 1}
+{"film": 2, "movie": 1}
+{}
+{"album": 1, "music": 1, "literature": 1, "book": 1}
+{"television": 5, "actress": 1}
+{"painting": 1}
+{"song": 2, "album": 1, "award": 1, "Grammis": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"album": 1}
+{"music": 1}
+{"song": 1, "album": 1}
+{"music": 1}
+{"song": 3, "album": 1, "award": 1}
+{}
+{"song": 3, "album": 1, "film": 1}
+{"music": 1}
+{"music": 1, "band": 1, "rock": 1, "pop": 1, "songwriters": 1, "counterculture": 1}
+{}
+{}
+{"book": 1}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "documentary": 1}
+{}
+{}
+{}
+{"sport-MotoGP": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "award": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "webtoon": 1}
+{"award": 1, "musical": 4, "movie": 2}
+{}
+{"award": 2}
+{"musical": 1, "award": 2, "song": 1, "show": 2}
+{"movie": 2, "television": 1}
+{"award": 8, "film": 2, "television": 1, "sport": 0}
+{"sport-Figure Skating": 1, "sport-Olympics": 1, "sport-Championships": 1}
+{"sport-Olympics": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"actor": 1, "singer": 1, "television": 1, "series": 1, "show": 1}
+{}
+{"book": 1}
+{}
+{}
+{}
+{"magazine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "art": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "entertainment": 1}
+{"film": 1, "song": 1}
+{"music": 1}
+{}
+{"film": 1}
+{"music": 1, "film": 1, "show": 1}
+{"song": 3, "music": 1}
+{"music": 1, "singer": 1}
+{"music": 1, "album": 1, "single": 1, "song": 1}
+{"music": 1, "opera": 1, "concert": 2}
+{"music": 1, "opera": 3, "film": 2, "festival": 3}
+{"sport-Soccer": 1}
+{"music": 1, "film": 5, "sport-Olympics": 1}
+{"music": 1, "song": 2}
+{"sport-Soccer": 1}
+{"music": 3, "film": 2, "television": 1, "award": 1, "show": 1, "album": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1}
+{}
+{}
+{}
+{}
+{}
+{"music": 1}
+{"music": 5, "show": 1, "song": 1, "EP": 1}
+{"album": 1, "song": 4}
+{"album": 1, "music": 1}
+{"music": 1, "band": 1}
+{"album": 1, "music": 1}
+{"song": 1, "single": 1, "album": 1}
+{"film": 2, "music": 2, "song": 1}
+{"music": 1, "album": 1}
+{"album": 2}
+{"album": 1, "film": 1}
+{"music": 1}
+{"music": 1}
+{"music": 6, "song": 4, "record": 3}
+{"sport-Baseball": 1}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"music": 1, "band": 2}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{"painting": 1}
+{}
+{"television": 1, "show": 1}
+{"film": 3}
+{}
+{"sport-Soccer": 1}
+{"literature": 1, "book": 1, "magazine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "sport-Football": 1}
+{"music": 2}
+{}
+{}
+{}
+{}
+{}
+{"song": 2, "album": 1}
+{"television": 2}
+{"film": 2, "television": 1}
+{"music": 1, "radio station": 1}
+{}
+{"television": 1}
+{"music": 1}
+{"television": 1, "drama": 1}
+{}
+{"music": 1}
+{"television": 1, "documentary": 1}
+{}
+{}
+{}
+{"film": 1, "story": 1}
+{}
+{}
+{"film": 2, "circus": 1}
+{"music": 1, "company": 2}
+{}
+{}
+{"music": 1, "album": 2, "record": 3}
+{}
+{"sport-Ice hockey": 1}
+{}
+{"music": 2, "film": 3, "ballet": 1}
+{"video game": 1}
+{"theatre": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Figure Skating": 1}
+{"literature": 1, "book": 1, "story": 1}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Wrestling": 1}
+{}
+{}
+{}
+{"sport-Olympics": 1, "sport": 2}
+{}
+{}
+{}
+{}
+{}
+{"sport-Football": 1}
+{}
+{"sport-Wrestling": 10}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1, "sport-Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport-Football": 1}
+{}
+{}
+{}
+{"magzine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"literature": 1, "poem": 1, "music": 1}
+{"song": 2}
+{"music": 1, "song": 1}
+{"song": 1}
+{}
+{"sport-Tennis": 1}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{"literature": 1}
+{"film": 3, "documentary": 1}
+{}
+{"musical": 1, "film": 1, "song": 2}
+{}
+{"photograph": 1}
+{"actor": 1, "TV series": 1, "show": 1}
+{"music": 1, "award": 1, "entertainer": 1, "song": 1, "documentary": 1}
+{"television": 1, "reality": 1}
+{}
+{}
+{}
+{"film": 3}
+{"television": 1, "show": 1, "sitcom": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mascot": 1}
+{"mascot": 1}
+{}
+{"mascot": 1}
+{"mascot": 1}
+{"mascot": 1}
+{}
+{"mascot": 1}
+{}
+{"mascot": 2, "sport": 1}
+{"album": 1, "music": 1, "label": 2, "sport": 0}
+{"mascot": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"art": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport-NFL": 1}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{}
+{}
+{"video game": 1, "film": 1, "television": 1}
+{"music": 1, "band": 1}
+{}
+{"song": 1}
+{}
+{"television": 1, "show": 1}
+{"literature": 1, "book": 1}
+{}
+{"music": 3, "song": 3, "award": 1}
+{"music": 1, "album": 12, "mixtape": 12}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{"video game": 1, "sport-Championships": 1}
+{}
+{"show": 1, "television": 1, "entertainment": 1}
+{"music": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "song": 3}
+{"sport-Golf": 1, "sport-Olympics": 0, "sport-Championships": 0, "sport-Soccer": 0}
+{}
+{"music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 3, "album": 1}
+{"music": 1, "song": 2, "film": 1, "movie": 1}
+{"television": 1, "show": 1}
+{"television": 1, "soap opera": 1}
+{"show": 1, "song": 1, "music": 2, "entertainer": 1}
+{"album": 1, "song": 1}
+{"song": 3, "album": 1, "book": 1}
+{"show": 2, "music": 1, "sport": 1}
+{"music": 1, "EP": 1, "song": 3, "film": 1, "theater": 1}
+{"song": 1, "album": 1}
+{"song": 3, "album": 1, "single": 1}
+{"television": 1, "show": 1, "music": 1}
+{"music": 1, "film": 1, "television": 2, "song": 1}
+{"song": 2, "music": 1, "television": 1, "album": 1}
+{"film": 3}
+{"television": 1, "song": 2, "film": 1}
+{"television": 1, "sitcom": 1}
+{"album": 1, "song": 1}
+{"song": 1, "album": 1}
+{"sport": 1, "music": 1, "theater": 1, "dance": 1}
+{"television": 1, "song": 2}
+{"music": 1, "literature": 1, "book": 1, "story": 1}
+{}
+{}
+{"music": 1, "video": 1, "film": 1, "literature": 1}
+{"literature": 1, "book": 1}
+{"sport-Cricket": 3, "sport-Ranji Trophy": 2}
+{}
+{}
+{}
+{"album": 1, "music": 1, "studio album": 1}
+{}
+{}
+{"television": 1}
+{"television": 1, "film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1, "single": 1, "album": 1}
+{}
+{}
+{}
+{"song": 1, "single": 1, "album": 1}
+{}
+{}
+{"sport-Wrestling": 4}
+{"sport-Championships": 1}
+{}
+{"sport-Cricket": 2, "sport-Tournament": 2}
+{}
+{"sport-Championships": 1, "sport-Wrestling": 3}
+{"sport-Soccer": 1}
+{"sport-Championships": 2}
+{"sport-Rugby": 1}
+{"sport-Championships": 1}
+{"film": 1, "novel": 1, "story": 1}
+{"sport-AFL": 1}
+{}
+{}
+{}
+{"sport-WWE": 5}
+{"award": 1}
+{"sport-WWE": 4, "event": 4}
+{}
+{}
+{"literature": 1, "book": 1}
+{"film": 2, "novel": 1}
+{}
+{}
+{"album": 1, "song": 2}
+{}
+{"music": 1, "album": 1, "song": 4, "merchandise": 3}
+{"album": 1, "song": 3}
+{}
+{"film": 3, "movie": 2, "video game": 3}
+{}
+{"film": 1, "book": 1}
+{"television": 1, "show": 1}
+{"song": 1}
+{"book": 21}
+{"literature": 1, "book": 1, "story": 1}
+{"song": 3, "album": 1, "film": 2, "movie": 1}
+{"literature": 1, "book": 1}
+{"actor": 1, "humorist": 1}
+{}
+{"film": 1, "literature": 1}
+{}
+{}
+{}
+{}
+{"mascot": 1}
+{"movie": 2}
+{"show": 1, "mascot": 1}
+{"film": 2}
+{"television": 1}
+{"music": 1, "entertainer": 1}
+{"book": 1}
+{"television": 1, "cartoon": 1}
+{"film": 1, "television": 1, "cartoon": 1, "character": 2, "dog": 1}
+{"television": 3, "film": 1, "cartoon": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"entertainment": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{"film": 1}
+{}
+{}
+{"film": 1, "story": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{"television": 1}
+{}
+{"television": 1, "show": 1, "character": 1, "film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "newspaper": 1}
+{"television": 1, "character": 1, "show": 1, "music": 1, "actress": 1, "singer": 1}
+{}
+{"literature": 1, "book": 1}
+{}
+{"literature": 1, "book": 1, "poetry": 1, "essays": 1}
+{"literature": 1, "book": 1}
+{"book": 6, "literature": 1}
+{"literature": 1, "book": 1}
+{"literature": 1, "poem": 1, "book": 1}
+{"book": 1, "essay": 1}
+{"book": 1, "literature": 1}
+{}
+{}
+{}
+{"book": 1, "literature": 1}
+{"book": 1}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{"music": 1, "film": 1, "story": 1}
+{"sport-Championships": 1}
+{"sport-Olympics": 2, "sport-Sailing": 1}
+{"film": 61, "actor": 1, "playwright": 1}
+{"song": 2, "event": 1}
+{"music": 3, "song": 1, "theatre": 1, "concert": 1, "album": 1}
+{"sport-Olympics": 1}
+{}
+{"song": 2, "film": 1, "award": 1}
+{"song": 1, "show": 1}
+{"music": 1, "film": 1, "song": 1, "award": 1}
+{}
+{"music": 2, "album": 2}
+{"sport-Gymnastics": 3}
+{"music": 1, "song": 2, "award": 1}
+{"music": 6, "album": 5, "song": 2}
+{"theater": 1, "playwright": 1, "actor": 1, "reality television": 1, "literature": 1, "book": 1}
+{"song": 1, "album": 1}
+{}
+{"sport-Soccer": 1}
+{"show": 2}
+{"film": 2, "award": 1}
+{"show": 1, "television": 1}
+{"television": 3, "show": 3, "program": 1}
+{"television": 1, "show": 1}
+{"artwork": 1, "sculpture": 1}
+{"television": 1, "show": 1}
+{"music": 1, "band": 1}
+{"television": 1, "show": 1}
+{"television": 3, "show": 3, "magazine": 2, "literature": 2}
+{"sport-Olympics": 1, "sport-Championships": 1, "sport": 1}
+{"television": 1, "show": 1}
+{}
+{"television": 1, "talk show": 1, "music": 1}
+{"film": 2, "movie": 1, "literature": 1, "book": 1}
+{"music": 1, "opera": 1, "film": 3, "song": 3}
+{"film": 3, "video game": 1}
+{"music": 1, "song": 2}
+{"film": 1}
+{"sport-Championships": 1}
+{"award": 2, "film": 2, "short film": 1}
+{"actor": 1, "television": 2, "film": 3}
+{}
+{"film": 2, "sport-Football": 1}
+{"film": 3}
+{}
+{}
+{}
+{}
+{"song": 1, "album": 1, "music": 1}
+{}
+{}
+{"show": 1}
+{"show": 1, "radio": 1, "entertainment": 1}
+{"movie": 1, "show": 1, "film": 1, "award": 1}
+{"literature": 1}
+{"film": 100, "television": 1, "award": 1}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1}
+{"music": 3, "show": 2, "sport-Ontario Hockey League": 1}
+{"television": 1, "show": 2}
+{"television": 1, "show": 1, "music": 1}
+{"album": 1, "music": 1}
+{"music": 1, "show": 2}
+{}
+{"award": 1, "entertainment": 1, "show": 1}
+{"music": 1, "show": 1}
+{"show": 2, "television": 1, "magazine": 2}
+{}
+{}
+{}
+{}
+{"magzine": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1, "theater": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1, "animated short": 1, "show": 1}
+{"television": 1, "show": 1, "video game": 1, "music": 1}
+{"film": 1, "entertainment": 1}
+{"film": 1}
+{"television": 1, "actress": 1}
+{"music": 1, "television": 1, "show": 1}
+{"actor": 1, "voice actor": 1, "show": 2, "film": 2, "video game": 5, "series": 5}
+{"film": 1}
+{}
+{"television": 1, "show": 1}
+{"film": 2}
+{"film": 3, "music": 1, "song": 1}
+{"film": 1}
+{"sport-Baseball": 1}
+{"television": 1, "character": 3, "film": 1}
+{"television": 1, "character": 1, "show": 1}
+{}
+{"television": 1, "film": 2, "show": 2}
+{"television": 1, "song": 12, "band": 1}
+{"movie": 1, "film": 1}
+{"film": 4, "movie": 3}
+{"television": 1}
+{"play": 1}
+{"award": 1, "television": 2, "show": 2}
+{"album": 1, "music": 1, "movie": 1}
+{"song": 1, "album": 2}
+{"film": 1, "movie": 5}
+{"song": 2, "film": 1, "award": 1}
+{"film": 4, "movie": 1, "music": 1}
+{"DVD": 1, "music": 1, "performance": 12}
+{"album": 1, "music": 1, "jazz": 1}
+{"song": 1, "single": 1, "album": 1}
+{"album": 1}
+{"album": 1, "film": 1}
+{"song": 1, "album": 1}
+{"album": 1}
+{"song": 5, "album": 2}
+{"song": 3, "album": 2}
+{"album": 1, "song": 1}
+{"album": 1}
+{"music": 1, "song": 2}
+{"music": 1, "album": 3}
+{"song": 1, "album": 1}
+{}
+{}
+{}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Olympics": 3}
+{}
+{"sport-Olympics": 1, "sport-Taekwondo": 1}
+{}
+{}
+{"film": 2, "award": 1}
+{}
+{"song": 4, "award": 1}
+{"song": 1}
+{"album": 1, "single": 3, "movie": 1, "award": 1, "song": 2, "music video": 1}
+{"music": 1, "film": 1, "award": 2}
+{"album": 1, "song": 2}
+{"album": 1, "music": 1, "song": 6, "award": 1}
+{"music": 3, "album": 2, "single": 2, "award": 1, "television": 2, "show": 1}
+{"music": 1, "award": 2}
+{"album": 1, "award": 2, "song": 2}
+{"music": 1, "album": 2}
+{"album": 1, "award": 1}
+{"performance art": 1, "work": 1}
+{"video game": 1, "RPG": 1, "film": 1, "manga": 1}
+{"sport-Olympics": 2}
+{"film": 3}
+{"film": 1, "music": 1}
+{"film": 5, "cartoon": 5, "show": 5, "video game": 2, "sport": 0}
+{}
+{}
+{"film": 2, "story": 1}
+{}
+{}
+{"video game": 3, "film": 2}
+{}
+{"film": 1, "movie": 2}
+{"film": 3}
+{"film": 1, "actress": 2}
+{"film": 1, "actress": 1}
+{}
+{"film": 1, "movie": 2}
+{"film": 1}
+{"film": 1}
+{"film": 4}
+{"film": 1}
+{"film": 1, "television": 2, "show": 2, "animated series": 1}
+{"television": 1, "reality-television": 1, "show": 1}
+{}
+{"film": 2}
+{"film": 1, "book": 2}
+{"television": 1, "show": 1}
+{"film": 3, "movie": 1}
+{"film": 2}
+{"theatre": 5, "television": 1}
+{"music": 1, "film": 1, "literature": 1, "opera": 1}
+{"music": 1, "literature": 1, "book": 2}
+{}
+{}
+{"music": 1}
+{"event": 1, "show": 1}
+{}
+{}
+{}
+{}
+{"music": 1, "composer": 1}
+{"theater": 1, "playwright": 1, "librettist": 1, "zarzuela": 1, "comedy": 1, "farce": 1, "operetta": 1}
+{"album": 1, "song": 3}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mascot": 1}
+{"television": 1}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{"book": 1, "literature": 1}
+{}
+{"book": 5}
+{"literature": 1, "book": 1}
+{"book": 1}
+{"book": 2}
+{"book": 3}
+{"literature": 1, "book": 2, "story": 1, "film": 1, "television": 1}
+{"music": 1, "literature": 1, "book": 1}
+{}
+{"book": 1}
+{"book": 1}
+{"book": 2}
+{}
+{"literature": 1, "book": 2, "film": 1, "television": 1}
+{"book": 3, "award": 1, "song": 1}
+{"song": 3, "album": 2}
+{"film": 2}
+{"film": 1, "music": 1, "song": 5}
+{"music": 1}
+{"film": 1}
+{"music": 5, "song": 2, "album": 2, "fashion show": 1}
+{"song": 3, "album": 1, "music video": 1}
+{"song": 5, "tv": 3}
+{"album": 1, "song": 1}
+{"song": 1, "album": 1}
+{}
+{"film": 1}
+{"song": 1}
+{"film": 1}
+{"song": 1, "album": 1, "soundtrack": 1}
+{"album": 1, "music": 1}
+{"song": 1, "album": 1}
+{"music": 1, "band": 2}
+{"album": 1, "song": 3, "music": 1}
+{"music": 3, "festival": 2, "EP": 1}
+{"film": 4, "movie": 3, "music": 1}
+{"movie": 2, "film": 2}
+{"film": 2}
+{"film": 1}
+{"television": 1}
+{"film": 2}
+{"film": 2}
+{"film": 3}
+{"film": 1, "music": 1, "story": 1}
+{"film": 3}
+{"film": 2}
+{"film": 2, "music": 1, "story": 1}
+{}
+{"sport-Cricket": 1}
+{"film": 3, "movie": 2}
+{"movie": 2, "film": 2}
+{"entertainment": 1}
+{"film": 1}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Tennis": 1}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{"magazine": 2}
+{"book": 22}
+{}
+{}
+{}
+{"sport-Football": 4, "magazine": 2}
+{"sport-Soccer": 1}
+{"film": 1, "literature": 1}
+{"book": 1}
+{}
+{}
+{"literature": 1, "book": 1, "award": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{"painting": 1}
+{}
+{}
+{}
+{"film": 3, "novel": 2}
+{"film": 2, "sport-Swimming": 1}
+{"film": 3}
+{"film": 2, "television": 4, "show": 2}
+{"film": 1}
+{"literature": 1, "story": 1}
+{}
+{"sport-Soccer": 2}
+{"film": 5}
+{"film": 3, "book": 1}
+{"film": 5, "television": 1}
+{"film": 25, "show": 1}
+{"book": 1, "literature": 1}
+{"film": 1}
+{"film": 2}
+{"book": 1, "literature": 1}
+{"film": 3, "literature": 1, "book": 1}
+{"film": 4, "television": 1}
+{"film": 1}
+{}
+{}
+{}
+{"music": 1, "album": 1}
+{"award": 5, "film": 3}
+{"sport-Olympics": 3, "sport-Basketball": 3}
+{"award": 3, "music": 2}
+{"film": 2, "story": 2}
+{"award": 2, "film": 2}
+{"film": 5}
+{"song": 2, "album": 1, "chart": 1, "music": 1}
+{"film": 4, "award": 1}
+{"film": 1, "literature": 1}
+{"film": 4}
+{"television": 1, "show": 1}
+{"film": 3}
+{"mascot": 3, "sport-Football": 1, "sport-Championships": 1}
+{"film": 1, "cartoon": 1}
+{}
+{}
+{"mascot": 1}
+{"mascot": 1}
+{"film": 1, "animated short": 1, "cartoon": 1}
+{"literature": 1, "book": 1}
+{}
+{"film": 1, "cartoon": 1}
+{"mascot": 1}
+{"film": 1, "cartoon": 2}
+{"sport-Basketball": 1, "mascot": 1}
+{"mascot": 1, "film": 1, "television": 1}
+{"album": 1, "song": 5}
+{"music": 1}
+{"song": 3, "film": 1, "musical": 1, "award": 1}
+{"television": 2, "show": 2, "movie": 1, "film": 1}
+{"music": 3}
+{"album": 1, "music": 1}
+{"music": 1, "album": 1}
+{"music": 1, "television": 1, "show": 1}
+{"album": 1, "music": 1, "jazz": 1, "composition": 3, "musical": 1}
+{"album": 1, "music": 1}
+{"album": 1}
+{"album": 1, "award": 5}
+{"television": 1, "show": 2, "music": 1, "dance": 1}
+{"magazine": 1, "sport-Dance": 1}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"music": 4, "album": 4}
+{}
+{}
+{"music": 1}
+{"music": 5}
+{"music": 1, "song": 1, "sport-Super Bowl": 1}
+{}
+{"entertainer": 1, "music": 1}
+{"music": 1, "television": 1, "song": 1}
+{"music": 1, "ballet": 1}
+{}
+{"sport-Tennis": 1}
+{"film": 1, "story": 1, "sport-Boxing": 1}
+{"film": 1, "video game": 1, "magazine": 1, "movie": 1}
+{"film": 9, "award": 3, "television": 1}
+{}
+{}
+{"sport-Olympics": 1}
+{"sport-Baseball": 1}
+{"film": 1, "television": 1, "show": 1}
+{}
+{"film": 1}
+{}
+{}
+{"television": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{"song": 3, "album": 1}
+{"book": 1, "video game": 1}
+{"book": 3, "award": 1, "film": 1, "video game": 1}
+{"literature": 1, "book": 1}
+{"sport-Championships": 1}
+{}
+{"book": 1}
+{}
+{}
+{"sport-Football": 1, "sport-Basketball": 1, "sport-NCAA": 1, "music": 2}
+{"song": 1, "film": 1}
+{}
+{"literature": 1, "book": 1, "poem": 2}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{"sport-Horse Racing": 1}
+{"film": 1}
+{"sport-Horse Racing": 1}
+{"literature": 1, "book": 1}
+{}
+{"sport-Golf": 1}
+{}
+{}
+{"book": 1, "magazine": 1}
+{}
+{"award": 1, "film": 8, "movie": 1, "television": 1}
+{"television": 1, "drama": 1}
+{"literature": 1, "play": 1, "screenplay": 1, "radio play": 1}
+{"award": 5, "film": 3}
+{"sport-Soccer": 1}
+{"television": 1, "show": 1}
+{"film": 2}
+{"actor": 1, "film": 1, "television": 2, "show": 2, "mini series": 1, "soap opera": 1}
+{}
+{}
+{"sport-Baseball": 1}
+{"sport-Football": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"music": 5}
+{}
+{}
+{}
+{"literature": 2, "poem": 2}
+{}
+{}
+{}
+{}
+{}
+{"award": 1}
+{"literature": 1, "award": 1}
+{"television": 4, "show": 3, "award": 1}
+{"film": 1, "music": 1, "commercial": 2, "award": 1, "sport": 0}
+{"film": 2, "television": 2, "award": 3}
+{"album": 1, "artist": 1, "award": 1}
+{"award": 3}
+{"sport-Baseball": 1, "award": 2}
+{"literature": 1, "book": 1}
+{"book": 1}
+{"film": 4, "literature": 1, "book": 1, "award": 1}
+{}
+{"sport-Olympics": 1, "award": 2}
+{"song": 4, "album": 1, "magazine": 2, "award": 2}
+{}
+{}
+{}
+{"sport-NASCAR": 1, "sport-racing": 1, "sport-Indianapolis 500": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Olympics": 1}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 3, "song": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1, "music": 1}
+{}
+{}
+{}
+{"book": 1}
+{}
+{}
+{}
+{"television": 1}
+{}
+{}
+{}
+{}
+{}
+{"book": 3, "award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "album": 1}
+{"song": 2, "album": 1, "music": 1}
+{"album": 1}
+{"sport-MLB": 3, "sport-Exhibition": 2, "sport-Cup": 1, "sport-Trophy": 1}
+{"sport-Baseball": 1}
+{"sport-MLB": 1, "award": 2, "sport-World Series": 2, "sport-championship": 1}
+{"video game": 1, "sport-Baseball": 1}
+{"sport-Baseball": 1}
+{"award": 3, "sport-Super Bowl": 5}
+{"video game": 1, "sport-Baseball": 1}
+{"film": 2, "book": 1, "literature": 1, "show": 1, "award": 1}
+{"song": 3, "music": 2}
+{"song": 2, "album": 1}
+{"album": 1, "blues": 1, "song": 3}
+{"album": 1, "music": 1, "book": 2}
+{"album": 1, "song": 1}
+{"literature": 1, "book": 1, "music": 1}
+{"song": 2, "music": 1}
+{"song": 1, "music": 1}
+{"song": 2, "video": 1}
+{"sport-Snowboarding": 1, "book": 1}
+{"song": 2, "music": 1, "album": 1, "single": 2}
+{"album": 1, "song": 5, "music video": 1}
+{"song": 3, "album": 1}
+{"song": 1, "album": 1, "film": 1, "award": 1}
+{"literature": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1, "reality show": 1}
+{"television": 1, "show": 1, "sport": 1}
+{"television": 1, "show": 1, "sitcom": 1}
+{"film": 1, "movie": 2}
+{"film": 3, "movie": 2, "play": 1}
+{"music": 1, "album": 1, "song": 2, "film": 1}
+{"song": 3, "album": 1, "single": 2}
+{"show": 1}
+{"album": 1, "music": 1}
+{"song": 1, "single": 1}
+{}
+{"song": 1, "music": 1, "album": 1, "show": 1}
+{"song": 1}
+{}
+{"film": 1, "music": 1}
+{"film": 2}
+{"song": 1, "album": 1, "music": 1}
+{"literature": 1, "book": 1}
+{}
+{"sport-Championships": 1}
+{}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{"film": 1}
+{"sport-Squash": 1}
+{"sport-Soccer": 1}
+{}
+{"sport-Basketball": 2}
+{}
+{"film": 2, "award": 1}
+{}
+{"literature": 1, "book": 1}
+{"film": 5, "novel": 4}
+{}
+{"film": 3, "story": 1}
+{"film": 2, "story": 2}
+{}
+{"film": 1, "story": 1, "sport-Baseball": 1}
+{}
+{"television": 1, "series": 1, "literature": 1}
+{"literature": 1, "book": 1, "story": 3, "entertainment": 1, "show": 1}
+{"novel": 1, "television": 1, "miniseries": 1, "book": 2}
+{"film": 3, "story": 2}
+{"opera": 1, "story": 1, "book": 1}
+{"video game": 1, "story": 2}
+{"song": 1, "album": 1, "single": 1}
+{"song": 1, "single": 1}
+{"music": 1, "song": 4}
+{"song": 2, "album": 1}
+{"music": 1, "single": 1}
+{"song": 3}
+{"album": 1}
+{"album": 1, "music": 1, "band": 1, "single": 2}
+{"song": 1}
+{"album": 1, "music": 1}
+{"song": 2}
+{"album": 1, "music": 1}
+{"album": 1}
+{"music": 1, "album": 22, "song": 1}
+{"song": 2, "music": 1}
+{"music": 1}
+{"song": 2, "album": 1}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"video game": 1, "sport": 1}
+{"sport-NBA": 1}
+{"sport-Basketball": 1, "sport-Championships": 1}
+{"sport-NBA": 5, "sport-Championships": 2}
+{"award": 4, "sport-NBA": 4}
+{"sport-Basketball": 3}
+{"sport-Basketball": 1}
+{"sport-Basketball": 1, "sport-Championships": 1}
+{"sport-NBA": 5}
+{"sport-Basketball": 1, "sport-NBA": 1, "sport-WNBA": 1, "sport-NHL": 1, "sport-Championships": 1}
+{"music": 1, "band": 1, "compilation": 1}
+{}
+{"show": 1, "television": 1, "sport-archery": 1}
+{}
+{"song": 1}
+{}
+{"television": 1, "entertainment": 1, "show": 1}
+{}
+{}
+{"music": 3, "band": 2, "album": 1}
+{}
+{"soundtrack": 1, "song": 5}
+{}
+{}
+{"song": 3}
+{}
+{"song": 4, "sport-World Series": 1}
+{"album": 1, "music": 1}
+{"book": 3, "award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{"book": 1}
+{}
+{"song": 1, "music": 1, "album": 1}
+{}
+{}
+{}
+{"song": 2, "concert": 1}
+{}
+{"film": 3, "television": 1, "story": 1, "video game": 3, "literature": 1, "show": 1}
+{}
+{}
+{"song": 1, "album": 1}
+{}
+{}
+{"album": 1, "song": 1}
+{}
+{"film": 3}
+{"book": 2, "story": 1, "literature": 1}
+{}
+{}
+{"film": 3, "story": 1}
+{"film": 3, "book": 3}
+{"film": 3, "literature": 1, "book": 1}
+{}
+{}
+{}
+{"film": 1, "musical play": 1, "story": 1}
+{}
+{"film": 3, "television": 3, "series": 2, "magazine": 1, "movie": 1}
+{}
+{}
+{"literature": 1, "film": 1, "award": 1}
+{}
+{"film": 1, "television": 2, "movie": 3}
+{"film": 3, "book": 3}
+{}
+{"film": 3, "television": 3, "series": 3, "movie": 1, "magazine": 1}
+{"video game": 2}
+{"video game": 1, "literature": 1, "anime": 1}
+{"television": 1, "anime": 1}
+{"video game": 1, "role-playing game": 1}
+{"film": 1, "song": 14}
+{"video game": 1, "sport": 1}
+{"television": 1, "anime": 1, "manga": 1}
+{"music": 1}
+{}
+{"musical": 1, "story": 2, "book": 1}
+{"film": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Baseball": 1, "sport-NHL": 1, "sport-NBA": 1, "sport-NFL": 1}
+{"sport-MLB": 4, "sport-World Series": 3}
+{"sport-Soccer": 5, "sport-Championships": 2}
+{"sport-Football": 2, "sport-Rugby": 1, "sport-Track and Field": 1}
+{"music": 4}
+{"album": 3, "song": 1, "award": 1, "music": 1}
+{"album": 1, "music": 1}
+{"sport-Basketball": 1}
+{}
+{"sport-Olympics": 1, "sport-Championships": 1}
+{}
+{"sport-Basketball": 3, "sport-Boxing": 1, "sport-Wrestling": 1, "sport-Exhibitions": 1, "sport-Championships": 1, "sport-Harlem Globetrotters": 1, "entertainment-Concerts": 1}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{"literature": 1, "music": 1, "theatre": 1}
+{"film": 1}
+{"book": 2, "author": 1}
+{}
+{}
+{}
+{}
+{"film": 2, "award": 1, "television": 1}
+{}
+{}
+{}
+{"film": 1}
+{"film": 2, "television": 1, "documentary": 1}
+{"music": 3, "song": 1, "album": 2}
+{"music": 1, "song": 1, "award": 1}
+{"opera": 1, "song": 1}
+{}
+{"film": 1}
+{"television": 1}
+{}
+{"song": 1, "album": 1, "music video": 1}
+{}
+{"music": 1, "album": 1}
+{"literature": 1, "music": 1, "theatre": 2, "play": 2, "opera": 1, "musical theatre": 1, "drama": 3}
+{}
+{"video game": 1, "literature": 1, "book": 1}
+{}
+{}
+{"book": 2}
+{"book": 4}
+{}
+{}
+{}
+{"story": 2, "magazine": 1}
+{}
+{"show": 1, "television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4}
+{}
+{"music": 2}
+{"film": 1}
+{"film": 1, "story": 1}
+{"album": 1}
+{"film": 1}
+{}
+{"album": 1, "music": 1}
+{"album": 1}
+{"film": 2, "video game": 1, "book": 1}
+{"film": 2, "literature": 1}
+{"book": 1}
+{"film": 2}
+{"film": 2, "soundtrack": 2, "music": 1, "song": 1}
+{"film": 1}
+{"film": 1, "novel": 1}
+{}
+{"film": 4}
+{"film": 1, "book": 1, "music": 1}
+{"film": 1, "actress": 1}
+{"song": 3, "film": 1, "tv": 2, "music": 1}
+{"film": 1, "novel": 1}
+{"film": 3, "musical": 1, "novel": 1}
+{"film": 3, "musical": 1, "novel": 1}
+{"music": 1, "band": 1}
+{"film": 1}
+{"film": 1, "literature": 1, "music": 1}
+{"song": 3, "album": 1}
+{"album": 1, "music": 1}
+{"music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 6}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 3, "story": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"video game": 1}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"sport-Rugby": 1, "sport-Championships": 1}
+{"album": 1, "music": 1}
+{}
+{}
+{"painting": 3}
+{}
+{}
+{}
+{}
+{"album": 1, "song": 1}
+{"television": 1, "sitcom": 1}
+{"television": 1, "show": 1, "film": 1}
+{"television": 1, "show": 1}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{"television": 1, "episode": 2, "animated series": 1}
+{"television": 1, "episode": 2, "series": 1, "animated series": 1}
+{"television": 1, "drama": 1}
+{}
+{"television": 1, "show": 1, "sport-Olympics": 1}
+{}
+{}
+{}
+{"music": 1, "song": 1}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "story": 1}
+{"literature": 1, "book": 1}
+{"film": 1}
+{"book": 3, "novel": 3, "film": 1}
+{}
+{"literature": 1, "book": 2, "award": 1}
+{"television": 1, "film": 1}
+{}
+{"film": 1, "animated short": 1, "story": 1}
+{}
+{"film": 1}
+{"television": 2, "literature": 1, "book": 1}
+{"film": 2, "book": 1}
+{}
+{"television": 1, "show": 1, "story": 1}
+{"film": 1, "book": 1}
+{"book": 1, "newspaper": 1}
+{"television": 1, "series": 2, "film": 1}
+{"film": 2}
+{}
+{"television": 1, "film": 1, "show": 1}
+{"film": 2}
+{"literature": 1, "book": 1}
+{"film": 2}
+{}
+{}
+{"film": 7, "television": 1, "award": 5}
+{}
+{}
+{"television": 1, "mini-series": 1, "film": 1}
+{}
+{}
+{}
+{"television": 1, "show": 2, "series": 1, "entertainment": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1}
+{"sport-Olympics": 2, "sport-Pentathlon": 1, "sport-heptathlon": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 2, "show": 2, "sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1}
+{"film": 4}
+{"music": 1, "album": 1, "single": 1, "music video": 1}
+{"literature": 1, "book": 1, "award": 1}
+{"album": 1, "music": 1, "song": 2}
+{"soundtrack": 1, "music": 5}
+{"album": 1}
+{"song": 1}
+{"album": 1}
+{"song": 1, "album": 1, "award": 1}
+{"album": 1, "song": 2}
+{"album": 1, "award": 1, "music": 1}
+{}
+{}
+{}
+{}
+{"theatre": 1, "company": 1, "actress": 1}
+{}
+{}
+{}
+{}
+{}
+{"album": 1, "song": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport-Football": 1, "sport-Olympics": 1}
+{}
+{}
+{"book": 12, "magazine": 3}
+{}
+{"film": 3}
+{"film": 1, "theater": 1}
+{}
+{}
+{"music": 1, "film": 1, "theatre": 1, "opera": 1, "ballet": 1}
+{"film": 1, "television": 1}
+{"music": 3, "story": 1, "show": 1, "film": 1}
+{}
+{"museum": 1}
+{}
+{"actor": 1, "award": 2, "film": 2}
+{}
+{}
+{"film": 5, "award": 1}
+{"journal": 1}
+{"film": 2}
+{}
+{"television": 3, "film": 2}
+{"award": 1, "theater": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "story": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"show": 1}
+{"television": 1, "game show": 1}
+{"television": 5, "show": 6}
+{"film": 1, "television": 2, "show": 2, "documentary": 1}
+{"television": 2, "podcast": 2, "show": 2, "series": 2}
+{"show": 1, "quiz": 1, "franchise": 1}
+{"show": 1}
+{"television": 1, "TV series": 1}
+{"show": 1, "game show": 1, "music": 1}
+{"television": 3, "show": 1, "documentary": 1}
+{"show": 1, "television": 1}
+{"television": 1, "show": 7, "sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{"television": 1, "documentary": 1}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "sitcom": 1, "series": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "book": 1}
+{}
+{"book": 3, "story": 2}
+{"sport-Horse Racing": 5}
+{"sport-Championships": 1}
+{"television": 1, "show": 1}
+{"music": 1, "film": 1}
+{"sport-Olympics": 1, "literature": 1}
+{"television": 1, "show": 1}
+{"film": 1, "music": 1}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"television": 1, "book": 1, "show": 2, "entertainment": 1}
+{"book": 3, "literature": 3, "award": 1}
+{}
+{"literature": 1, "book": 1}
+{"music": 1, "band": 1, "song": 1}
+{"book": 1, "award": 1}
+{}
+{"literature": 1, "book": 1}
+{}
+{"album": 1, "music": 1}
+{"album": 1}
+{"film": 3, "movie": 2, "literature": 1, "book": 1}
+{}
+{}
+{}
+{"book": 4, "magazine": 1, "award": 1}
+{"book": 2, "story": 1, "award": 1}
+{"book": 1}
+{"book": 1, "publication": 1}
+{"film": 2, "television": 1, "video game": 1, "movie": 1, "show": 1}
+{"film": 2, "television": 3, "story": 1, "show": 1, "movie": 1, "award": 3}
+{"film": 2, "movie": 2, "actor": 1, "comedian": 1}
+{"film": 5, "movie": 1, "award": 1}
+{"film": 2, "movie": 1, "award": 1}
+{"film": 1}
+{"book": 1, "film": 1}
+{}
+{"film": 1, "novel": 1}
+{"movie": 3, "TV": 1}
+{"film": 1, "movie": 8}
+{"film": 3, "book": 1, "award": 2}
+{"film": 2, "book": 2, "television": 1, "drama": 1, "sport": 0}
+{"film": 4, "movie": 2}
+{"sport-Olympics": 3}
+{"movie": 3, "film": 5}
+{"award": 5, "film": 5, "television": 1}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "award": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "magazine": 1, "television": 1, "show": 1}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 2, "album": 1, "single": 1}
+{"music": 1, "award": 5, "song": 4}
+{"music": 1, "album": 1, "song": 4, "award": 1, "solo recording": 1}
+{"song": 3, "album": 1, "music video": 2, "chart": 1}
+{"song": 2, "album": 1, "chart": 2}
+{"album": 1, "song": 2}
+{"music": 6, "album": 4, "film": 1, "show": 1}
+{"song": 1, "music": 1}
+{"song": 1, "music": 2, "award": 21, "magazine": 1}
+{"album": 1, "DVD": 1, "song": 1}
+{"magazine": 1}
+{"television": 2, "show": 2}
+{"book": 2, "literature": 1}
+{}
+{"film": 1}
+{"film": 1, "music": 1, "song": 1}
+{}
+{}
+{"film": 1, "music": 1, "album": 1, "song": 1}
+{}
+{}
+{}
+{}
+{"music": 3}
+{"sport": 1}
+{}
+{}
+{}
+{"television": 1, "show": 1, "film": 1}
+{"song": 2, "music": 1}
+{"literature": 1, "story": 1}
+{}
+{"actress": 1, "musical theater": 1, "writer": 1, "television": 2, "movie": 1, "theater": 1, "musical": 1, "award": 1, "film": 1}
+{"sport-Football": 1}
+{"sport-Soccer": 3}
+{"show": 2, "song": 2, "television": 1}
+{"theater": 1}
+{"literature": 1, "book": 1, "story": 1}
+{"film": 1}
+{"film": 2, "television": 2, "theater": 1, "comedy": 1}
+{"literature": 1, "book": 1, "story": 1}
+{"television": 2, "theater": 2, "movie": 1}
+{"television": 1, "show": 1}
+{"actress": 1, "film": 1, "theater": 1}
+{"actress": 1, "television": 1, "show": 1}
+{}
+{"film": 1, "television": 6, "show": 3}
+{}
+{"film": 1, "award": 2}
+{"literature": 1, "book": 3, "magazine": 1, "play": 2}
+{"sport-Rugby": 1}
+{}
+{}
+{}
+{"magazine": 1}
+{}
+{"video game": 1}
+{}
+{"magazine": 1, "newspaper": 1}
+{}
+{"video game": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{"song": 1, "video": 1, "television": 1}
+{}
+{}
+{"sport-Golf": 1}
+{"film": 3}
+{"video game": 1}
+{"actor": 1, "comedian": 1, "television": 2, "show": 2}
+{"film": 1, "story": 1}
+{}
+{"film": 3, "television": 3}
+{}
+{"television": 1, "show": 1, "sport": 1}
+{"television": 2, "film": 1}
+{"film": 3, "story": 1}
+{"sport-Baseball": 1}
+{}
+{"song": 1, "single": 1}
+{}
+{"sport-Track and Field": 1, "sport-Soccer": 1}
+{"film": 1, "television": 2, "radio": 2, "show": 1}
+{"sport-Baseball": 1}
+{"sport-Baseball": 2}
+{}
+{"film": 1}
+{}
+{"television": 2, "actress": 1, "film": 0, "music": 0, "video game": 0, "literature": 0, "book": 0, "award": 0, "sport": 0, "entertainment": 0, "show": 0, "story": 0, "mascot": 0}
+{"television": 1, "drama": 1, "music": 1}
+{"television": 1, "show": 1}
+{}
+{}
+{"sport-Basketball": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"video game": 1, "television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 5, "record": 5}
+{"music": 1, "album": 1}
+{"music": 1, "record label": 1, "band": 1}
+{"song": 3, "album": 3, "video game": 1, "music": 1}
+{}
+{"song": 2, "film": 1, "award": 2}
+{"music": 3}
+{"song": 1}
+{}
+{}
+{"sport-American football": 1}
+{"sport-Horse Racing": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Track and Field": 1}
+{}
+{}
+{}
+{"film": 2, "literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{"album": 1, "music": 1, "ballet": 1}
+{}
+{"song": 2}
+{"film": 3, "song": 2, "story": 1}
+{"song": 2, "album": 1}
+{"literature": 1, "book": 1}
+{"television": 1, "film": 2}
+{"song": 3, "album": 2}
+{"television": 2, "show": 2, "drama": 1}
+{"literature": 1, "book": 2}
+{"film": 2}
+{}
+{"award": 1}
+{"song": 4, "album": 2}
+{"television": 1, "theatre": 1, "play": 1}
+{"sport-Baseball": 1, "sport-Athletics": 1, "sport-Basketball": 1}
+{"song": 2, "album": 1}
+{"song": 2, "album": 1}
+{"book": 1, "literature": 1, "film": 1}
+{"album": 1, "music": 1}
+{}
+{"music": 1, "album": 5, "single": 1}
+{"album": 1}
+{"album": 1, "music": 1}
+{"song": 1}
+{"song": 2, "album": 1}
+{"album": 1, "music": 1}
+{"album": 1}
+{"song": 3, "album": 1}
+{"album": 1, "music": 1, "show": 1}
+{"album": 1, "music": 1}
+{"album": 1}
+{"film": 3, "book": 1}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{"sport-Ice Hockey": 1}
+{}
+{}
+{"sport-Australian rules football": 1}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{}
+{"music": 1, "band": 1}
+{"movie": 3, "video game": 1}
+{"sport-Olympics": 1}
+{}
+{}
+{"movie": 3, "video game": 1}
+{}
+{"television": 1, "show": 1, "sitcom": 1}
+{}
+{"video game": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"movie": 1}
+{"film": 1, "television": 1, "show": 1}
+{"television": 1}
+{}
+{}
+{}
+{"film": 1}
+{"film": 1}
+{"sport": 1}
+{}
+{"film": 2, "documentary": 1, "story": 1, "show": 1}
+{}
+{}
+{"show": 1, "entertainment": 1}
+{"song": 3, "film": 2}
+{"song": 3, "album": 1, "award": 1, "music": 1}
+{}
+{}
+{}
+{"music": 3, "theater": 1, "comedy": 1, "musical": 1, "performance": 1}
+{}
+{}
+{}
+{"sport-Golf": 1, "sport-Olympics": 1, "sport-Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "book": 1}
+{"film": 1, "actor": 1}
+{"film": 2, "music": 2}
+{"literature": 1, "book": 2, "story": 1, "film": 1}
+{"book": 3, "story": 2, "film": 2}
+{"film": 4, "literature": 1, "book": 1}
+{"film": 3, "television": 1, "soap opera": 1}
+{"literature": 1}
+{"film": 5, "movie": 1}
+{"film": 1, "book": 1}
+{}
+{"film": 6, "movie": 3, "award": 1, "literature": 2}
+{"film": 3}
+{"film": 3, "actor": 1, "musician": 1}
+{"film": 2, "music": 2}
+{"film": 3}
+{"book": 3, "film": 3}
+{"movie": 3, "film": 3}
+{"book": 5, "award": 2}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Football": 1}
+{"sport-Championships": 2}
+{"sport-Football": 1, "sport-Soccer": 2, "sport-High School Sports": 1, "music": 1, "sport-Championships": 1}
+{"sport-Soccer": 1}
+{}
+{"sport-Football": 1, "sport-Championships": 2}
+{}
+{"sport-American football": 1, "sport-Championships": 2}
+{"sport-football": 1}
+{}
+{"literature": 1, "speech": 3}
+{"song": 2}
+{"song": 1, "album": 1}
+{"album": 2, "song": 2, "music": 1}
+{"album": 2}
+{}
+{"film": 1, "movie": 3, "music": 1}
+{"music": 1, "album": 1, "band": 1}
+{"music": 1, "award": 2, "song": 1}
+{}
+{"song": 2}
+{"album": 1, "band": 1, "song": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"show": 1, "television": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{"film": 1, "actor": 1, "comedian": 1}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "award": 5}
+{}
+{"music": 1, "film": 1, "op\u00e9rette": 1}
+{"song": 2, "album": 1}
+{"song": 5, "album": 3, "music": 1}
+{"song": 3, "film": 1, "album": 1}
+{"sport-Wrestling": 1}
+{"television": 1, "show": 2}
+{"film": 3, "television": 1}
+{}
+{"sculpture": 1}
+{"song": 2, "album": 1, "award": 2}
+{"song": 2, "album": 1, "video": 2}
+{"song": 3, "music video": 3}
+{}
+{"television": 3, "video game": 1, "music": 1}
+{}
+{}
+{"sculpture": 1}
+{"television": 1, "series": 1}
+{}
+{}
+{}
+{"film": 5}
+{}
+{}
+{}
+{"music": 1}
+{"television": 1, "show": 1, "story": 1}
+{"literature": 1, "book": 1}
+{"literature": 1, "writer": 1, "music": 1, "film": 1}
+{"painting": 1}
+{}
+{"film": 1}
+{}
+{"theater": 1}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{"sport-Wrestling": 1, "sport-Championships": 1}
+{"literature": 1, "book": 2}
+{"sport-Wrestling": 1}
+{"literature": 1, "book": 1, "show": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{"film": 2, "video game": 1}
+{"book": 4}
+{"book": 16}
+{"literature": 1, "book": 1}
+{}
+{}
+{"movie": 1, "song": 1}
+{}
+{"sport-NFL": 1, "mascot": 1}
+{"album": 1, "song": 3, "movie": 1}
+{"music": 1, "song": 2}
+{"music": 3, "sport": 1}
+{"song": 2, "film": 1}
+{}
+{"film": 1, "song": 2}
+{"album": 1, "music": 1, "song": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport-Football": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 2}
+{}
+{"book": 3}
+{"video game": 2, "award": 1, "literature": 1}
+{}
+{}
+{"book": 2}
+{"book": 2}
+{"literature": 1, "book": 1, "film": 1}
+{"film": 2}
+{"book": 3}
+{"book": 2}
+{"book": 1, "story": 1}
+{"book": 1}
+{"literature": 1, "book": 1}
+{"book": 1}
+{}
+{}
+{}
+{}
+{"music": 1}
+{"sport-Football": 1, "sport-International": 1, "sport-National": 1, "sport-Under-17": 1, "sport-Cup": 1}
+{"literature": 1, "sport": 1}
+{"book": 1, "award": 1}
+{}
+{"sport-Soccer": 1}
+{}
+{"sport-Golf": 1}
+{}
+{"sport-Soccer": 1, "sport-Olympics": 1}
+{"film": 1}
+{"music": 1, "band": 1}
+{"music": 1, "band": 1, "album": 17}
+{"music": 1, "song": 5}
+{}
+{"album": 1}
+{"music": 2, "single": 2}
+{"song": 1, "album": 2, "sport": 1}
+{"song": 1, "album": 1, "band": 1, "award": 2}
+{"album": 1}
+{"song": 3, "album": 3}
+{"music": 1, "album": 1}
+{"album": 1}
+{"album": 1, "song": 6}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mascot": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 4, "movie": 3}
+{"literature": 1, "book": 1}
+{"music": 1, "film": 2, "television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{"book": 1}
+{}
+{"book": 1}
+{}
+{"film": 14, "award": 1, "television": 1}
+{"music": 1}
+{"music": 1}
+{"actor": 1, "film": 1, "television": 1, "show": 1}
+{"literature": 1, "story": 1}
+{"video game": 2}
+{"album": 1, "film": 1, "song": 1, "sport-WWE": 1, "music": 1}
+{"music": 1}
+{"sport-Basketball": 1, "sport-Olympics": 1, "sport-Championships": 1}
+{}
+{"magazine": 1}
+{"television": 1, "show": 1, "character": 1, "comedy": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"sport-American football": 1, "sport-Championships": 2}
+{"sport-NFL": 1, "sport-NBA": 1, "sport-MLB": 1, "sport-NHL": 1, "sport-Championships": 2, "sport-Super Bowl": 1}
+{"sport-NFL": 3, "sport-AFL": 2, "sport-baseball": 1, "sport-Championships": 2}
+{"sport-NFL": 1}
+{"sport-American football": 1, "sport-NFL": 1, "sport-Super Bowl": 5, "sport-NFC championships": 8}
+{"sport-American football": 1}
+{"sport-Football": 1}
+{"sport-NFL": 1, "sport-Championships": 3}
+{"sport-NFL": 1, "sport-Championships": 2}
+{"sport-American football": 1}
+{"sport-NFL": 1, "sport-Championships": 2, "sport-Super Bowl": 4, "sport-NFC": 1, "sport-Hall of Fame": 1}
+{"sport-Football": 2, "sport-UFC": 1}
+{"sport-Football": 1}
+{"sport-American football": 1}
+{"sport-American football": 1}
+{"sport-NFL": 1, "sport-Super Bowl": 1, "sport-playoff": 2}
+{"sport-Football": 1, "football": 1}
+{"sport-American football": 2, "sport-mixed martial arts": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"training ship": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"award": 1}
+{"film": 1}
+{}
+{}
+{}
+{"TV series": 1}
+{}
+{}
+{}
+{}
+{}
+{"novel": 1, "film": 3, "horror": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{"literature": 1, "book": 1}
+{"video game": 1}
+{"literature": 1, "book": 1}
+{}
+{"literature": 1, "book": 1}
+{"sport-Soccer": 1}
+{"journal": 1, "book": 1}
+{"video game": 1}
+{}
+{"video game": 1}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{}
+{"literature": 3}
+{"sport-Tennis": 1}
+{"video game": 1, "literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{"journal": 1}
+{"song": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "poet": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Beauty Pageant": 1}
+{}
+{}
+{"television": 1}
+{}
+{"film": 2, "sport": 1}
+{"television": 1, "book": 1, "story": 1}
+{"album": 1, "music": 1, "song": 1}
+{"album": 1, "music": 1}
+{}
+{"film": 1, "sport-Volleyball": 1}
+{"music": 2}
+{"film": 3, "television": 3, "show": 3}
+{"actress": 1, "television": 2, "show": 2, "sitcom": 1}
+{}
+{"television": 3, "actress": 1, "show": 3}
+{"actor": 1, "film": 1, "television": 1, "show": 1}
+{"film": 1}
+{"film": 2}
+{"television": 1}
+{"literature": 1, "book": 1}
+{"album": 2}
+{"literature": 1, "book": 1, "story": 72, "poem": 306, "novel": 1, "play": 1, "screenplay": 1, "non-fiction": 1}
+{"song": 2, "album": 1, "single": 1}
+{}
+{"film": 2, "musical": 1, "comedy": 1}
+{"album": 1, "song": 2, "music": 1}
+{}
+{}
+{"film": 1, "literature": 1, "book": 1}
+{"musical": 1, "film": 2, "theatre": 1, "award": 1, "show": 1, "television": 2}
+{"album": 1, "music": 1}
+{}
+{"song": 4}
+{"song": 1, "album": 1, "music": 1}
+{"television": 1}
+{}
+{}
+{"song": 3}
+{}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{"film": 2}
+{"music": 8, "album": 2, "band": 3, "supergroup": 1, "record": 1, "festival": 1}
+{"film": 2}
+{"television": 1, "show": 5}
+{}
+{"film": 2}
+{"film": 2, "movie": 2}
+{"literature": 1, "book": 1, "television": 1}
+{"film": 2, "musical": 1}
+{"television": 1}
+{"film": 1, "musical": 1}
+{"film": 3, "music": 1, "book": 2}
+{"film": 1, "sport": 1}
+{"book": 1, "story": 1}
+{"literature": 1}
+{"film": 2, "movie": 1}
+{"television": 1, "sitcom": 1, "show": 1, "series": 1, "episode": 34}
+{}
+{"literature": 1, "story": 1}
+{"music": 1, "live recording": 1, "CD": 2, "concert": 1, "tour": 1}
+{}
+{"music": 1, "film": 1, "video game": 1, "song": 9}
+{"album": 1, "song": 2, "award": 1}
+{"literature": 1, "book": 1, "story": 2}
+{"music": 1, "album": 12, "DVD": 1, "live performance": 200}
+{"award": 3}
+{"award": 2}
+{"award": 1, "literature": 1}
+{}
+{"award": 1}
+{"award": 1, "literature": 1}
+{}
+{"award": 1}
+{"award": 1}
+{"award": 1}
+{"book": 1, "award": 1, "literature": 1}
+{"award": 1}
+{"award": 1}
+{"award": 1}
+{"award": 4, "literature": 1}
+{"award": 1}
+{"award": 6, "literature": 3, "sport": 0, "music": 0, "film": 0, "television": 0, "video game": 0, "entertainment": 0, "show": 0, "book": 0, "story": 0, "mascot": 0}
+{"film": 2, "award": 1}
+{"book": 2, "award": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-World Cup": 1}
+{"music": 3}
+{}
+{}
+{"sport": 1, "entertainment": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Beach Volleyball": 1, "sport-Olympics": 1}
+{}
+{"song": 2, "album": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"award": 4}
+{"film": 1, "movie": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"art": 1, "exhibit": 1}
+{"television": 1, "show": 1, "documentary": 1}
+{}
+{"television": 1}
+{}
+{}
+{"music": 2}
+{"music": 2, "song": 2}
+{"song": 2}
+{"song": 5, "magazine": 2}
+{"music": 1}
+{"music": 1}
+{"music": 1, "radio station": 1}
+{"music": 1}
+{"sport-Championships": 1, "sport-Basketball": 2}
+{"sport-Basketball": 1}
+{"sport-Baseball": 1, "sport-Softball": 1, "sport-NCAA": 2, "sport-Basketball": 3}
+{"sport-Basketball": 1, "sport-Championships": 1}
+{"sport-Championships": 1, "sport-Basketball": 1}
+{"sport-Basketball": 1}
+{"sport-Basketball": 1}
+{"sport-Basketball": 1}
+{"sport-Basketball": 1, "sport-Olympics": 1}
+{"sport-Basketball": 1}
+{"sport-Championships": 1, "sport-Volleyball": 1}
+{"sport-Basketball": 1}
+{"sport-Olympics": 1, "sport-Basketball": 1}
+{"sport-Basketball": 1, "sport-Championships": 1}
+{"sport-Basketball": 1, "sport-Olympics": 1}
+{"music": 14}
+{"television": 5, "song": 1, "poem": 1}
+{}
+{"film": 1, "book": 1, "character": 1}
+{}
+{}
+{"television": 3, "show": 2, "film": 1}
+{"sport-Championships": 1}
+{"television": 1, "film": 1, "musical": 2}
+{"song": 2, "story": 1}
+{"film": 2, "documentary": 1, "story": 1, "music": 1}
+{"actress": 1, "singer": 1, "songwriter": 1, "film": 2, "television": 2}
+{}
+{"song": 1, "album": 1}
+{}
+{"story": 1}
+{"television": 1, "film": 1, "show": 1, "story": 1}
+{"sport-Championships": 1}
+{}
+{"film": 1, "show": 1, "song": 1, "book": 2, "story": 1}
+{"song": 2, "album": 1, "music": 1}
+{"television": 1, "show": 1}
+{}
+{"film": 3, "literature": 1, "book": 1}
+{"song": 1, "show": 1, "series": 1}
+{"album": 1}
+{}
+{"television": 1, "show": 1, "sport-Darts": 1}
+{}
+{"song": 3, "album": 2, "award": 1}
+{"song": 2}
+{}
+{"show": 1, "music": 1, "film": 1}
+{}
+{}
+{"music": 1, "concert": 1, "performance": 1, "tour": 1}
+{}
+{"sport-Olympics": 5}
+{}
+{"award": 3, "sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Softball": 1, "sport-Volleyball": 1, "sport-Soccer": 1, "sport-Handball": 1, "sport-Running": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "reality TV": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"album": 1, "music": 1}
+{}
+{"film": 2, "music": 2}
+{}
+{"film": 3}
+{"painting": 1}
+{"show": 1, "television": 1}
+{"film": 3, "award": 1}
+{}
+{"literature": 1, "book": 1}
+{"event": 1}
+{}
+{"music": 3, "band": 1, "album": 1}
+{"television": 1, "series": 6}
+{}
+{"sport-Championships": 5}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Handball": 1, "sport-Olympics": 1}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Olympics": 1, "sport-Wrestling": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 2}
+{"television": 1, "show": 1}
+{}
+{}
+{"video game": 1}
+{"television": 1, "show": 1}
+{}
+{"video game": 4, "story": 1}
+{"television": 1, "show": 1}
+{"video game": 1}
+{"sport-UFC": 1}
+{"literature": 1, "book": 2, "novella": 2, "film": 1}
+{"sport-Basketball": 1, "sport-Olympics": 1}
+{"video game": 1, "book": 1, "literature": 1}
+{}
+{"video game": 1, "television": 1}
+{"video game": 1, "music": 1, "film": 1, "card game": 2}
+{"sculpture": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Athletics": 1}
+{}
+{}
+{}
+{"film": 1}
+{"music": 1, "award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 3, "telenovela": 2, "film": 1, "show": 1}
+{"book": 4, "film": 4}
+{"film": 1, "soundtrack": 1, "song": 14}
+{"film": 2, "novel": 1}
+{"film": 3, "book": 3, "sport-Olympics": 1}
+{"film": 1, "music": 1}
+{"book": 4, "film": 1}
+{}
+{}
+{}
+{"film": 1, "literature": 1}
+{}
+{}
+{}
+{"book": 1}
+{}
+{"music": 1, "dance": 1, "games": 1, "songs": 1, "cuisine": 1, "language": 1, "religious festivities": 1}
+{}
+{}
+{}
+{}
+{"book": 1}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{"sport-Gymnastics": 3}
+{}
+{"film": 3}
+{"television": 1, "show": 1, "comic strip": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 6}
+{"song": 1, "television": 1, "show": 1}
+{"painting": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "documentary": 2}
+{}
+{"sport-Beach Soccer": 2, "sport-World Cup": 2, "sport-Olympics": 0, "sport-Championships": 1}
+{}
+{}
+{"film": 3}
+{"book": 2}
+{}
+{"film": 2, "literature": 1, "book": 1}
+{"book": 1}
+{}
+{"film": 4, "movie": 1}
+{}
+{}
+{"television": 1, "drama": 1, "series": 1}
+{}
+{}
+{}
+{"show": 1, "story": 1}
+{}
+{}
+{"film": 1, "actor": 1}
+{"film": 2, "television": 2, "show": 2}
+{"film": 1, "actress": 1, "director": 1, "screenwriter": 1}
+{"video": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Championships": 1, "sport-Softball": 1}
+{"sport-Championships": 1}
+{"sport-Hockey": 4, "sport-Tournament": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{}
+{"song": 1, "album": 1}
+{"song": 2, "album": 1, "award": 1}
+{"song": 3, "album": 1}
+{"song": 4, "album": 3, "film": 1, "video game": 1}
+{"song": 1}
+{"music": 1, "song": 2, "album": 1}
+{"song": 3, "album": 2}
+{"song": 2, "award": 1, "music": 1}
+{"album": 1, "song": 5}
+{"song": 3, "album": 1}
+{"album": 1, "song": 2}
+{"song": 3, "album": 1}
+{"award": 7, "sport": 1}
+{"sport-Baseball": 1}
+{"sport-Championships": 1, "sport-Baseball": 1, "television": 1}
+{"sport-Baseball": 1}
+{"sport-MLB": 2}
+{"sport-Baseball": 1}
+{"sport-MLB": 1, "award": 4}
+{"sport-Championships": 2}
+{"song": 3, "album": 3}
+{"song": 2}
+{"song": 2, "magazine": 1}
+{}
+{}
+{"music": 1}
+{"music": 2}
+{"film": 1}
+{"music": 1, "television": 2, "show": 1, "song": 2, "award": 2, "film": 1}
+{"album": 1, "band": 1}
+{}
+{"song": 3, "music video": 1}
+{"music": 1}
+{"music": 1, "film": 1}
+{"music": 1, "opera": 1}
+{"album": 1, "magazine": 1}
+{}
+{"music": 5, "television": 3, "song": 2, "series": 3}
+{}
+{}
+{}
+{"painting": 1}
+{}
+{}
+{"art": 2, "painting": 1}
+{}
+{}
+{"art": 1, "music": 1, "entertainment": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"actor": 1, "writer": 1, "director": 1, "film": 2, "award": 1}
+{"song": 5}
+{}
+{"song": 2, "music": 1, "award": 1}
+{"song": 1, "film": 1, "sport-Olympics": 1}
+{"album": 2, "music": 1}
+{}
+{"film": 3, "award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"album": 1}
+{"album": 2, "song": 5}
+{"song": 4, "album": 5, "award": 1}
+{"song": 3, "sport-Basketball": 1}
+{"album": 1, "music": 1, "track": 2}
+{"song": 2, "album": 1, "music": 1}
+{"album": 1, "song": 3}
+{"music": 1, "album": 1, "song": 4}
+{"album": 1}
+{"song": 3, "film": 1}
+{"song": 2, "album": 1}
+{"song": 1}
+{"song": 2, "album": 1}
+{"song": 1}
+{"song": 3, "album": 2}
+{"sport-NHL": 1}
+{"sport-Ice Hockey": 1}
+{"sport-Hockey": 2, "sport-Championships": 1}
+{"sport-Ice Hockey": 1}
+{"museum": 10, "sport-Hockey": 1, "hockey": 1}
+{"sport-Hockey": 1}
+{"sport-Hockey": 1, "sport-Championships": 1}
+{"sport-Hockey": 1, "sport-Olympics": 1, "hockey": 1}
+{"sport-Ice Hockey": 1, "sport-Championships": 2}
+{"sport-Hockey": 5, "sport-NHL": 4}
+{"sport-Hockey": 1}
+{"sport-Ice Hockey": 1}
+{"sport-Ice Hockey": 1}
+{"sport-Soccer": 3}
+{"sport-Baseball": 1}
+{"sport-NHL": 2, "sport-Hockey": 2}
+{"sport-Hockey": 1}
+{"sport-Ice Hockey": 1}
+{"actor": 1, "telenovela": 3}
+{}
+{}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Olympics": 2}
+{}
+{}
+{}
+{"literature": 1}
+{}
+{}
+{"sport-Olympics": 1}
+{"sport-Soccer": 1}
+{}
+{"sport-Olympics": 1}
+{}
+{"show": 1, "music": 1}
+{"song": 2, "album": 1, "chart": 3}
+{"music": 2, "sport-NFL": 1, "sport-Soccer": 1}
+{"album": 1, "song": 3}
+{"album": 1, "song": 1}
+{"song": 2, "musical": 1, "film": 1, "theater": 1}
+{"album": 1, "music": 1, "song": 1}
+{"album": 1, "song": 4, "music": 1}
+{"film": 3, "television": 2}
+{"song": 3, "album": 1, "award": 1}
+{"film": 1, "music": 1}
+{"album": 1, "music": 1}
+{"song": 3, "album": 1, "EP": 1, "chart": 1, "music": 1}
+{"song": 5, "album": 6}
+{"music": 1, "opera": 1, "film": 1}
+{"music": 1, "album": 1}
+{"sport-Premier League": 1}
+{"sport-Soccer": 1, "award": 1}
+{"sport-Championships": 1, "sport-Football": 1, "award": 1}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Basketball": 1, "sport-NBA": 1, "television": 1}
+{}
+{}
+{}
+{}
+{"book": 3}
+{}
+{}
+{}
+{}
+{"book": 1}
+{}
+{"award": 1, "literature": 1}
+{}
+{"book": 2}
+{}
+{"art": 1}
+{}
+{}
+{"literature": 1, "philosophy": 1, "medicine": 1, "art": 1, "musical": 1, "historical": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "record label": 1, "band": 2, "single": 1, "EP": 1}
+{"film": 1, "television": 1}
+{"film": 1}
+{}
+{"film": 3, "movie": 1, "television": 1}
+{"film": 4}
+{}
+{"music": 1, "record label": 1, "band": 5}
+{"television": 1}
+{}
+{"music": 2}
+{}
+{"film": 3}
+{"television": 1}
+{"film": 5, "television": 1, "novel": 1, "book": 1}
+{"film": 1}
+{"television": 1, "show": 2}
+{"film": 2, "show": 1}
+{"film": 3, "story": 1}
+{"film": 2}
+{"television": 1, "soap opera": 1, "film": 1}
+{"film": 3}
+{"film": 2}
+{"television": 1, "show": 1, "soap opera": 1}
+{"film": 1, "television": 1, "show": 1}
+{"film": 2, "book": 1, "award": 1}
+{"film": 2}
+{"film": 5, "music": 3, "award": 1}
+{"song": 4, "literature": 1, "book": 1}
+{"film": 6, "award": 1, "theater": 1}
+{"TV series": 1}
+{"film": 3}
+{"film": 1, "character": 1}
+{}
+{"music": 1, "band": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{"book": 1, "television": 2, "video game": 1, "novel": 1}
+{}
+{}
+{}
+{}
+{"television": 5, "soap opera": 4}
+{}
+{"book": 1, "film": 2, "television": 1}
+{"literature": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-field hockey": 1, "sport-Olympics": 1}
+{"film": 1}
+{"sport-Olympics": 1, "sport-Gymnastics": 1}
+{"film": 1, "award": 3, "theater": 2}
+{"book": 1, "award": 2}
+{}
+{"music": 2, "film": 1, "television": 1, "song": 2}
+{"music": 1, "band": 1}
+{"music": 1, "award": 1}
+{}
+{"sport-Olympics": 1}
+{}
+{"song": 1, "music": 1, "album": 1}
+{"sport-Olympics": 1, "sport-Championships": 2}
+{}
+{"film": 2}
+{"film": 3}
+{"film": 4}
+{}
+{"sport-Championships": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "comic": 3}
+{}
+{}
+{"television": 1, "show": 1, "video": 1}
+{}
+{}
+{}
+{}
+{"sport-Olympics": 3}
+{}
+{}
+{"sport-Olympics": 1}
+{}
+{}
+{}
+{}
+{"book": 1, "film": 1}
+{"opera": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{"music": 4, "song": 3, "award": 1}
+{"music": 1, "album": 1, "song": 1, "television": 1}
+{"sport-auto racing": 1, "sport-horse racing": 2}
+{"sport-Exhibition": 2, "sport-Auto Racing": 3, "sport-NASCAR": 3}
+{"song": 2, "album": 1}
+{"song": 5, "mixtape": 1, "album": 1}
+{"song": 2, "album": 1}
+{"music": 1}
+{"song": 4, "album": 3, "award": 1}
+{"song": 2, "album": 1}
+{"album": 1, "song": 3}
+{"song": 2, "album": 1}
+{"song": 4, "album": 1, "chart": 2, "magazine": 1}
+{"song": 2}
+{"music": 5}
+{"song": 3, "album": 1}
+{"song": 2, "album": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1, "album": 1, "award": 1, "magazine": 1}
+{"album": 1}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"sport-American football": 1}
+{"sport-Cricket": 1}
+{"sport-Formula One": 10, "sport-Formula Renault": 6, "sport-British Formula 3": 2, "sport-GP2": 1, "sport-Masters of Formula 3": 3, "sport-Formula 3 Euro Series": 2, "sport-Korea Super Prix": 1, "sport-Macau Grand Prix": 2, "sport-Bahrain Superprix": 1}
+{}
+{"film": 2}
+{}
+{}
+{}
+{"award": 1}
+{"television": 1, "show": 1}
+{"sport-Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"missile": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 7}
+{}
+{}
+{}
+{}
+{}
+{"sport-Cricket": 1, "sport-IPL": 1, "sport-Championships": 1}
+{"book": 1}
+{"sport-Championships": 1}
+{"sport-Olympics": 2}
+{"song": 1, "album": 1}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{"sport-Formula One": 1, "sport-Championships": 1}
+{"sport-Soccer": 1}
+{"sport-Football": 1}
+{"sport-Soccer": 1}
+{"sport-Cycling": 1}
+{}
+{}
+{"album": 1, "music": 1}
+{"sport-Boxing": 1}
+{"film": 4, "song": 1}
+{"film": 5, "story": 1, "award": 1, "song": 1}
+{}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1, "film": 1, "award": 1}
+{"album": 1}
+{"album": 1}
+{"album": 2, "song": 1, "film": 1, "music": 1}
+{"album": 1, "music": 1, "song": 11, "magazine": 1}
+{"album": 1}
+{"sport": 1}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "film": 1}
+{}
+{"sport-World Cup": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{"movie": 2, "film": 1}
+{"sport-Soccer": 5, "sport-Championships": 2}
+{}
+{"literature": 1, "book": 2}
+{}
+{"film": 2}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{}
+{"book": 2}
+{}
+{}
+{}
+{"sport-American football": 1}
+{"sport": 1}
+{}
+{}
+{}
+{}
+{"film": 2, "story": 1}
+{}
+{"film": 2, "literature": 1, "book": 1}
+{"television": 1, "show": 1}
+{"show": 1}
+{"sport-Championships": 2, "sport-Le Mans": 3}
+{}
+{}
+{"television": 1, "film": 1, "literature": 1}
+{"song": 1, "album": 1, "single": 3}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{"television": 1}
+{"television": 1}
+{"music": 1}
+{"music": 1, "band": 1, "album": 4}
+{}
+{}
+{}
+{"film": 1, "actor": 1, "filmmaker": 1}
+{}
+{"literature": 1, "book": 1}
+{"literature": 1, "poem": 1, "magazine": 1}
+{}
+{}
+{"award": 1}
+{"sport-Football": 1}
+{"music": 1}
+{"movie": 1, "music": 2, "award": 1, "band": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{"book": 2}
+{"book": 3}
+{}
+{"book": 3, "magazine": 1, "story": 1}
+{"book": 3, "film": 1}
+{"book": 1}
+{}
+{"book": 1}
+{"show": 1, "game": 1}
+{"sport-Basketball": 2}
+{}
+{"television": 1, "show": 1, "cartoon": 2}
+{"television": 1, "award": 1}
+{}
+{}
+{}
+{"film": 1, "album": 1}
+{}
+{"film": 2, "play": 1}
+{"sport-Basketball": 1}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{"film": 1, "music": 1, "literature": 1}
+{"film": 1, "music": 1}
+{"album": 1}
+{"music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"album": 3, "music": 1}
+{"sport-Olympics": 1}
+{}
+{"movie": 2, "film": 2}
+{"literature": 1, "music": 1, "theatre": 1, "entertainment": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "story": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "movie": 1, "literature": 1, "book": 1}
+{}
+{}
+{}
+{"film": 2}
+{}
+{"literature": 1, "book": 1, "story": 1}
+{"song": 2}
+{"award": 2, "magazine": 1, "sport-Championships": 1}
+{}
+{"film": 3, "documentary": 2, "award": 1}
+{}
+{"film": 1}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{"sport-Football": 3}
+{}
+{"television": 1, "series": 1, "drama": 1}
+{}
+{"show": 1}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{"sport-Championships": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "story": 2, "sport": 1}
+{"song": 2, "film": 1}
+{"television": 3, "film": 1, "award": 4}
+{"video game": 1}
+{"award": 1, "sport": 1, "sport-football": 1}
+{"sport-Olympics": 1}
+{}
+{}
+{"sport-BMX": 1, "sport-Olympics": 1}
+{}
+{"sport-Olympics": 1, "sport-Championships": 1}
+{}
+{"sport-Rugby": 2, "sport-Championships": 1}
+{}
+{"film": 1}
+{"sport-Championships": 1}
+{}
+{"sport-Olympics": 1}
+{"music": 1}
+{"album": 1, "music": 1}
+{"literature": 1, "book": 1}
+{"film": 2}
+{"song": 2, "music": 1, "film": 1, "theater": 1}
+{"television": 1, "film": 1}
+{"painting": 1}
+{}
+{"video game": 1}
+{"literature": 1, "book": 1}
+{"actress": 1, "television": 1, "series": 5, "comedy": 3}
+{"music": 1, "song": 1}
+{}
+{"film": 1}
+{}
+{"film": 1, "movie": 1}
+{"film": 3}
+{"film": 2}
+{"book": 1}
+{"music": 1}
+{}
+{}
+{"newspaper": 3, "television": 6}
+{}
+{}
+{}
+{}
+{"sport-NBA": 1, "sport-All-Star Game": 5}
+{"sport-NFL": 1}
+{"sport-Basketball": 1, "sport-Olympics": 2, "award": 4}
+{"sport-Exhibition": 2, "sport-MLB": 1, "sport-All-Star Game": 1, "sport-World Series": 1}
+{"sport-Baseball": 1}
+{"sport-NBA": 1, "sport-All-Star Game": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"show": 1, "contest": 1}
+{}
+{}
+{"music": 1, "literature": 1}
+{}
+{"music": 1}
+{"literature": 1, "book": 1, "film": 1}
+{"music": 1}
+{}
+{}
+{"film": 1, "opera": 1}
+{"film": 2, "novel": 1}
+{"film": 3, "play": 1, "theater": 1}
+{"literature": 1}
+{}
+{"book": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "magazine": 1, "award": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "album": 1, "song": 3}
+{}
+{"album": 1, "music": 1, "band": 1}
+{"song": 5, "album": 1, "film": 1, "sport-WWE": 1, "music": 1}
+{}
+{}
+{"magazine": 1}
+{}
+{"literature": 1, "film": 2, "television": 1, "music": 1}
+{"show": 2, "programme": 1}
+{"show": 4, "film": 1}
+{"film": 1}
+{"television": 1, "show": 1, "sport-Basketball": 1}
+{}
+{"song": 1, "single": 1, "album": 1, "music video": 1}
+{"television": 1, "show": 2}
+{"television": 2, "game show": 2}
+{"book": 2}
+{"show": 1, "talk show": 1, "variety show": 1, "music": 1}
+{"show": 1, "sport": 1}
+{"television": 1}
+{"television": 1, "show": 2}
+{}
+{"CAB format": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Baseball": 1, "award": 1}
+{"album": 1}
+{}
+{}
+{"television": 1}
+{}
+{"book": 1, "comic": 1}
+{"album": 1, "music": 1}
+{"music": 1, "song": 1}
+{"music": 1, "song": 3, "record label": 1}
+{"song": 4, "album": 1, "music": 1}
+{"album": 1, "song": 4}
+{"music": 1, "album": 1, "single": 1}
+{"sport-Football": 1}
+{"sport-Golf": 1}
+{}
+{"sport-Golf": 1, "sport-Olympics": 0, "sport-Championships": 0, "sport-Soccer": 0}
+{}
+{}
+{}
+{}
+{"film": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Boxing": 1}
+{"sport-Olympics": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "song": 1, "award": 3, "musical": 1}
+{"film": 3, "award": 8, "musical": 1}
+{"sport": 1}
+{}
+{"film": 2, "television": 2, "award": 1, "show": 1}
+{"musical": 1, "book": 1, "music": 1, "story": 1}
+{"movie": 1, "film": 3, "musical": 1, "story": 1}
+{"sport-Olympics": 1}
+{"television": 1, "film": 2, "theatre": 1, "award": 1}
+{"film": 4, "novel": 1, "play": 1}
+{"musical": 1, "award": 2}
+{"award": 8, "film": 12}
+{"film": 2, "movie": 1}
+{"actress": 1, "award": 1, "play": 1}
+{"musical": 1, "book": 1, "lyrics": 1, "music": 1, "story": 1, "show": 2}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "story": 1}
+{}
+{"music": 1}
+{}
+{"music": 3, "album": 2}
+{"album": 1, "music": 1}
+{"song": 1}
+{"music": 1, "album": 1}
+{"album": 1}
+{"album": 1, "music": 1}
+{}
+{"sport-Olympics": 1, "sport-Championships": 1}
+{}
+{}
+{}
+{"music": 3, "composer": 2, "musician": 1, "singer": 1, "music educator": 1}
+{}
+{}
+{}
+{"sport-Volleyball": 1, "sport-Olympics": 1}
+{}
+{}
+{}
+{}
+{"film": 3, "literature": 1, "book": 1, "story": 1}
+{"film": 2, "movie": 1}
+{"film": 2, "novel": 1}
+{"film": 1, "book": 1}
+{"music": 1, "album": 1, "song": 2}
+{"film": 2, "story": 2}
+{"film": 1, "music": 1}
+{"film": 2, "show": 1}
+{"film": 2, "movie": 1, "animation": 1}
+{"literature": 1, "book": 2}
+{"film": 4, "award": 3}
+{"film": 5, "award": 5}
+{"film": 1, "television": 1}
+{}
+{"literature": 1, "book": 1, "film": 1}
+{"film": 1, "actress": 1}
+{}
+{}
+{}
+{}
+{"sport-Formula 1": 1}
+{"literature": 1}
+{}
+{}
+{"sport-Formula One": 1}
+{"sport-MotoGP": 1, "sport-motorcycle racing": 1}
+{}
+{}
+{}
+{"literature": 1}
+{"sport-Championships": 1}
+{}
+{"sport-Indianapolis 500": 1, "sport-IndyCar": 1}
+{"sport-Cricket": 1}
+{"video game": 1, "show": 1, "game": 1, "literature": 1}
+{}
+{}
+{}
+{}
+{"album": 1, "song": 3}
+{}
+{"film": 1}
+{}
+{"film": 1}
+{}
+{"film": 1}
+{"film": 1}
+{"film": 5}
+{}
+{"award": 1}
+{}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"show": 2, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport-Snooker": 1}
+{}
+{"sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "song": 1}
+{"film": 2}
+{}
+{}
+{"film": 2, "literature": 1, "book": 1}
+{"film": 5}
+{"film": 1}
+{}
+{}
+{"song": 1, "album": 1}
+{}
+{"actress": 1, "voice actress": 1, "screenwriter": 1, "producer": 1, "director": 1, "video game": 1, "film": 2, "television": 1, "award": 2, "series": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"painting": 1}
+{"painting": 1}
+{"book": 1, "comic": 1}
+{}
+{}
+{"sport-Skiing": 1, "literature": 1}
+{}
+{}
+{"painting": 1}
+{}
+{"literature": 1, "book": 1}
+{"book": 1, "literature": 1}
+{"painting": 1, "film": 1}
+{}
+{"television": 1, "film": 2, "show": 1}
+{"film": 4, "musical": 1, "television": 2, "dramedy": 1}
+{"literature": 1, "book": 1, "film": 3, "movie": 3}
+{"film": 4, "movie": 1, "music": 1, "sport": 1}
+{"song": 1, "album": 2}
+{"song": 1, "single": 1, "album": 1}
+{"film": 2}
+{"song": 1, "album": 1}
+{"song": 1, "album": 1}
+{"film": 3, "television": 1, "movie": 1}
+{"film": 3, "award": 1}
+{"film": 2, "television": 1, "movie": 1}
+{"film": 1}
+{"television": 1, "miniseries": 1}
+{"television": 1, "film": 1, "literature": 1, "book": 1}
+{}
+{"television": 1, "show": 1, "sitcom": 1}
+{}
+{"sport-Championships": 3, "sport-Cricket": 1}
+{}
+{"film": 1, "television": 1, "documentary": 1, "sport": 0}
+{"film": 2, "television": 3, "award": 2}
+{"television": 1, "show": 3, "entertainment": 1}
+{"film": 3}
+{}
+{}
+{"film": 1}
+{"television": 1, "show": 1, "actress": 1}
+{}
+{}
+{}
+{}
+{"sport-Bicycle": 1, "story": 1}
+{}
+{}
+{}
+{}
+{"movie": 1, "television": 1, "story": 1}
+{"film": 3, "movie": 1, "award": 1}
+{}
+{}
+{"sport-Championships": 1}
+{"sport-NFL": 1, "sport-Super Bowl": 2}
+{"sport-Championships": 1, "sport-Hockey": 1, "award": 1}
+{"sport-Olympics": 1, "sport-Skiing": 1}
+{"sport-Boxing": 1}
+{"sport-Championships": 1}
+{"sport-Olympics": 1, "sport-Championships": 1}
+{"sport-Championships": 1}
+{"sport-Championships": 1}
+{"sport-Tennis": 1}
+{"sport-Olympics": 1, "sport-Championships": 1}
+{"sport-Cricket": 6, "sport-World Cup": 3, "sport-World Twenty20": 3, "sport-Champions Trophy": 3}
+{"sport-NFL": 1, "sport-Super Bowl": 2, "sport-championship": 1}
+{"sport-Championships": 1}
+{"sport-Soccer": 1, "sport-Championships": 1}
+{"sport-Championships": 1}
+{"sport-Championships": 1, "sport-Hockey": 1, "award": 1}
+{"sport-Championships": 2}
+{}
+{"sport-NFL": 1, "sport-Super Bowl": 2, "sport-championship": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1}
+{}
+{"literature": 1, "play": 1}
+{"book": 1}
+{}
+{"sport-Basketball": 1}
+{}
+{}
+{"sport-Ice Hockey": 1, "sport-Championships": 2}
+{"film": 1}
+{"sport-Basketball": 2}
+{"sport-Basketball": 1}
+{"play": 1, "literature": 1}
+{"sport-Soccer": 1}
+{"film": 1}
+{}
+{"award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1}
+{"album": 1, "song": 1, "music": 1}
+{"music": 1, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{"song": 1, "film": 1, "award": 1}
+{"film": 2, "award": 1, "book": 1, "audio book": 1}
+{"film": 3, "television": 4, "award": 1, "sport": 0, "music": 0, "video game": 0, "literature": 0, "book": 0, "entertainment": 0, "show": 0, "story": 0, "mascot": 0}
+{}
+{"music": 2, "song": 2}
+{"song": 1, "music": 1, "film": 1, "concert": 1}
+{}
+{"film": 3, "movie": 2, "television": 4, "award": 1, "show": 1}
+{"novel": 1, "book": 2, "award": 1}
+{"music": 1, "theatre": 1, "film": 1, "show": 1}
+{"album": 1, "song": 1}
+{"book": 3, "story": 2, "magazine": 1}
+{"album": 1, "song": 1}
+{"song": 1, "music": 1}
+{}
+{"song": 1, "music": 1}
+{"music": 1, "show": 1}
+{"song": 2, "album": 1, "award": 1}
+{}
+{"sport-Football": 1, "sport-Chelsea": 3, "sport-FA Cup": 1}
+{"story": 2}
+{}
+{"book": 1, "literature": 1}
+{}
+{"award": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 3}
+{}
+{}
+{"music": 1, "radio station": 1}
+{}
+{"music": 1, "concert": 1, "story": 1, "CD": 1}
+{"sport": 1}
+{"television": 1}
+{}
+{}
+{"television": 1}
+{}
+{"album": 1, "song": 1}
+{"painting": 1}
+{"painting": 1}
+{"film": 1, "television": 1, "show": 1}
+{"painting": 1}
+{"film": 1}
+{"film": 3}
+{"show": 1}
+{"film": 2}
+{"painting": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Cycling": 5}
+{}
+{}
+{"sport": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{}
+{"painting": 2}
+{}
+{}
+{"painting": 1, "literature": 1, "book": 1}
+{"film": 2, "television": 1, "show": 1}
+{}
+{"television": 1, "show": 2, "web television": 1}
+{"book": 1}
+{"painting": 1, "art": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "drama": 1}
+{}
+{}
+{}
+{"television": 1, "series": 3, "episode": 3}
+{}
+{}
+{}
+{"film": 1}
+{"television": 1, "show": 1, "episode": 1}
+{"music": 1, "book": 1, "musical": 1}
+{"television": 1, "character": 1, "show": 1}
+{"literature": 1, "book": 1}
+{"album": 1, "music": 1}
+{}
+{"television": 1, "programme": 1, "music": 1, "show": 1}
+{"sport-Fox Hunting": 1, "sport-Shooting": 1, "sport-Stalking": 1, "sport-Coursing": 1, "sport-Deer Stalking": 1}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "award": 1, "show": 4, "film": 1}
+{"sport-Cricket": 1}
+{}
+{"television": 1, "episode": 3, "show": 1}
+{"music": 1}
+{}
+{}
+{"literature": 1, "story": 1, "poem": 1}
+{}
+{}
+{"literature": 1}
+{"television": 1, "show": 1}
+{}
+{"music": 1, "singer": 2}
+{"sport-Baseball": 1}
+{"film": 1, "literature": 1}
+{"sport": 1}
+{"literature": 1}
+{"film": 2, "movie": 1, "literature": 1}
+{"film": 4, "literature": 1, "book": 1}
+{"film": 3, "novel": 1, "story": 1}
+{"literature": 1}
+{"song": 2}
+{}
+{"film": 2, "music": 1}
+{"film": 1}
+{"song": 2, "album": 1, "magazine": 1}
+{}
+{"television": 1}
+{"TV series": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"show": 1, "sport": 1}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "band": 1, "award": 1}
+{}
+{}
+{}
+{"film": 1, "soundtrack": 1, "song": 18}
+{"film": 3, "book": 1}
+{"film": 3}
+{"album": 1, "band": 1, "music": 1}
+{}
+{"song": 2, "musical": 1, "film": 1}
+{"film": 5, "book": 1}
+{}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{}
+{}
+{}
+{"sport-baseball": 1}
+{}
+{}
+{"music": 1, "opera": 1, "film": 1, "show": 1}
+{"film": 2, "documentary": 1, "award": 1}
+{}
+{"sport-Baseball": 1}
+{"sport-Field Hockey": 1, "sport-Olympics": 1}
+{}
+{}
+{}
+{"sport-Baseball": 1, "sport-NFL": 1, "sport-NHL": 1, "sport-NBA": 1}
+{"sport-NBA": 3, "sport-basketball": 3}
+{"sport-WNBA": 2}
+{"sport-NBA": 1}
+{"sport-Baseball": 1}
+{"sport-Football": 3, "sport-CFL": 3, "award": 1}
+{"sport-Basketball": 5, "award": 2}
+{"sport-NHL": 1}
+{"sport-Football": 1}
+{"sport-Baseball": 1}
+{"sport-Basketball": 1, "sport-NBA": 1, "television": 1}
+{"film": 2, "movie": 3}
+{}
+{"sport": 1}
+{}
+{"music": 1}
+{}
+{}
+{"music": 1}
+{"music": 1, "radio station": 1}
+{"music": 1}
+{"music": 1}
+{"music": 1, "radio station": 1}
+{}
+{}
+{}
+{"music": 1}
+{"music": 1}
+{}
+{"sport-Basketball": 1}
+{"music": 1, "album": 1, "EP": 1, "single": 1}
+{"music": 3, "play": 1}
+{"music": 1, "band": 2, "song": 1, "album": 2}
+{"book": 1, "festival": 2}
+{}
+{}
+{"film": 1, "documentary": 1}
+{}
+{}
+{}
+{}
+{"painting": 1, "music": 1}
+{"book": 1, "literature": 1}
+{}
+{}
+{"book": 2}
+{}
+{}
+{"book": 2, "film": 1}
+{"novel": 1}
+{}
+{"book": 3, "magazine": 1}
+{"book": 1}
+{"book": 2, "novel": 1}
+{"book": 3, "story": 2}
+{}
+{"book": 2, "literature": 1}
+{"video game": 2, "board game": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "music": 1}
+{}
+{"film": 4, "movie": 2}
+{"film": 3}
+{"music": 1, "band": 5}
+{"film": 4, "movie": 1}
+{"sport-Rugby": 1}
+{"sport-Soccer": 2, "sport-football": 2}
+{"sport-Soccer": 2}
+{"sport-Baseball": 1}
+{"sport-Soccer": 1, "sport-Championships": 1}
+{"film": 5}
+{"television": 1, "series": 1, "film": 1}
+{"film": 4, "movie": 1}
+{"film": 3}
+{"film": 5, "movie": 2}
+{"sport-Rugby League": 1}
+{"sport-Ice Hockey": 1}
+{"film": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"literature": 1, "book": 1}
+{"film": 3, "book": 3}
+{"television": 1, "show": 1, "film": 1, "movie": 1}
+{"film": 4}
+{}
+{"television": 1}
+{}
+{"television": 1}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"painting": 1}
+{"album": 1, "song": 1}
+{}
+{}
+{"television": 1}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport-Championships": 1}
+{}
+{}
+{}
+{}
+{"film": 2, "documentary": 1, "television": 1}
+{"video game": 2, "television": 1, "show": 2}
+{"film": 2}
+{"film": 1}
+{"television": 1, "show": 1, "series": 1, "episode": 2}
+{"sport-Olympics": 1, "sport-Championships": 1}
+{"television": 1, "show": 1, "sport-Volleyball": 1}
+{"television": 1, "show": 1}
+{"television": 1}
+{}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1}
+{"television": 1, "show": 2, "story": 1}
+{"television": 1}
+{}
+{"sport-Olympics": 1, "sport-Handball": 1}
+{"book": 1, "television": 1}
+{"film": 4, "television": 3, "show": 1}
+{"television": 1}
+{}
+{"television": 1}
+{"show": 1, "episode": 2, "sport-Olympics": 1}
+{"sport-Football": 1}
+{"television": 5, "video": 1, "story": 2, "episode": 3}
+{"television": 1, "show": 1}
+{"film": 2, "movie": 2, "literature": 1, "book": 1}
+{"television": 1, "show": 1, "sport": 1, "movie": 2}
+{"television": 1, "show": 1}
+{"television": 2, "film": 2, "series": 1}
+{"movie": 2, "film": 3}
+{"film": 1, "story": 1}
+{"comic": 1, "story": 1}
+{"film": 5}
+{}
+{"comic book": 1, "series": 2, "story": 1}
+{"movie": 2, "film": 2, "story": 1}
+{"film": 2}
+{"movie": 1, "TV series": 2, "music": 1}
+{"film": 5, "literature": 1, "book": 1, "character": 1, "sport": 1}
+{"film": 1, "literature": 1, "book": 1}
+{"video game": 1, "film": 1, "story": 1}
+{"film": 3}
+{"film": 5, "television": 2, "video game": 1, "book": 1}
+{"video game": 4}
+{}
+{}
+{}
+{}
+{"video game": 1}
+{"actor": 1, "comedian": 1, "director": 1, "producer": 1, "writer": 1, "singer": 1, "musician": 1, "voice artist": 1, "tv show": 3, "film": 3}
+{"movie": 10, "music": 1, "series": 1, "sport": 0}
+{"film": 1}
+{"manga": 1, "magazine": 1}
+{}
+{"video game": 1, "sport-Baseball": 1}
+{"film": 1, "television": 1, "episode": 2, "story": 1, "music": 1}
+{"actor": 1, "film": 1, "television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1, "movie": 1, "theater": 1}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 7, "television": 1}
+{}
+{"song": 5, "film": 3, "TV": 3, "video game": 1, "sport-Baseball": 1}
+{"television": 1, "show": 1}
+{}
+{"film": 3, "award": 2, "literature": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-American football": 1}
+{"sport-Soccer": 1}
+{}
+{}
+{"sport-Football": 1, "sport-CFL": 2, "sport-Grey Cup": 1}
+{}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Super Bowl": 3, "show": 3, "music": 1}
+{"sport-American football": 1, "sport-Super Bowl": 4}
+{"sport-Championships": 3, "sport-Super Bowl": 3}
+{"entertainer": 1, "sport-Super Bowl": 2, "show": 2, "album": 1, "music": 1, "song": 1}
+{"sport-Super Bowl": 3, "show": 2, "music": 1, "entertainer": 1}
+{"sport-Super Bowl": 3, "trophy": 2}
+{"sport-American football": 1, "sport-Super Bowl": 4}
+{"award": 1, "sport-NFL": 4, "sport-Super Bowl": 4}
+{"sport-Football": 1, "sport-Super Bowl": 5}
+{"sport-Super Bowl": 2, "music": 6, "television": 1}
+{"sport-Football": 1, "sport-Super Bowl": 3}
+{"literature": 1, "book": 1}
+{}
+{"sport-Snowboarding": 1, "sport-Championships": 1}
+{"book": 2}
+{"literature": 1, "book": 1, "story": 1}
+{"book": 2}
+{"book": 2}
+{"book": 5, "sport-Tennis": 2, "sport-Golf": 1, "sport-Music": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"award": 1, "book": 1}
+{}
+{}
+{"award": 1}
+{}
+{"literature": 1, "book": 1, "story": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"album": 1}
+{"album": 1, "song": 2, "DVD": 2}
+{"song": 1, "album": 1, "single": 1, "film": 1}
+{"song": 1, "album": 1}
+{"music": 1, "album": 2}
+{"album": 1}
+{"album": 2, "song": 1}
+{"album": 1, "music": 1}
+{"song": 1, "single": 1, "album": 1, "film": 1}
+{"album": 1, "music": 1, "song": 2}
+{"song": 3, "album": 3}
+{"music": 1, "album": 4}
+{"song": 1, "single": 1, "album": 1}
+{"song": 1, "album": 2, "single": 2}
+{"song": 2, "album": 1, "film": 1, "award": 3}
+{}
+{}
+{"song": 2, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{"television": 1, "show": 1}
+{"magazine": 1, "journal": 1}
+{}
+{}
+{"film": 1, "sport-Basketball": 2}
+{}
+{"literature": 1, "book": 1}
+{"sport-Basketball": 1}
+{}
+{}
+{"book": 1}
+{"music": 1, "literature": 1, "author": 1}
+{"literature": 1, "book": 1, "story": 1, "poem": 1}
+{"book": 2, "story": 1}
+{}
+{"book": 1, "literature": 1}
+{"sport-Basketball": 1}
+{"sport-Football": 1}
+{}
+{"music": 1, "sport-Football": 1}
+{"show": 1, "game": 1, "film": 1}
+{"television": 1, "show": 2}
+{"sport-Baseball": 1}
+{"television": 1, "show": 1}
+{}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1}
+{"television": 1, "cartoon": 2, "series": 2, "film": 1}
+{}
+{}
+{}
+{}
+{}
+{"album": 2, "book": 1}
+{"album": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 2}
+{}
+{"song": 1}
+{"song": 3, "album": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 2}
+{"award": 5, "sport-Olympics": 1, "sport-Soccer": 1}
+{}
+{}
+{"sport-Football": 1, "sport-World Cup": 3, "award-Golden Boot": 1}
+{}
+{}
+{"sport-Olympics": 1, "sport-World Cup": 2, "sport-soccer": 1, "award": 2}
+{"literature": 1, "book": 1, "music": 1}
+{"sport-Olympics": 1, "sport-Soccer": 1, "award": 2}
+{"sport-Olympics": 1, "sport-Soccer": 2}
+{"award": 5, "sport-Olympics": 1, "sport-Soccer": 1}
+{}
+{"sport-Soccer": 1}
+{"music": 1, "film": 1, "album": 1, "commercial": 1}
+{"music": 1, "album": 1, "magazine": 1, "show": 1}
+{"music": 1, "concert": 1}
+{"album": 1, "movie": 2, "show": 1, "book": 1}
+{"music": 6, "concert": 5, "movie": 2, "sport": 0}
+{"movie": 2, "film": 2}
+{"movie": 1, "music": 1}
+{"film": 5, "movie": 2, "song": 1, "award": 2}
+{"sport-Baseball": 1}
+{"sport-Soccer": 5}
+{"sport-Baseball": 1, "award": 1}
+{"sport-Baseball": 1}
+{"sport-Baseball": 1, "award-Silver Slugger Awards": 5, "sport-World Series": 4}
+{"sport-American football": 1}
+{"sport-Baseball": 1}
+{"sport": 1}
+{"sport-Championships": 1, "television": 1}
+{"sport-American football": 1, "sport-Championships": 1}
+{"sport-Baseball": 1, "award": 1}
+{"sport-Championships": 1}
+{"sport-Championships": 1}
+{"sport-Tennis": 1, "sport-Wimbledon": 3, "sport-Australian Open": 2, "sport-US Open": 2, "sport-French Open": 1, "sport-ATP Finals": 1, "sport-ATP World Tour Masters 1000": 1, "sport-ATP World Tour 500": 1}
+{"sport-Rowing": 3, "sport-Championships": 2}
+{"sport-Championships": 1}
+{"sport-Championships": 2}
+{"sport-Championships": 2, "sport-Tennis": 1}
+{"sport-Championships": 1}
+{"sport-Championships": 1}
+{"sport-Championships": 1, "sport-Tennis": 1}
+{"sport-Championships": 1}
+{"sport-Championships": 2, "sport-Tennis": 3}
+{"sport-Floorball": 1, "sport-Championships": 1}
+{"sport-Championships": 1, "sport-Tennis": 1}
+{"sport-Championships": 2}
+{"sport-Championships": 1, "sport-Tennis": 2}
+{"sport-Championships": 3, "sport-Olympics": 1}
+{"sport-Championships": 2}
+{"sport-Olympics": 2, "sport-Championships": 3, "sport-Greco-Roman": 2, "sport-Asian Games": 2}
+{}
+{}
+{}
+{"television": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "story": 1}
+{"music": 1, "concert": 1}
+{"film": 1}
+{"sport-Cricket": 3}
+{"song": 2, "album": 1}
+{"song": 1}
+{}
+{"film": 3}
+{"music": 1, "show": 1}
+{"film": 1}
+{"sport-Australian rules football": 1}
+{"film": 2}
+{"sport-NFL": 1}
+{"film": 2, "story": 1}
+{"film": 3}
+{"sport-Snooker": 1}
+{"song": 2}
+{"album": 2}
+{"sport-Football": 1, "sport-Championships": 1}
+{}
+{"sport-Championships": 1, "sport-football": 1}
+{"sport-Football": 1}
+{}
+{}
+{"magazine": 1, "award": 1}
+{}
+{}
+{}
+{"book": 1, "sport-Championships": 2}
+{}
+{}
+{"sport-Football": 3}
+{}
+{"sport-Football": 1, "sport": 1, "award": 1, "entertainment": 1, "show": 1}
+{"sport-Baseball": 1}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"film": 3, "play": 1}
+{}
+{"film": 1, "actor": 1}
+{}
+{"literature": 1, "book": 1}
+{"television": 1, "character": 1, "sport": 0}
+{"book": 2, "literature": 1}
+{"film": 2}
+{"film": 3}
+{}
+{"film": 1, "story": 1}
+{}
+{"film": 4}
+{"music": 1, "song": 2, "film": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{"film": 5, "song": 5}
+{"musical": 2}
+{}
+{"song": 1, "music": 1, "album": 1}
+{"song": 3, "album": 1, "story": 1}
+{}
+{"music": 1, "CD": 1}
+{}
+{}
+{}
+{}
+{"sport-American football": 1}
+{"sport-Football": 3}
+{"sport-baseball": 1}
+{"sport-Soccer": 3}
+{"sport-Ice Hockey": 1}
+{"sport-Basketball": 1}
+{"music": 5, "concert": 4, "album": 1, "CD": 1, "DVD": 1}
+{"sport-Olympics": 4}
+{"sport-Basketball": 1}
+{"comic": 1, "television": 1, "video game": 1}
+{}
+{}
+{"television": 1, "show": 1}
+{"award": 1, "television": 1}
+{"sport-Football": 1, "sport-Basketball": 1, "sport-Wrestling": 1, "sport-Volleyball": 1, "mascot-Wildcats": 2, "mascot-The Purple": 1, "mascot-The Fighting Methodists": 1, "mascot-Purple Haze": 1}
+{"television": 1, "show": 1, "character": 1}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{"literature": 1, "book": 2, "magazine": 1}
+{}
+{"sport-Championships": 1}
+{}
+{"music": 1, "album": 1, "song": 2}
+{}
+{"album": 1, "music": 1, "jazz": 1}
+{"video game": 1}
+{"film": 14, "video game": 1, "television": 1}
+{}
+{"music": 1, "concert": 1, "album": 2}
+{"album": 1, "music": 1, "television": 1, "single": 3}
+{"song": 4, "music": 1}
+{"music": 2, "album": 1, "biography": 1, "song": 1, "music video": 1}
+{}
+{"sport-Olympics": 1, "sport-Swimming": 1}
+{}
+{}
+{"art": 1, "installation": 1, "video": 1, "dancers": 1, "writers": 1, "musicians": 1, "craftsmen": 1, "poet": 1}
+{"music": 1, "film": 1, "theater": 2, "musical": 2}
+{"film": 4, "television": 2, "movie": 2, "sport": 0, "award": 1, "show": 1}
+{"actor": 1, "voice artist": 1, "singer": 1, "songwriter": 1, "tv show": 1, "film": 3, "movie": 1, "animated sitcom": 1, "sport": 0}
+{"film": 3, "theatre": 1, "song": 1, "award": 1, "musical": 1}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1}
+{"movie": 3, "film": 2, "television": 2, "show": 1}
+{"film": 1, "story": 1, "television": 1, "show": 1}
+{"film": 1, "music": 1}
+{"book": 1, "film": 1}
+{"film": 3, "story": 1, "book": 1}
+{"television": 1, "show": 1, "film": 1}
+{"film": 3}
+{"play": 1, "story": 1}
+{"film": 3}
+{"film": 1}
+{"television": 1, "sitcom": 1}
+{"television": 1, "award": 1, "show": 2}
+{"performance art": 1, "video": 1, "photographs": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "poem": 1}
+{}
+{"music": 1, "album": 1, "show": 1}
+{"mascot": 1, "sport": 1, "sport-Football": 1}
+{"sport-Soccer": 3}
+{"sport-Baseball": 30}
+{"sport-Baseball": 1}
+{"sport-Olympics": 1}
+{"sport-Soccer": 2, "sport-Field Hockey": 1, "sport-Lacrosse": 1, "sport-Track and Field": 1}
+{"sport-American football": 1}
+{"film": 1}
+{}
+{"sport-Baseball": 1}
+{"sport-Olympics": 1, "sport": 1}
+{"sport-Hockey": 1}
+{"magazine": 1}
+{"sport-Baseball": 2}
+{"sport-American football": 1, "sport-Soccer": 1}
+{}
+{}
+{"album": 1, "jazz": 1}
+{"television": 1}
+{"sport-Baseball": 1, "award": 1}
+{"sport-MLB": 1, "award-World Series": 1, "award-All - Star": 3, "award-Gold Glove Award": 4, "award-Silver Slugger Award": 1, "award-Fielding Bible Award": 1, "sport-30 -- 30 club": 1}
+{"sport-Baseball": 1}
+{}
+{"magazine": 1, "newspaper": 1}
+{"literature": 1, "book": 1}
+{}
+{"literature": 1, "book": 1, "newspaper": 1, "sport-Baseball": 1}
+{"magazine": 1}
+{"magazine": 1, "newspaper": 2}
+{"magazine": 1}
+{"magazine": 1, "newspaper": 1}
+{"magazine": 1, "publication": 1, "newspaper": 1}
+{"magazine": 1}
+{"book": 1}
+{"video game": 1, "film": 1, "sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"award": 1}
+{"television": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "show": 1, "book": 1, "film": 1}
+{"film": 1}
+{"film": 1}
+{"song": 1, "music video": 1}
+{"film": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"video": 4}
+{"music": 2}
+{"book": 4}
+{"book": 4}
+{}
+{"magazine": 1, "sport-Super Bowl": 1}
+{"video game": 1}
+{"show": 1, "film": 1}
+{"film": 1}
+{"magazine": 1}
+{"video game": 1}
+{"literature": 1, "journal": 3}
+{"show": 1}
+{"sport-Bowls": 3}
+{"sport-Soccer": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "album": 1, "EP": 3}
+{}
+{"sport-Soccer": 3, "sport-Championships": 1}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "award": 2}
+{"literature": 1, "book": 1}
+{}
+{"film": 1}
+{"film": 2, "literature": 1, "book": 1}
+{"film": 1}
+{"literature": 1}
+{}
+{"sport-Olympics": 1}
+{}
+{"literature": 2, "book": 1, "poem": 1, "essay": 1}
+{"sport-Olympics": 2}
+{"sport-Olympics": 1}
+{"film": 2, "literature": 1, "book": 1}
+{"film": 2, "literature": 1, "book": 1}
+{"film": 2}
+{"literature": 1, "book": 1}
+{"television": 1, "show": 1, "episode": 2, "sitcom": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 2, "literature": 1, "book": 1}
+{}
+{"film": 1, "theater": 1}
+{"sport-Cycling": 1}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Basketball": 1}
+{}
+{"sport-NBA": 1}
+{"television": 1, "sport-Parkour": 1}
+{"video game": 4}
+{"television": 1, "show": 1}
+{"manga": 1, "anime": 1, "television": 1, "film": 1}
+{"television": 1, "show": 1}
+{}
+{"album": 1, "music": 1}
+{}
+{"film": 2, "movie": 1}
+{}
+{"film": 1, "documentary": 1, "story": 1}
+{"television": 1, "sport": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"movie": 1, "film": 1, "television": 1}
+{}
+{}
+{}
+{"museum": 5, "television": 1, "magazines": 1}
+{}
+{}
+{"music": 1, "literature": 1, "book": 1}
+{}
+{"sport-Football": 1, "sport-Wrestling": 1}
+{}
+{}
+{}
+{}
+{"music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"museum": 1, "story": 1}
+{}
+{}
+{"literature": 1}
+{}
+{}
+{}
+{"show": 1}
+{}
+{}
+{"show": 1, "award": 1}
+{"show": 1, "reality show": 1}
+{"show": 1, "radio show": 1}
+{"sport-Judo": 1, "sport-Olympics": 1, "television": 2, "show": 2}
+{"sport-Basketball": 1}
+{}
+{"television": 2, "series": 1}
+{}
+{}
+{"television": 1, "drama": 1}
+{"television": 6}
+{"television": 1}
+{"television": 2}
+{}
+{"sport-Basketball": 2, "sport-Football": 1, "sport-Baseball": 1}
+{"television": 1}
+{"television": 3, "sport-Hockey": 1}
+{"television": 5}
+{"television": 1}
+{}
+{"television": 3, "sport": 1}
+{"television": 2, "sport-Curling": 3, "sport-Championships": 1}
+{"film": 4, "book": 1, "award": 1}
+{"album": 1, "music": 1}
+{}
+{}
+{"film": 4, "book": 1, "award": 1}
+{"literature": 1, "art": 1}
+{}
+{"film": 2, "story": 1}
+{"literature": 1, "book": 1}
+{"book": 1, "literature": 1}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{"film": 1, "television": 1, "show": 1}
+{"film": 5}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Baseball": 1}
+{}
+{}
+{"film": 1}
+{}
+{}
+{"television": 1, "drama": 1}
+{}
+{}
+{"music": 1}
+{"television": 1, "show": 1}
+{"film": 1}
+{}
+{}
+{}
+{"sport-Olympics": 2}
+{"film": 1, "TV movie": 1}
+{"sport-Basketball": 1}
+{}
+{"television": 1, "show": 1}
+{}
+{"literature": 1, "book": 1}
+{}
+{"literature": 1, "book": 1, "story": 2}
+{}
+{"film": 1, "literature": 1}
+{"literature": 1, "book": 2}
+{"film": 2, "tv": 2, "sitcom": 1}
+{"film": 1, "television": 1, "show": 1}
+{"actor": 1, "sitcom": 1, "award": 2, "film": 2}
+{"film": 2, "television": 1, "show": 1, "award": 2}
+{"film": 1, "television": 2, "video game": 1}
+{"film": 2, "actor": 1}
+{"book": 1, "story": 1, "film": 1, "music": 1}
+{"television": 3, "film": 1, "award": 1}
+{"opera": 1}
+{"sport-Soccer": 1}
+{}
+{"sport-Soccer": 1}
+{}
+{}
+{}
+{"film": 1, "literature": 1, "play": 1}
+{}
+{"sport-Baseball": 1}
+{"sport-Arena Football League": 1}
+{"award": 1, "sport-Basketball": 1}
+{"sport-Arena Football": 1}
+{"sport-Arena Football": 1, "sport-Lacrosse": 1, "television": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport": 1, "television": 1, "radio": 1}
+{}
+{}
+{}
+{"novel": 1, "story": 1}
+{}
+{"sport-Olympics": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3}
+{"actor": 1, "film": 3, "television": 3, "sport": 0}
+{"movie": 2, "film": 2, "story": 1}
+{"film": 1}
+{"film": 3}
+{"film": 7, "sport": 0}
+{}
+{"show": 1, "television": 1}
+{}
+{"book": 1, "movie": 1, "video game": 1}
+{"television": 1, "soap opera": 1}
+{"book": 2}
+{"journal": 1, "music": 2, "award": 1}
+{}
+{"film": 1}
+{"show": 1, "television": 1}
+{"sport-Basketball": 1, "television": 1}
+{"television": 1, "show": 1}
+{"television": 3, "radio": 3}
+{}
+{"film": 4, "music": 1}
+{"television": 1, "game show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"video game": 10}
+{}
+{"magazine": 1, "entertainment": 1, "music": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "book": 1}
+{}
+{}
+{"song": 3, "album": 1}
+{"song": 2}
+{"music": 1, "radio station": 1}
+{"song": 2, "album": 1, "chart": 3}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"theatre": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "award": 1, "sport": 0}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 1, "episode": 2, "show": 1}
+{"film": 1}
+{"film": 2, "television": 1, "show": 1}
+{"film": 1, "television": 1}
+{"television": 1, "show": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"book": 10, "story": 1}
+{}
+{}
+{}
+{}
+{"film": 1, "literature": 1}
+{}
+{}
+{}
+{"painting": 1}
+{}
+{"sport-Basketball": 1, "sport-Olympics": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"sport-Olympics": 4}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{"video game": 1}
+{"film": 5, "short film": 4, "feature - length film": 1, "award": 2}
+{}
+{}
+{"sport-Judo": 1}
+{"song": 1, "sport-NHL": 1, "sport-Stanley Cup": 1}
+{}
+{"sport-Tennis": 1}
+{"sport-Championships": 1}
+{"sport-Ice Hockey": 1}
+{"film": 3, "play": 1}
+{"album": 1}
+{"actor": 1, "television": 2, "show": 2, "sitcom": 1, "comedy": 1, "drama": 1}
+{"song": 4, "award": 1}
+{"music": 1, "literature": 1, "book": 1}
+{"song": 1, "album": 2, "single": 1}
+{"television": 1, "episode": 2, "series": 1}
+{"film": 1}
+{"film": 2, "literature": 1, "book": 1}
+{"television": 1}
+{"music": 1}
+{}
+{"play": 2, "magazine": 1}
+{"sport-Soccer": 1, "sport-Olympics": 1}
+{"sport-Soccer": 3}
+{"television": 1, "sitcom": 1, "comedy": 1}
+{"sport-Soccer": 1}
+{}
+{"sport-Football": 1}
+{"sport-Rugby": 20}
+{"sport-Soccer": 1}
+{"sport-Soccer": 1}
+{"sport-Football": 1}
+{"sport-Football": 1}
+{"sport-Soccer": 1}
+{"sport-Football": 1, "sport-Sport": 1}
+{}
+{"sport-Soccer": 1}
+{"television": 1, "sport-Soccer": 1}
+{"sport-Football": 4, "sport-Olympics": 1, "sport-World Cup": 1}
+{"sport-Football": 1}
+{"sport-NBA": 1, "award-Rookie of the Year": 1, "award-Most Valuable Player": 1, "sport-All-Star Game": 1, "sport-All-NBA Team": 1}
+{"sport-Basketball": 1}
+{"sport-Basketball": 1, "sport-Championships": 1}
+{"sport-Basketball": 1}
+{"sport-Basketball": 1}
+{"sport-Basketball": 1}
+{"sport-Basketball": 3}
+{}
+{"sport-Soccer": 1}
+{}
+{"book": 2, "literature": 1, "story": 1}
+{}
+{}
+{}
+{}
+{"song": 2}
+{}
+{}
+{}
+{}
+{"sport-American football": 1}
+{}
+{}
+{}
+{"story": 1}
+{}
+{}
+{}
+{}
+{"album": 1, "music": 1}
+{"book": 1, "story": 1, "comic": 1}
+{}
+{"television": 2, "show": 2, "film": 1}
+{"song": 1, "album": 1, "single": 2}
+{"film": 1}
+{}
+{"film": 3, "television": 2}
+{}
+{}
+{"film": 2, "music": 1}
+{}
+{"show": 2, "comic": 1, "television": 1}
+{}
+{"television": 1, "show": 1, "film": 1}
+{"story": 2, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{"sport-Olympics": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 2}
+{}
+{"television": 2, "movie": 3, "miniseries": 2, "film": 1, "story": 1}
+{"sport-Soccer": 1}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{"award": 1}
+{"book": 1, "film": 1}
+{}
+{"film": 1, "television": 1, "music": 1}
+{}
+{"film": 5, "television": 2, "sport-Baseball": 1}
+{"television": 1, "show": 1}
+{"film": 6, "actor": 1}
+{}
+{}
+{"television": 1, "show": 2, "documentary": 1}
+{"actor": 1, "film": 1, "television": 1, "show": 1}
+{"painting": 1}
+{"film": 2}
+{}
+{"film": 5, "television": 2, "sport-Baseball": 1}
+{}
+{}
+{"album": 2}
+{"sport-NASCAR": 2, "sport-Busch Series": 1, "sport-ARCA RE/MAX Series": 1}
+{"sport-Championships": 1}
+{"sport-Championships": 1}
+{}
+{}
+{}
+{}
+{"music": 3}
+{"television": 1, "miniseries": 1, "award": 1, "Emmy": 1}
+{"award": 3, "show": 1, "film": 1, "television": 1}
+{"film": 3}
+{"film": 4, "award": 1, "television": 1}
+{"television": 1, "show": 1, "web-series": 1, "film": 1}
+{"film": 2, "television": 1}
+{}
+{"book": 1, "literature": 1}
+{}
+{}
+{"television": 1, "literature": 1, "book": 1}
+{"book": 1}
+{}
+{"television": 1, "literature": 1}
+{}
+{"television": 2, "award": 1}
+{"television": 1, "literature": 1}
+{}
+{"television": 1, "show": 1, "literature": 1}
+{"television": 2, "award": 1}
+{"literature": 1, "book": 1, "novel": 1}
+{"literature": 1, "book": 1, "story": 2}
+{}
+{}
+{"television": 1, "novel": 1, "book": 1}
+{}
+{}
+{"television": 1}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1}
+{"show": 1}
+{}
+{}
+{}
+{"television": 1, "show": 1, "story": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{}
+{"music": 1, "show": 1, "theater": 1, "sport": 0}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1}
+{"television": 1, "show": 1, "music": 1}
+{}
+{"television": 1, "show": 1, "sport": 1, "film": 1}
+{"sport-Baseball": 1}
+{"sport-Baseball": 1}
+{"sport-Baseball": 1, "award-Hall of Fame": 1}
+{"sport-Olympics": 1, "sport-Championships": 1, "sport-Soccer": 1}
+{"sport-Football": 3, "sport-Championships": 1, "sport-FA Cup": 1}
+{"sport-Cricket": 3}
+{"sport-Baseball": 2}
+{}
+{}
+{}
+{}
+{"sport-Tennis": 1}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{"literature": 1, "character": 2, "play": 2}
+{}
+{}
+{"film": 2, "story": 2}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"music": 1, "literature": 1}
+{"television": 1, "show": 1}
+{}
+{"film": 2}
+{"show": 1}
+{"film": 2, "movie": 2}
+{"film": 4, "award": 3}
+{}
+{"television": 1}
+{"television": 1, "soap opera": 1}
+{"song": 3, "album": 1, "performance": 1, "radio station": 1}
+{}
+{"film": 1}
+{"film": 1}
+{}
+{"album": 1, "song": 4, "video": 3, "festival": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1, "poet": 1}
+{}
+{}
+{}
+{"sport-ShowJumping": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"television": 1}
+{}
+{"film": 2, "movie": 1}
+{"film": 1}
+{}
+{}
+{"television": 1}
+{"sport-Football": 1}
+{"literature": 1, "book": 1, "novel": 1}
+{"art": 1}
+{}
+{"actor": 1, "television": 2, "drama": 2}
+{"television": 2, "actor": 1, "singer": 1, "soap opera": 2, "award": 1}
+{}
+{"film": 3, "television": 1}
+{"award": 1}
+{"television": 1, "talk radio": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"painting": 1, "music": 1, "literature": 1}
+{}
+{}
+{"painting": 1}
+{"art": 1}
+{}
+{"film": 1}
+{}
+{"book": 1, "story": 2}
+{}
+{"story": 1}
+{"film": 2, "television": 2, "show": 1}
+{}
+{}
+{"book": 1}
+{"film": 1, "literature": 1, "book": 1}
+{"film": 2, "television": 2, "show": 1}
+{"art": 1}
+{}
+{}
+{}
+{"literature": 13, "book": 5, "television": 1, "show": 1, "magazine": 1}
+{"book": 1}
+{"sport-Chess": 1, "sport-Poker": 1, "literature": 2, "author": 2}
+{}
+{}
+{}
+{"sport-Championships": 2, "film": 1, "author": 1}
+{"play": 1, "book": 1}
+{}
+{"film": 2, "story": 2}
+{}
+{"literature": 1, "book": 1, "story": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"television": 5, "film": 3, "movie": 2, "series": 5}
+{}
+{}
+{"television": 1, "film": 1}
+{}
+{}
+{"television": 1, "show": 1}
+{}
+{"television": 1, "film": 1}
+{}
+{"film": 3}
+{"film": 3}
+{"song": 3}
+{"song": 3, "film": 2}
+{"song": 2, "film": 2}
+{"song": 3, "award": 1}
+{"song": 3, "album": 2}
+{"song": 3}
+{}
+{"film": 1}
+{}
+{}
+{"book": 1}
+{}
+{}
+{"literature": 2, "book": 2}
+{}
+{}
+{}
+{"literature": 1, "book": 1, "story": 2}
+{"literature": 1, "book": 1}
+{"film": 1, "literature": 1, "book": 1}
+{"literature": 1, "book": 1, "movie": 1}
+{"sport-Baseball": 2}
+{"literature": 1, "book": 1}
+{"music": 1}
+{"album": 1}
+{"sport-Football": 1}
+{}
+{"film": 1}
+{}
+{}
+{"music": 1}
+{}
+{}
+{}
+{}
+{}
+{"painting": 1}
+{"song": 3, "album": 1, "magazine": 1}
+{}
+{}
+{"literature": 2, "book": 1, "story": 1}
+{}
+{}
+{"sport": 1}
+{"television": 2}
+{"television": 1, "show": 1, "music": 1}
+{"film": 1, "television": 1}
+{"television": 1, "show": 1}
+{"show": 1}
+{"television": 1}
+{"television": 1}
+{}
+{"television": 1, "sitcom": 1}
+{"television": 5, "award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1}
+{"video game": 1, "show": 2}
+{"video game": 5}
+{"sport": 1, "sport-NFL": 1, "sport-Super Bowl": 2, "music": 1, "television": 1, "entertainment": 1}
+{"video game": 1, "sport-Football": 2}
+{"film": 4, "book": 1, "award": 2, "television": 2}
+{}
+{"film": 1, "award": 1}
+{}
+{"film": 1, "award": 1}
+{"film": 5, "award": 3, "song": 2}
+{"film": 1, "literature": 1, "award": 1}
+{"award": 1}
+{"film": 3, "movie": 1, "award": 2}
+{}
+{"album": 1, "award": 1}
+{"film": 2, "movie": 2, "award": 1}
+{"film": 2, "comedy-drama": 1}
+{"award": 1, "film": 5}
+{}
+{"film": 2, "opera": 1}
+{"award": 4}
+{"film": 3, "story": 2}
+{"film": 2, "actress": 1, "award": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"song": 1, "music": 1, "album": 1}
+{"music": 1, "album": 31, "live album": 6, "compilation album": 17, "single": 57, "song": 3}
+{"film": 1}
+{"song": 2, "album": 1}
+{"film": 1}
+{}
+{"music": 3, "single": 2, "album": 2}
+{"song": 1}
+{"television": 1, "series": 1}
+{"music": 1, "album": 3, "song": 1}
+{"band": 1, "album": 5, "song": 3, "music": 3, "sport": 2, "performance": 1}
+{"movie": 3, "film": 2, "tv series": 3}
+{"film": 5, "television": 1, "musical": 1, "soundtrack": 1}
+{"book": 1, "movie": 3, "film": 5}
+{"movie": 2, "song": 3, "album": 1, "music video": 1}
+{"film": 1, "movie": 1, "video game": 1}
+{"film": 5, "movie": 4, "award": 3}
+{}
+{"film": 1, "movie": 1}
+{"movie": 4, "film": 3, "story": 1, "award": 1}
+{"movie": 4, "award": 1, "actor": 1}
+{}
+{"movie": 3, "film": 4, "musicals": 1, "TV": 1, "stage plays": 1, "award": 1, "sport": 0}
+{"album": 1, "music": 1, "song": 1}
+{"album": 1, "band": 2, "song": 1}
+{"music": 3, "record label": 1}
+{"album": 1, "song": 1, "magazine": 1}
+{"literature": 1, "play": 33, "story": 1, "novel": 1, "novella": 1, "essay": 1}
+{"publication": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 3, "story": 1, "play": 1}
+{}
+{"song": 2, "album": 1, "music video": 1, "book": 1}
+{}
+{}
+{"film": 1}
+{"film": 1, "television": 1}
+{"film": 3}
+{}
+{"film": 1, "sport": 1}
+{}
+{"television": 1, "show": 1}
+{}
+{}
+{"book": 1, "award": 1}
+{"film": 2, "movie": 1}
+{"video": 1, "art": 1}
+{"book": 2}
+{"film": 3}
+{"song": 1, "album": 1}
+{"painting": 1}
+{"film": 3}
+{"literature": 1, "book": 5}
+{"book": 1, "story": 1}
+{}
+{}
+{"book": 2}
+{"book": 1}
+{}
+{"book": 5, "literature": 1}
+{}
+{}
+{"literature": 1, "book": 1}
+{"book": 1, "literature": 1}
+{"book": 1}
+{}
+{"book": 1}
+{}
+{"book": 1}
+{"literature": 1, "book": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"film": 1}
+{"film": 4, "award": 1}
+{"film": 4}
+{"film": 4, "story": 3}
+{}
+{"film": 2, "movie": 1, "award": 1}
+{"film": 1, "documentary": 1}
+{"film": 3, "movie": 1, "award": 1}
+{"film": 2}
+{"film": 3}
+{"film": 3}
+{}
+{"film": 2, "novel": 1}
+{"film": 1, "book": 1}
+{"film": 3, "movie": 2}
+{"film": 3, "literature": 1, "book": 1, "story": 1}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"literature": 1}
+{}
+{"sport-Basketball": 1}
+{"music": 1, "entertainment": 1}
+{"film": 1, "documentary": 1}
+{"entertainment": 1}
+{"television": 1, "magazine": 1, "soap opera": 1, "actress": 2}
+{"television": 1, "show": 1}
+{"film": 1, "sport-Championships": 1}
+{"film": 1}
+{"film": 2}
+{"game": 1}
+{"sport-Basketball": 5}
+{"music": 2, "band": 3, "song": 1, "EP": 1}
+{"film": 2}
+{"album": 1}
+{"film": 2, "play": 2}
+{}
+{}
+{}
+{}
+{}
+{"magazine": 1}
+{}
+{}
+{}
+{}
+{"television": 1, "TV series": 1}
