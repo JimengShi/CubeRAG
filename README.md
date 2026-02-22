@@ -30,12 +30,15 @@ pip install -r requirements.txt
 
 ## Quick start on wikimultihop
 
+### Step 1: Set up API key
+```
+export OPENAI_API_KEY="sk-"
+```
+
 For example, the following script takes the wikimultihop dataset and GPT-4o-mini as an LLM base.
 
-```
+```bash
 CUDA_VISIBLE_DEVICES=0
-
-export OPENAI_API_KEY="sk-"
 
 python run_cube_rag.py --data wikimultihop --model gpt-4o-mini --retriever hypercube --save true
 ```
