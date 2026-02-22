@@ -36,6 +36,12 @@ pip install -r requirements.txt
 export OPENAI_API_KEY="sk-"
 ```
 
+### Step 2: Construct cube by extracting entities
+```
+c
+python run_cube_rag.py --data wikimultihop --model gpt-4o-mini --retriever hypercube --save true
+```
+
 For example, the following script takes the wikimultihop dataset and GPT-4o-mini as an LLM base.
 
 ```bash
