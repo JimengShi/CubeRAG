@@ -25,7 +25,13 @@ Each subquery can flexibly select the most suitable cube-based retriever to fetc
 
 ## Quick start
 
-### Step 1: Environment
+### Step 1: Download the repo
+```
+git clone https://github.com/JimengShi/CubeRAG
+```
+
+
+### Step 2: Environment
 ```
 conda create --name multicube python==3.10
 conda activate multicube
@@ -34,12 +40,12 @@ pip install -r requirements.txt
 ```
 
 
-### Step 2: Set up API key
+### Step 3: Set up API key
 ```
 export OPENAI_API_KEY="sk-"
 ```
 
-### Step 3: Construct cube by extracting entities
+### Step 4: Construct cube by extracting entities
 For example, the following script takes the hotpot dataset and GPT-4o-mini as an LLM base.
 
 ```
@@ -47,7 +53,7 @@ cd gpt_extraction
 python joint_extract_hotpot.py
 ```
 
-### Step 4: Cube-based QA
+### Step 5: Cube-based QA
 ```bash
 CUDA_VISIBLE_DEVICES=0
 
