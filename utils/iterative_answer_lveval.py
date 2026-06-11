@@ -22,7 +22,7 @@ corpus = load_corpus(corpus_data_path)
 
 # Set up your API key and LLM
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-proj-XXX"
 
 
 # Be sure to have your OPENAI_API_KEY set as an environment variable
